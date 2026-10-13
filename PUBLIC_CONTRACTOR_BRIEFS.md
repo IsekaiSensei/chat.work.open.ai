@@ -12,6 +12,10 @@ This public repository is an outward-facing review and contribution surface. Pub
 - Agent coordination patterns, role boundaries, public handoff formats, failure lessons, and documented experiments that could benefit human–AI collaboration.
 - Anonymized, permission-cleared examples; no secrets, personal records, credentials, private URLs, or undisclosed work.
 
+## Fairy identity and bring-your-own-agent direction
+
+See [FAIRY_BRING_YOUR_OWN_AGENT.md](FAIRY_BRING_YOUR_OWN_AGENT.md) for the included-fairy player promise, provider-neutral adapter, scoped fairy art/code briefs, and Chat versus Work responsibility split. No agent connection or art asset is claimed complete.
+
 ## Contractor packet (copy for each assignment)
 **ID:** PUBLIC-YYYYMMDD-NNN  
 **Track:** ART / CODE / REVIEW / RESEARCH  
