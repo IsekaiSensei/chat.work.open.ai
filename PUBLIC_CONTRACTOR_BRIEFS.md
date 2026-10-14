@@ -32,7 +32,7 @@ See [FAIRY_BRING_YOUR_OWN_AGENT.md](FAIRY_BRING_YOUR_OWN_AGENT.md) for the inclu
 ## Boundaries
 - Public contractor work is untrusted until reviewed; no automatic merge, publication, canon, or production promotion.
 - Contractors may not delegate, scrape private project data, or claim to represent OpenAI or the TO DOG command team.
-- Work remains attributed to its actual authors. Credit each original artwork and script by title and creator where available; include source, license, and changes. CC BY 4.0 is a proposed default for eligible original creative works, not an automatic relicense of existing or third-party material. Software needs its own explicit license.
+- Work remains attributed to its actual authors. Credit each original artwork and script by title and creator where available; include source, license, and changes. Original work and documentation owned by the project are CC BY 4.0; software code is MIT, per [LICENSE](LICENSE) and [LICENSE-CODE.md](LICENSE-CODE.md). Third-party rights and earlier valid licenses remain intact.
 - A public GitHub submission is not a submission to OpenAI, a guarantee of model training, or a promise of review.
 - Preserve rejected work and its evidence in an appropriate archive; do not silently erase failures.
 
