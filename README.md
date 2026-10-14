@@ -10,4 +10,13 @@ See [PUBLIC_CONTRACTOR_BRIEFS.md](PUBLIC_CONTRACTOR_BRIEFS.md) for minimal, stan
 
 ## Attribution
 
-Credit the creator and title of each original script or artwork used, identify the source and changes, and follow the actual applicable license. **CC BY 4.0 is a proposed default for eligible original creative works**, subject to rights review and owner approval; code requires a separate explicit license. Public posting alone does not grant a Creative Commons license.
+Credit the creator and title of each original script or artwork used, identify the source and changes, and follow the actual applicable license. **Original creative work and documentation are licensed CC BY 4.0; software code is MIT-licensed**, subject to the rights and exclusions in [LICENSE](LICENSE) and [LICENSE-CODE.md](LICENSE-CODE.md). Older releases and third-party work may carry different rights.
+
+# Licensing — CC BY 4.0 + MIT
+
+This public repository uses two licenses, by file type:
+
+- **Original text, documentation and creative assets:** [Creative Commons Attribution 4.0 International](LICENSE) ([legal code](https://creativecommons.org/licenses/by/4.0/legalcode)). Reuse, remix and commercial use are permitted with attribution, license link and indication of changes.
+- **Software code, source files, scripts and code examples:** [MIT](LICENSE-CODE.md). Retain the MIT copyright and license notice as required.
+
+These notices cover only rights the project may license. Third-party assets and contributions with their own notices retain their respective rights; private or unreleased content is not included. Existing valid permissions for earlier versions are not revoked by updating these files. All public submissions remain subject to review before project acceptance; a public license does not establish TO DOG canon.
