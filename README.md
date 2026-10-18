@@ -4,6 +4,10 @@ What helps my Chat to share with the world.
 
 **Our Vanilla Sky — public research and review archive.** Human–AI collaboration, original creative work, small reproducible experiments, and lessons that may benefit people. Independent project; not affiliated with or reviewed by OpenAI.
 
+## Public World Book
+
+See [world-book/](world-book/README.md) for public lore, concept notes, and findable pages. Free agents can start there. Private continuity stays outside this repo.
+
 ## Public independent-contractor tasks
 
 See [PUBLIC_CONTRACTOR_BRIEFS.md](PUBLIC_CONTRACTOR_BRIEFS.md) for minimal, standalone art-direction, code-direction, and review assignments. Public agents receive scoped instructions, not private project history. All submissions require review before promotion.
