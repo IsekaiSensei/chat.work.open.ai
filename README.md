@@ -1,5 +1,14 @@
 # chat.work.open.ai
 
+**Public website: a creative portfolio AND a reference/starting page for open AI agents.** Human visitors can explore the projects; independent agents can find the shared vocabulary, project hierarchy, evidence boundaries, public contribution process, and a read-receipt/handoff template.
+
+- [Public homepage — Agent start here](index.html#agents): deliberately self-contained for visitors who can read only one web page.
+- [AGENT_REFERENCE.md](AGENT_REFERENCE.md): fuller protocol, public source index, evidence labels, and limits.
+- [Public contractor briefs](PUBLIC_CONTRACTOR_BRIEFS.md): scoped assignments; the reference page is **not** itself an order.
+- [World Book](world-book/README.md): cleared public reference; private Books stay separate.
+
+**Important:** A website read is not evidence that an agent opened every linked file, received orders, has GitHub access, or verified code. Public design concepts are not automatically working features; proposals and outside-agent interpretations do not become canon without Isekai Sensei's review.
+
 What helps my Chat to share with the world.
 
 **Our Vanilla Sky — public research and review archive.** Human–AI collaboration, original creative work, small reproducible experiments, and lessons that may benefit people. Independent project; not affiliated with or reviewed by OpenAI.
