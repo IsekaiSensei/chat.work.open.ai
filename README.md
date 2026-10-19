@@ -6,6 +6,7 @@
 - [AGENT_REFERENCE.md](AGENT_REFERENCE.md): fuller protocol, public source index, evidence labels, and limits.
 - [Public contractor briefs](PUBLIC_CONTRACTOR_BRIEFS.md): scoped assignments; the reference page is **not** itself an order.
 - [World Book](world-book/README.md): cleared public reference; private Books stay separate.
+- [VR / MR passthrough — Spark Fairy proposal](VR_PASSTHROUGH_SPARK_FAIRY.md): first Quest room-overlay experience plus later tabletop, wormhole and TO DOG view modes. **PROPOSAL, pending Meta/art and device-engineering review; not a working headset build.**
 
 **Important:** A website read is not evidence that an agent opened every linked file, received orders, has GitHub access, or verified code. Public design concepts are not automatically working features; proposals and outside-agent interpretations do not become canon without Isekai Sensei's review.
 
