@@ -1,6 +1,6 @@
 # Bring Your Own Agent — Fairy Identity and Art Direction
 
-Status: RYAN DIRECTION / DESIGN PROPOSAL; integration and provider permissions unverified. Public, task-scoped design brief. No private project history is required.
+Status: ISEKAI SENSEI DIRECTION / DESIGN PROPOSAL; integration and provider permissions unverified. Public, task-scoped design brief. No private project history is required.
 
 ## Player promise
 The game is fully playable without any AI agent or fairy assistance. Jan ships as an optional local/offline helper, not a mandatory companion or paid add-on. Players may also use an assistant they already have, independently on their phone, without connecting it to the game. An optional in-game adapter may be developed later where a provider supports an authorized connection. **Provider account costs and APIs are not controlled by this game**; no claim that every provider integrates today.
@@ -27,7 +27,7 @@ Record CANON / VERIFIED / INFERENCE / PROPOSAL / OPEN; user approval controls pr
 ## Tomorrow's division of labor
 **Chat / Chief:** clarify the player promise, resolve names and rules, draft minimal prompts, compare identity designs, flag contradictions.
 **Work / XO:** inspect actual repositories, implement approved records and adapters, perform QC and tests, report verified versus missing.
-**Ryan:** final choices and canon/release authorization.
+**Isekai Sensei:** final choices and canon/release authorization.
 **Public contractors:** isolated art/code/review briefs only, never automatic canon or production authority.
 
 Suggested next small assignments (not dispatched):

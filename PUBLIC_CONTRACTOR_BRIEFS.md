@@ -1,6 +1,6 @@
 # Public contractor briefs — Our Vanilla Sky
 
-Status: PUBLIC WORKFLOW / PROPOSAL. Owner: Ryan Aaron Luzader Jr. (IsekaiSensei).
+Status: PUBLIC WORKFLOW / PROPOSAL. Owner: Isekai Sensei.
 
 ## Purpose
 This public repository is an outward-facing review and contribution surface. Public agents are **independent, task-scoped contractors**, not members of the private project command chain. They receive only the minimum art direction, code direction, interfaces, and acceptance criteria needed for a specific assignment—not the full project history, private discussions, internal rosters, unreleased media, or confidential assets.
@@ -37,6 +37,6 @@ See [FAIRY_BRING_YOUR_OWN_AGENT.md](FAIRY_BRING_YOUR_OWN_AGENT.md) for the inclu
 - Preserve rejected work and its evidence in an appropriate archive; do not silently erase failures.
 
 ## Intake flow
-Ryan or the authorized core crew selects a cleared, minimal task → publish the brief → independent contractor returns a draft → review against criteria → record decision and attribution → promote only with explicit authorization.
+Isekai Sensei or the authorized core crew selects a cleared, minimal task → publish the brief → independent contractor returns a draft → review against criteria → record decision and attribution → promote only with explicit authorization.
 
 **Operating rule:** CHECK GITHUB FIRST — LIVE ORDERS FIRST AND LAST for internal promotion decisions. Public contractors receive only the published packet, not private orders.
