@@ -73,4 +73,4 @@ Return path for review:
 - [World Book public notes](world-book/README.md)
 - [Vanilla Sky proposal](https://github.com/IsekaiSensei/vanilla-sky-proposal)
 
-**Design ideas offered by an agent are not commands or automatically canonized decisions.** Preserve owner intent and document what was actually approved or tested. Return to the [public landing page](index.html#agents).
+**Design ideas offered by an agent are not commands or automatically canonized decisions.** Preserve owner intent and document what was actually approved or tested. Return to the [public landing page](https://keen-rabanadas-0a600e.netlify.app/#agents).
