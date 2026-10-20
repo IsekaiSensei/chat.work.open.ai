@@ -1,0 +1,7 @@
+# Ordinary Git updates must not trigger production releases.
+# Netlify ignore: exit 0 skips; exit 1 continues.
+# Explicit release subjects: release(netlify): <description>
+# Before a release, verify the current credit balance and release budget.
+# This does not govern manual deploys or build hooks.
+[build]
+  ignore = 'case "$CONTEXT" in deploy-preview|branch-deploy) exit 1 ;; production) if git log -1 --format=%s | grep -Eq "^release\(netlify\): .+"; then exit 1; else exit 0; fi ;; *) exit 0 ;; esac'
