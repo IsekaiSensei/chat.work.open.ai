@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://keen-rabanadas-0a600e.netlify.app/sitemap.xml
