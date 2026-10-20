@@ -130,6 +130,7 @@ if(!supported){btn.textContent='Passthrough not supported';setStatus('WebXR imme
 else {btn.disabled=false;btn.textContent='Enter Passthrough';setStatus('Passthrough supported. Press Enter Passthrough and look down at the floor ahead.');}
 }
 btn.onclick=async()=>{
+if(session){await session.end();return;}
 try{
 btn.disabled=true;setStatus('Requesting Quest passthrough session…');
 let s;
@@ -138,7 +139,7 @@ catch(_){s=await navigator.xr.requestSession('immersive-ar',{optionalFeatures:['
 session=s;await renderer.xr.setSession(s);
 btn.textContent='Exit Passthrough';btn.disabled=false;setStatus('Active immersive-ar session. Look forward and down; trigger toggles DOG core.');
 s.addEventListener('end',()=>{session=null;btn.textContent='Enter Passthrough';btn.disabled=false;setStatus('Passthrough ended. Ready to restart.')},{once:true});
-btn.onclick=async()=>{if(session)await session.end()};
+
 }catch(e){btn.disabled=false;btn.textContent='Enter Passthrough';setStatus('Could not enter passthrough: '+(e?.message||String(e)))}
 };
 }catch(e){btn.textContent='3D preview unavailable';setStatus('Could not load 3D runtime: '+(e?.message||String(e)));}
