@@ -1,4 +1,6 @@
 # TO FAIRY — Meta Quest 2 passthrough: ASSET FIRST
+
+**OTHER OWNER REQUIREMENT — VR180/4K IS DISTINCT (2026-10-19):** The creator also repeatedly requested a **virtual 4K-class VR180 headset-viewable experience**. That is a [separate deliverable and test requirement](https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/VR180_VIRTUAL_4K_REQUIREMENT_2026-10-19.md); **this Quest 2 passthrough/fairy .glb order does not fulfill it**. Do not claim this art/model or working passthrough equals VR180/4K, and do not cancel/replace this active fairy order when routing the separate VR180 work. Neither deliverable has an independently verified VR180 headset test here.
 **Public correction / scoped order — 2026-10-19**
 **Owner directive:** Fix the mistaken TO DOG / Godot route. **TO FAIRY** is the Quest 2 fairy game/experience. It is separate from TO DOG. This is a work order, not promotion to Book canon and not proof of a working new build.
 
