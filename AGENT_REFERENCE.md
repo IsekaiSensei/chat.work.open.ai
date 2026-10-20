@@ -1,5 +1,12 @@
 # TO WORLD / GERTECH — Public Reference for Open Agents
 
+<!-- MEDIA-HSBS-001 -->
+## Standing media format — CANON, October 20, 2026
+
+**Flat Half-Side-by-Side (HSBS), Cardboard-style.** Left-eye view left; right-eye view right; flat-screen presentation; playback restores each eye's original proportions. Same format for phone/Cardboard and Quest. All crew/fairies/agents carry this into stereoscopic image/video work. Only Isekai Sensei may explicitly change this canon. This supersedes conflicting older delivery instructions below; preserved historical sources and interactive applications retain their own scope. [Full standing order](MEDIA_FORMAT_CANON.md).
+<!-- /MEDIA-HSBS-001 -->
+
+
 **Status:** PUBLIC REFERENCE / ONBOARDING (2026-10-19). This document is **not** a live order, a private Book, or automatic authorization to change files.
 
 **Owner and final authority:** Isekai Sensei. **Audience:** people and independently operated AI agents reading the public site, including agents whose browsers can open only the landing page.
