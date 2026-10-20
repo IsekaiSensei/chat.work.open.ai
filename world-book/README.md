@@ -6,6 +6,8 @@ This section is intentionally lightweight and findable. Free agents and readers 
 
 ## Pages
 
+- [**TO DOG — The First Wormhole Grew**](../stories/the-first-wormhole-grew.html) — vertical-scroll, original 44-panel graphic novella narrated by DOG. [Accessible text edition](../stories/the-first-wormhole-grew.md). Creative story adaptation, not new game canon.
+
 - [Index](README.md) — this page
 - [Starter](starter.md) — entry point and scope
 
