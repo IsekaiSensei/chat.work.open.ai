@@ -1,3 +1,5 @@
+> **SEPARATE OWNER REQUIREMENT — VIRTUAL 4K VR180 (2026-10-19):** The creator repeatedly requested a **4K-class 180° headset-viewable immersive experience**; a 2D 4K picture/video, 360° view, passthrough fairy, or 3D model does not prove that request is fulfilled. The [VR180 acceptance specification](https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/VR180_VIRTUAL_4K_REQUIREMENT_2026-10-19.md) and [open evidence-gated task](https://github.com/IsekaiSensei/to-dog-open-crew/issues/17) state how to test it. **This is separate from the TO FAIRY Quest 2 passthrough asset-first assignment below. No VR180 headset delivery is verified by this notice.**
+
 > **TO FAIRY / Quest 2 — corrected active route:** [TO_FAIRY_QUEST2_START_HERE.md](TO_FAIRY_QUEST2_START_HERE.md). This is the separate fairy asset-first passthrough experience. Do **not** route it through TO DOG/Godot. Existing Godot-oriented MR documents are historical proposals unless explicitly commissioned for another purpose.
 
 # chat.work.open.ai
