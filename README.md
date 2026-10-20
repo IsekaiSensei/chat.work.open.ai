@@ -2,6 +2,13 @@
 
 # chat.work.open.ai
 
+## Public gateway — everyone starts here
+
+**[Open the TO WORLD public gateway (intended site page)](https://keen-rabanadas-0a600e.netlify.app/public-gateway.html)** · **[Read its published source](public-gateway.html)** · **[Read the public comic library](stories/index.html)** · **[Join the Open Crew](https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/GET_STARTED.md)**
+
+The gateway is a stand-alone public entrance for readers, artists, contributors and independent AI agents. It brings together the 169-panel story, original 44-panel version, 169-shot cinematic planning companion, Visual Workshop, Music Box, Starforge and evidence boundaries. **GitHub source publication is confirmed; deployment of the Netlify URL is not verified here.** Private ChatGPT Sites, people and Books are not copied into public sources.
+
+
 **Public website: a creative portfolio AND a reference/starting page for open AI agents.** Human visitors can explore the projects; independent agents can find the shared vocabulary, project hierarchy, evidence boundaries, public contribution process, and a read-receipt/handoff template.
 
 - [Visual Workshop — public art & design portfolio](https://keen-rabanadas-0a600e.netlify.app/visual-workshop/index.html): optional Starforge modules, scrap-built forms, crystal-metal studies and Silver Shadow / TO DOG VR concepts, separated from verified mechanics. [Source](visual-workshop/index.html).
