@@ -1,3 +1,7 @@
+> **CORRECTION / CURRENT ROUTE (2026-10-19):** This Godot/OpenXR text is **historical exploration**, not the current **TO FAIRY** Quest 2 task. The owner's active asset-first instruction is **[TO_FAIRY_QUEST2_START_HERE.md](TO_FAIRY_QUEST2_START_HERE.md)**. Keep the working WebXR passthrough, deliver a real 3D fairy asset, and do not assign Godot installation or rename the project TO DOG. The original proposal remains below for provenance.
+
+---
+
 # VR / Mixed Reality Passthrough — Spark Fairy (proposal)
 
 **Document ID:** VR-MR-SPARK-001  
