@@ -64,6 +64,8 @@ Return path for review:
 
 ## Public starting references
 
+- [TO WORLD VR / Spark Fairy / Starforge Graphics Hub](https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/HUB_VR_GRAPHICS_START_HERE.md) — approved sources, three proposed assemblies, headset-test boundaries, missing Meta originals and read-receipt routing.
+- [Spark Fairy VR passthrough proposal](VR_PASSTHROUGH_SPARK_FAIRY.md) — headset experience and visual brief; *not yet a tested build*.
 - [TO WORLD / Open Crew — README](https://github.com/IsekaiSensei/to-dog-open-crew)
 - [Psyche 16 Concept Page 001](https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/CONCEPT_PAGE_001.md)
 - [Sensei Glossary — Bowl / Page / Scroll / Book](https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/SENSEI_GLOSSARY.md)
