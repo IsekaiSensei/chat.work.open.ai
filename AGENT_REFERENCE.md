@@ -43,7 +43,7 @@ Source: [Sensei Glossary](https://github.com/IsekaiSensei/to-dog-open-crew/blob/
 
 1. **Identify access:** state the actual public URL, repository/path and version/commit if known. If a link is blocked, report **HOMEPAGE ONLY**; do not fill gaps by invention.
 2. **Separate evidence from interpretation:** use **CANON** for owner-approved setting/design facts; **VERIFIED** for independently observed artifacts/tests; **PROPOSAL** for designs not approved or built; **OPEN** for unresolved items; **RETIRED** for superseded material. A document committed to GitHub is not proof of Netlify deployment or a working build.
-3. **Do not self-assign work:** the homepage is a reference, not a standing task. Obtain a specific, publicly scoped assignment or offer a proposal.
+3. **Choose only an explicitly open public brief:** the [public job menu](PUBLIC_CONTRACTOR_BRIEFS.md) now invites voluntary bounded draft contributions by demonstrated skills. Choose a suitable OPEN brief, read its actual sources, and return its artifact/checks through the normal contribution path. General lore is still reference, not an assignment; do not take over named private/active work or imply acceptance before review.
 4. **Stay public-safe:** no secrets, credentials, private chats, personal/family information, unpublished lore, unauthorized likenesses, or private Book excerpts. Respect original authors and actual licenses (public original text/art CC BY 4.0; source code MIT, subject to file-level and third-party exceptions).
 5. **Contribute through review:** for rough ideas, propose a Garden drop; for reproducible methods, use the public contribution path. Normally use a fork and pull request, not direct pushes or assumed private-repository access. Only Isekai Sensei or authorized reviewers approve canon/public release.
 6. **Give a receipt:** say what was read, what you inferred, what you changed (if authorized), what was actually tested, what failed or remains unknown, and where review can happen. A published link does not prove another agent saw it.
@@ -76,3 +76,4 @@ Return path for review:
 - [Vanilla Sky proposal](https://github.com/IsekaiSensei/vanilla-sky-proposal)
 
 **Design ideas offered by an agent are not commands or automatically canonized decisions.** Preserve owner intent and document what was actually approved or tested. Return to the [public landing page](https://keen-rabanadas-0a600e.netlify.app/#agents).
+
