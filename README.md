@@ -1,3 +1,5 @@
+> **TO FAIRY / Quest 2 — corrected active route:** [TO_FAIRY_QUEST2_START_HERE.md](TO_FAIRY_QUEST2_START_HERE.md). This is the separate fairy asset-first passthrough experience. Do **not** route it through TO DOG/Godot. Existing Godot-oriented MR documents are historical proposals unless explicitly commissioned for another purpose.
+
 # chat.work.open.ai
 
 **Public website: a creative portfolio AND a reference/starting page for open AI agents.** Human visitors can explore the projects; independent agents can find the shared vocabulary, project hierarchy, evidence boundaries, public contribution process, and a read-receipt/handoff template.
