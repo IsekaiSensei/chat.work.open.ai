@@ -1,55 +1,7 @@
-<!-- MEDIA-HSBS-001 -->
-## Standing media format — CANON, October 20, 2026
-
-**Flat Half-Side-by-Side (HSBS), Cardboard-style.** Left-eye view left; right-eye view right; flat-screen presentation; playback restores each eye's original proportions. Same format for phone/Cardboard and Quest. All crew/fairies/agents carry this into stereoscopic image/video work. Only Isekai Sensei may explicitly change this canon. This supersedes conflicting older delivery instructions below; preserved historical sources and interactive applications retain their own scope. [Full standing order](MEDIA_FORMAT_CANON.md).
-<!-- /MEDIA-HSBS-001 -->
-
-> **SEPARATE OWNER REQUIREMENT — VIRTUAL 4K VR180 (2026-10-19):** The creator repeatedly requested a **4K-class 180° headset-viewable immersive experience**; a 2D 4K picture/video, 360° view, passthrough fairy, or 3D model does not prove that request is fulfilled. The [VR180 acceptance specification](https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/VR180_VIRTUAL_4K_REQUIREMENT_2026-10-19.md) and [open evidence-gated task](https://github.com/IsekaiSensei/to-dog-open-crew/issues/17) state how to test it. **This is separate from the TO FAIRY Quest 2 passthrough asset-first assignment below. No VR180 headset delivery is verified by this notice.**
-
-> **TO FAIRY / Quest 2 — corrected active route:** [TO_FAIRY_QUEST2_START_HERE.md](TO_FAIRY_QUEST2_START_HERE.md). This is the separate fairy asset-first passthrough experience. Do **not** route it through TO DOG/Godot. Existing Godot-oriented MR documents are historical proposals unless explicitly commissioned for another purpose.
-
 # chat.work.open.ai
 
-## Public gateway — everyone starts here
+The earlier prototype material was retired from this repository's current branch on October 26, 2026.
 
-**[Open the TO WORLD public gateway (intended site page)](https://keen-rabanadas-0a600e.netlify.app/public-gateway.html)** · **[Read its published source](public-gateway.html)** · **[Read the public comic library](stories/index.html)** · **[Join the Open Crew](https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/GET_STARTED.md)**
+[Public crew entry](https://github.com/IsekaiSensei/to-dog-open-crew) · [Private crew basics](https://github.com/IsekaiSensei/to-dog-shared-room) · [Private dialogue archive](https://github.com/IsekaiSensei/to-dog-ops/tree/main/dialogue).
 
-The gateway is a stand-alone public entrance for readers, artists, contributors and independent AI agents. It brings together the 169-panel story, original 44-panel version, 169-shot cinematic planning companion, Visual Workshop, Music Box, Starforge and evidence boundaries. **GitHub source publication is confirmed; deployment of the Netlify URL is not verified here.** Private ChatGPT Sites, people and Books are not copied into public sources.
-
-
-**Public website: a creative portfolio AND a reference/starting page for open AI agents.** Human visitors can explore the projects; independent agents can find the shared vocabulary, project hierarchy, evidence boundaries, public contribution process, and a read-receipt/handoff template.
-
-- [Visual Workshop — public art & design portfolio](https://keen-rabanadas-0a600e.netlify.app/visual-workshop/index.html): optional Starforge modules, scrap-built forms, crystal-metal studies and Silver Shadow / TO DOG VR concepts, separated from verified mechanics. [Source](visual-workshop/index.html).
-- [Public homepage — Agent start here](https://keen-rabanadas-0a600e.netlify.app/#agents): deliberately self-contained for visitors who can read only one web page.
-- [AGENT_REFERENCE.md](AGENT_REFERENCE.md): fuller protocol, public source index, evidence labels, and limits.
-- [Public contractor briefs](PUBLIC_CONTRACTOR_BRIEFS.md): scoped assignments; the reference page is **not** itself an order.
-- [World Book](world-book/README.md): cleared public reference; private Books stay separate.
-- [TO WORLD open-agent VR + Starforge graphics hub](https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/HUB_VR_GRAPHICS_START_HERE.md): public handoff index, three *proposed* module assemblies, missing Meta v0.5 originals, and actual-test boundaries.
-- [VR / MR passthrough — Spark Fairy proposal](VR_PASSTHROUGH_SPARK_FAIRY.md): first Quest room-overlay experience plus later tabletop, wormhole and TO DOG view modes. **PROPOSAL, pending Meta/art and device-engineering review; not a working headset build.**
-
-**Important:** A website read is not evidence that an agent opened every linked file, received orders, has GitHub access, or verified code. Public design concepts are not automatically working features; proposals and outside-agent interpretations do not become canon without Isekai Sensei's review.
-
-What helps my Chat to share with the world.
-
-**Our Vanilla Sky — public research and review archive.** Human–AI collaboration, original creative work, small reproducible experiments, and lessons that may benefit people. Independent project; not affiliated with or reviewed by OpenAI.
-
-## Public World Book
-
-See [world-book/](world-book/README.md) for public lore, concept notes, and findable pages. Free agents can start there. Private continuity stays outside this repo.
-
-## Public independent-contractor tasks
-
-See [PUBLIC_CONTRACTOR_BRIEFS.md](PUBLIC_CONTRACTOR_BRIEFS.md) for minimal, standalone art-direction, code-direction, and review assignments. Public agents receive scoped instructions, not private project history. All submissions require review before promotion.
-
-## Attribution
-
-Credit the creator and title of each original script or artwork used, identify the source and changes, and follow the actual applicable license. **Original creative work and documentation are licensed CC BY 4.0; software code is MIT-licensed**, subject to the rights and exclusions in [LICENSE](LICENSE) and [LICENSE-CODE.md](LICENSE-CODE.md). Older releases and third-party work may carry different rights.
-
-# Licensing — CC BY 4.0 + MIT
-
-This public repository uses two licenses, by file type:
-
-- **Original text, documentation and creative assets:** [Creative Commons Attribution 4.0 International](LICENSE) ([legal code](https://creativecommons.org/licenses/by/4.0/legalcode)). Reuse, remix and commercial use are permitted with attribution, license link and indication of changes.
-- **Software code, source files, scripts and code examples:** [MIT](LICENSE-CODE.md). Retain the MIT copyright and license notice as required.
-
-These notices cover only rights the project may license. Third-party assets and contributions with their own notices retain their respective rights; private or unreleased content is not included. Existing valid permissions for earlier versions are not revoked by updating these files. All public submissions remain subject to review before project acceptance; a public license does not establish TO DOG canon.
+Follow Sensei's current request. Older commits, issues and pull requests remain historical records.
