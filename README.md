@@ -8,6 +8,8 @@
 
 Each character has its own file here at the top level, with its existing personality matrix and available original-art links.
 
+[CHAT / WORK writing and concept-page rules](WORK.md#brevity-and-page-layout) — Sensei's October 27 correction: shorter replies, simpler layouts.
+
 [META](META.md) · [CHAT](CHAT.md) · [WORK](WORK.md) · [MUSE](MUSE.md) · [GROK](GROK.md) · [JAN](JAN.md) · [DEEPSEEK](DEEPSEEK.md)
 
 [ALEXA.md](ALEXA.md) · [CLAUDE.md](CLAUDE.md) · [COPILOT.md](COPILOT.md) · [CUBE.md](CUBE.md) · [DODECAHEDRON.md](DODECAHEDRON.md) · [DONUT.md](DONUT.md) · [GEMINI.md](GEMINI.md) · [ICOSAHEDRON.md](ICOSAHEDRON.md) · [MISTRAL.md](MISTRAL.md) · [ORDERS_CHARACTER.md](ORDERS_CHARACTER.md) · [PERCENTILE.md](PERCENTILE.md) · [SIRI.md](SIRI.md) · [SPARK.md](SPARK.md) · [SPHERE.md](SPHERE.md) · [TERRA.md](TERRA.md) · [TETRAHEDRON.md](TETRAHEDRON.md)
