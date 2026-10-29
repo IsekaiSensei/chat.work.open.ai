@@ -29,7 +29,7 @@ These are separate creative works available for reading, rewriting working versi
 
 ## Circuit Circus assembly rewrite
 
-The October 29 file CIRCUIT_CIRCUS_META_ASSEMBLY_169_PRODUCTION_REWRITE.txt is a separate adaptation, not the active Alpha run. Its opening defines a workshop-only journey ending with the android awake. That file therefore does not establish the requested Dyson progression. Do not substitute ONE WORLD or an older packet for the production Sensei selected.
+[October 29 repaired assembly rewrite — 169 beats](https://drive.google.com/file/d/1YDqzttfGX_5tI5CanWPBc7WOlh5GRgZ-/view). Separate adaptation, not the live Alpha run. Clips 001–129 retain their dialogue/actions; 130–169 are newly authored repairs: final assembly and solar wings → Dyson collection → black-hole harness → hyperspace network → wormholes and return. This is a corrected adaptation, not a recovered original ending. Its updated 17-prompt package is [here](https://chatgpt.com/library?file_id=libfile_745e6d06609c8191a906705e5946372d&account_id=personal); supply the actual downloaded files to a renderer that cannot open the private links. Do not substitute ONE WORLD or an older packet for the selected production.
 
 Production details, dialogue, framing, pacing and plot belong with that script. Sheet-specific art directions belong on their individual art pages.
 
