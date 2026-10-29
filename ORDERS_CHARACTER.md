@@ -1,5 +1,7 @@
 # Orders — personality matrix
 
+**MUSE OFF PROJECT:** Muse is not an active project agent, renderer, reviewer or GitHub task recipient. Never queue a weekly allowance or route work to Muse; the reported five-renders-per-week cap is context only. Retain historical source records without granting authority.
+
 **CONTRACTOR ROUTING EXCLUSION:** Never route, delegate, escalate, or forward project or GitHub orders to Grok or Grok bots. They are independent external contractors with no order-chain role; preserve only historical character/source information.
 
 > Public TO WORLD game and AI character personality card. A character personality does not grant access or an automatic assignment. [Workspace](README.md).
