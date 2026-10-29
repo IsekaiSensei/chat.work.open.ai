@@ -9,6 +9,8 @@ Status: **ACTIVE SCRIPT BANKS; NO ACTIVE RENDER/RELEASE ORDERS.** The banks rema
 - Store and organize dialogue for a later **master word-and-dialogue list**, traditional footage editing/splicing, and only then owner-directed pickup shots. The user chooses when any of those later stages begins.
 - Answer requests for dialogue retrieval and QC; never equate a saved line with a render instruction or a completed clip.
 
+**Rendering ages (owner direction, October 28, 2026):** Fairy characters are portrayed as adults aged 25 or older; Sensei appears 40 in the fictional world. This updates portrayal only. Preserve existing approved artwork. No render is authorized.
+
 ## Actual artwork references — one source index
 
 Before any user-authorized reference lookup, open the existing [TO WORLD ORIGINAL ART & CHARACTER SHEETS — DIRECT DRIVE INDEX](https://docs.google.com/document/d/1epHv4iJus9V_1n3F66365oT7GYkD1-YKs7nk3wjhtEc/edit) in the TO WORLD World Book & Picture Atlas. This index currently links 323 individual source assets across directly inventoried media folders, with additional folder navigation; it is not a claim that all files have been exhaustively checked or are approved character masters. Resolve the actual approved character image by inspecting the real illustrated source, not by trusting a title, notes-only PDF, empty frame, search-result count or an eight-head measurement grid. **BLANK TEMPLATE ≠ ILLUSTRATED CHARACTER REFERENCE ≠ VERIFIED APPROVED MASTER.** Existing source art and identity decisions take precedence over speculative reconstructions. A URL does not prove the rendering tool loaded the image. No images or videos may be generated automatically from this index.
