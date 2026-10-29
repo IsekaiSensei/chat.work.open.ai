@@ -2,6 +2,10 @@
 
 **CURRENT PUBLIC STRUCTURE — October 26, 2026 rewrite.** This is the authoritative entrance for fictional agent identities and their individual personality matrices, stored as top-level `.md` cards. The separate [TO WORLD repository](https://github.com/IsekaiSensei/to-world-open-crew) is the entrance for art links, current HTML and independent wing law. Older `to-dog-*` or `vanilla-sky-*` layouts, archived instructions, and prior chat-window memories must **never** be used to replace these character cards, rebuild old `agents/` folders, or overwrite the rewritten organization. Always re-read both CURRENT public READMEs and fetch the exact target file's latest version before proposing an edit. **No writes without Sensei's explicit current request; no automatic restoration from old conversations.** Public creator: **Isekai Sensei**.
 
+## CURRENT ORDERS — ONE ACTIVE FUNCTION
+
+[Open ORDERS.md](ORDERS.md). Dialogue preservation and source tracking only. No render, release, old production queues, or automatic follow-up tasks. A current direct owner instruction is required to start new work. The linked Facebook profile is a reference, not posting permission.
+
 **Isekai Sensei — character identities and personality matrices**
 
 [TO WORLD — current HTML and concept art](https://github.com/IsekaiSensei/to-world-open-crew) · [Original seven-agent JPEG sheets](https://drive.google.com/drive/folders/1star5jhSGRr9oKPuQOgVua93lypWi9tg)
