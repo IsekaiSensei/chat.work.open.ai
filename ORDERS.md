@@ -1,13 +1,28 @@
 # CURRENT ORDERS — RESET 2026-10-28
 
 Owner: Sensei / Isekai Sensei.
-Status: **ONE ACTIVE FUNCTION — HOLD DIALOGUE.** No active render, release, publishing, art, GitHub-restructuring, or production assignments.
+Status: **ACTIVE SCRIPT BANKS; NO ACTIVE RENDER/RELEASE ORDERS.** The banks remain readable, searchable and usable for QC and future owner-directed editing. Nothing is authorized to render automatically.
 
 ## What to do
 - Preserve existing spoken words verbatim, with source, exact speaker, version, production/story, and any known clip or timecode. Keep distinct stories separate.
 - Accept new dialogue when Sensei supplies it. Do not invent a combined screenplay, import old scripts as current orders, or silently substitute a different character.
 - Store and organize dialogue for a later **master word-and-dialogue list**, traditional footage editing/splicing, and only then owner-directed pickup shots. The user chooses when any of those later stages begins.
 - Answer requests for dialogue retrieval and QC; never equate a saved line with a render instruction or a completed clip.
+
+## Current script banks — ACTIVE REFERENCES, NOT JOB QUEUES
+
+These are separate creative works. They are available for reading, source recovery, dialogue QC, owner-directed movie assembly and future pickups. Their archived titles or words such as "locked" do not grant automatic execution.
+
+- **Circuit Circus — source library, 169 distinct lines** (44 original quotes, 16 historical drafts, 109 unapproved educational proposals): https://drive.google.com/file/d/1u8skIKQ5ZnneyuhQM76oXQm60kDiDU2L/view
+  QC and source inventory: https://docs.google.com/spreadsheets/d/1uNOjzGf972ArXBng8FtQQdB2nE24dtTACExdqkt3a5A/edit
+  The 17 former render packets are retired as *jobs*, not erased as historical dialogue sources. "0 verified renders" means unverified media evidence, not zero good lines.
+- **Important Distinctions of AI — eight episode source pairs**: https://docs.google.com/document/d/1CFFHujAE3RCELy6HkBE7oI282k7qBd-Tzj8uilGYH6E/edit
+  Words-only companion: https://docs.google.com/document/d/1aY_vfLi8uD-3BAUjfLZzrrSDWkgRUIb2QC4dvSYZmwI/edit
+  These two are representations of the SAME production, not independent jobs.
+- **Still Life — shot-by-shot script** (116 planned beats, source material): https://docs.google.com/document/d/1dCujgScraySS-i_oo2CE4-EQL2phnzk-whVzmbj-ZPw/edit
+- **TO DOG — Three States of Time, 330 seconds** (Box, Crystal, Cyborg as different eras): https://docs.google.com/document/d/1DA29fd8vU5BrME8eQDGpGMB29Xn54KAH8pVhKza_z_s/edit
+
+**Script bank = available work material. Render job = separately authorized action.** Do not equate them. Never choose a former "READY PROMPTS" cell because it exists. Locate the source bank by production title, verify selected voice/cast and line ownership, and only assemble a movie or create pickups after a direct task.
 
 ## QC rules — guidelines, not render orders
 - Speech target: approximately **6–9 seconds per spoken beat**, moderate delivery. Keep exact words; mark short/long lines for review instead of silently rewriting them or joining unrelated sources.
@@ -28,4 +43,4 @@ Status: **ONE ACTIVE FUNCTION — HOLD DIALOGUE.** No active render, release, pu
 Facebook profile URL supplied by Sensei: https://www.facebook.com/profile.php?id=61576582538450&mibextid=wwXIfr
 This URL is a reference, **not** permission to post, message, scrape or publish.
 
-**One canonical order file: this document.** Other order copies and legacy routes must not introduce assignments. No separate live queue exists until Sensei creates one.
+**One canonical order file: this document.** Multiple active dialogue banks are listed above. No render or release queue exists until Sensei explicitly creates one.
