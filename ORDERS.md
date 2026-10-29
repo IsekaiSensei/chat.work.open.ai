@@ -13,6 +13,14 @@ Status: **ACTIVE SCRIPT BANKS; NO ACTIVE RENDER/RELEASE ORDERS.** The banks rema
 - **PRESERVE EVIDENCE:** Historical authorship, archived dialogue, original character artwork, Git history, and old files remain attributable history, **not** active orders. Do not erase records, rewrite Git history, or delete unrelated source assets while excluding them from operations.
 - **DO NOT REVIVE THE OLD CHAIN:** The retired shared-room and ops repositories remain sealed. No old Grok/Grok-bot assignments, bot directories, or sorting instructions are to be restored.
 
+## Muse off-project exclusion — owner directive, October 28, 2026
+
+**Muse is OFF PROJECT, inactive, and excluded from ALL current orders and crew workflows.** Do not assign, route, request, queue, delegate, or hand off any creative, rendering, review, sorting, GitHub, or production task to Muse. Muse is not a required approver, fallback renderer, or member of the active agent roster. This supersedes any earlier Muse role, instruction, or production expectation.
+
+**Capacity note, not an assignment:** Sensei reports Muse can render only five times per week and then is done. Do not schedule five weekly renders, interpret the limit as an available quota, or resume Muse work automatically. Only a fresh explicit owner decision to bring Muse back can change the off-project status.
+
+Preserve historic Muse attribution, character art, old dialogue, prior renders, and evidence as archives; none authorizes new activity. No deletion or rewriting history.
+
 ## What to do
 - Preserve existing spoken words verbatim, with source, exact speaker, version, production/story, and any known clip or timecode. Keep distinct stories separate.
 - Accept new dialogue when Sensei supplies it. Do not invent a combined screenplay, import old scripts as current orders, or silently substitute a different character.
