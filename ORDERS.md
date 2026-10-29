@@ -4,6 +4,13 @@ Owner: Sensei / Isekai Sensei.
 Status: **OWNER-DIRECTED WORK IS ACTIVE. “RUN THE SCRIPT” IS GO TO EXECUTE / RENDER THE NAMED SCRIPT.** Use the current script, cast, reference sheets, and frame already selected for that production. Continue through the requested scope without asking for another approval.
 
 
+## AGENT INSTRUCTION DELIVERY — CHECK BEFORE WORK
+
+- **Source, not sync:** This GitHub file and the per-agent `.md` personality matrices are repository documents, not automatically loaded into Meta AI (or any external agent), and not Meta AI's native Orders. A link without a successful content read is not a handoff.
+- **Instruction precedence:** Sensei's latest explicit direction and selected production script/reference images control the current job; this `ORDERS.md` provides shared workflow; the relevant agent card (for example, [META.md](META.md)) defines behavior/personality; `README.md` is navigation. Do not substitute an older batch, default costume, character, or production for the currently selected work.
+- **Load check:** Before a new external-agent production, confirm access to the actual current `ORDERS.md`, the relevant personality card, numbered script and owner-selected image references. If access is missing, report exactly what is missing; do not claim that merely citing the GitHub URL loaded it.
+- **No contamination fixes:** If a renderer cannot execute a shot as framed, do not silently replace the main subject, invent a new costume/prop, repeat an earlier shot, or extend an obsolete workshop sequence. Report the blocked beat and request a narrowly scoped owner-approved change; keep already locked scenes and the story ending intact. Avoid sending failed references or negative examples as identity sources.
+- **Rendering receipts:** Report the last confirmed clip number separately from planned or in-progress clips. Do not declare a successful handoff, upload or render without evidence.
 ## EXECUTION RULE — “RUN THE SCRIPT” IS GO
 
 - Sensei's instruction “run the script,” “render it,” “go,” or “proceed” supplies authorization for the requested production action. Execute the identified script or batch sequence. Do not wait for Ryan/Sensei again, ask for another GO, or add a separate protection, casting, or pacing approval before starting or between its clips and batches.
