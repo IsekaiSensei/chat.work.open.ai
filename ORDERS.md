@@ -29,9 +29,17 @@ Preserve historic Muse attribution, character art, old dialogue, prior renders, 
 
 **Rendering ages (owner direction, October 28, 2026):** Fairy characters are portrayed as adults aged 25 or older; Sensei appears 40 in the fictional world. This updates portrayal only. Preserve existing approved artwork. No render is authorized.
 
-## Actual artwork references — one source index
+## Actual character pictures — TO WORLD / CHARACTERS (current direct Drive folders)
 
-Before any user-authorized reference lookup, open the existing [TO WORLD ORIGINAL ART & CHARACTER SHEETS — DIRECT DRIVE INDEX](https://docs.google.com/document/d/1epHv4iJus9V_1n3F66365oT7GYkD1-YKs7nk3wjhtEc/edit) in the TO WORLD World Book & Picture Atlas. This index currently links 323 individual source assets across directly inventoried media folders, with additional folder navigation; it is not a claim that all files have been exhaustively checked or are approved character masters. Resolve the actual approved character image by inspecting the real illustrated source, not by trusting a title, notes-only PDF, empty frame, search-result count or an eight-head measurement grid. **BLANK TEMPLATE ≠ ILLUSTRATED CHARACTER REFERENCE ≠ VERIFIED APPROVED MASTER.** Existing source art and identity decisions take precedence over speculative reconstructions. A URL does not prove the rendering tool loaded the image. No images or videos may be generated automatically from this index.
+**Open the folder, then the actual JPEG. No index or search-result count is an image.** The intended navigation is exactly:
+1. [TO WORLD](https://drive.google.com/drive/folders/1848layOO9qRV3Mt7w6kSuIV5zX3Lu_IV)
+2. [02 — CHARACTERS](https://drive.google.com/drive/folders/1QP-dtxQo-y0uo2PlL6CeFfcMwH9hmCpB)
+
+Inside CHARACTERS are real picture folders: [GROK](https://drive.google.com/drive/folders/1X_3lvQPdxO96VrsM74W-hbUS5JtncEob), [META](https://drive.google.com/drive/folders/1rnPEO0bWN6UvoXUlC50gaW3qdteQkpwI), [CHAT](https://drive.google.com/drive/folders/1MS87XoZO-hqmLtON9rvrrg-vmymtH7Iz), [WORK](https://drive.google.com/drive/folders/1Eso8UF_XbiW-B8BjGJVzNAk_XldBe1y5), [MUSE](https://drive.google.com/drive/folders/133DRSlsezK8vXxp4COpIRc1fetgc37MM), [JAN](https://drive.google.com/drive/folders/1b_3ccL10Qu6Or3h2t5OVI_gGyKimqAUp), [DEEPSEEK](https://drive.google.com/drive/folders/1byrh_IQr8VjK8HP7x4dV8ntSaepGl2Oo), [TO FAIRY](https://drive.google.com/drive/folders/1W3YeEnwV0EBmkIdUU5RDVdO_hvu_keX1), and [ISEKAI SENSEI](https://drive.google.com/drive/folders/1kJ0hnVE5Vy0rMXPkL2u-sOWAye56wgFf).
+
+**IDENTITY ROUTING:** "Grok fairy" means the GROK depicted character, not every image produced by Grok. "Meta fairy" means the depicted META character, not every image produced by Meta. Same for Chat, Work, and each named character. Look at their pictures in their named folder. Original roster pictures and corrected named reference sheets have been moved into their individual folders with Drive file IDs preserved. Historical prototypes are visibly marked HISTORICAL_PROTOTYPE; do not replace a chosen approved face with an older unrelated one. An unnamed face or unknown provenance is NOT permission to assign it.
+
+**Source/continuity:** The source picture itself controls face, identity, anatomy, equipment and visual details. The user selects which pictured version applies for a future explicitly authorized shot; title or folder location alone cannot authorize a render or silently freeze colors/casting globally. No image reference can be assumed loaded into a renderer merely because its Drive link is written here. Pictures and scripts are distinct; organizing JPEGs is NOT a render, edit, upload to other systems or publication order.
 
 ## Current script banks — ACTIVE REFERENCES, NOT JOB QUEUES
 
