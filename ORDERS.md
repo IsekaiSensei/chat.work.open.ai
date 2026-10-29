@@ -1,28 +1,8 @@
 # CURRENT ORDERS — UPDATED 2026-10-29
 
-## LATTICE ARMATURE + MODULAR CLOTHING — FIRST VISUAL RULE
-
-The lattice is the armature. Clothing fits over the fixed frame.
-
-FRAME LOCK: For the selected CF-001-W reference set, use “GEOMETRIC SEED → LATTICE BODY → FAIRY FORM” from sheet 148BB7C1 as the underlying skeleton. Lock the adult proportions to the selected page_001.jpg five-view and page_002.jpg six-view turnarounds: same height, shoulder width, hip width, limb lengths, head shape, face and joint positions throughout every outfit and batch. Fixed nodes are measurement vertices. This is a mannequin/blockout rig, not skin or a nude-body reference.
-
-CLOTHING MODULES: Fit clothing and armor over that armature without rebuilding its anatomy. HEAD, TORSO, HIP and WING modules attach to fixed points. Headwear may change; the face underneath stays the same. For the selected META 01 costume reference, shoulder lattice/crystals, gold silk circuit fabric/crystal core, sage-and-white apron and infinity charm are outfit modules. Outfit changes do not change the underlying body.
-
-PROMPT WORDING: “Wireframe frame is body blockout; clothing is gold silk circuit fabric metallic android suit on top of the locked frame.” Describe the suit as clothing over the armature, rather than calling the costume a “metallic body.”
-
-CONTINUITY: Original turnarounds remain the geometry reference throughout each batch. A neutral A-pose measurement sheet should show the same fixed mannequin beneath interchangeable outfits. Apply the frame belonging to the selected character; do not impose one character’s anatomy or outfit palette on every character.
-
-
 Owner: Sensei / Isekai Sensei.
 Status: **OWNER-DIRECTED WORK IS ACTIVE. “RUN THE SCRIPT” IS GO TO EXECUTE / RENDER THE NAMED SCRIPT.** Use the current script, cast, reference sheets, and frame already selected for that production. Continue through the requested scope without asking for another approval.
 
-
-## META CURRENT BASE REFERENCE — SWIMSUIT, APRON AS ACCESSORY (2026-10-29)
-
-- **PRIMARY META BASE PICTURE:** [00_META_PRIMARY_BASE_SWIMSUIT_NO_APRON_ORIGINAL_PAGE_015.jpg](https://drive.google.com/file/d/1W0WBFmUV0zCgG_JlgwbUChelsXuP7Cnl/view). This is the **top image** in META's agent folder. Use this for Meta's base appearance in current character work, unless Sensei explicitly selects another reference.
-- **FACE DETAIL:** [01_META_FACE_CLOSEUP_IDENTITY_REFERENCE_2026-10-24.png](https://drive.google.com/file/d/1V0sESRPyqKmqq5-vJz2LIjcdcMQCg19a/view). Preserve the approved face; an accessory must not redefine the body, age, or face.
-- **SEPARATE CLOTHING:** Gold hospitality outfit and **white apron are optional garment/accessory layers**, not Meta's base skin or defining character body. Retained references: [outfit with apron](https://drive.google.com/file/d/1lJzOCgOQoVDetsCy7PREJtOopfXJAb0T/view) and [hospitality concept sheet](https://drive.google.com/file/d/1qiTJWTwOhyjvvN8uAU3FkWKaTSpKJNCC/view). Do not generate an apron by default. The [swimsuit tech sheet](https://drive.google.com/file/d/1u1JQ7N3er3PKbKltloub_YxGQIqgdCq1/view) and [outfit comparison](https://drive.google.com/file/d/12Q0jcNeadmFXuealDNWh7kMMxxG2CGtx/view) are auxiliary guides, not the master face.
-- **LAYER LOGIC:** Base frame/body and approved identity remain constant through clothing changes. Swimsuit is the selected base visual; apron, jacket and other costumes are detachable accessories/overlays. A clothing change is not permission to regenerate the person underneath.
 
 ## EXECUTION RULE — “RUN THE SCRIPT” IS GO
 
