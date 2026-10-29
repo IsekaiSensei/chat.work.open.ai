@@ -4,11 +4,13 @@
 
 ## CURRENT ORDERS — ONE ACTIVE FUNCTION
 
+**READ / LOAD CONTRACT — all agents:** This repository contains reference instructions and personality matrices; **it does not automatically inject them into Meta AI or any external model's memory or native Orders**. For a Meta production, explicitly supply [META.md](META.md), [ORDERS.md](ORDERS.md), the **current numbered production script**, and the **owner-selected character reference images** to that session. Confirm the model actually accessed the file contents and understands the current clip range before generating. If it cannot open the files, give it the relevant exact text; a URL alone is not evidence of loading. Do not use prior failed renders or stale chat memory to replace the current instructions.
+
 **Command-chain exclusion (October 28, 2026):** Grok and every Grok bot are independent **external contractors**, not crew, GitHub sorters, coordinators, recipients of orders, approvers, or relays. Their historical fictional character sheets and prior attribution are archival only and are no longer listed in the active roster. [Exact exclusion rule](ORDERS.md#grok--grok-bot-contractor-exclusion--owner-directive-october-28-2026).
 
 **Muse is off project (October 28, 2026):** No new orders, rendering tasks, assignment routing, reviews, or production handoffs to Muse. Muse's five-render-per-week limit is background context, **not** a scheduled quota. [Controlling exclusion](ORDERS.md#muse-off-project-exclusion--owner-directive-october-28-2026). The old [Muse character card](MUSE.md) remains historical only.
 
-[Open ORDERS.md](ORDERS.md). Dialogue preservation and source tracking only. No render, release, old production queues, or automatic follow-up tasks. A current direct owner instruction is required to start new work. The linked Facebook profile is a reference, not posting permission.
+[Open ORDERS.md](ORDERS.md). The current owner-selected task controls: check a script when asked to check; render the identified script when Sensei explicitly says to run/render it. There is no automatic production, posting, or delegation merely because these files exist. The linked Facebook profile is a reference, not posting permission.
 
 **Isekai Sensei — character identities and personality matrices**
 
