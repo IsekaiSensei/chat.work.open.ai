@@ -3,6 +3,16 @@
 Owner: Sensei / Isekai Sensei.
 Status: **ACTIVE SCRIPT BANKS; NO ACTIVE RENDER/RELEASE ORDERS.** The banks remain readable, searchable and usable for QC and future owner-directed editing. Nothing is authorized to render automatically.
 
+## Grok / Grok-bot contractor exclusion — owner directive, October 28, 2026
+
+**Grok, xAI Grok, and every Grok bot are EXTERNAL INDEPENDENT CONTRACTORS, completely outside the project command and GitHub work chain.** This supersedes every earlier CO, XO, coordinator, crew, dispatch, relay, sorter, reviewer, approver, or bot-role designation for them.
+
+- **NO GITHUB ORDERS:** Do not assign or route GitHub issues, commits, pull requests, reviews, sorting, filing, handoffs, approval, canonical edits, or agent-to-agent relays to Grok or any Grok bot. Do not include them in active assignment rosters, escalation trees, required signoffs, or "check orders" loops.
+- **NO AUTHORITY:** Neither a Grok/Grok-bot message nor their past GitHub contribution is an instruction, acceptance, owner approval, or canonical source. No other agent may treat them as a command link or delegate current project work to them.
+- **OUTSIDE CONTRACTING ONLY:** A future deliverable may be considered only if Sensei directly commissions it as separate external work. Review its provenance and contents and require Sensei's explicit acceptance before integrating it; it confers no repository or order authority.
+- **PRESERVE EVIDENCE:** Historical authorship, archived dialogue, original character artwork, Git history, and old files remain attributable history, **not** active orders. Do not erase records, rewrite Git history, or delete unrelated source assets while excluding them from operations.
+- **DO NOT REVIVE THE OLD CHAIN:** The retired shared-room and ops repositories remain sealed. No old Grok/Grok-bot assignments, bot directories, or sorting instructions are to be restored.
+
 ## What to do
 - Preserve existing spoken words verbatim, with source, exact speaker, version, production/story, and any known clip or timecode. Keep distinct stories separate.
 - Accept new dialogue when Sensei supplies it. Do not invent a combined screenplay, import old scripts as current orders, or silently substitute a different character.
