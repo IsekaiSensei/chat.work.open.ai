@@ -8,7 +8,6 @@
 
 ## Production and source recovery
 
-- [ ] Repair the rejected Circuit Circus assembly rewrite's ending against the owner's intended progression. The inspected file stays in the workshop through clip 169; the exact approved replacement sequence was not recovered. Keep the live Alpha run separate.
 - [ ] Recover the original Meta Dolores/unnamed-blonde personality passage. The current card is an implementation translation, not a verbatim recovery.
 - [ ] Finish visual verification of character-folder contents against the actual images, including duplicate resolution and JPEG completeness. File presence and names alone do not verify identity or preservation.
 - [ ] Put each sheet's art directions on that individual sheet. Do not regenerate geometry or apply a generic page design to solve a text-placement problem.
