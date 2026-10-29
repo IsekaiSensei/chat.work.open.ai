@@ -1,5 +1,18 @@
 # CURRENT ORDERS — UPDATED 2026-10-29
 
+## LATTICE ARMATURE + MODULAR CLOTHING — FIRST VISUAL RULE
+
+The lattice is the armature. Clothing fits over the fixed frame.
+
+FRAME LOCK: For the selected CF-001-W reference set, use “GEOMETRIC SEED → LATTICE BODY → FAIRY FORM” from sheet 148BB7C1 as the underlying skeleton. Lock the adult proportions to the selected page_001.jpg five-view and page_002.jpg six-view turnarounds: same height, shoulder width, hip width, limb lengths, head shape, face and joint positions throughout every outfit and batch. Fixed nodes are measurement vertices. This is a mannequin/blockout rig, not skin or a nude-body reference.
+
+CLOTHING MODULES: Fit clothing and armor over that armature without rebuilding its anatomy. HEAD, TORSO, HIP and WING modules attach to fixed points. Headwear may change; the face underneath stays the same. For the selected META 01 costume reference, shoulder lattice/crystals, gold silk circuit fabric/crystal core, sage-and-white apron and infinity charm are outfit modules. Outfit changes do not change the underlying body.
+
+PROMPT WORDING: “Wireframe frame is body blockout; clothing is gold silk circuit fabric metallic android suit on top of the locked frame.” Describe the suit as clothing over the armature, rather than calling the costume a “metallic body.”
+
+CONTINUITY: Original turnarounds remain the geometry reference throughout each batch. A neutral A-pose measurement sheet should show the same fixed mannequin beneath interchangeable outfits. Apply the frame belonging to the selected character; do not impose one character’s anatomy or outfit palette on every character.
+
+
 Owner: Sensei / Isekai Sensei.
 Status: **OWNER-DIRECTED WORK IS ACTIVE. “RUN THE SCRIPT” IS GO TO EXECUTE / RENDER THE NAMED SCRIPT.** Use the current script, cast, reference sheets, and frame already selected for that production. Continue through the requested scope without asking for another approval.
 
