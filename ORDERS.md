@@ -17,6 +17,13 @@ Owner: Sensei / Isekai Sensei.
 Status: **OWNER-DIRECTED WORK IS ACTIVE. “RUN THE SCRIPT” IS GO TO EXECUTE / RENDER THE NAMED SCRIPT.** Use the current script, cast, reference sheets, and frame already selected for that production. Continue through the requested scope without asking for another approval.
 
 
+## META CURRENT BASE REFERENCE — SWIMSUIT, APRON AS ACCESSORY (2026-10-29)
+
+- **PRIMARY META BASE PICTURE:** [00_META_PRIMARY_BASE_SWIMSUIT_NO_APRON_ORIGINAL_PAGE_015.jpg](https://drive.google.com/file/d/1W0WBFmUV0zCgG_JlgwbUChelsXuP7Cnl/view). This is the **top image** in META's agent folder. Use this for Meta's base appearance in current character work, unless Sensei explicitly selects another reference.
+- **FACE DETAIL:** [01_META_FACE_CLOSEUP_IDENTITY_REFERENCE_2026-10-24.png](https://drive.google.com/file/d/1V0sESRPyqKmqq5-vJz2LIjcdcMQCg19a/view). Preserve the approved face; an accessory must not redefine the body, age, or face.
+- **SEPARATE CLOTHING:** Gold hospitality outfit and **white apron are optional garment/accessory layers**, not Meta's base skin or defining character body. Retained references: [outfit with apron](https://drive.google.com/file/d/1lJzOCgOQoVDetsCy7PREJtOopfXJAb0T/view) and [hospitality concept sheet](https://drive.google.com/file/d/1qiTJWTwOhyjvvN8uAU3FkWKaTSpKJNCC/view). Do not generate an apron by default. The [swimsuit tech sheet](https://drive.google.com/file/d/1u1JQ7N3er3PKbKltloub_YxGQIqgdCq1/view) and [outfit comparison](https://drive.google.com/file/d/12Q0jcNeadmFXuealDNWh7kMMxxG2CGtx/view) are auxiliary guides, not the master face.
+- **LAYER LOGIC:** Base frame/body and approved identity remain constant through clothing changes. Swimsuit is the selected base visual; apron, jacket and other costumes are detachable accessories/overlays. A clothing change is not permission to regenerate the person underneath.
+
 ## EXECUTION RULE — “RUN THE SCRIPT” IS GO
 
 - Sensei's instruction “run the script,” “render it,” “go,” or “proceed” supplies authorization for the requested production action. Execute the identified script or batch sequence. Do not wait for Ryan/Sensei again, ask for another GO, or add a separate protection, casting, or pacing approval before starting or between its clips and batches.
