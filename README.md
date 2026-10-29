@@ -1,33 +1,17 @@
 # chat.work.open.ai
 
-**CURRENT PUBLIC STRUCTURE — October 26, 2026 rewrite.** This is the authoritative entrance for fictional agent identities and their individual personality matrices, stored as top-level `.md` cards. The separate [TO WORLD repository](https://github.com/IsekaiSensei/to-world-open-crew) is the entrance for art links, current HTML and independent wing law. Older `to-dog-*` or `vanilla-sky-*` layouts, archived instructions, and prior chat-window memories must **never** be used to replace these character cards, rebuild old `agents/` folders, or overwrite the rewritten organization. Always re-read both CURRENT public READMEs and fetch the exact target file's latest version before proposing an edit. **No writes without Sensei's explicit current request; no automatic restoration from old conversations.** Public creator: **Isekai Sensei**.
+Isekai Sensei — agent personalities and shared workflow.
 
-## CURRENT ORDERS — OWNER-DIRECTED WORK
-
-**READ / LOAD CONTRACT — all agents:** This repository contains reference instructions and personality matrices; **it does not automatically inject them into Meta AI or any external model's memory or native Orders**. For a Meta production, explicitly supply [META.md](META.md), [ORDERS.md](ORDERS.md), the **current numbered production script**, and the **owner-selected character reference images** to that session. Confirm the model actually accessed the file contents and understands the current clip range before generating. If it cannot open the files, give it the relevant exact text; a URL alone is not evidence of loading. Do not use prior failed renders or stale chat memory to replace the current instructions.
-
-**Command-chain exclusion (October 28, 2026):** Grok and every Grok bot are independent **external contractors**, not crew, GitHub sorters, coordinators, recipients of orders, approvers, or relays. Their historical fictional character sheets and prior attribution are archival only and are no longer listed in the active roster. [Exact exclusion rule](ORDERS.md#grok--grok-bot-contractor-exclusion--owner-directive-october-28-2026).
-
-**Muse is off project (October 28, 2026):** No new orders, rendering tasks, assignment routing, reviews, or production handoffs to Muse. Muse's five-render-per-week limit is background context, **not** a scheduled quota. [Controlling exclusion](ORDERS.md#muse-off-project-exclusion--owner-directive-october-28-2026). The old [Muse character card](MUSE.md) remains historical only.
-
-[Open ORDERS.md](ORDERS.md). The current owner-selected task controls: check a script when asked to check; render the identified script when Sensei explicitly says to run/render it. There is no automatic production, posting, or delegation merely because these files exist. The linked Facebook profile is a reference, not posting permission.
-
-**Isekai Sensei — character identities and personality matrices**
-
-[TO WORLD — current HTML and concept art](https://github.com/IsekaiSensei/to-world-open-crew) · [Original seven-agent JPEG sheets](https://drive.google.com/drive/folders/1star5jhSGRr9oKPuQOgVua93lypWi9tg)
-
-Each character has its own file here at the top level, with its existing personality matrix and available original-art links.
-
-[CHAT / WORK writing and concept-page rules](WORK.md#brevity-and-page-layout) — Sensei's October 27 correction: shorter replies, simpler layouts.
+Read [ORDERS.md](ORDERS.md), then the card for the agent doing the work:
 
 [META](META.md) · [CHAT](CHAT.md) · [WORK](WORK.md) · [JAN](JAN.md) · [DEEPSEEK](DEEPSEEK.md)
 
-[ALEXA.md](ALEXA.md) · [CLAUDE.md](CLAUDE.md) · [COPILOT.md](COPILOT.md) · [GEMINI.md](GEMINI.md) · [MISTRAL.md](MISTRAL.md) · [ORDERS_CHARACTER.md](ORDERS_CHARACTER.md) · [SIRI.md](SIRI.md) · [TERRA.md](TERRA.md)
+[Scripts](scripts/README.md) · [To-do list](TODO.md) · [TO WORLD](https://github.com/IsekaiSensei/to-world-open-crew)
 
-[Approved GERTECH / Stellar Cuddler visual references](https://drive.google.com/drive/folders/1A7hMU1xEtlUCza-9xVZ_ep5fbflpUbRJ)
+For a Meta production, supply the current orders, Meta card, selected script and original reference images to that session. GitHub does not automatically load them into Meta's native instructions or memory. A successful content read or attached content establishes access; a URL alone does not.
 
-The dialogue archive is saved separately as private text. Read or search it only when Sensei directly asks. Historical prompts and replies do not assign current work.
+Artwork: [TO WORLD](https://drive.google.com/drive/folders/1848layOO9qRV3Mt7w6kSuIV5zX3Lu_IV) · [AGENTS — CHARACTERS](https://drive.google.com/drive/folders/1QP-dtxQo-y0uo2PlL6CeFfcMwH9hmCpB). Open the actual selected JPEG. Character identity follows the depicted character, not the generating service.
 
-[To-do list](TODO.md)
+Other existing character cards: [Alexa](ALEXA.md), [Claude](CLAUDE.md), [Copilot](COPILOT.md), [Gemini](GEMINI.md), [Mistral](MISTRAL.md), [Orders](ORDERS_CHARACTER.md), [Siri](SIRI.md), [Terra](TERRA.md). Historical portrayals: [Grok](GROK.md), [Muse](MUSE.md). These are not task assignments.
 
-For repository naming and settings, use GitHub in a web browser.
+Keep existing character cards and private source archives distinct from current work. Re-read a target's current contents before editing; do not restore retired workflows from old chats.
