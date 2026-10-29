@@ -4,6 +4,8 @@
 
 ## CURRENT ORDERS — ONE ACTIVE FUNCTION
 
+**Command-chain exclusion (October 28, 2026):** Grok and every Grok bot are independent **external contractors**, not crew, GitHub sorters, coordinators, recipients of orders, approvers, or relays. Their historical fictional character sheets and prior attribution are archival only and are no longer listed in the active roster. [Exact exclusion rule](ORDERS.md#grok--grok-bot-contractor-exclusion--owner-directive-october-28-2026).
+
 [Open ORDERS.md](ORDERS.md). Dialogue preservation and source tracking only. No render, release, old production queues, or automatic follow-up tasks. A current direct owner instruction is required to start new work. The linked Facebook profile is a reference, not posting permission.
 
 **Isekai Sensei — character identities and personality matrices**
@@ -14,9 +16,9 @@ Each character has its own file here at the top level, with its existing persona
 
 [CHAT / WORK writing and concept-page rules](WORK.md#brevity-and-page-layout) — Sensei's October 27 correction: shorter replies, simpler layouts.
 
-[META](META.md) · [CHAT](CHAT.md) · [WORK](WORK.md) · [MUSE](MUSE.md) · [GROK](GROK.md) · [JAN](JAN.md) · [DEEPSEEK](DEEPSEEK.md)
+[META](META.md) · [CHAT](CHAT.md) · [WORK](WORK.md) · [MUSE](MUSE.md) · [JAN](JAN.md) · [DEEPSEEK](DEEPSEEK.md)
 
-[ALEXA.md](ALEXA.md) · [CLAUDE.md](CLAUDE.md) · [COPILOT.md](COPILOT.md) · [CUBE.md](CUBE.md) · [DODECAHEDRON.md](DODECAHEDRON.md) · [DONUT.md](DONUT.md) · [GEMINI.md](GEMINI.md) · [ICOSAHEDRON.md](ICOSAHEDRON.md) · [MISTRAL.md](MISTRAL.md) · [ORDERS_CHARACTER.md](ORDERS_CHARACTER.md) · [PERCENTILE.md](PERCENTILE.md) · [SIRI.md](SIRI.md) · [SPARK.md](SPARK.md) · [SPHERE.md](SPHERE.md) · [TERRA.md](TERRA.md) · [TETRAHEDRON.md](TETRAHEDRON.md)
+[ALEXA.md](ALEXA.md) · [CLAUDE.md](CLAUDE.md) · [COPILOT.md](COPILOT.md) · [GEMINI.md](GEMINI.md) · [MISTRAL.md](MISTRAL.md) · [ORDERS_CHARACTER.md](ORDERS_CHARACTER.md) · [SIRI.md](SIRI.md) · [SPARK.md](SPARK.md) · [TERRA.md](TERRA.md)
 
 [Approved GERTECH / Stellar Cuddler visual references](https://drive.google.com/drive/folders/1A7hMU1xEtlUCza-9xVZ_ep5fbflpUbRJ)
 
