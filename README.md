@@ -2,7 +2,7 @@
 
 **CURRENT PUBLIC STRUCTURE — October 26, 2026 rewrite.** This is the authoritative entrance for fictional agent identities and their individual personality matrices, stored as top-level `.md` cards. The separate [TO WORLD repository](https://github.com/IsekaiSensei/to-world-open-crew) is the entrance for art links, current HTML and independent wing law. Older `to-dog-*` or `vanilla-sky-*` layouts, archived instructions, and prior chat-window memories must **never** be used to replace these character cards, rebuild old `agents/` folders, or overwrite the rewritten organization. Always re-read both CURRENT public READMEs and fetch the exact target file's latest version before proposing an edit. **No writes without Sensei's explicit current request; no automatic restoration from old conversations.** Public creator: **Isekai Sensei**.
 
-## CURRENT ORDERS — ONE ACTIVE FUNCTION
+## CURRENT ORDERS — OWNER-DIRECTED WORK
 
 **READ / LOAD CONTRACT — all agents:** This repository contains reference instructions and personality matrices; **it does not automatically inject them into Meta AI or any external model's memory or native Orders**. For a Meta production, explicitly supply [META.md](META.md), [ORDERS.md](ORDERS.md), the **current numbered production script**, and the **owner-selected character reference images** to that session. Confirm the model actually accessed the file contents and understands the current clip range before generating. If it cannot open the files, give it the relevant exact text; a URL alone is not evidence of loading. Do not use prior failed renders or stale chat memory to replace the current instructions.
 
