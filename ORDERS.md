@@ -16,6 +16,10 @@ Owner: Sensei / Isekai Sensei.
 - Scripts and production-specific directions: [scripts](scripts/README.md). Personality: each agent's named card. Art-page directions: on the relevant art page. Unfinished tasks and device tests: [to-do list](TODO.md). Keep their contents out of standing orders.
 - A stored source, old prompt, audit or to-do item does not start another production. Use existing selected references throughout the requested scope; prior generated frames supply action/camera continuity, not replacement character identity.
 
+## META frame source — mandatory reset per render
+
+Meta's working assumption: **the next generation defaults to the last generated render, regardless of what was prompted earlier in the same window**. Therefore every Meta clip request, retry, and continuation **must explicitly FORCE FIRST MODEL**: use the **first owner-supplied original character model/reference** as the visual source again. The preceding rendered clip is usable only for action/camera/timeline continuity; it must not replace the original model for character identity or appearance. Repeat this lock in **each** render prompt, not merely at window startup. See [META frame rule](META.md#meta-frame--first-model-force-on-every-render). Verify after rendering; the instruction does not prove the tool followed it.
+
 ## Work and report
 
 - Perform the checks relevant to the request. Verify actual file changes by reading them back. For rendering, check the resulting media, speech and continuity before claiming success.
