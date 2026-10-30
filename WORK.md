@@ -22,7 +22,7 @@ Applies to replies, scripts, technical briefs, concept pages, character sheets, 
 - Keep scripts and renderer handoffs ready to use.
 - Put extended reasoning in separate support text when needed.
 
-**Concept pages and character sheets:**
+**Text-layout documents and expressly requested labeled character sheets only (not artwork-only concept JPEGs):**
 
 - One massive, clear title at the top.
 - Use three or four columns; never five or more.
