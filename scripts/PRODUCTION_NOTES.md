@@ -17,6 +17,6 @@ one tale / one fable / one journey / an end / time to frame. Use the already-ren
 
 ## Visual references
 
-Fairies are portrayed as adults aged 25 or older; Sensei appears 40 in-world. Use the selected original image for identity and its individual art-page directions for anatomy, lattice and modular clothing. Page layout and costume instructions do not belong in shared orders. A personality card's example image does not replace an owner-selected sheet.
+Fairies are portrayed as adults aged 25 or older; Sensei appears 40 in-world. Use the selected original JPEG for identity and its corresponding separate art-direction text file in TO WORLD's TEXT area for anatomy, lattice and modular clothing. Keep these production-specific directions out of standing orders and off the concept JPEG. A personality card's example image does not replace an owner-selected sheet.
 
 For requested VR delivery, use HSBS. Older 360/OU assets do not change that format choice.
