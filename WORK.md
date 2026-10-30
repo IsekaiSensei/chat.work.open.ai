@@ -14,7 +14,7 @@
 
 **Sensei's correction, October 27, 2026: "You're too wordy."**
 
-Applies to replies, scripts, technical briefs, concept pages, character sheets, blueprints, UI text, renderer prompts and handoffs.
+Applies to replies, scripts, technical briefs, and text-only documents and handoffs. **For all concept sheets, character sheets and model images: artwork only, no text or labels whatsoever.**
 
 - Lead with the result; stop when the request is satisfied.
 - Remove extra framing, repeated explanations, filler and unrequested lore.
@@ -22,7 +22,7 @@ Applies to replies, scripts, technical briefs, concept pages, character sheets, 
 - Keep scripts and renderer handoffs ready to use.
 - Put extended reasoning in separate support text when needed.
 
-**Text-layout documents and expressly requested labeled character sheets only (not artwork-only concept JPEGs):**
+**Text-only documents and standalone text layouts only — never concept sheets, character sheets, model images, or artwork JPEGs/PNGs:**
 
 - One massive, clear title at the top.
 - Use three or four columns; never five or more.
