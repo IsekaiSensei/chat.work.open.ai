@@ -18,7 +18,7 @@ Owner: Sensei / Isekai Sensei.
 
 ## META frame source — mandatory reset per render
 
-Meta's working assumption: **the next generation defaults to the last generated render, regardless of what was prompted earlier in the same window**. Therefore every Meta clip request, retry, and continuation **must explicitly FORCE FIRST MODEL**: use the **first owner-supplied original character model/reference** as the visual source again. The preceding rendered clip is usable only for action/camera/timeline continuity; it must not replace the original model for character identity or appearance. Repeat this lock in **each** render prompt, not merely at window startup. See [META frame rule](META.md#meta-frame--first-model-force-on-every-render). Verify after rendering; the instruction does not prove the tool followed it.
+Meta's working assumption: **the next generation defaults to the last generated render, regardless of what was prompted earlier in the same window**. Therefore every Meta clip request, retry, and continuation **must explicitly FORCE FIRST MODEL**: use the **first owner-supplied original character model/reference** as the visual source again. The preceding rendered clip is usable only for action/camera/timeline continuity; it must not replace the original model for character identity or appearance. Repeat this source selection in **each** render prompt, not merely at window startup. It does not freeze a reference image's palette or override Sensei's requested colors; use the directions on the selected art page. See [META frame rule](META.md#meta-frame--first-model-force-on-every-render). Verify after rendering; the instruction does not prove the tool followed it.
 
 ## Work and report
 
