@@ -1,7 +1,7 @@
 # ORDERS — CURRENT
 
 Owner: Isekai Sensei
-Production: A Midsummer Night's Dream — GERTECH Dyson Sphere
+Production: ZIPPER — shared intro/outro across drops, videos and video game universes
 
 **This file contains active instructions only.** Do not append progress journals, completed tasks, rejected plans, failure histories, old clip counts, previous orders, audit evidence, or archive summaries. When an instruction stops being active, remove it from this file rather than describing its history here.
 
@@ -9,17 +9,17 @@ Production: A Midsummer Night's Dream — GERTECH Dyson Sphere
 
 Any agent must be able to execute the selected production from its shared script, scene order and selected references, without relying on the chat or agent that created it. Every script is an agent-neutral handoff: named speakers, dialogue, source IDs, sequence, timing and reference links must travel with the script, not live in one agent's memory.
 
-The current shared assignment is to readapt *A Midsummer Night's Dream* section by section as a dramatic production set inside a functioning, surreal GERTECH Dyson sphere.
+The current shared production is **ZIPPER**: the common intro and outro connecting every drop, video and video game universe.
 
-- Write playable scenes with actual dialogue and, where useful, lyrics; do not substitute plot summaries.
-- Preserve the original scene's dramatic purpose, relationships, conflicts, emotional progression, humor, double meanings, and payoffs.
-- Transform the dialogue, actions, setting and metaphors to fit fabrication, cybernetics, regeneration, crystal engineering, energy systems, and ether relays.
-- The source play remains unchanged. Keep the new adaptation clearly separate from it.
+**Active script and sequence for Meta:** [ZIPPER.txt](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/scripts/ZIPPER.txt).
 
+[Current Drive text](https://drive.google.com/file/d/16TuVMibLp3z0gRtXzcMzbNlMxhYLUvf-/view).
 
-**Active script and sequence:** [MIDSUMMER NIGHT'S STREAM — ACT I — COMPLETE](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc).
+- Read the current text in that file and render the selected numbered scenes with the existing owner-selected character, equipment and environment references.
+- Use the zipper/wormhole opening and closing as the shared entry and exit for the selected universe. Preserve the script's words, actions, sequence and seven-second timing.
+- Meta's production task is video rendering from that text and the selected clean frame.
 
-**ZIPPER — seven-second scenes:** [ZIPPER.txt](https://drive.google.com/file/d/16TuVMibLp3z0gRtXzcMzbNlMxhYLUvf-/view).
+[MIDSUMMER NIGHT'S STREAM — ACT I — COMPLETE](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc) supplies its story sequence when that material is selected.
 
 ## 2. Characters, construction and factions
 
@@ -50,7 +50,7 @@ The current shared assignment is to readapt *A Midsummer Night's Dream* section 
 ## 5. Render execution
 
 - **Batch size:** 10 consecutive clips; the final batch may be shorter.
-- **Timing:** around 8 seconds is typical, 10 seconds is a target rather than a forced duration; allow 6–12 seconds as dialogue and music require. Prefer natural phrase boundaries.
+- **Timing:** ZIPPER scenes are exactly seven seconds, following each scene's four timed beats. Other selected script material follows its own timing.
 - Immediately precede each dialogue or SING line with the named performer and the appropriate **he:/she:/they:** label. Only that performer mouths the line.
 - In **every render job**, attach/reference that character's actual selected JPEG and explicitly instruct **FORCE FIRST MODEL** using that original source. Do not derive identity from the preceding render.
 - Preserve musical, visual and character continuity across consecutive clips.
