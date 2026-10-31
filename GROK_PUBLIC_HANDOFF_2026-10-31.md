@@ -126,4 +126,9 @@ Source: [WORLD BOOK / MECHA ZODIAC JPEG frames](https://drive.google.com/drive/f
 4. Send exact blocked file IDs and operations to Chat/Work through an ordinary request file; an earlier 403 is not a completed move.
 5. Keep public output accessible and directly linked. This task file does not authorize rewriting unrelated orders, creative dialogue or personality canon.
 
-Delivery state for this handoff: written public handoff and source inventory prepared by Chat/Work. Grok live-chat acknowledgment has not been observed; the browser is signed out of Grok. A Drive inbox request is a delivery artifact, not evidence that Grok has read or executed it.
+Delivery verified by Chat/Work:
+- The public handoff was uploaded to the existing public TEXT access point, read back, and checked for anyone-reader access: https://drive.google.com/file/d/1r8XFi-oh1n9mczclT9oUndAaSELLrC5W/view?usp=drivesdk
+- A request was written to the existing Doughnut/Torus relay bowl and read back: https://drive.google.com/file/d/1G6PcvR1KXRbU9EaI5uwcAuT41rtAK2tJ/view?usp=drivesdk
+- A pointer was placed in the existing Grok INBOX.
+- Doughnut offer v2 was filtered to use Isekai Sensei and moved, preserving its file ID, to the existing public TEXT access point; its anyone-reader permission was verified: https://drive.google.com/file/d/1buTLCsqMAOzMGM-K3sBPRj8Hxvv7znDE/view?usp=drivesdk
+- Grok live-chat acknowledgment has not been observed; the browser is signed out of Grok. A Drive inbox request is a delivery artifact, not evidence that Grok has read or executed it.
