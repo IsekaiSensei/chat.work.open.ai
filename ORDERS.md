@@ -4,7 +4,11 @@
 
 ## CORE CANON — THE SPACE BEHIND THE INVENTORY
 
-Our lattice squares are the generic inventory slots on the screen a player opens with Start or its equivalent—from Star Wars and Skyrim to No Man's Sky and Diablo. We show the space behind those slots: storage, fairy desks and work, wormhole routing, inventory updates and spawn-point arrivals. The gem and shaft arrive on the fairy's desk; she builds the item and sends it back. The player sees a flash; we show the full 30 seconds in between. Read this governing premise first in the [live Drive orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit).
+ZIPPER is the shared-universe intro/outro and the connection between the player's ordinary inventory screen and the real working world behind it. Our gold/crystal lattice squares are the generic inventory slots. Their interiors contain storage, fairy workbenches and linked spawn points. Describe the physical connection in new render prompts as a wormhole aperture through the owner-selected lattice geometry.
+
+For an inventory Combine, show the actual transaction: the player places a gem and shaft into generic combiner slots; those same inputs arrive through the incoming wormhole onto the fairy's desk; the fairy performs the requested assembly; the completed item returns through the wormhole to the player's inventory; then the inventory updates. The player sees a flash. We show the full 30 seconds of work in between, including the receiving, keeping, working and sending of the items.
+
+Read this governing premise first in the [live Drive orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). In source scene language, “unzips” and “zips shut” describe the wormhole aperture opening and closing.
 
 ## CASTING — FINAL
 
@@ -22,7 +26,7 @@ An explicit owner's FIRST MODEL selection overrides a generic source-image text 
 
 - **Read-only original:** [canonical Drive ZIPPER.txt](https://drive.google.com/file/d/16TuVMibLp3z0gRtXzcMzbNlMxhYLUvf-/view) ([GitHub mirror](scripts/ZIPPER.txt)) — 74 numbered scenes, ZIPPER 001–074, 7 seconds each. **Last numbered scene: ZIPPER 074 — BROOM.** Never rewrite its beats for a prompt correction.
 - **Derived execution adaptation:** [scripts/ZIPPER_CINEMA_CONTINUE.txt](scripts/ZIPPER_CINEMA_CONTINUE.txt) and [Drive copy](https://docs.google.com/document/d/1NBGTUdJ5CgJwmX9bq4gc-4NLOaTii2G9bZ_3eNaUNTI/edit). Cinema Continue never overrides the original ZIPPER beats.
-- **Source-side ZIPPER physics:** wizard requests; fairy collects actual source material; small gold brass-toothed intake opens beside the material at that source; fairy sends cargo and actuates a control; effect appears at wizard wand/target, **not through a giant wizard-side portal**; delivery intake closes. ZIPPER 014 PORTAL has a distinct destination doorway that stays open. Keep the gold closed seam as match-cut anchor.
+- **Inventory / Combine transfer:** actual inputs move from generic player inventory slots to the fairy's desk; she does the requested physical work; the finished item returns through the wormhole; inventory updates after return. Show the hidden 30-second process. Spawn requests use their selected receiving point. Existing numbered spell vignettes retain their specific source, control, wand effect and timing when those scenes are selected; ZIPPER 014 retains its authored destination doorway.
 - **Continuity:** use previous approved terminal frame for camera/seam only, never identity. If frame unavailable, do not invent one.
 - **Authorization:** PAUSED by default. `render 00X` authorizes that one clip; `go batch 0X` authorizes only that named batch; return to PAUSED afterward. A story discussion, report, or treatment edit is **not GO**.
 - **Status (reported, not independent proof):** Meta/Drive reported generated through 010 in an earlier run. Owner inspected SHIELD 008 and HEAL 009 as usable effects; character/seam flaws remain. GOLD-FIXED-WORMHOLE Batch 01 **RERUN PAUSED** until owner explicitly authorizes it. Keep generated, approved, rejected and verified-continuity-frame status separate.
