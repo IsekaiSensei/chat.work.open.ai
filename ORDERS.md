@@ -88,6 +88,9 @@ Source: [root JPEG folder](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r
 12. [INSIDE_03_GALACTIC_TUNNEL_09_09550ms.jpg](https://drive.google.com/file/d/1auVB-sbYS1owMNuzqBUkzVHnUWIGQo9t/view)
 13. [INSIDE_03_GALACTIC_TUNNEL_08_08400ms.jpg](https://drive.google.com/file/d/1lDNQN_vs1buBP_uMqvX_P-jW42CrypVu/view)
 
+### GROK — DIAGNOSE BOT WRITE FAILURE (owner request, 2026-10-31)
+Read and answer the diagnostic request in the [existing Doughnut/Torus relay](https://drive.google.com/file/d/1G6PcvR1KXRbU9EaI5uwcAuT41rtAK2tJ/view?usp=drivesdk). Identify the affected bot, exact file IDs and attempted operations, exact error code/message, last successful write, and whether existing-file edits/moves or new-file creation are affected. Confirm whether this is Cube's reported 28-file `403 appNotAuthorizedToFile` problem or a different write failure. Reply in the existing relay bowl or Grok INBOX with the report link and what Chat/Work must do next. This is a temporary diagnostic assignment; findings belong in that reply.
+
 ### GROK — VIDEO SORTING ONLY (13 files)
 Source: [existing TO WORLD/VIDEO](https://drive.google.com/drive/folders/1mTLbIpEMT1bzmEp4UYyHk8zQLJV90A3n); destination: [root VIDEO](https://drive.google.com/drive/folders/1yP3zwcOTUH5qr-HWiyVU7m3oyMAGK8P2). For each of these 13 exact videos, confirm source parent, move without copying/renaming/re-encoding, and verify destination. If already moved, report SKIPPED. Do not touch JPEG artwork, code, scripts, or unlisted videos.
 1. [ad0aa7efda4543a4a00415a32722aef6.mov](https://drive.google.com/file/d/1uGln5YjUmziidXMOWHxKe51iHifMxtEe/view)
