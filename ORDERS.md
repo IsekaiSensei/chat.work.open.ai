@@ -60,7 +60,7 @@ The current shared assignment is to readapt *A Midsummer Night's Dream* section 
 - **GitHub:** canonical scripts, code, manifests and current orders.
 - **Google Drive:** art, JPEG references and video, plus public-access orders and individual-agent scripts that can be opened directly by any new agent. These are specific access exceptions, not a requirement to mirror everything.
 - [TO WORLD](https://drive.google.com/drive/folders/1848layOO9qRV3Mt7w6kSuIV5zX3Lu_IV)
-- [JPEG references](https://drive.google.com/drive/folders/1htrfgWBc9No_9_TwSdvxm1P_oJForooP)
+- [JPEG references](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT)
 - [Separate art text directions](https://drive.google.com/drive/folders/1TIKwqEXMlWiyxa7asubaj8Xc3dUzb5h6)
 - Public creator credit: **Isekai Sensei**.
 
