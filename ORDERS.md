@@ -17,7 +17,7 @@ The current shared assignment is to readapt *A Midsummer Night's Dream* section 
 - The source play remains unchanged. Keep the new adaptation clearly separate from it.
 
 
-**Active script and sequence:** [MIDSUMMER DYSON — SCENE ORDER](scripts/MIDSUMMER_DYSON/SCENE_ORDER.md). Scene dialogue lives in that script directory, not in this orders file.
+**Active script and sequence:** [MIDSUMMER NIGHT'S STREAM — ACT I — COMPLETE](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc).
 
 **ZIPPER — seven-second scenes:** [ZIPPER.txt](https://drive.google.com/file/d/16TuVMibLp3z0gRtXzcMzbNlMxhYLUvf-/view).
 
