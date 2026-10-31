@@ -31,6 +31,7 @@ Readapt *A Midsummer Night's Dream* section by section as a dramatic production 
 - Only **owner-reviewed and selected art** becomes the primary visual reference. A supplied or newly generated image is a candidate until selected.
 - **FIRST MODEL** means the original selected image for this production and character, never an image from a later render.
 - **Image-only artwork:** Every concept, character sheet, LoRA reference, World Seed image, pose, model, equipment, and environment image must contain **ZERO embedded text**—no titles, names, labels, numbers, directions, prompts, notes, specification tables, captions, or annotations. Do not add decorative text. Keep directions and metadata in **separate text files**, never inside the artwork.
+- **Storyboards / single-render prompt sheets are separate deliverables.** Only when the owner requests one for a specific render project, a single prompt sheet may be split between visual reference and written scene direction; those two parts together serve **one render prompt**. That project-specific sheet does **not** modify, relabel, or set the layout standard for the underlying concept art, character sheets, or LoRA imagery.
 - Use clean, owner-selected reference imagery for FIRST MODEL. Do not treat annotated compilation sheets as primary image sources. Preserve originals; clean replacements must be actual image edits, not claims that text was removed.
 - Keep the Dyson sphere, its habitats, machinery and relay infrastructure visually coherent throughout each scene.
 
