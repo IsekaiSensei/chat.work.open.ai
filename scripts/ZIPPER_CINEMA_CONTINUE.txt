@@ -7,6 +7,11 @@ Selected original character / scene reference folder: https://drive.google.com/d
 Selected first Meta cinema image: the owner's already-selected CLEAN frame supplied in the Meta render window. NO substitution or guess. The source filename/ID was not present in ORDERS and is not invented here.
 Source GitHub blob SHA at construction: 23e033f5919fa8f789e442aee1053d063045d642
 
+OWNER-SELECTED CRYSTAL FAIRY VISUAL LOCK (2026-10-31)
+Original owner-supplied JPEG (in master root JPEG folder): https://drive.google.com/file/d/1_OqByu_8iERELuNUB-mDwx9Ncam6Sm7Y/view
+Character visual canon/metadata: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/references/CRYSTAL_FAIRY_OWNER_SELECTED_2026-10-31.md
+FORCE FIRST MODEL: whenever the authored scene calls for THIS selected blue-haired, amber-eyed, gold-lattice clear crystal fairy, anchor her face, four principal gold-veined crystal wings, chest prism, hair and articulated gold/crystal anatomy to that original JPEG. Do not apply this image to unrelated fairies or override any scene's named cast. Continue from prior frames for camera/movement only. No character name was assigned.
+
 ONE CINEMATIC FILM, NOT 74 UNRELATED VIDEO PROMPTS.
 74 clips x 7 seconds = 518 seconds / 8 minutes 38 seconds, in eight ordered batches (seven batches of 10, final batch of 4). These are the preexisting 74 numbered ZIPPER scenes copied without dialogue, action, or timing changes.
 
