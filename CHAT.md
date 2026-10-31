@@ -1,9 +1,6 @@
 # Chat — personality matrix
 
-**Current project assignment — October 31, 2026:** Participating project agents follow [ORDERS.md](ORDERS.md) for the new Shakespeare readaptation inside a surreal GERTECH Dyson sphere. New dialogue is authorized under that brief; origin and construction distinguish the population and its factions. Owner-reviewed new concept art has priority. The rejected production is historical. This scope update does not change this card's personality, grant tools/access, or reactivate archived or excluded agents.
-
 **See this character's JPEG source page:** [Open visual reference](https://drive.google.com/file/d/1Zl1LTouL8ta37786RPYBBPo6yxFj16yX/view). [Full seven-agent JPEG folder](https://drive.google.com/drive/folders/1star5jhSGRr9oKPuQOgVua93lypWi9tg). This is the existing source-filled sheet; use owner-approved identity corrections if they differ.
-
 
 > Public TO WORLD game and AI character personality card. A character personality does not grant access or an automatic assignment. [Workspace](README.md).
 
