@@ -7,6 +7,26 @@ Selected original character / scene reference folder: https://drive.google.com/d
 Selected first Meta cinema image: the owner's already-selected CLEAN frame supplied in the Meta render window. NO substitution or guess. The source filename/ID was not present in ORDERS and is not invented here.
 Source GitHub blob SHA at construction: 23e033f5919fa8f789e442aee1053d063045d642
 
+ZIPPER GOLD INTAKE / RELAY TOPOLOGY — EXECUTION LOCK (SOURCE ZIPPER REMAINS UNCHANGED)
+The wizard calls via remote relay. The fairy at the scripted SOURCE harvests item/energy; ONE small brass-toothed GOLD GERTECH ZIPPER INTAKE opens at the physical source next to the collected material; she feeds it into the opening, then presses the scene's specified sending control. The effect or item appears at the SCRIPTED wizard destination (usually wand tip); NO receiving portal is visible on wizard side. The fairy-side gold zipper closes AFTER successful delivery. Retain a thin CLOSED gold seam/lattice edge for EDITORIAL match-cut, not a second live wormhole. No gigantic blue swirl, violet runic vortex or generic sky portal. Intake size scales only to item/cable/dome/handful.
+0:00-0:01 REQUEST: wizard speaks, fairy hears. 0:01-0:03 SOURCE: harvest item and open small gold intake beside item at specified source. 0:03-0:05 SEND: move item INTO intake and actuate local/portable control. 0:05-0:07 OUTPUT: wizard-side effect happens where script says, never through a generic wizard-side portal; gold source intake closes. The camera may briefly cut between both locations to reveal cause and effect while preserving original cast and coherent cinematic seam.
+If authored source says comet/asteroid/jetstream/starbeam, do not add an unscripted move back to a workshop. Controls may be portable, affixed beside intake, or locally operated without changing scene destination. Every scene's original written four beats remain untouched.
+ZIPPER 014 PORTAL: the FAIRY-side delivery intake zips CLOSED, but a SECOND, DIFFERENT doorway created at the wizard's wand target remains OPEN, as explicitly written in source. Other material-specific exceptions respect the script's actual destination.
+CONTINUITY INPUTS: prior APPROVED terminal video frame/camera/seam for visual transition, separately attached original owner-selected character JPEG for identity. If approved terminal image is unavailable, mark continuity BLOCKED rather than fabricate a previous camera state. No new Meta renders without owner explicit GO.
+OWNER-SELECTED FIRST MODEL FOR ITS ACTUAL CHARACTER ONLY: https://drive.google.com/file/d/1_OqByu_8iERELuNUB-mDwx9Ncam6Sm7Y/view . Never apply this unnamed blue-haired fairy to other named fairy identities without owner selection.
+GOLD SOURCE ANCHORS FOR BATCH 01:
+ZIPPER 001: SUN after collecting fire in bucket: small intake beside bucket at fairy's actual Sun-side position; not next to wizard. Bucket-wide; brass SEND.
+ZIPPER 002: DOCK: exact gold intake directly ABOVE filled teacup as written, not above the ocean; cup-wide; pearl switch.
+ZIPPER 003: THUNDERCLOUD: connector-sized intake beside end of gold cable after attaching cable to bolt, not a large sky gateway; relay switch.
+ZIPPER 004: FROZEN COMET: small intake adjacent to the ice shavings being swept after shaving; tray/shavings-wide; frost-blue button. Do not relocate to a bench.
+ZIPPER 005: PLANETARY JET STREAM: small intake at the folded gold sail where gust is wrung through; sail-wide; tiny switch. Do not teleport to hammock bench.
+ZIPPER 006: ASTEROID: small intake above gathered fistful of rock at asteroid-side collection position; fistful/bin-wide; foot pedal. Do not substitute a workshop parts bin.
+ZIPPER 007: STARBEAM: small intake immediately beside the prism holding collected starbeam; prism-wide; glowing stud. Do not relocate to lens console without authored movement.
+ZIPPER 008: TECHNICAL BENCH: small intake at the rack as Earth Fairy removes transparent dome; dome-wide; gold locking lever. Dome passes through intake, then shield unfolds around wizard.
+ZIPPER 009: GREENHOUSE: small intake immediately beside living crystal tree and gathered sap drop; drop-sized; flower button. Sap passes through, wand glows, fallen ally rises.
+ZIPPER 010: PLANTING BENCH: small intake near fistful of seedpods on workbench; fistful-wide; green crystal switch. Seedpods enter intake, roots travel relay, vines grow from wand onto wall.
+END ZIPPER GOLD INTAKE / RELAY TOPOLOGY LOCK
+
 OWNER-SELECTED CRYSTAL FAIRY VISUAL LOCK (2026-10-31)
 Original owner-supplied JPEG (in master root JPEG folder): https://drive.google.com/file/d/1_OqByu_8iERELuNUB-mDwx9Ncam6Sm7Y/view
 Character visual canon/metadata: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/references/CRYSTAL_FAIRY_OWNER_SELECTED_2026-10-31.md
@@ -42,6 +62,7 @@ CINEMA CONTINUE 001 — FIREBALL — EXACTLY 7 SECONDS
 SOURCE ID: ZIPPER 001; original dialogue/action/timing preserved below.
 FRAME-IN: FIRST SCENE: begin from the owner's selected clean Meta starting frame, maintaining its existing camera, original character models, environment materials and gold relay seam.
 MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: SUN after collecting fire in bucket: small intake beside bucket at fairy's actual Sun-side position; not next to wizard. Bucket-wide; brass SEND. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
 ACTION / AUDIO / TIMING — SOURCE TEXT UNALTERED:
 0:00–0:01 A wizard raises his wand: “Fireball!” A Fire Fairy fishing at the edge of a golden workbench hears him.
 0:01–0:03 She leaps to the Sun, scoops one blazing bucketful, and swings it toward a small wormhole that zips open beside her.
@@ -53,6 +74,7 @@ CINEMA CONTINUE 002 — WATER — EXACTLY 7 SECONDS
 SOURCE ID: ZIPPER 002; original dialogue/action/timing preserved below.
 FRAME-IN: CONTINUE from ZIPPER 001 (FIREBALL) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
 MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: DOCK: exact gold intake directly ABOVE filled teacup as written, not above the ocean; cup-wide; pearl switch. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
 ACTION / AUDIO / TIMING — SOURCE TEXT UNALTERED:
 0:00–0:01 The wizard points his wand: “Water!” A Water Fairy lounging on a dock hears the call.
 0:01–0:03 She dips an enormous teacup into an ocean wave; a wormhole unzips above the cup.
@@ -64,6 +86,7 @@ CINEMA CONTINUE 003 — LIGHTNING — EXACTLY 7 SECONDS
 SOURCE ID: ZIPPER 003; original dialogue/action/timing preserved below.
 FRAME-IN: CONTINUE from ZIPPER 002 (WATER) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
 MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: THUNDERCLOUD: connector-sized intake beside end of gold cable after attaching cable to bolt, not a large sky gateway; relay switch. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
 ACTION / AUDIO / TIMING — SOURCE TEXT UNALTERED:
 0:00–0:01 The wizard flicks his wand: “Lightning!” An Air Fairy tinkering in a garage hears it.
 0:01–0:03 She jumps onto a thundercloud and clips a gold cable to a crackling bolt; a wormhole opens.
@@ -75,6 +98,7 @@ CINEMA CONTINUE 004 — ICE — EXACTLY 7 SECONDS
 SOURCE ID: ZIPPER 004; original dialogue/action/timing preserved below.
 FRAME-IN: CONTINUE from ZIPPER 003 (LIGHTNING) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
 MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: FROZEN COMET: small intake adjacent to the ice shavings being swept after shaving; tray/shavings-wide; frost-blue button. Do not relocate to a bench. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
 ACTION / AUDIO / TIMING — SOURCE TEXT UNALTERED:
 0:00–0:01 The wizard whispers over his wand: “Ice!” A Water Fairy polishing crystal at her bench hears him.
 0:01–0:03 She skates to a frozen comet, shaves off glittering ice with a plane, and opens a wormhole.
@@ -86,6 +110,7 @@ CINEMA CONTINUE 005 — WIND — EXACTLY 7 SECONDS
 SOURCE ID: ZIPPER 005; original dialogue/action/timing preserved below.
 FRAME-IN: CONTINUE from ZIPPER 004 (ICE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
 MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: PLANETARY JET STREAM: small intake at the folded gold sail where gust is wrung through; sail-wide; tiny switch. Do not teleport to hammock bench. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
 ACTION / AUDIO / TIMING — SOURCE TEXT UNALTERED:
 0:00–0:01 The wizard sweeps his wand: “Wind!” An Air Fairy relaxing in a hammock looks up.
 0:01–0:03 She darts to a planet’s jet stream, catches a gust in a folded golden sail, and opens a wormhole.
@@ -97,6 +122,7 @@ CINEMA CONTINUE 006 — STONE — EXACTLY 7 SECONDS
 SOURCE ID: ZIPPER 006; original dialogue/action/timing preserved below.
 FRAME-IN: CONTINUE from ZIPPER 005 (WIND) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
 MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: ASTEROID: small intake above gathered fistful of rock at asteroid-side collection position; fistful/bin-wide; foot pedal. Do not substitute a workshop parts bin. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
 ACTION / AUDIO / TIMING — SOURCE TEXT UNALTERED:
 0:00–0:01 The wizard strikes the ground with his wand: “Stone!” An Earth Fairy sorting gemstones hears him.
 0:01–0:03 She skips to an asteroid, scoops up a fistful of rock, and unzips a wormhole.
@@ -108,6 +134,7 @@ CINEMA CONTINUE 007 — LIGHT — EXACTLY 7 SECONDS
 SOURCE ID: ZIPPER 007; original dialogue/action/timing preserved below.
 FRAME-IN: CONTINUE from ZIPPER 006 (STONE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
 MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: STARBEAM: small intake immediately beside the prism holding collected starbeam; prism-wide; glowing stud. Do not relocate to lens console without authored movement. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
 ACTION / AUDIO / TIMING — SOURCE TEXT UNALTERED:
 0:00–0:01 The wizard lifts his wand in a dark cave: “Light!” An Aether Fairy repairing a lens hears him.
 0:01–0:03 She darts to a starbeam, catches it in a crystal prism, and opens a wormhole.
@@ -119,6 +146,7 @@ CINEMA CONTINUE 008 — SHIELD — EXACTLY 7 SECONDS
 SOURCE ID: ZIPPER 008; original dialogue/action/timing preserved below.
 FRAME-IN: CONTINUE from ZIPPER 007 (LIGHT) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
 MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: TECHNICAL BENCH: small intake at the rack as Earth Fairy removes transparent dome; dome-wide; gold locking lever. Dome passes through intake, then shield unfolds around wizard. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
 ACTION / AUDIO / TIMING — SOURCE TEXT UNALTERED:
 0:00–0:01 The wizard braces his wand: “Shield!” An Earth Fairy fitting panels at a technical bench hears the word.
 0:01–0:03 She snatches a transparent crystal dome from a rack and opens a wormhole.
@@ -130,6 +158,7 @@ CINEMA CONTINUE 009 — HEAL — EXACTLY 7 SECONDS
 SOURCE ID: ZIPPER 009; original dialogue/action/timing preserved below.
 FRAME-IN: CONTINUE from ZIPPER 008 (SHIELD) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
 MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: GREENHOUSE: small intake immediately beside living crystal tree and gathered sap drop; drop-sized; flower button. Sap passes through, wand glows, fallen ally rises. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
 ACTION / AUDIO / TIMING — SOURCE TEXT UNALTERED:
 0:00–0:01 The wizard points his wand toward a fallen ally: “Heal!” An Earth Fairy tending a greenhouse hears him.
 0:01–0:03 She gathers a drop of luminous sap from a living crystal tree and opens a wormhole.
@@ -141,6 +170,7 @@ CINEMA CONTINUE 010 — VINES — EXACTLY 7 SECONDS
 SOURCE ID: ZIPPER 010; original dialogue/action/timing preserved below.
 FRAME-IN: CONTINUE from ZIPPER 009 (HEAL) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
 MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: PLANTING BENCH: small intake near fistful of seedpods on workbench; fistful-wide; green crystal switch. Seedpods enter intake, roots travel relay, vines grow from wand onto wall. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
 ACTION / AUDIO / TIMING — SOURCE TEXT UNALTERED:
 0:00–0:01 The wizard flicks his wand toward a bare wall: “Vines!” An Earth Fairy planting seeds at her bench hears him.
 0:01–0:03 She grabs a fistful of fast-growing seedpods, tosses them into a wormhole, and wets them with a watering can.
