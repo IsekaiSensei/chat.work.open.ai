@@ -19,6 +19,8 @@ The current shared assignment is to readapt *A Midsummer Night's Dream* section 
 
 **Active script and sequence:** [MIDSUMMER DYSON — SCENE ORDER](scripts/MIDSUMMER_DYSON/SCENE_ORDER.md). Scene dialogue lives in that script directory, not in this orders file.
 
+**ZIPPER — seven-second scenes:** [ZIPPER.txt](https://drive.google.com/file/d/16TuVMibLp3z0gRtXzcMzbNlMxhYLUvf-/view).
+
 ## 2. Characters, construction and factions
 
 - **Athenians:** visibly engineered cyborgs; varied degrees of organic and mechanical construction.
