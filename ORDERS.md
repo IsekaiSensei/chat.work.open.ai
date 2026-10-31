@@ -1,3 +1,26 @@
+## META — TOP PRIORITY / ZIPPER CINEMA CONTINUE
+
+**PRODUCTION:** ZIPPER Cinema Continue — 74 clips × 7 seconds.
+
+**FIRST MODEL:** Owner-selected clean JPEG only — blue-haired, amber-eyed, gold-lattice clear crystal fairy; adult 25+; 165 cm; articulated gold/crystal anatomy. Never derive identity from later renders.
+
+**META RENDER LOCK**
+- Fairies: adults 25+ only, mature facial structure, adult proportions and adult silhouette — zero juvenile, zero childlike, zero 10 cm.
+- Isekai Sensei: age 40.
+- Image-only artwork: ZERO embedded text.
+- Every clip: FORCE FIRST MODEL, attaching the actual selected JPEG.
+- Batches of 10; each ZIPPER scene exactly 7 seconds; 16:9 landscape; continuous gold GERTECH lattice.
+- If a generation note says "young" or the character looks younger than 25+, REJECT immediately; do not count that clip as rendered.
+- Every report must include LAST RENDERED CLIP.
+- **PAUSED BY DEFAULT. Do not render until the owner explicitly says "render 00X" or "go batch 0X".** General conversation, script review, or a status request is not permission to render.
+
+**CURRENT META STATUS:** LAST RENDERED CLIP: 001. Clip 002 WATER rejected (younger drift). Batch 01 paused at 001; awaiting explicit GO.
+
+**Meta orders (Google Drive):** https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit  
+**Selected JPEG references:** https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT
+
+---
+
 # ORDERS — CURRENT
 
 Owner: Isekai Sensei
@@ -54,7 +77,7 @@ The current shared production is **ZIPPER**: the common intro and outro connecti
 - Immediately precede each dialogue or SING line with the named performer and the appropriate **he:/she:/they:** label. Only that performer mouths the line.
 - In **every render job**, attach/reference that character's actual selected JPEG and explicitly instruct **FORCE FIRST MODEL** using that original source. Do not derive identity from the preceding render.
 - Preserve musical, visual and character continuity across consecutive clips.
-- When the owner says **run, render, go, or proceed** for an identified scope, process its ordered batches without asking for a second GO. Do not claim a video was rendered unless a video render is verified.
+- For Meta ZIPPER production, the **PAUSED BY DEFAULT** and explicit **"render 00X" / "go batch 0X"** rule at the top controls authorization; once specifically authorized, process that identified scope without asking for a second GO. Do not claim a video was rendered unless a video render is verified.
 - Keep rendered, pending, rejected and unknown statuses distinct. Render-status reports end with **LAST RENDERED CLIP: NNNN** or **LAST RENDERED CLIP: NONE**, whichever is verified.
 
 ## 6. Working locations and credits
