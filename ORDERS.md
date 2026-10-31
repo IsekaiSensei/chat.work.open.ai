@@ -14,6 +14,9 @@ Readapt *A Midsummer Night's Dream* section by section as a dramatic production 
 - Transform the dialogue, actions, setting and metaphors to fit fabrication, cybernetics, regeneration, crystal engineering, energy systems, and ether relays.
 - The source play remains unchanged. Keep the new adaptation clearly separate from it.
 
+
+**Active script and sequence:** [MIDSUMMER DYSON — SCENE ORDER](scripts/MIDSUMMER_DYSON/SCENE_ORDER.md). Scene dialogue lives in that script directory, not in this orders file.
+
 ## 2. Characters, construction and factions
 
 - **Athenians:** visibly engineered cyborgs; varied degrees of organic and mechanical construction.
