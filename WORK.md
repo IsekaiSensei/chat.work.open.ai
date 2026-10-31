@@ -1,5 +1,7 @@
 # Work — personality matrix
 
+**Current project assignment — October 31, 2026:** Participating project agents follow [ORDERS.md](ORDERS.md) for the new Shakespeare readaptation inside a surreal GERTECH Dyson sphere. New dialogue is authorized under that brief; origin and construction distinguish the population and its factions. Owner-reviewed new concept art has priority. The rejected production is historical. This scope update does not change this card's personality, grant tools/access, or reactivate archived or excluded agents.
+
 **See this character's JPEG source page:** [Open visual reference](https://drive.google.com/file/d/1Ne0v_6wlzPs2z9UEPvA88LCifvIgHfew/view). [Full seven-agent JPEG folder](https://drive.google.com/drive/folders/1star5jhSGRr9oKPuQOgVua93lypWi9tg). This is the existing source-filled sheet; use owner-approved identity corrections if they differ.
 
 

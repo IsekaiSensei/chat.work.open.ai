@@ -1,7 +1,41 @@
-# ORDERS — UNIVERSAL GAME TRANSITIONS
+# ORDERS — DYSON SPHERE SHAKESPEARE READAPTATION
 
 Owner: Sensei / Isekai Sensei.
-Current scope reset: October 30, 2026.
+Current scope reset: October 31, 2026.
+
+## Active assignment — owner reset, October 31, 2026
+
+All agents now work on the new Shakespeare readaptation being established for a surreal GERTECH Dyson-sphere production. This fresh owner instruction supersedes the previous universal-game-only assignment and the rejected Midsummer production's cast, staging, exact-dialogue requirement, clip plan and render queue. Preserve those files as historical material; do not continue an old run from its GO, numbering or links.
+
+### Adaptation
+
+Readapt Shakespeare section by section. Change each section enough to make its language and action belong inside a futuristic, operating Dyson sphere. Preserve the section's dramatic purpose, relationships, conflicts, emotional progression, comic payoffs and double meanings. Develop a real dramatic script rather than a condensed plot summary. New dialogue and lyrics are expressly authorized for this adaptation; Shakespeare's exact original words are no longer a production constraint. Keep the original source intact and distinguish the new adaptation from it.
+
+### Beings and origin factions
+
+The population includes full androids, robots, cyborgs, partially human people, naturally made people, and beings regenerated completely through artifice. They are different types with different construction and origin histories; do not reduce the ensemble to one generic android model.
+
+How someone was made becomes a social and factional dividing line: printed, made, built, made by nature, and regenerated through artifice. Characters put these distinctions in front of themselves as identity, pedigree, allegiance, status and prejudice. Let those divisions affect love, authority, belonging and conflict in the adaptation. Final faction names and character-to-faction assignments are not established by this brief.
+
+### Visual direction
+
+The whole cast, body construction, machinery and environment must belong to the established surreal GERTECH world inside the Dyson sphere. Make fabrication, cybernetics, regeneration, energy infrastructure and ether relays part of the physical drama, including technological equivalents for Shakespeare's double meanings.
+
+Sensei is generating new concept art in another chat. After Sensei reviews and selects it, that new art goes above older concepts as the primary visual source. Do not call an unseen or unreviewed image approved. Do not fall back to the rejected lineup as the active cast. For this reset, FIRST MODEL means the owner-selected source for the new production after art review, not the earlier rejected Midsummer lineup. The owner's art review is the selection step he requested, not a new approval loop invented by an agent. Continue the authorized script development and preparation.
+
+Current portrayal rule: fairy portrayals are adults 25+ and Isekai Sensei is 40 when included, unless Sensei changes the selected portrayal.
+
+Reference locations: [TO WORLD](https://drive.google.com/drive/folders/1848layOO9qRV3Mt7w6kSuIV5zX3Lu_IV) · [JPEG pictures](https://drive.google.com/drive/folders/1Hp3jdMGAu989fg-IFVcfMcMfttP1KxxY) · [Separate text directions](https://drive.google.com/drive/folders/1TIKwqEXMlWiyxa7asubaj8Xc3dUzb5h6). A folder location does not approve a particular image.
+
+### Current work and future execution
+
+Establish the new script under this brief. No replacement shooting master, cast-to-faction map or clip count has yet been established; the previous 193-clip script and its twenty batch documents are historical and rejected for execution.
+
+For future renders, use ten consecutive clips per batch, with a shorter final batch only when needed. Most renders should be around eight seconds; ten is a target; allow six to twelve seconds, with twelve rare and only when absolutely necessary. Fit the complete adapted words and scene at the selected singing pace. Divide overlong passages at natural musical or phrase boundaries. Once the new script and music are selected, preserve that selected performance during batching and rendering.
+
+Put the named speaker immediately before each dialogue/SING line, with the appropriate he:/she:/they: label. Only that named performer mouths the line. Use each character's selected actual JPEG in every render job and repeat FORCE FIRST MODEL with the character's source reference in that job.
+
+When Sensei identifies a new script/scope and says run the script, render it, go or proceed, execute that scope through its ordered batches without a second GO between clips or batches. A historical GO does not revive the rejected production. A script edit, prompt, receipt or still image is not a verified video render. Every script-check/render-status report ends with the exact last line LAST RENDERED CLIP: NNNN or LAST RENDERED CLIP: NONE.
 
 ## HARD STOP — SOURCE PRESERVATION / SECTIONING IS NOT REWRITING (OWNER CORRECTION, 2026-10-30)
 
@@ -16,7 +50,7 @@ Current scope reset: October 30, 2026.
 **BEFORE ANY EXPORT/RENDER HANDOFF, FAIL-CLOSED CHECK:**
 1. Read back both the original master and the extracted section(s); compare every selected source ID, exact text (including Shakespeare lyric/verse punctuation), speaker, action, scene and order against the master.
 2. Compare the full section index against the full master: each selected row appears exactly once, sections do not overlap, earlier completed clips are not recycled as a continuation, and no selected row is missing. If source already contains intentional repeated words/lines, preserve them only at their ORIGINAL source IDs. A repeated source ID is a failure.
-3. Preserve a coherent song/scene across clip boundaries: same musical phrase and rhythm, character, camera, environment and action; the 10-second segment length is a render container, **not a new scene or new song**.
+3. Preserve a coherent song/scene across clip boundaries: same musical phrase and rhythm, character, camera, environment and action; the selected render duration is a container, **not a new scene or new song**.
 4. For this Metal the Musical workflow, use the owner-ordered **10 clips per batch** (last batch may be shorter). Never silently switch to one-at-a-time or create a different batch length.
 5. If ANY comparison fails, do not export, send to renderer, or announce 'ready'. State the exact mismatch and source IDs. Do not fix it by writing another master.
 6. Keep rendered, pending, rejected and unknown status distinct; a file on Drive or instructions on GitHub are NOT proof Meta rendered it. Never ask for a second GO when the owner already ordered execution. Report tool access limitations factually.
@@ -25,26 +59,11 @@ Current scope reset: October 30, 2026.
 
 **Owner override:** Explicit instructions to *rewrite*, *adapt*, *renumber* or *change* specific content may authorize only those named changes. Keep the original intact, record exact changed source IDs and the before/after difference, and never infer permission to change unrelated sections.
 
-## The one active assignment
-
-Work ONLY on reusable, common game systems that transfer between games. Begin with **bullets/ammunition**, **potions/consumables**, an **unlimited backpack/inventory**, and **shared spawners / world-local spawn points**. The shared specification lives at [TO WORLD GAME STANDARDS](https://github.com/IsekaiSensei/to-world-open-crew/blob/main/GAME_STANDARDS.md). These are universal mechanics, not a new individual game or story.
-
-**No active scripts, render batches, movie productions, quests, character production assignments, old project queues, or automatic continuation of historical projects.** Do not run or revive them from an old link, conversation, file, or model memory. No new story, movie, game prototype, or extra project without Sensei's fresh instruction.
-
-## Universal game rules — first implementation pass
-
-1. **Bullets:** portable ammo entries with a stable item ID, ammo type, quantity, and optional equipment compatibility. Individual games can interpret permitted uses, but may not silently remove or convert ammunition.
-2. **Potions:** portable consumables with a stable item ID, quantity, effect data and any duration/cooldown. Games without that effect preserve the potion unchanged.
-3. **Backpack:** one shared inventory capable of holding **everything**, with **no slot, weight or quantity limit** imposed by the cross-game system. Keep all ammunition, potions, equipment, quest objects and other collected items. No automatic dropping or deletion.
-4. **Transitions:** entering or leaving a game retains the exact item identity, amounts, metadata and inventory contents. A receiving game may temporarily disable unsupported actions, but the items remain stored. Conversion or use of an item requires explicit rules, never a silent overwrite.
-5. **Spawners and spawn points:** reusable spawner templates reference shared item/entity definitions; each game supplies its own local spawn-point coordinates, roles and tags. Spawned pickups use the same backpack item model. Preserve enabled flags, cooldowns, waves, active entities and checkpoint progress per game across transitions. Optional world/per-spawner spawn budgets protect runtime performance, never backpack capacity.
-6. **Save/load:** serialize and restore the complete shared inventory **and per-game spawning state** before and after transitions. Preserve equipped references and quantities consistently; do not duplicate or lose items.
-
-Implement the **shared data format first**, then backpack/spawning logic, then save/load and cross-game transitions. Other common game systems (controls, currency, etc.) are possible later modules, not authorization to start them now.
-
 ## Working discipline
 
-- Keep code/manifests in GitHub and artwork/video in Google Drive. Do not touch existing artwork, video, World Book media, or private archives for this reset.
-- Existing scripts and old prototypes are retired from the current working branch; Git history preserves their previous text. Do not treat old files or prior render progress as active work.
-- Meta's native Orders are separate. A GitHub edit does not automatically install instructions into Meta AI.
-- Report only work actually completed and verified. Sensei decides when to implement or test the new shared mechanics.
+- The canonical orders are this file. Keep the current Drive orders mirror aligned with this owner reset.
+- Code and manifests stay in GitHub; art and video stay in Google Drive. Preserve existing artwork, video, original sources and private archives.
+- The previous game-transition assignment and old production queues are inactive. Their specifications and history remain references, not work to resume.
+- Shared game-standard reference: https://github.com/IsekaiSensei/to-world-open-crew/blob/main/GAME_STANDARDS.md
+- Updating shared files does not automatically inject instructions into an already-running external AI session. Report the shared sources actually updated and verified.
+- Credit the creator as Isekai Sensei in public production documents.

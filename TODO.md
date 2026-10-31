@@ -1,14 +1,13 @@
-# Active work — universal game standards only
+# Current work — new Dyson-sphere Shakespeare readaptation
 
-**Previous project and production task queues are retired. Nothing from them is active.**
+Follow [ORDERS.md](ORDERS.md). This is the owner-directed October 31, 2026 reset.
 
-- [ ] Define the portable ammunition item model (bullets: types, stacks and compatibility).
-- [ ] Define the portable potion model (effects, stacks and supported/unsupported uses).
-- [ ] Define the shared backpack with unlimited storage for every collected item.
-- [ ] Define world-local spawn points, reusable spawner templates, and shared item/entity references.
-- [ ] Preserve spawner cooldowns, active waves, live entities and checkpoints per game across transitions.
-- [ ] Define and test transfer + save/load without item loss, duplication or spawner reset when authorized.
+- Establish the section-by-section dramatic adaptation in the surreal GERTECH Dyson-sphere world.
+- Distinguish androids, robots, cyborgs, partially human people, natural people and beings regenerated through artifice.
+- Develop origin-based social factions: printed, made, built, made by nature and regenerated through artifice.
+- Let origin identity affect authority, courtship, belonging and conflict while preserving the source's dramatic purpose and double meanings.
+- Integrate the new concept art as the primary source after Sensei reviews and selects it.
+- Keep the original source and rejected production as history; do not reactivate their cast or 193-clip queue.
+- Derive the new clip plan from the adapted words and selected performance. Ten clips per render batch; most around eight seconds, ten a target, six to twelve allowed, twelve rare.
 
-Specification: https://github.com/IsekaiSensei/to-world-open-crew/blob/main/GAME_STANDARDS.md
-
-No scripts, render queue, movie project, standalone game project or automatic expansion.
+No replacement shooting master, faction casting or clip count has been established yet. The previous game-transition implementation queue is inactive.

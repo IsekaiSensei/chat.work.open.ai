@@ -2,11 +2,11 @@
 
 Isekai Sensei — agent personalities and shared workflow.
 
-**CURRENT FOCUS (October 30, 2026): UNIVERSAL GAME TRANSITIONS ONLY.**
+**CURRENT FOCUS (October 31, 2026): NEW SHAKESPEARE READAPTATION IN A SURREAL GERTECH DYSON SPHERE.**
 
-[Current ORDERS](ORDERS.md) · [Universal Game Standards](https://github.com/IsekaiSensei/to-world-open-crew/blob/main/GAME_STANDARDS.md) · [Meta](META.md)
+[Current ORDERS](ORDERS.md) · [Current work](TODO.md) · [Meta](META.md)
 
-Begin with bullets, potions, an unlimited backpack, shared spawner templates and world-local spawn points. Save the exact same inventory and spawn progress across every compatible game transition. No active scripts, individual story/game productions, render batches or legacy project assignments.
+All participating project agents now develop the new readaptation. Androids, robots, cyborgs, partial humans, natural people and beings regenerated through artifice coexist inside a Dyson sphere. How they were made becomes a social and factional dividing line. New concept art becomes the primary visual source after Sensei reviews and selects it. The rejected cast and 193-clip production are historical; no replacement shooting script or clip count is established yet. Shared game standards remain a separate, inactive reference.
 
 Character/personality references (not active assignments): [CHAT](CHAT.md) · [WORK](WORK.md) · [JAN](JAN.md) · [DEEPSEEK](DEEPSEEK.md) · [META](META.md). Older cards remain historical character descriptions, not instructions to start projects.
 
