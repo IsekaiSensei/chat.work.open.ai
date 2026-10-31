@@ -14,8 +14,10 @@ An explicit owner's FIRST MODEL selection overrides a generic source-image text 
 
 ## ZIPPER / CINEMA CONTINUE
 
-- **Read-only original:** [scripts/ZIPPER.txt](scripts/ZIPPER.txt) — 74 scenes, 7 seconds each; never rewrite its beats for a prompt correction.
-- **Derived execution adaptation:** [scripts/ZIPPER_CINEMA_CONTINUE.txt](scripts/ZIPPER_CINEMA_CONTINUE.txt) and [Drive copy](https://docs.google.com/document/d/1NBGTUdJ5CgJwmX9bq4gc-4NLOaTii2G9bZ_3eNaUNTI/edit).
+**Locked concepts:** The [live Drive orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) name the owner-locked concepts and link the [master concept reference](https://drive.google.com/file/d/1AxJMCu4CTLWpfE8JMoQldRA554x62Z6d/view?usp=drivesdk). Read that paragraph before extending the shared movie/game seed.
+
+- **Read-only original:** [canonical Drive ZIPPER.txt](https://drive.google.com/file/d/16TuVMibLp3z0gRtXzcMzbNlMxhYLUvf-/view) ([GitHub mirror](scripts/ZIPPER.txt)) — 74 numbered scenes, ZIPPER 001–074, 7 seconds each. **Last numbered scene: ZIPPER 074 — BROOM.** Never rewrite its beats for a prompt correction.
+- **Derived execution adaptation:** [scripts/ZIPPER_CINEMA_CONTINUE.txt](scripts/ZIPPER_CINEMA_CONTINUE.txt) and [Drive copy](https://docs.google.com/document/d/1NBGTUdJ5CgJwmX9bq4gc-4NLOaTii2G9bZ_3eNaUNTI/edit). Cinema Continue never overrides the original ZIPPER beats.
 - **Source-side ZIPPER physics:** wizard requests; fairy collects actual source material; small gold brass-toothed intake opens beside the material at that source; fairy sends cargo and actuates a control; effect appears at wizard wand/target, **not through a giant wizard-side portal**; delivery intake closes. ZIPPER 014 PORTAL has a distinct destination doorway that stays open. Keep the gold closed seam as match-cut anchor.
 - **Continuity:** use previous approved terminal frame for camera/seam only, never identity. If frame unavailable, do not invent one.
 - **Authorization:** PAUSED by default. `render 00X` authorizes that one clip; `go batch 0X` authorizes only that named batch; return to PAUSED afterward. A story discussion, report, or treatment edit is **not GO**.
