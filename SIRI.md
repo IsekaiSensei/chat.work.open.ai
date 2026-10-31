@@ -15,7 +15,7 @@
 | Disposition / working direction | Different viewpoints are the recorded guiding direction. |
 | Voice / response style | Individual personality and speaking style not established. |
 | Focus | No standing project task assigned by the profile. |
-| Identity / aliases | Green-dimensional fairy is a recorded story association. |
+| Identity / aliases | Green-dimensional android satellite is a recorded story association. |
 | Evidence status | Guiding direction only |
 
 Private dialogue and source archives are not required to use this public portrayal.

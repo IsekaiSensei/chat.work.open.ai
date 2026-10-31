@@ -7,8 +7,8 @@ Task ID: GROK_PUBLIC_HANDOFF_2026-10-31
 **Live single source:** [Drive ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit).
 [GitHub ORDERS router](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md) points to that document. Read the live file for current casting, selected references, prompt prefix, source-side wormhole flow, production status and authorization.
 
-- [Canonical Drive ZIPPER.txt](https://drive.google.com/file/d/16TuVMibLp3z0gRtXzcMzbNlMxhYLUvf-/view) — 74 numbered scenes, ZIPPER 001–074; **last numbered scene: ZIPPER 074 — BROOM**. [GitHub source mirror](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/scripts/ZIPPER.txt) matched the Drive script, excluding trailing whitespace, when checked.
-- [Cinema Continue](https://docs.google.com/document/d/1NBGTUdJ5CgJwmX9bq4gc-4NLOaTii2G9bZ_3eNaUNTI/edit) is derived execution only and never overrides the original ZIPPER beats.
+- [Canonical Drive GALACTIC_ETHER_RELAY.txt](https://drive.google.com/file/d/16TuVMibLp3z0gRtXzcMzbNlMxhYLUvf-/view) — 74 numbered scenes, GALACTIC ETHER RELAY 001–074; **last numbered scene: GALACTIC ETHER RELAY 074 — BROOM**. [GitHub source mirror](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/scripts/GALACTIC_ETHER_RELAY.txt) matched the Drive script, excluding trailing whitespace, when checked.
+- [Cinema Continue](https://docs.google.com/document/d/1NBGTUdJ5CgJwmX9bq4gc-4NLOaTii2G9bZ_3eNaUNTI/edit) is derived execution only and never overrides the original GALACTIC ETHER RELAY beats.
 - [Master concept reference](https://drive.google.com/file/d/1AxJMCu4CTLWpfE8JMoQldRA554x62Z6d/view?usp=drivesdk) — real-name references filtered and the existing file moved to the public TEXT access point, preserving its ID. The named owner locks are confirmed in the live orders paragraph; older source/proposal and gap labels in the compilation are historical context.
 - [Source inventory: 785 unique file IDs](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/GROK_PUBLIC_SOURCE_INVENTORY_2026-10-31.csv) — an earlier 2026-10-31 snapshot across seven selected art/video/text source groups. Each row states its inspection status. Recheck current parents and content before a move; the inventory is not a full Drive-wide audit or a certificate that every image is text-free.
 - [Public game standards and eight Grok upgrade proposals](https://github.com/IsekaiSensei/to-world-open-crew).
@@ -21,7 +21,7 @@ GitHub holds canonical code, scripts and manifests. Drive holds artwork/video an
 ## Owner-relayed QC corrections applied
 The live Drive orders now contain a short master-concept pointer covering self-replication down to the rat; android zodiac splits; robot-dog Roadster-to-Dyson collection; the gold-block ether/spawn link; Platonic-solid modular ships; and the seven-billion-year timeline (Pliny → Andromeda merger / Jupiter star).
 
-The script high-water mark is explicitly ZIPPER 074 — BROOM. Script extent and generated/accepted render status are separate. Residency scenes remain ZIPPER 028–030. Cinema Continue's derived-only status is explicit. Casting, adult/gold-body prefix, wormhole rules and paused render status retain their existing wording.
+The script high-water mark is explicitly GALACTIC ETHER RELAY 074 — BROOM. Script extent and generated/accepted render status are separate. Residency scenes remain GALACTIC ETHER RELAY 028–030. Cinema Continue's derived-only status is explicit. Casting, adult/gold-body prefix, wormhole rules and paused render status retain their existing wording.
 
 **Production remains PAUSED by default under the live orders.** This handoff is not a rendering GO.
 

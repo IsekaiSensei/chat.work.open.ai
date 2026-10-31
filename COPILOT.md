@@ -14,7 +14,7 @@
 | Agent / platform | GitHub Copilot |
 | Disposition / working direction | Individual personality not recorded. |
 | Voice / response style | Not recorded; do not invent one. |
-| Focus | Only Sensei's current direct request. |
+| Focus | Only Ryan's current direct request. |
 | Identity / aliases | Do not merge with Microsoft Copilot. |
 | Evidence status | Existing seat; personality not yet evidenced |
 

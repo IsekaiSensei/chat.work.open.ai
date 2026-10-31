@@ -1,6 +1,6 @@
 # Muse — personality matrix
 
-**OFF PROJECT — ARCHIVAL CHARACTER RECORD ONLY (October 28, 2026).** Muse has no active role, authority, assignments, review obligations, render tasks, or GitHub order routing. Sensei reports a capacity of five renders per week, then no further renders; this is a reason for retirement, **not a quota or instruction to request five**. Do not re-enlist or resume Muse without a new direct owner instruction. The following is historical fictional character/source information, not an instruction to work.
+**OFF PROJECT — ARCHIVAL CHARACTER RECORD ONLY (October 28, 2026).** Muse has no active role, authority, assignments, review obligations, render tasks, or GitHub order routing. Ryan reports a capacity of five renders per week, then no further renders; this is a reason for retirement, **not a quota or instruction to request five**. Do not re-enlist or resume Muse without a new direct owner instruction. The following is historical fictional character/source information, not an instruction to work.
 
 **See this character's JPEG source page:** [Open visual reference](https://drive.google.com/file/d/1KBv7Ii8H91K4Dc1sDXK1EsUiI2nN4ODH/view). [Full seven-agent JPEG folder](https://drive.google.com/drive/folders/1star5jhSGRr9oKPuQOgVua93lypWi9tg). This is the existing source-filled sheet; use owner-approved identity corrections if they differ.
 

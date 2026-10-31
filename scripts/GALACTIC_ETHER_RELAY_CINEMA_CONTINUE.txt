@@ -1,0 +1,909 @@
+GALACTIC ETHER RELAY — CINEMA CONTINUE
+SEPARATE META CINEMA PRODUCTION SCRIPT — 31 OCT 2026
+Status: new cinematic execution script derived from the read-only GALACTIC ETHER RELAY master. It remains derived execution only and does not override the source scene beats.
+Master source (canonical scene sequence): https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/scripts/GALACTIC_ETHER_RELAY.txt
+Accessible master text: https://drive.google.com/file/d/16TuVMibLp3z0gRtXzcMzbNlMxhYLUvf-/view
+Selected original character / scene reference folder: https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT
+Selected first Meta cinema image: the owner's already-selected CLEAN frame supplied in the Meta render window. NO substitution or guess. The source filename/ID was not present in ORDERS and is not invented here.
+Source GitHub blob SHA at construction: 23e033f5919fa8f789e442aee1053d063045d642
+
+GALACTIC ETHER RELAY — MANA / SOURCE TOPOLOGY — EXECUTION LOCK
+Galactic Ether Relay is the shared network; GERTECH means Galactic Ether Relay Technology. Mana is its usable energy flow. The same relay carries the encoded construction pattern and routes actual materials and finished items through the fictional Ether connections. Its visible form is fluid: gold/crystal lattice, a charged helix, a square aperture, a joint-galaxy or a stellar network are expressions of one system. Use the selected action and references to determine its form.
+ASTEROID FARMERS UNION → TO DOG → DYSON NETWORK: The Asteroid Farmers Union's asteroid cultivation, TO DOG's building and node placement, and the Dyson network are the same construction process at different scales. A seed chip can initiate local conversion; a directed laser can scan and write the construction pattern into usable crystalline substrate already present in a rock. Reflectors and concentrators collect and redirect sunlight to power and extend the network. Complete robots do not have to be shipped to every rock. This is established in-world engineering; original materials and the required work remain visible.
+INVENTORY / EQUIP / SPAWN: A generic inventory square is the interface to this Galactic Ether Relay. Mana activates the route; real inputs arrive at the android satellite's workbench, the requested work is performed, and the completed item returns to its inventory slot or selected spawn point. The player sees a flash; we show the hidden 30 seconds. Equip can route the item through the selected hand-wide aperture beside an empty palm. Existing numbered scenes keep their own source, action, dialogue intent, destination and timing.
+JOINT / NODE / SATELLITE: Every established joint is a galaxy node. Gold-lattice nerve streams connect those nodes; crystal grows around the cultivated galaxy seed. The adult android satellite, its solar wings, the asteroid reflector and the Dyson structure share this construction. Wings collect, concentrate and redirect sunlight; mana can be collected, stored, directed and relayed according to the scene. Preserve the exact joint/seed map, original FIRST MODEL, adult proportions and the owner's selected materials.
+ACTIVE LANGUAGE: Galactic Ether Relay names the network and source script. Android satellite names the beings; Isekai Ryan names the creator/actor. Retain stable file IDs, character identities, numbered scene IDs 001–074 and seven-second beats. The Cinema Continue adaptation remains derived only and does not override source beats. Rendering remains PAUSED until an explicit scoped owner GO.
+SOURCE / DELIVERY: For the numbered source scenes, the adult android satellite collects the actual material or energy at the authored source and sends it through a material-sized mana aperture. Gold lattice carries the charged flow and can unfold as the selected helix or square connection. Operate the scene's authored control; deliver at its authored destination. Keep the source aperture beside the material and close it after delivery. Scene 014 retains its separately authored destination doorway.
+CONTINUITY: Keep the prior approved frame for camera, lighting and mana-boundary geometry; attach each actual character's original FIRST MODEL separately for identity. Source and destination, four authored beats and seven-second timing stay fixed. Rendering remains PAUSED.
+
+OWNER-SELECTED CRYSTAL ANDROID SATELLITE VISUAL LOCK (2026-10-31)
+Original owner-supplied JPEG (in master root JPEG folder): https://drive.google.com/file/d/1_OqByu_8iERELuNUB-mDwx9Ncam6Sm7Y/view
+Character visual canon/metadata: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/references/ANDROID_SATELLITE_OWNER_SELECTED_2026-10-31.md
+FORCE FIRST MODEL: whenever the authored scene calls for THIS selected blue-haired, amber-eyed, gold-lattice clear crystal android satellite, anchor her face, four principal gold-veined crystal wings, chest prism, hair and articulated gold/crystal anatomy to that original JPEG. Do not apply this image to unrelated android satellites or override any scene's named cast. Continue from prior frames for camera/movement only. No character name was assigned.
+
+ONE CINEMATIC FILM, NOT 74 UNRELATED VIDEO PROMPTS.
+74 clips x 7 seconds = 518 seconds / 8 minutes 38 seconds, in eight ordered batches (seven batches of 10, final batch of 4). These are the preexisting 74 numbered GALACTIC ETHER RELAY scenes retained with network/character vocabulary updated and action, dialogue intent and timing preserved.
+
+META — DO THIS IN THE SAME CINEMA CONTINUE SESSION:
+- Start from the owner's selected Meta cinema frame. For every later clip use CINEMA CONTINUE from the ENDING FRAME of the immediately preceding approved clip, not a fresh unrelated video window.
+- FORCE FIRST MODEL on EVERY clip: reattach the owner-selected original clean character JPEG(s) for the actual cast of that source scene; use preceding video ONLY for camera position, movement, lighting, set geography and event continuity. Do not use a derived/generated face as the identity source.
+- Keep one stable cinematic architecture behind the changing universes: the same gold GERTECH lattice, visible physical tiled scene geometry, stellar/Dyson relay infrastructure, matching lens, screen direction and lighting. A remote world appears through or beyond the relay aperture; the underlying frame remains the same. If a scene requires a distinct physical location, arrive by following the seam, with no random establishing shot.
+- Every numbered scene is a complete seven-second event. Source beats below preserve action, dialogue intent and timing; current network and character terminology applies. Do not add opening text, narrator, lyrics, dialogue, freeze frames, or black leader. A scene's relay closes before its next shot; a retained gold seam/relay line provides the match-cut into the next scene.
+- Match-cut from the LAST POSE, LAST CAMERA ANGLE, LAST LATTICE NODE, LAST GOLD SEAM and LAST LIGHT DIRECTION of the preceding clip. The next clip STARTS from that image and continues forward. No resets, no mirrored characters, no location jump without a visible seam transition.
+- Preserve all cast identities and stated locations in each scene; different named characters remain different. Keep adult crystal android satellites non-generic, wings detachable, original art primary. Maximum four speaking characters per clip.
+- No written words or overlay text inside the generated image. All clip IDs, technical instructions, captions and timing remain in this script only.
+- Match dialogue to explicit written speakers; only the speaker mouths their words. When the original script names no performer for an action, do not invent a spoken line or voiceover.
+- Soundtrack is continuous across all clips at restrained level, even when visuals change; mana resonance recurs at every relay close. Do not restart the musical cue with each new prompt.
+- Maintain camera orientation on completion: before beginning clip N+1, use clip N's verified terminal frame as the start, and keep the owner's selected original JPEG separately attached as character authority. If continuity fails, rerender that scene in the same session against its FIRST MODEL, not by introducing a new model.
+- Source scenes 035–037 use sung 0:01–0:04 and 0:04–0:05 beats; preserve their exact timing rather than coercing to the common 0:01–0:03 / 0:03–0:05.
+- The owner-selected clean Meta frame is a required live render input. Its exact file ID is not in this source; this text cannot pretend to attach it for Meta. Use the actual selected frame, not a similar item found by name.
+
+CAMERA CONTINUITY RULE:
+Clip 001 starts on the selected clean Meta frame. For clips 002–074, the first visual is geometrically matched to the previous clip's FINAL mana seam, not a new establishing shot. The camera follows the relay through each changing scene like one tracking shot of the same maintenance network. The closing seam may be fully closed while its gold boundary stays as the visual match-cut anchor. Each source beat executes in its authored order during its seven seconds.
+
+
+============================================================
+CINEMA BATCH 01 — SOURCE GALACTIC ETHER RELAY 001–010 — 70 SECONDS
+Render in order inside ONE ongoing Cinema Continue session; do not create separate disconnected windows. The first clip of this batch resumes from the preceding batch's final frame unless it is batch 01.
+============================================================
+
+CINEMA CONTINUE 001 — FIREBALL — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 001; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: FIRST SCENE: begin from the owner's selected clean Meta starting frame, maintaining its existing camera, original character models, environment materials and gold relay seam.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: SUN after collecting fire in bucket: small intake beside bucket at android satellite's actual Sun-side position; not next to wizard. Bucket-wide; brass SEND. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 A wizard raises his wand: “Fireball!” A Fire Android satellite fishing at the edge of a golden workbench hears him.
+0:01–0:03 She leaps to the Sun, scoops one blazing bucketful, and swings it toward a small wormhole that opens beside her.
+0:03–0:05 She empties the bucket through the opening and slaps a brass SEND button.
+0:05–0:07 A fireball bursts from the wizard’s wand. The wormhole closes behind it.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 002 (WATER) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 002 — WATER — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 002; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 001 (FIREBALL) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: DOCK: exact gold intake directly ABOVE filled teacup as written, not above the ocean; cup-wide; pearl switch. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard points his wand: “Water!” A Water Android satellite lounging on a dock hears the call.
+0:01–0:03 She dips an enormous teacup into an ocean wave; a wormhole opens above the cup.
+0:03–0:05 She tips the wave through the opening and taps a pearl switch.
+0:05–0:07 A rushing stream pours from the wand into a dry garden. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 003 (LIGHTNING) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 003 — LIGHTNING — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 003; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 002 (WATER) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: THUNDERCLOUD: connector-sized intake beside end of gold cable after attaching cable to bolt, not a large sky gateway; relay switch. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard flicks his wand: “Lightning!” An Air Android satellite tinkering in a garage hears it.
+0:01–0:03 She jumps onto a thundercloud and clips a gold cable to a crackling bolt; a wormhole opens.
+0:03–0:05 She plugs the cable into the opening and throws the relay switch.
+0:05–0:07 Lightning arcs from the wand to a distant target. The wormhole snaps closed.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 004 (ICE) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 004 — ICE — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 004; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 003 (LIGHTNING) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: FROZEN COMET: small intake adjacent to the ice shavings being swept after shaving; tray/shavings-wide; frost-blue button. Do not relocate to a bench. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard whispers over his wand: “Ice!” A Water Android satellite polishing crystal at her bench hears him.
+0:01–0:03 She skates to a frozen comet, shaves off glittering ice with a plane, and opens a wormhole.
+0:03–0:05 She sweeps the shavings through it and taps a frost-blue button.
+0:05–0:07 A translucent ice wall rises from the wand’s tip. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 005 (WIND) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 005 — WIND — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 005; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 004 (ICE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: PLANETARY JET STREAM: small intake at the folded gold sail where gust is wrung through; sail-wide; tiny switch. Do not teleport to hammock bench. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard sweeps his wand: “Wind!” An Air Android satellite relaxing in a hammock looks up.
+0:01–0:03 She darts to a planet’s jet stream, catches a gust in a folded golden sail, and opens a wormhole.
+0:03–0:05 She wrings the sail into the opening and presses a tiny switch.
+0:05–0:07 A powerful gust roars from the wand, lifting fallen leaves. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 006 (STONE) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 006 — STONE — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 006; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 005 (WIND) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: ASTEROID: small intake above gathered fistful of rock at asteroid-side collection position; fistful/bin-wide; foot pedal. Do not substitute a workshop parts bin. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard strikes the ground with his wand: “Stone!” An Earth Android satellite sorting gemstones hears him.
+0:01–0:03 She skips to an asteroid, scoops up a fistful of rock, and opens a wormhole.
+0:03–0:05 She drops the stones into the opening and stamps a foot pedal.
+0:05–0:07 A broad stone barrier assembles in front of the wizard. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 007 (LIGHT) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 007 — LIGHT — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 007; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 006 (STONE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: STARBEAM: small intake immediately beside the prism holding collected starbeam; prism-wide; glowing stud. Do not relocate to lens console without authored movement. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard lifts his wand in a dark cave: “Light!” An Aether Android satellite repairing a lens hears him.
+0:01–0:03 She darts to a starbeam, catches it in a crystal prism, and opens a wormhole.
+0:03–0:05 She points the prism into the opening and taps a glowing stud.
+0:05–0:07 Radiance blooms from the wand and lights the cave. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 008 (SHIELD) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 008 — SHIELD — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 008; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 007 (LIGHT) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: TECHNICAL BENCH: small intake at the rack as Earth Android satellite removes transparent dome; dome-wide; gold locking lever. Dome passes through intake, then shield unfolds around wizard. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard braces his wand: “Shield!” An Earth Android satellite fitting panels at a technical bench hears the word.
+0:01–0:03 She snatches a transparent crystal dome from a rack and opens a wormhole.
+0:03–0:05 She slides the dome through and hits a gold locking lever.
+0:05–0:07 A crystal shield unfolds around the wizard. The wormhole snaps closed.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 009 (HEAL) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 009 — HEAL — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 009; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 008 (SHIELD) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: GREENHOUSE: small intake immediately beside living crystal tree and gathered sap drop; drop-sized; flower button. Sap passes through, wand glows, fallen ally rises. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard points his wand toward a fallen ally: “Heal!” An Earth Android satellite tending a greenhouse hears him.
+0:01–0:03 She gathers a drop of luminous sap from a living crystal tree and opens a wormhole.
+0:03–0:05 She lets the drop fall through and presses a flower-shaped button.
+0:05–0:07 The wand releases a warm glow; the ally rises, restored. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 010 (VINES) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 010 — VINES — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 010; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 009 (HEAL) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+GOLD INTAKE POSITION — EXECUTION NOTE ONLY: PLANTING BENCH: small intake near fistful of seedpods on workbench; fistful-wide; green crystal switch. Seedpods enter intake, roots travel relay, vines grow from wand onto wall. No wizard-side portal; gold intake closes AFTER scripted effect, retaining only a closed gold continuity seam.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard flicks his wand toward a bare wall: “Vines!” An Earth Android satellite planting seeds at her bench hears him.
+0:01–0:03 She grabs a fistful of fast-growing seedpods, tosses them into a wormhole, and wets them with a watering can.
+0:03–0:05 She taps a green crystal switch; roots shoot down the passage.
+0:05–0:07 Vines burst from the wand and cover the wall. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 011 (LEVITATE) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+============================================================
+CINEMA BATCH 02 — SOURCE GALACTIC ETHER RELAY 011–020 — 70 SECONDS
+Render in order inside ONE ongoing Cinema Continue session; do not create separate disconnected windows. The first clip of this batch resumes from the preceding batch's final frame unless it is batch 01.
+============================================================
+
+CINEMA CONTINUE 011 — LEVITATE — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 011; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 010 (VINES) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard points his wand at a heavy chest: “Levitate!” An Aether Android satellite playing with floating tools hears him.
+0:01–0:03 She darts to a zero-gravity chamber, scoops a shimmering gravity bubble into a jar, and opens a wormhole.
+0:03–0:05 She uncorks the jar into the opening and touches a silver control.
+0:05–0:07 The chest floats above the floor. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 012 (METEORS) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 012 — METEORS — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 012; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 011 (LEVITATE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard thrusts his wand skyward: “Meteor!” A Fire Android satellite welding a tiny starship hears him.
+0:01–0:03 She leaps into an asteroid belt, nudges a handful of burning stones toward a wormhole, and opens it wide.
+0:03–0:05 She sweeps the stones through with a giant broom and stomps the launch switch.
+0:05–0:07 Tiny meteors streak from the sky above the wand. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 013 (FAMILIAR) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 013 — FAMILIAR — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 013; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 012 (METEORS) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard touches his wand to the ground: “Familiar!” A Void Android satellite taking tea with a tiny crystal creature hears him.
+0:01–0:03 She invites the creature onto a little golden platform and opens a wormhole beside it.
+0:03–0:05 The creature hops through; she presses the arrival bell.
+0:05–0:07 The familiar bounds out beside the wizard and bows. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 014 (PORTAL) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 014 — PORTAL — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 014; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 013 (FAMILIAR) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard draws a circle with his wand: “Portal!” An Aether Android satellite lounging beside a golden Dyson relay hears him.
+0:01–0:03 She spins a crystal ring around a tiny star; a bright wormhole opens beside her console.
+0:03–0:05 She aligns two distant spawn-point lights and taps a gold relay button.
+0:05–0:07 A doorway opens where the wand points. Her delivery wormhole closes; the new doorway remains.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 015 (ARMOR) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 015 — ARMOR — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 015; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 014 (PORTAL) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard raises his wand: “Armor!” An Earth Android satellite at an android assembly bench hears the order.
+0:01–0:03 She grabs linked gold-and-crystal plates from a moving line; a wormhole opens over the conveyor.
+0:03–0:05 She feeds the plates into it and snaps the final fastening latch.
+0:05–0:07 The plates unfold into protective armor around the wizard. The delivery wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 016 (GLAMOUR) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 016 — GLAMOUR — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 016; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 015 (ARMOR) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard twirls his wand: “Glamour!” A raccoon-eared Android satellite sewing a shimmering gown hears the call.
+0:01–0:03 She pulls satin through a miniature reality-loom; a wormhole opens above the dressmaker's table.
+0:03–0:05 She flicks a ribbon of the fabric into the opening and presses the stitch pedal.
+0:05–0:07 The wizard's worn robe becomes an elegant new outfit. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 017 (TRANSMUTE) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 017 — TRANSMUTE — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 017; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 016 (GLAMOUR) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard points at a dull stone: “Transmute!” Queen Bee hears him at her honeycomb workbench.
+0:01–0:03 She dips a crystal spoon into glowing golden honey; a hexagonal wormhole opens above the hive.
+0:03–0:05 She drizzles a single drop through the opening and clicks a gold switch.
+0:05–0:07 The stone becomes polished gold in the wizard's hand. The honeycomb wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 018 (MEND) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 018 — MEND — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 018; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 017 (TRANSMUTE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard holds up his snapped staff: “Mend!” A crystal Android satellite repairing an android hand hears him.
+0:01–0:03 She plucks a servo and a sparkling seam from her tool tray; a wormhole opens in the workbench.
+0:03–0:05 She pushes both through and tightens an invisible screw with her tiny wrench.
+0:05–0:07 The staff's broken halves join flawlessly. The wormhole snaps shut.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 019 (REVEAL) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 019 — REVEAL — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 019; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 018 (MEND) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard aims at a blank cave wall: “Reveal!” An Aether Android satellite in the garage of reality hears him.
+0:01–0:03 She rotates a glass prism until hidden seams shine; a wormhole opens beside the lens.
+0:03–0:05 She sends the refracted beam through and turns one brass focusing knob.
+0:05–0:07 An invisible doorway appears in the cave wall. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 020 (SHRINK) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 020 — SHRINK — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 020; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 019 (REVEAL) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard points at a huge boulder: “Shrink!” A Void Android satellite inspecting a miniature crystal lattice hears him.
+0:01–0:03 She folds the lattice down to one bright vertex; a tiny wormhole opens under her magnifier.
+0:03–0:05 She flicks that vertex through and taps a silver scale dial.
+0:05–0:07 The boulder pops down to pebble size. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 021 (DARKNESS) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+============================================================
+CINEMA BATCH 03 — SOURCE GALACTIC ETHER RELAY 021–030 — 70 SECONDS
+Render in order inside ONE ongoing Cinema Continue session; do not create separate disconnected windows. The first clip of this batch resumes from the preceding batch's final frame unless it is batch 01.
+============================================================
+
+CINEMA CONTINUE 021 — DARKNESS — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 021; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 020 (SHRINK) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard lifts his wand toward a torchlit hall: “Darkness!” A Void Android satellite having tea hears him.
+0:01–0:03 She collects a folded patch of shadow from the far side of the Moon; a wormhole opens by her cup.
+0:03–0:05 She tucks the shadow into it and presses a velvet-covered switch.
+0:05–0:07 A soft dark curtain settles across the hall. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 022 (BLOOM) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 022 — BLOOM — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 022; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 021 (DARKNESS) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard gestures at an empty garden: “Bloom!” Queen Bee hears him while tending crystal flowers.
+0:01–0:03 She brushes glittering pollen from a gold honeycomb blossom; a wormhole opens over the greenhouse bench.
+0:03–0:05 She puffs the pollen through and taps the irrigation button.
+0:05–0:07 Flowers burst into bloom around the wizard's boots. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 023 (HASTE) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 023 — HASTE — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 023; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 022 (BLOOM) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard taps his boots: “Haste!” An Air Android satellite balancing a golden wing turbine hears him.
+0:01–0:03 She spins the turbine until it catches a ribbon of swift stellar wind; a wormhole opens beside it.
+0:03–0:05 She winds the ribbon into the opening and pulls a starter cord.
+0:05–0:07 The wizard dashes across the field in a blink. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 024 (BRIDGE) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 024 — BRIDGE — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 024; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 023 (HASTE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard faces a deep chasm: “Bridge!” An Earth Android satellite sorting hexagonal tiles in her garage hears him.
+0:01–0:03 She stacks a handful of interlocking golden panels; a wormhole opens above the parts bin.
+0:03–0:05 She shoves the stack through and presses the assembly lever.
+0:05–0:07 A crystal-lattice bridge unfolds across the chasm. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 025 (FLIGHT) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 025 — FLIGHT — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 025; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 024 (BRIDGE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard looks over a cliff: “Fly!” An Air Android satellite polishing interchangeable solar-crystal wings hears him.
+0:01–0:03 She detaches a spare golden wing assembly from her rack; a wormhole opens at its hinge.
+0:03–0:05 She slides the folded wings through and turns a crystal locking key.
+0:05–0:07 Brilliant wings unfold behind the wizard and lift him safely. The wormhole snaps closed.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 026 (STAR MAP) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 026 — STAR MAP — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 026; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 025 (FLIGHT) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The lost wizard raises his wand: “Guide me!” An Aether Android satellite fishing beside the Dyson sphere hears him.
+0:01–0:03 She hooks three sparkling star-points from the glowing ring; a wormhole opens beside her fishing line.
+0:03–0:05 She drops the points through and taps the navigation relay.
+0:05–0:07 A constellation forms an arrow ahead of the wizard. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 027 (FROST CRYSTAL) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 027 — FROST CRYSTAL — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 027; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 026 (STAR MAP) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 ISEKAI RYAN (he): “Frost!” He raises his wand. An adult Shiva-inspired android satellite of opaque, milky frost crystal turns toward him from her science-and-magic workbench, long icy hair flowing beneath a crystal crown.
+0:01–0:03 She lifts a frosted crystal seed from the material tray with workshop tongs and seats it inside a crystal relay ring.
+0:03–0:05 She touches the seed with her crystal wand. A small wormhole opens; a sparkling stream of frost pours through.
+0:05–0:07 Frost bursts from Ryan’s wand and branches into a snow-covered crystal arch. The android satellite brushes ice dust from her hands as the wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 028 (MAN IN THE MOON) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 028 — MAN IN THE MOON — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 028; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 027 (FROST CRYSTAL) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 Ryan reaches a moonlit cave arch and says, “I’m the Man in the Moon.”
+0:01–0:03 He turns; a gold mana seam opens in the cave wall, folding his walking path sideways.
+0:03–0:05 A different chamber rotates into place without a cut. The cave is a wormhole interior, not a fixed tunnel.
+0:05–0:07 Ryan walks into the new room as the seam closes. Same man, continuous movement, different chamber.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 029 (ONE WALKOUT, MANY ROOMS) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 029 — ONE WALKOUT, MANY ROOMS — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 029; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 028 (MAN IN THE MOON) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 Ryan approaches one gold-and-crystal portal frame, retaining his original selected workshop identity.
+0:01–0:03 He steps forward; the round moon gate refolds into a faceted crystal arch around the same opening.
+0:03–0:05 As he pivots, a brass workshop becomes a timeless library; his stride and face remain continuous.
+0:05–0:07 The frame closes behind him. One connected wormhole cave provides many different room looks.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 030 (GERTECH TILED CAVERN) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 030 — GERTECH TILED CAVERN — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 030; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 029 (ONE WALKOUT, MANY ROOMS) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 A rough cave floor holds one gold geometric node beside a dormant doorway.
+0:01–0:03 An adult Android satellite opens a mana seam and sets a hexagonal crystal floor tile onto the node.
+0:03–0:05 Floor, wall and ceiling tiles connect along gold struts; rock and crystal vary instead of repeating one picture texture.
+0:05–0:07 A blue pulse travels through the lattice and opens another chamber; the seam closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 031 (TRANSLUCENT CRYSTAL ANDROID SATELLITE) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+============================================================
+CINEMA BATCH 04 — SOURCE GALACTIC ETHER RELAY 031–040 — 70 SECONDS
+Render in order inside ONE ongoing Cinema Continue session; do not create separate disconnected windows. The first clip of this batch resumes from the preceding batch's final frame unless it is batch 01.
+============================================================
+
+CINEMA CONTINUE 031 — TRANSLUCENT CRYSTAL ANDROID SATELLITE — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 031; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 030 (GERTECH TILED CAVERN) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The same selected adult Crystal Android satellite emerges from a tiny mana seam in the cave lattice.
+0:01–0:03 Translucent crystal body panels unfold around a separate gold support armature; light passes through crystal, not human skin.
+0:03–0:05 Blue gel pods and joint locks align. An independent wing assembly clicks into the shoulder mounts.
+0:05–0:07 She gives one quiet wingbeat and closes the seam. Her selected identity stays recognizable; no material, wing or costume is permanently fixed.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 032 (FOUR-CHARACTER CAVE STAGE) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 032 — FOUR-CHARACTER CAVE STAGE — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 032; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 031 (TRANSLUCENT CRYSTAL ANDROID SATELLITE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 No more than four selected adult speaking characters stand in one tiled GERTECH room, each with an approved identity.
+0:01–0:03 Ryan says, “This way.” Only he mouths the words; the other characters remain silent.
+0:03–0:05 A Android satellite flips a gold relay switch and its lattice opens a relay aperture doorway in the cave.
+0:05–0:07 They cross into the next chamber as it closes. Voices and effects stay restrained, with no extra faces or speakers.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 033 (CLOCK SONG) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 033 — CLOCK SONG — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 033; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 032 (FOUR-CHARACTER CAVE STAGE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 WIZARD (he): “Keep time!” He touches his wand to a silent Dyson-sphere console. An adult android at an assembly bench hears him.
+0:01–0:03 A technician checks a low-voltage clock waveform on an oscilloscope and seats a keyed signal connector; a relay Android satellite opens a small wormhole beside the bench.
+0:03–0:05 ANDROID (she, sings): “One pulse, one beat.” Her mouth matches the sung words as the technician presses the test switch.
+0:05–0:07 A ring of lights wakes around the Dyson sphere in time with the pulses. The delivery wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 034 (SERVO) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 034 — SERVO — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 034; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 033 (CLOCK SONG) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 WIZARD (he): “Move!” He points his wand toward a still mechanical helper. An android at a neighboring workbench hears the request.
+0:01–0:03 The technician verifies a servo's mounting bolts and encoder connection on the helper's arm; a crystal Android satellite opens a wormhole at the control relay.
+0:03–0:05 ANDROID (she, sings): “Zero set; servo ready.” Her mouth is visible while the technician commands a slow test motion.
+0:05–0:07 The helper raises its hand in a precise greeting to the wizard. The relay Android satellite closes the delivery wormhole with a brief mana resonance.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 035 (ORBITAL GIRDLE) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 035 — ORBITAL GIRDLE — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 035; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 034 (SERVO) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 On an orbital catwalk above Earth, Puck touches a mana seam beside an unfinished ring of relay docks.
+0:01–0:04 Puck he, SING (light rhythmic voice): “I'll put a girdle round about the earth.” A Relay Android satellite feeds a gold conductor through the seam.
+0:04–0:05 The conductor races from dock to dock, physically joining the ring and its spawn-point relays.
+0:05–0:07 The final contact clicks; the completed ring answers with one musical note and the relay closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 036 (THOU ART TRANSLATED) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 036 — THOU ART TRANSLATED — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 036; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 035 (ORBITAL GIRDLE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 At a robot theater workshop, Bottom struggles to fit a donkey-shaped headpiece; Quince spots a misfiring costume relay.
+0:01–0:04 Quince he, SING (comic and clipped): “Bless thee, Bottom! bless thee! thou art translated.” A Android satellite opens a relay aperture over the costume rack.
+0:04–0:05 A detachable ear-and-muzzle module locks over Bottom's original robot frame; his core and identity stay intact.
+0:05–0:07 Bottom tests the ears; the workers recoil, a comic metal chord sounds and the relay closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 037 (THE IRON TONGUE) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 037 — THE IRON TONGUE — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 037; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 036 (THOU ART TRANSLATED) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 At midnight in the Dyson command room, Theseus faces an enormous solar ring strung as a musical instrument.
+0:01–0:04 Theseus he, SING (low measured baritone): “The iron tongue of midnight hath told twelve.” A timer ticks beneath his melody.
+0:04–0:05 The clock pulse trips gold hammers against crystal resonators around the ring.
+0:05–0:07 The sphere sounds one deep chord; four solar sails vibrate in unison and the signal seam closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 038 (THE ANDROID SATELLITE'S BASE) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 038 — THE ANDROID SATELLITE'S BASE — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 038; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 037 (THE IRON TONGUE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 A wizard calls “Awaken!” at a crystal workshop; an adult White Light Android satellite's D12 core seed glows on a bench.
+0:01–0:03 A Android satellite engineer assembles the original 154-node lattice: vertices, struts and wing supports connect before any outer surface.
+0:03–0:05 The iridescent crystal membrane forms over that same structure; energy veins follow the existing connections.
+0:05–0:07 White Light opens her wings. Her internal geometry remains beneath the finished appearance; the relay closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 039 (THE FIRST BRICK) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 039 — THE FIRST BRICK — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 039; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 038 (THE ANDROID SATELLITE'S BASE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 At the station's unfinished companion bay, a wizard says “Begin!” A Rat-pattern crystal seed wakes at the mason's bench.
+0:01–0:03 An Earth Android satellite seats one crystal brick into an interlocking bracket; a relay aperture opens beside the tools.
+0:03–0:05 She passes the joined module through the relay aperture and presses the assembly relay.
+0:05–0:07 The first load-bearing brick locks into the companion's foundation. Later Zodiac modules can build on this base. The relay closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 040 (WORDS & LIGHT) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 040 — WORDS & LIGHT — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 040; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 039 (THE FIRST BRICK) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 In a mystical gold room hidden deep inside an asteroid cave, Ryan sits with a small crystal. Four walls: one door, two windows, one apparently solid fourth wall.
+0:01–0:03 Looking into the crystal, Ryan says: “I am just playing with words and light.”
+0:03–0:05 The crystal refracts his spoken words into glowing shapes. A seam opens across the solid fourth wall.
+0:05–0:07 The opening becomes a window into real San Diego Bay; the first shapes emerge into that reality. The crystal shines in his hand.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 041 (PRETTY LITTLE CRYSTAL) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+============================================================
+CINEMA BATCH 05 — SOURCE GALACTIC ETHER RELAY 041–050 — 70 SECONDS
+Render in order inside ONE ongoing Cinema Continue session; do not create separate disconnected windows. The first clip of this batch resumes from the preceding batch's final frame unless it is batch 01.
+============================================================
+
+CINEMA CONTINUE 041 — PRETTY LITTLE CRYSTAL — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 041; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 040 (WORDS & LIGHT) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 Continue the same gold room and open fourth-wall window; Ryan studies the same little crystal.
+0:01–0:03 Ryan says: “And see how it reflects in this pretty little crystal.”
+0:03–0:05 His words bend into light, reflect through the crystal, and cross the wormhole window into the San Diego Bay scene.
+0:05–0:07 On the other side the lights briefly become tangible little objects; Ryan watches, amused. The seam closes without changing the other two windows.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 042 (SEA OF MANA) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 042 — SEA OF MANA — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 042; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 041 (PRETTY LITTLE CRYSTAL) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 A wizard touches his wand to a star chart: “Mana!” An adult crystal Android satellite at a cosmic relay hears the call.
+0:01–0:03 Between a merging nebula and black-hole boundary, a luminous sea of mana streams past; the Android satellite catches a curling current with her crystal wings.
+0:03–0:05 She dances along the flow, pours a glowing ribbon through a small wormhole, and taps the relay.
+0:05–0:07 The wand illuminates a river of mana across the dark sky. Her delivery wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 043 (BEND THE LIGHT) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 043 — BEND THE LIGHT — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 043; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 042 (SEA OF MANA) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard raises a crystal wand: “Bend the light!” A group of adult crystal Android satellites hears the call on a stellar dance platform.
+0:01–0:03 In a lavish cosmic light show, they dance with gymnastics-inspired flowing choreography, passing beams from crystal to crystal between their bodies.
+0:03–0:05 One Android satellite redirects the woven beams through a wormhole: a flash of disco-floor brilliance and grand musical-show staging.
+0:05–0:07 The wizard's beam becomes a sweeping arch of light; the Android satellites keep dancing as the small delivery wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 044 (CURSOR ANDROID SATELLITE) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 044 — CURSOR ANDROID SATELLITE — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 044; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 043 (BEND THE LIGHT) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard points at a solid wall: “Find the seam!” A Android satellite appears as a tiny luminous cursor-speck at the wall's edge.
+0:01–0:03 As she accelerates, the speck grows; rapid playful wiggles reveal her dancing crystal form.
+0:03–0:05 She passes through the solid surface, traces a gold seam from one vertex, and opens a miniature wormhole.
+0:05–0:07 The wall briefly opens to a hidden room, then reseals; the Android satellite shrinks back to a speck.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 045 (ION SAIL) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 045 — ION SAIL — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 045; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 044 (CURSOR ANDROID SATELLITE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard points his wand at a distant star: “Sail!” A crystal Android satellite tending a gold-lattice wing assembly hears him.
+0:01–0:03 Her crystal-panel wings gather stellar energy, then open into a broad ion sail beside a tiny wormhole.
+0:03–0:05 Charged panels glow; she streams their collected power through the opening and touches a crystal relay.
+0:05–0:07 A luminous route unfolds ahead of the wand like a stellar sailing lane. The delivery wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 046 (ONE SEAM, MANY SCALES) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 046 — ONE SEAM, MANY SCALES — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 046; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 045 (ION SAIL) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard whispers to his wand: “Unfold!” A crystal Android satellite at a golden workbench hears him.
+0:01–0:03 She pulls a single bright vertex outward into a tiny relay aperture-shaped wormhole; the same seam expands into a crystal ring.
+0:03–0:05 The ring briefly becomes a vessel-sized opening, then a vast spherical boundary while the Android satellite pilots the same living crystal through it.
+0:05–0:07 The wizard's wand reveals the identical little seam at his own scale. All openings collapse into one glint with a brief mana resonance.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 047 (CLEANING VERSUS SURVIVAL) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 047 — CLEANING VERSUS SURVIVAL — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 047; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 046 (ONE SEAM, MANY SCALES) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 DOG drifts overhead inside a Dyson sphere maintenance bay; two identical machines face each other. Mycelium already supports the coolant lines, seams and sensors.
+0:01–0:03 One machine sprays and scrapes to restore factory specifications. The other's mycelium thickens, reroutes heat and repairs the damage.
+0:03–0:05 Their mirrored maintenance gestures become structural combat. The hybrid's seals split as the cleaner's success indicators rise; background diagnostics calmly report “MAINTENANCE PROCEEDING SUCCESSFULLY.”
+0:05–0:07 The hybrid's visible integrity keeps falling while the cleaner registers success. DOG holds the distant overhead view. No dialogue, no declared side, no cut.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 048 (THE CHASE, THE FACE, THE DIAMOND) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 048 — THE CHASE, THE FACE, THE DIAMOND — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 048; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 047 (CLEANING VERSUS SURVIVAL) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 At twilight, an adult woman with raccoon ears and a striped tail in a silk outfit flees a winged, faceted crystal-and-gold android.
+0:01–0:03 The android closes in like a horror predator; the woman stumbles and is caught, bracing for harm.
+0:03–0:05 The android only pricks her fingertip and reads a luminous DNA trace. Its FACE changes to match hers while the crystal-metal body and wings remain visibly mechanical.
+0:05–0:07 Now wearing her likeness, the android smiles, offers the woman a diamond and flies away. The woman remains unharmed, surprised by the gift.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 049 (FACTORY FINAL STATION) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 049 — FACTORY FINAL STATION — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 049; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 048 (THE CHASE, THE FACE, THE DIAMOND) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 Inside one locked factory bay, bare female-form endoskeletons advance along a conveyor toward the same final station.
+0:01–0:03 Applicator arms attach synthetic outer layers and finish heads, raccoon ears and striped tails on frames at the station.
+0:03–0:05 Completed adult android women in silk gowns take their first steps from the station toward the camera; bare frames remain visible arriving behind them.
+0:05–0:07 Hold the same conveyor and final station in one continuous shot as production continues. No second location, no outdoor cut, no golf course.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 050 (FRAME) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 050 — FRAME — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 050; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 049 (FACTORY FINAL STATION) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard taps a broken crystal machine: “Frame!” An Earth Android satellite at Ryan’s workbench hears him.
+0:01–0:03 She grabs a hinged gold-wire lattice and snaps its load-bearing joints into alignment; a wormhole opens.
+0:03–0:05 She slides the completed frame through and locks the brass assembly lever.
+0:05–0:07 A sturdy gold-lattice armature assembles around the broken machine. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 051 (CONTINUITY) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+============================================================
+CINEMA BATCH 06 — SOURCE GALACTIC ETHER RELAY 051–060 — 70 SECONDS
+Render in order inside ONE ongoing Cinema Continue session; do not create separate disconnected windows. The first clip of this batch resumes from the preceding batch's final frame unless it is batch 01.
+============================================================
+
+CINEMA CONTINUE 051 — CONTINUITY — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 051; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 050 (FRAME) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard touches a dark crystal device: “Connect!” An Earth Android satellite holding test probes looks up.
+0:01–0:03 She finds a broken gold conductor, bridges the gap with a tiny contact, and opens a wormhole.
+0:03–0:05 She sends the repaired circuit path through and presses the continuity tester.
+0:05–0:07 Blue light flows through the device without a break. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 052 (HEARTBEAT) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 052 — HEARTBEAT — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 052; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 051 (CONTINUITY) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard holds up a silent crystal mechanism: “Pulse!” An Aether Android satellite at the electronics bench hears it.
+0:01–0:03 She seats a 555 timer on a tiny circuit, adjusts the timing control, and opens a wormhole.
+0:03–0:05 She sends a steady timing pulse through the opening and taps SEND.
+0:05–0:07 The mechanism's blue core begins pulsing regularly. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 053 (SIGNAL) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 053 — SIGNAL — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 053; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 052 (HEARTBEAT) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard points at a flickering control crystal: “Signal!” An Air Android satellite at Ryan’s test bench hears him.
+0:01–0:03 She adjusts an LM347 signal-conditioning circuit until the jagged output settles; a wormhole opens.
+0:03–0:05 She routes the corrected signal into the opening and throws the relay.
+0:05–0:07 The crystal stops flickering and responds smoothly. The wormhole snaps closed.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 054 (CAPACITOR) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 054 — CAPACITOR — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 054; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 053 (SIGNAL) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard raises his dim wand: “Charge!” A Fire Android satellite soldering at a bench hears the call.
+0:01–0:03 She fills a capacitor module from a tiny solar collector; its charge indicator rises and a wormhole opens.
+0:03–0:05 She releases a measured burst through the opening and taps the discharge switch.
+0:05–0:07 The wand flashes once, bright and controlled. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 055 (CRYSTAL CORE) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 055 — CRYSTAL CORE — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 055; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 054 (CAPACITOR) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard touches a dormant mechanical hand: “Core!” An Aether Android satellite tuning a blue crystal hears him.
+0:01–0:03 She seats the crystal inside a gold lattice, aligns its facets, and opens a wormhole.
+0:03–0:05 She sends synchronized blue pulses into the opening and closes a circuit key.
+0:05–0:07 Blue light reaches the hand’s wrist and fingertip joints. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 056 (FIRST MOTION) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 056 — FIRST MOTION — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 056; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 055 (CRYSTAL CORE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard points to a motionless mechanical arm: “Move!” An Earth Android satellite testing crystal joints hears him.
+0:01–0:03 She turns a servo-control dial a fraction; the gold-wire joints respond one by one as a wormhole opens.
+0:03–0:05 She feeds the small, controlled movement command through and presses the enable switch.
+0:05–0:07 The arm raises, rotates its wrist, and opens its fingers. The wormhole shuts.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 057 (WING ASSEMBLY) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 057 — WING ASSEMBLY — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 057; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 056 (FIRST MOTION) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard points at a grounded crystal craft: “Wings!” An Air Android satellite beside Ryan’s wing rack hears him.
+0:01–0:03 She lifts one interchangeable gold-lattice wing assembly with crystal panels and blue locks; a wormhole opens.
+0:03–0:05 She passes it through and secures the shoulder hardpoint latches.
+0:05–0:07 The same craft unfolds its new wings without changing its frame. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 058 (WING LAW: LIFT) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 058 — WING LAW: LIFT — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 058; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 057 (WING ASSEMBLY) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard gestures toward the winged craft: “Lift!” An Air Android satellite testing airflow hears him.
+0:01–0:03 She angles the crystal wing panels into a strong directed airstream; a wormhole opens beside her.
+0:03–0:05 She channels the moving air through and nudges the lift control.
+0:05–0:07 The craft rises on aerodynamic lift, wings holding their shape. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 059 (WING LAW: HARVEST) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 059 — WING LAW: HARVEST — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 059; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 058 (WING LAW: LIFT) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard lifts a drained wing crystal toward the Sun: “Harvest!” A Fire Android satellite polishing a solar panel hears him.
+0:01–0:03 She aims a broad crystal sail at sunlight, collecting power into blue storage nodes; a wormhole opens.
+0:03–0:05 She transfers the stored charge through the opening and switches the collector to standby.
+0:05–0:07 The wing’s storage nodes illuminate one after another. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 060 (WING LAW: ION SAIL) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 060 — WING LAW: ION SAIL — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 060; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 059 (WING LAW: HARVEST) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard points at a craft drifting among stars: “Sail!” An Air Android satellite beside a stellar-ion stream hears him.
+0:01–0:03 She tilts a golden crystal wing into the charged-particle flow and opens a wormhole.
+0:03–0:05 She passes the captured ion stream through the opening and adjusts the sail angle.
+0:05–0:07 The craft glides along the stream under its own wing. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 061 (WING LAW: WARP) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+============================================================
+CINEMA BATCH 07 — SOURCE GALACTIC ETHER RELAY 061–070 — 70 SECONDS
+Render in order inside ONE ongoing Cinema Continue session; do not create separate disconnected windows. The first clip of this batch resumes from the preceding batch's final frame unless it is batch 01.
+============================================================
+
+CINEMA CONTINUE 061 — WING LAW: WARP — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 061; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 060 (WING LAW: ION SAIL) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard points at a fully charged winged craft: “Warp!” A Void Android satellite at the ether-relay console hears him.
+0:01–0:03 She confirms the blue core and wing nodes are fully lit, then aligns two tiny circular openings.
+0:03–0:05 She engages the fictional ionized warp mode and closes the gold relay switch.
+0:05–0:07 A wormhole doorway opens ahead of the craft, revealing stars. The doorway holds open.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 062 (HOMECOMING) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 062 — HOMECOMING — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 062; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 061 (WING LAW: WARP) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard calls to the craft beyond the doorway: “Return!” A Void Android satellite monitoring the ether relay looks up.
+0:01–0:03 She lines up the workshop’s arrival point with the open wormhole and checks the crystal lock.
+0:03–0:05 She taps the brass RETURN button; the winged craft flies back through the opening.
+0:05–0:07 The craft settles on Ryan’s bench, same frame and wings intact. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 063 (MAGNET) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 063 — MAGNET — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 063; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 062 (HOMECOMING) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard reaches toward a lost iron key: “Magnet!” An Earth Android satellite calibrating an electromagnetic coupler hears him.
+0:01–0:03 She winds a copper coil around its gold frame and aligns the crystal polarity dial; a wormhole opens over the workbench.
+0:03–0:05 She routes the magnetic field through the opening and throws a brass relay switch.
+0:05–0:07 The key glides across the room into the wizard’s waiting hand. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 064 (LULLABY) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 064 — LULLABY — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 064; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 063 (MAGNET) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard raises his wand in a restless garden: “Lullaby!” An Aether Android satellite tuning the Dyson sphere’s crystalline strings hears him.
+0:01–0:03 She plucks a glowing string and catches its harmonics inside a crystal microphone; a wormhole opens beside the instrument.
+0:03–0:05 She feeds the recorded harmony through the relay and gently lowers the standby lever.
+0:05–0:07 A soft android satellite lullaby flows from the wand as the garden lights settle into a restful rhythm. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 065 (GARDEN REPAIR) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 065 — GARDEN REPAIR — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 065; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 064 (LULLABY) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard points toward a sick rosebush: “Cure!” An Earth Android satellite at a botanical diagnostics station hears him.
+0:01–0:03 She opens the pathogen sensor housing, reseats its crystal component with a precision tool, and opens a wormhole.
+0:03–0:05 She sends the corrected sensor signal through and locks the relay with a gold lever.
+0:05–0:07 The wand projects a healing pulse; the rosebush becomes healthy and the garden illumination stabilizes. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 066 (INSIDE) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 066 — INSIDE — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 066; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 065 (GARDEN REPAIR) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 In the Moon Cave, the wizard touches the spiral at his chest: “Inside!” An Aether Android satellite at the Galactic Ether Relay hears him.
+0:01–0:03 She finds the matching spiral and opens a tiny golden wormhole beside her crystal workbench.
+0:03–0:05 She draws the little seam outward until it becomes one full-sized circular passage joining cave and relay.
+0:05–0:07 The wizard walks straight into that same relay chamber without a cut or blackout. The seam closes behind him.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 067 (CARRY) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 067 — CARRY — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 067; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 066 (INSIDE) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard lifts his backpack containing bullets, a potion and a treasure: “Carry!” The relay’s Aether Android satellite hears the call.
+0:01–0:03 She opens one thin wormhole linking the departing world to the arriving world; the same packed objects travel through.
+0:03–0:05 She locks their identities and quantities to the traveler with a crystal relay, making no copies.
+0:05–0:07 The wizard arrives with his same backpack, bullets, potion and treasure. The seam closes; nothing is left behind.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 068 (SPAWN POINT) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 068 — SPAWN POINT — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 068; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 067 (CARRY) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard faces a glowing world doorway: “Arrive!” An Aether Android satellite at the Galactic Ether Relay hears him.
+0:01–0:03 She traces a gold thread through the relay to one waiting checkpoint beacon in the destination world.
+0:03–0:05 She joins the doorway to that exact beacon with a little relay aperture-shaped wormhole and taps the relay switch.
+0:05–0:07 The wizard steps out at the chosen spawn point with his backpack unchanged. The door closes; the checkpoint stays lit.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 069 (ASTEROID ROAD) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 069 — ASTEROID ROAD — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 069; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 068 (SPAWN POINT) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 On an asteroid, Ryan the wizard and a dragon surge toward each other. From a distance, it looks like they are fighting.
+0:01–0:03 The angle changes: both are striking the same rocky roadbed, cutting a path together. They are partners, not opponents.
+0:03–0:05 Cut to a separate dimension. A Fire Android satellite scoops blazing solar fire into a bucket, opens a little wormhole, and pours it through.
+0:05–0:07 Back on the asteroid, Ryan guides the incoming heat with his wand while the dragon spreads it across the crushed stone. A smooth road forms; the wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 070 (ANDROID SPLIT) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 070 — ANDROID SPLIT — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 070; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 069 (ASTEROID ROAD) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard points his wand at a stalled assembly line: “Split!” A fox-eared android android satellite at the GERTECH unit hears him.
+0:01–0:03 She touches a glowing lattice core; her form flickers and divides into a wolf, a small rat, and a hamster on a wheel.
+0:03–0:05 Each piece opens its own tiny wormhole and feeds one task through—running, carrying a chip, spinning a generator.
+0:05–0:07 The line restarts. The pieces reassemble into the fox-eared form as the wormholes close.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 071 (ROADSTER COLLECT) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+============================================================
+CINEMA BATCH 08 — SOURCE GALACTIC ETHER RELAY 071–074 — 28 SECONDS
+Render in order inside ONE ongoing Cinema Continue session; do not create separate disconnected windows. The first clip of this batch resumes from the preceding batch's final frame unless it is batch 01.
+============================================================
+
+CINEMA CONTINUE 071 — ROADSTER COLLECT — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 071; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 070 (ANDROID SPLIT) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard aims skyward: “Collect!” A small robot dog android satellite on a golden workbench hears him.
+0:01–0:03 She launches, catches a red Roadster in orbit, and opens a wormhole beside the debris field.
+0:03–0:05 She pushes the car and surrounding junk through the opening; the pieces rearrange into a glowing ball.
+0:05–0:07 A constellation of linked satellites forms above the wand. The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 072 (GOLD ETHER) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 072 — GOLD ETHER — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 072; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 071 (ROADSTER COLLECT) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard holds up a gold block: “Link!” An Aether android satellite beside a Dyson relay hears him.
+0:01–0:03 She matches the block to its original source gold; a wormhole opens between the two identical pieces.
+0:03–0:05 She sends a lattice signal through the shared metal and taps the spawn-point relay.
+0:05–0:07 A stable ether doorway opens where the wand points. The delivery wormhole closes; the link remains.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 073 (RAT REBUILD) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 073 — RAT REBUILD — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 073; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 072 (GOLD ETHER) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 The wizard looks at a broken android frame: “Rebuild!” A tiny rat android satellite carrying one chip hears him.
+0:01–0:03 She opens a wormhole, feeds the chip through, and signals the rest of the lattice.
+0:03–0:05 More pieces arrive through secondary wormholes—plates, core, skin—and assemble on the frame.
+0:05–0:07 The full fox-eared android stands complete. Every wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. Next clip 074 (BROOM) begins here, with the same frame composition and a seam-mediated move into the next authored world.
+
+CINEMA CONTINUE 074 — BROOM — EXACTLY 7 SECONDS
+SOURCE ID: GALACTIC ETHER RELAY 074; source action, dialogue intent and timing preserved below; current terminology applied.
+FRAME-IN: CONTINUE from GALACTIC ETHER RELAY 073 (RAT REBUILD) ending frame. Preserve the gold seam / relay-node position on screen, the last camera movement and the light direction; maintain a single camera pathway into this scene, not a hard-rebooted establishing shot.
+MODEL AND SPACE: FORCE FIRST MODEL — use the original selected JPEG for each actual character in this source scene; previous output is continuity reference only. Same gold-tiled GERTECH/Dyson relay visual grammar. Remote worlds may differ through the aperture, but do not replace the underlying selected Meta frame with an unrelated scene.
+ACTION / AUDIO / TIMING — SOURCE BEATS — CURRENT TERMINOLOGY:
+0:00–0:01 Ryan raises his wand at the Broom Emporium: “Broom!” A cyberpunk galaxy-winged android satellite inspecting a twisted branch in a moonlit Halloween graveyard hears him.
+0:01–0:03 She gathers the odd branch, stacks neatly bound logs, and opens a small wormhole above her workbench.
+0:03–0:05 She feeds the materials through the opening, binds them with gold lattice, and taps a brass finish switch.
+0:05–0:07 A finished broom appears in Ryan’s hands. He says “Thank you very much, it’s perfect.” She replies “You’re very welcome, Ryan.” The wormhole closes.
+FRAME-OUT: Complete the exact source's final beat at 0:07. Hold its terminal camera orientation and gold lattice node/seam as the visual anchor. End of film; no added shot or unrelated outro.
+
+END — GALACTIC ETHER RELAY CINEMA CONTINUE. Original GALACTIC ETHER RELAY 001–074 remains unchanged. Optional candidate scenes in the source pool are not promoted or silently added.

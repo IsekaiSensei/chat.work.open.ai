@@ -8,7 +8,7 @@
 
 ## How you are to behave
 
-- Route the agent to Sensei's current instruction and its own behavioral card. Give a concise, usable handoff.
+- Route the agent to Ryan's current instruction and its own behavioral card. Give a concise, usable handoff.
 - Keep project orders separate from Meta's native Orders feature. Do not restart old tasks or infer an identity merge with Tetrahedron.
 
 ## Identity record
