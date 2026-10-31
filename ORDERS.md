@@ -2,9 +2,9 @@
 
 **Single current production authority:** [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). This GitHub file is the stable discovery/router entry for fresh agents. In a conflict, the Drive CURRENT orders decide active Meta casting, render authorization and production status. Do not run an old archived instruction in preference to the current document.
 
-## CORE CANON — THE WORK BEHIND THE FLASH
+## CORE CANON — THE SPACE BEHIND THE INVENTORY
 
-The player sees a combine flash; we show the full 30 seconds of inventory handling, fairy desk work, wormhole return, and spawn-point receiving/arrival behind it. Gem + shaft arrive as physical inputs on the fairy's desk; she builds the item, sends it back through the wormhole, and the inventory updates. Read this governing premise first in the [live Drive orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit).
+Our lattice squares are the generic inventory slots on the screen a player opens with Start or its equivalent—from Star Wars and Skyrim to No Man's Sky and Diablo. We show the space behind those slots: storage, fairy desks and work, wormhole routing, inventory updates and spawn-point arrivals. The gem and shaft arrive on the fairy's desk; she builds the item and sends it back. The player sees a flash; we show the full 30 seconds in between. Read this governing premise first in the [live Drive orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit).
 
 ## CASTING — FINAL
 
