@@ -2,6 +2,10 @@
 
 **Single current production authority:** [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). This GitHub file is the stable discovery/router entry for fresh agents. In a conflict, the Drive CURRENT orders decide active Meta casting, render authorization and production status. Do not run an old archived instruction in preference to the current document.
 
+## CORE CANON — THE WORK BEHIND THE FLASH
+
+The player sees a combine flash; we show the full 30 seconds of inventory handling, fairy desk work, wormhole return, and spawn-point receiving/arrival behind it. Gem + shaft arrive as physical inputs on the fairy's desk; she builds the item, sends it back through the wormhole, and the inventory updates. Read this governing premise first in the [live Drive orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit).
+
 ## CASTING — FINAL
 
 **NIKOLA TESLA IS PLAYED BY ISEKAI SENSEI.** One actor, one fictional character: Tesla / Man in the Moon / TESTA factory maintainer. Owner-selected `Isekai_Sensei_Character_Sheet` controls his established face and mechanic look (adult ~40, long hair/beard, plaid shirt, apron). Optional Tesla-style mustache only; never replace his selected identity. No Elon Musk character, cameo, likeness, or substitute actor. The modern vehicles, spacecraft, satellites and press/robotics capacities of TESTA are **alternate-universe fiction**. The duplication-machine idea from *The Prestige* is fictional, not a historical invention. See [casting reference](references/TESLA_MAN_IN_THE_MOON_CASTING_2026-10-31.md).
