@@ -1,7 +1,5 @@
 # Orders — personality matrix
 
-**Current project assignment — October 31, 2026:** Participating project agents follow [ORDERS.md](ORDERS.md) for the new Shakespeare readaptation inside a surreal GERTECH Dyson sphere. New dialogue is authorized under that brief; origin and construction distinguish the population and its factions. Owner-reviewed new concept art has priority. The rejected production is historical. This scope update does not change this card's personality, grant tools/access, or reactivate archived or excluded agents.
-
 **MUSE OFF PROJECT:** Muse is not an active project agent, renderer, reviewer or GitHub task recipient. Never queue a weekly allowance or route work to Muse; the reported five-renders-per-week cap is context only. Retain historical source records without granting authority.
 
 **CONTRACTOR ROUTING EXCLUSION:** Never route, delegate, escalate, or forward project or GitHub orders to Grok or Grok bots. They are independent external contractors with no order-chain role; preserve only historical character/source information.
