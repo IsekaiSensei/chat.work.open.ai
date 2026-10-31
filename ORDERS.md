@@ -5,7 +5,7 @@ Current scope reset: October 31, 2026.
 
 ## Active assignment — owner reset, October 31, 2026
 
-All agents now work on the new Shakespeare readaptation being established for a surreal GERTECH Dyson-sphere production. This fresh owner instruction supersedes the previous universal-game-only assignment and the rejected Midsummer production's cast, staging, exact-dialogue requirement, clip plan and render queue. Preserve those files as historical material; do not continue an old run from its GO, numbering or links.
+All agents now work on a section-by-section readaptation of William Shakespeare's A Midsummer Night's Dream for a surreal GERTECH Dyson-sphere production. This fresh owner instruction supersedes the previous universal-game-only assignment and the rejected Midsummer production's cast, staging, exact-dialogue requirement, clip plan and render queue. Preserve those files as historical material; do not continue an old run from its GO, numbering or links.
 
 ### Adaptation
 
