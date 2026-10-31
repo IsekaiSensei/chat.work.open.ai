@@ -2,6 +2,10 @@
 
 **Single current production authority:** [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). This GitHub file is the stable discovery/router entry for fresh agents. In a conflict, the Drive CURRENT orders decide active Meta casting, render authorization and production status. Do not run an old archived instruction in preference to the current document.
 
+## TOP CANON — SECTION 13: EVERY JOINT IS A GALAXY
+
+[Section 13 in the live Drive orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) governs the fairy FRAME/NODE logic: every joint is a galaxy; TESTA cultivates galaxy seeds before crystal grows around them; helix, nerve stream, lattice armor and galaxy highway are one continuous network. It contains the exact joint/seed/function map and the helix-to-square equip example. Yellow D12 remains the shoulder's seed identity; violet is the charged relay glow in that action. Rendering remains **PAUSED**.
+
 ## CORE CANON — THE INVENTORY AND DNA WORMHOLE
 
 ZIPPER is the shared-universe intro/outro and the connection between the player's ordinary inventory screen and the real working world behind it. The GERTECH DNA wormhole opens as two gold lattice strands in a double helix twist apart; the same strands rejoin to close it. The opening reveals the owner-selected 5×5 geometric/fractal relay interior. Our gold/crystal lattice squares are the generic inventory slots; their interiors contain storage, fairy workbenches and linked spawn points.
