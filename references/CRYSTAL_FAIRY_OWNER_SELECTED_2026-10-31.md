@@ -1,6 +1,6 @@
 # CANON — OWNER-SELECTED CRYSTAL FAIRY IMAGE — 2026-10-31
 
-Status: OWNER APPROVED CHARACTER VISUAL. Author: Isekai Sensei.
+Status: OWNER APPROVED CHARACTER VISUAL. Author: Isekai Ryan.
 Canonical owner-supplied full-body JPEG: https://drive.google.com/file/d/1_OqByu_8iERELuNUB-mDwx9Ncam6Sm7Y/view
 Location: TO WORLD shared root JPEG master folder https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT
 Original filename preserved: image_20261031_120613.jpg

@@ -1,6 +1,6 @@
 # Grok — public project consolidation and current QC
 Date: 2026-10-31
-Owner/public creator: Isekai Sensei
+Owner/public creator: Isekai Ryan
 Task ID: GROK_PUBLIC_HANDOFF_2026-10-31
 
 ## Current authority and source files
@@ -14,7 +14,7 @@ Task ID: GROK_PUBLIC_HANDOFF_2026-10-31
 - [Public game standards and eight Grok upgrade proposals](https://github.com/IsekaiSensei/to-world-open-crew).
 
 ## Owner task and public handling
-The owner directs Chat/Work to coordinate with Grok and supply the project material needed for public consolidation. The owner states that the project material is already posted/public; real personal names are the exception to filter. Use Isekai Sensei in public-facing material.
+The owner directs Chat/Work to coordinate with Grok and supply the project material needed for public consolidation. The owner states that the project material is already posted/public; real personal names are the exception to filter. Use Isekai Ryan in public-facing material.
 
 GitHub holds canonical code, scripts and manifests. Drive holds artwork/video and the authorized public-access orders and individual-agent scripts. Preserve source IDs when moving files. Verify content, names and destination access for each actual file. The live Drive orders control FIRST MODEL acceptance and the output text rule; this handoff does not independently redefine them.
 

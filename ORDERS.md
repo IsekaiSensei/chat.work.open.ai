@@ -16,7 +16,7 @@ Read this governing premise first in the [live Drive orders](https://docs.google
 
 ## CASTING — FINAL
 
-**NIKOLA TESLA IS PLAYED BY ISEKAI SENSEI.** One actor, one fictional character: Tesla / Man in the Moon / TESTA factory maintainer. Owner-selected `Isekai_Sensei_Character_Sheet` controls his established face and mechanic look (adult ~40, long hair/beard, plaid shirt, apron). Optional Tesla-style mustache only; never replace his selected identity. No Elon Musk character, cameo, likeness, or substitute actor. The modern vehicles, spacecraft, satellites and press/robotics capacities of TESTA are **alternate-universe fiction**. The duplication-machine idea from *The Prestige* is fictional, not a historical invention. See [casting reference](references/TESLA_MAN_IN_THE_MOON_CASTING_2026-10-31.md).
+**NIKOLA TESLA IS PLAYED BY ISEKAI RYAN.** One actor, one fictional character: Tesla / Man in the Moon / TESTA factory maintainer. Owner-selected `Isekai_Ryan_Character_Sheet` controls his established face and mechanic look (adult ~40, long hair/beard, plaid shirt, apron). Optional Tesla-style mustache only; never replace his selected identity. No Elon Musk character, cameo, likeness, or substitute actor. The modern vehicles, spacecraft, satellites and press/robotics capacities of TESTA are **alternate-universe fiction**. The duplication-machine idea from *The Prestige* is fictional, not a historical invention. See [casting reference](references/TESLA_MAN_IN_THE_MOON_CASTING_2026-10-31.md).
 
 ## FIRST MODEL / ART
 

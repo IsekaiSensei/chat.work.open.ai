@@ -1,7 +1,7 @@
 # MIDSUMMER NIGHT'S STREAM — GERTECH DYSON SPHERE
 ## Script order / scene index
 
-Creator: Isekai Sensei
+Creator: Isekai Ryan
 Status: **working adaptation**; story drafts do not approve character concept images.
 Source play: William Shakespeare, *A Midsummer Night's Dream* (public-domain dramatic structure). Readable reference: https://www.folger.edu/explore/shakespeares-works/a-midsummer-nights-dream/read/
 

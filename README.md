@@ -1,6 +1,6 @@
 # chat.work.open.ai
 
-Isekai Sensei — agent personalities and shared workflow.
+Isekai Ryan — agent personalities and shared workflow.
 
 **Production: A Midsummer Night's Dream — GERTECH Dyson Sphere.**
 

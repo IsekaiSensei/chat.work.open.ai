@@ -166,7 +166,7 @@ The existing ZIPPER 001–026 are seven-second scenes. Preserve all twenty-six s
 - Keep production instructions in this text file, never embedded as words on concept artwork.
 
 ZIPPER 027 — FROST CRYSTAL — 7 SECONDS
-0:00–0:01 ISEKAI SENSEI (he): “Frost!” He raises his wand. An adult Shiva-inspired fairy of opaque, milky frost crystal turns toward him from her science-and-magic workbench, long icy hair flowing beneath a crystal crown.
+0:00–0:01 ISEKAI RYAN (he): “Frost!” He raises his wand. An adult Shiva-inspired fairy of opaque, milky frost crystal turns toward him from her science-and-magic workbench, long icy hair flowing beneath a crystal crown.
 0:01–0:03 She lifts a frosted crystal seed from the material tray with workshop tongs and seats it inside a crystal relay ring.
 0:03–0:05 She touches the seed with her crystal wand. A small wormhole unzips; a sparkling stream of frost pours through.
 0:05–0:07 Frost bursts from Sensei’s wand and branches into a snow-covered crystal arch. The fairy brushes ice dust from her hands as the wormhole zips shut.
