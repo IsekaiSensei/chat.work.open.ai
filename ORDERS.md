@@ -5,9 +5,11 @@ Production: A Midsummer Night's Dream — GERTECH Dyson Sphere
 
 **This file contains active instructions only.** Do not append progress journals, completed tasks, rejected plans, failure histories, old clip counts, previous orders, audit evidence, or archive summaries. When an instruction stops being active, remove it from this file rather than describing its history here.
 
-## 1. Active assignment
+## 1. Universal assignment — any agent
 
-Readapt *A Midsummer Night's Dream* section by section as a dramatic production set inside a functioning, surreal GERTECH Dyson sphere.
+Any agent must be able to execute the selected production from its shared script, scene order and selected references, without relying on the chat or agent that created it. Every script is an agent-neutral handoff: named speakers, dialogue, source IDs, sequence, timing and reference links must travel with the script, not live in one agent's memory.
+
+The current shared assignment is to readapt *A Midsummer Night's Dream* section by section as a dramatic production set inside a functioning, surreal GERTECH Dyson sphere.
 
 - Write playable scenes with actual dialogue and, where useful, lyrics; do not substitute plot summaries.
 - Preserve the original scene's dramatic purpose, relationships, conflicts, emotional progression, humor, double meanings, and payoffs.
@@ -55,9 +57,9 @@ Readapt *A Midsummer Night's Dream* section by section as a dramatic production 
 
 ## 6. Working locations and credits
 
-- **GitHub:** scripts, code, manifests and these current orders.
-- **Google Drive:** character art, JPEG references and video.
+- **GitHub:** canonical scripts, code, manifests and current orders.
+- **Google Drive:** art, JPEG references and video, plus public-access orders and individual-agent scripts that can be opened directly by any new agent. These are specific access exceptions, not a requirement to mirror everything.
 - [TO WORLD](https://drive.google.com/drive/folders/1848layOO9qRV3Mt7w6kSuIV5zX3Lu_IV)
-- [JPEG references](https://drive.google.com/drive/folders/1Hp3jdMGAu989fg-IFVcfMcMfttP1KxxY)
+- [JPEG references](https://drive.google.com/drive/folders/1htrfgWBc9No_9_TwSdvxm1P_oJForooP)
 - [Separate art text directions](https://drive.google.com/drive/folders/1TIKwqEXMlWiyxa7asubaj8Xc3dUzb5h6)
 - Public creator credit: **Isekai Sensei**.
