@@ -5,6 +5,10 @@
 **FIRST MODEL:** Owner-selected clean JPEG only — blue-haired, amber-eyed, gold-lattice clear crystal fairy; adult 25+; 165 cm; articulated gold/crystal anatomy. Never derive identity from later renders.
 
 **META RENDER LOCK**
+**REQUIRED VERBATIM PROMPT PREFIX — every ZIPPER render job:** `Adult crystal fairy 25+ / 165cm / mature face / adult proportions / gold-lattice clear crystal shell / molten gold nervous system / selected clean JPEG = FIRST MODEL — zero juvenile, zero childlike, zero 10cm`
+
+**PROMPT-LEVEL VERIFICATION:** Do not rely on ORDERS alone to supply the adult lock. Put the full prefix into the actual prompt submitted for every clip, with the selected original JPEG attached. If the image is unavailable, BLOCK that render rather than substituting an unselected model. Before marking a clip complete, review the submitted prompt, generation note, and visible result. If the note says "young" or the depiction appears younger than 25+, mark REJECTED, do not use it as a continuity source, and do not count it as approved or rendered in LAST RENDERED CLIP.
+
 - Fairies: adults 25+ only, mature facial structure, adult proportions and adult silhouette — zero juvenile, zero childlike, zero 10 cm.
 - Isekai Sensei: age 40.
 - Image-only artwork: ZERO embedded text.
