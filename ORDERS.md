@@ -1,17 +1,25 @@
+## OWNER-SELECTION OVERRIDE — FIRST MODEL (HIGHEST PRIORITY)
+
+- **Owner selection controls:** When Isekai Sensei explicitly designates a particular image FIRST MODEL, attach/use **that exact original image AS-IS**, even if it contains embedded text, titles, labels or annotations. Do not reject, block, substitute, reclassify or demand reupload **because of embedded text**.
+- **ZERO EMBEDDED TEXT is an OUTPUT rule:** New generated concept art, character sheets, images and video frames must be free of embedded lettering. Do **not copy source labels into finished renders**. The source reference itself need not be text-free to be accepted when the owner selected it.
+- **No blanket approval:** Unselected JPEGs are not automatically FIRST MODEL. Keep any specifically requested text-audit or cleaning workflow separate from render reference selection; a text-audit result cannot veto an explicit owner selection.
+- **Only actual access failure blocks:** If the selected exact reference cannot be opened/attached, report BLOCKED with its file ID/link; never replace it with a different model or claim it was attached.
+- **Precedence:** This direction overrides conflicting "CLEAN FIRST MODEL" language, automatic reference text checks, or any broader Section 3 cleanliness instruction. Preserve the adult 25+, FORCE FIRST MODEL, and PAUSED render locks.
+
 ## META — TOP PRIORITY / ZIPPER CINEMA CONTINUE
 
 **PRODUCTION:** ZIPPER Cinema Continue — 74 clips × 7 seconds.
 
-**FIRST MODEL:** Owner-selected clean JPEG only — blue-haired, amber-eyed, gold-lattice clear crystal fairy; adult 25+; 165 cm; articulated gold/crystal anatomy. Never derive identity from later renders.
+**FIRST MODEL:** Use the exact owner-selected original reference, whether or not the source image has embedded labels. For the currently selected ZIPPER fairy: blue-haired, amber-eyed, gold-lattice clear crystal fairy; adult 25+; 165 cm; articulated gold/crystal anatomy. Never derive identity from later renders.
 
 **META RENDER LOCK**
-**REQUIRED VERBATIM PROMPT PREFIX — every ZIPPER render job:** `Adult crystal fairy 25+ / 165cm / mature face / adult proportions / gold-lattice clear crystal shell / molten gold nervous system / selected clean JPEG = FIRST MODEL — zero juvenile, zero childlike, zero 10cm`
+**REQUIRED VERBATIM PROMPT PREFIX — every ZIPPER render job:** `Adult crystal fairy 25+ / 165cm / mature face / adult proportions / gold-lattice clear crystal shell / molten gold nervous system / owner-selected original JPEG = FIRST MODEL — zero juvenile, zero childlike, zero 10cm`
 
-**PROMPT-LEVEL VERIFICATION:** Do not rely on ORDERS alone to supply the adult lock. Put the full prefix into the actual prompt submitted for every clip, with the selected original JPEG attached. If the image is unavailable, BLOCK that render rather than substituting an unselected model. Before marking a clip complete, review the submitted prompt, generation note, and visible result. If the note says "young" or the depiction appears younger than 25+, mark REJECTED, do not use it as a continuity source, and do not count it as approved or rendered in LAST RENDERED CLIP.
+**PROMPT-LEVEL VERIFICATION:** Do not rely on ORDERS alone to supply the adult lock. Put the full prefix into the actual prompt submitted for every clip, with the exact owner-selected original JPEG attached. If the image is unavailable, BLOCK that render rather than substituting an unselected model. Before marking a clip complete, review the submitted prompt, generation note, and visible result. If the note says "young" or the depiction appears younger than 25+, mark REJECTED, do not use it as a continuity source, and do not count it as approved or rendered in LAST RENDERED CLIP.
 
 - Fairies: adults 25+ only, mature facial structure, adult proportions and adult silhouette — zero juvenile, zero childlike, zero 10 cm.
 - Isekai Sensei: age 40.
-- Image-only artwork: ZERO embedded text.
+- NEW image-only artwork / finished renders: ZERO embedded text. Words on an owner-selected SOURCE reference do not disqualify FIRST MODEL; do not reproduce those words in output.
 - Every clip: FORCE FIRST MODEL, attaching the actual selected JPEG.
 - Batches of 10; each ZIPPER scene exactly 7 seconds; 16:9 landscape; continuous gold GERTECH lattice.
 - If a generation note says "young" or the character looks younger than 25+, REJECT immediately; do not count that clip as rendered.
@@ -59,10 +67,10 @@ The current shared production is **ZIPPER**: the common intro and outro connecti
 
 ## 3. Visual authority and art direction
 
-- Only **owner-reviewed and selected art** becomes the primary visual reference. A supplied or newly generated image is a candidate until selected.
+- Only **owner-reviewed and selected art** becomes the primary visual reference. A supplied or newly generated image is a candidate until selected. Once the owner names an image FIRST MODEL, that selection overrides text labels or automated cleanliness checks for the source reference.
 - **FIRST MODEL** means the original selected image for this production and character, never an image from a later render.
-- **Image-only artwork:** Every concept, character sheet, LoRA reference, World Seed image, pose, model, equipment, and environment image must contain **ZERO embedded text**—no titles, names, labels, numbers, directions, prompts, notes, specification tables, captions, or annotations. Do not add decorative text. Keep directions and metadata in **separate text files**, never inside the artwork.
-- Use clean, owner-selected reference imagery for FIRST MODEL. Do not treat annotated compilation sheets as primary image sources. Preserve originals; clean replacements must be actual image edits, not claims that text was removed.
+- **ZERO EMBEDDED TEXT applies to NEW/FINISHED artwork and video, not to acceptance of an OWNER-SELECTED reference.** New concept art, sheets, LoRA/World Seed images, poses, models, equipment and environments must have no added titles, labels, numbers, captions, annotations or other writing. Text present in the original reference is visual source data only: never reproduce it in new output. Keep new directions and metadata in separate text files.
+- **FIRST MODEL authority:** Use the exact image explicitly selected by the owner, as-is, even if text or labels appear in its pixels. Do not disqualify it, rescan for alternatives, replace it with a generic/cleaner model, or request repeated uploads solely due to embedded text. Unselected compilations remain secondary references. If the actual chosen file is inaccessible, report BLOCKED with the missing file ID/link rather than inventing a substitute. Preserve originals; any separately requested text-removal edit must genuinely remove text without redesigning the image.
 - Keep the Dyson sphere, its habitats, machinery and relay infrastructure visually coherent throughout each scene.
 
 ## 4. Script and source handling
