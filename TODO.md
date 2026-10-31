@@ -5,7 +5,9 @@
 - [ ] Define the portable ammunition item model (bullets: types, stacks and compatibility).
 - [ ] Define the portable potion model (effects, stacks and supported/unsupported uses).
 - [ ] Define the shared backpack with unlimited storage for every collected item.
-- [ ] Define and test transfer + save/load without item loss or duplication when authorized.
+- [ ] Define world-local spawn points, reusable spawner templates, and shared item/entity references.
+- [ ] Preserve spawner cooldowns, active waves, live entities and checkpoints per game across transitions.
+- [ ] Define and test transfer + save/load without item loss, duplication or spawner reset when authorized.
 
 Specification: https://github.com/IsekaiSensei/to-world-open-crew/blob/main/GAME_STANDARDS.md
 
