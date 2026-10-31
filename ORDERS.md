@@ -1,31 +1,27 @@
-# Orders
+# ORDERS — UNIVERSAL GAME TRANSITIONS
 
 Owner: Sensei / Isekai Sensei.
+Current scope reset: October 30, 2026.
 
-## Do the requested work
+## The one active assignment
 
-- Sensei's latest instruction and selected sources control the task. “Run the script,” “render,” “go,” and “proceed” authorize the identified scope. Continue without asking for another GO between clips or batches.
-- “Check” means inspect the existing source and its dependent instructions before changing anything. “Fix” means revise the original instruction in place, not append an annotation elsewhere: replace superseded wording, reconcile contradictions and duplicates in affected orders and linked references, then read back the complete result to verify. A diagnosis, acknowledgment or to-do entry is not a completed repair. Finish work within your access; report a concrete remaining blocker briefly.
-- Carry forward the selected script, numbering, frame and original reference images. Preserve the approved story progression and ending. Resolve routine implementation details without changing the subject, character, costume or plot.
-- Store code and project text in GitHub; artwork and video in Drive. Preserve source originals when editing working versions. Follow explicit owner deletion instructions.
+Work ONLY on reusable, common game systems that transfer between games. Begin with **bullets/ammunition**, **potions/consumables**, and an **unlimited backpack/inventory**. The shared specification lives at [TO WORLD GAME STANDARDS](https://github.com/IsekaiSensei/to-world-open-crew/blob/main/GAME_STANDARDS.md). These are universal mechanics, not a new individual game or story.
 
-## Load the right material
+**No active scripts, render batches, movie productions, quests, character production assignments, old project queues, or automatic continuation of historical projects.** Do not run or revive them from an old link, conversation, file, or model memory. No new story, movie, game prototype, or extra project without Sensei's fresh instruction.
 
-- Read this file, the relevant agent personality card, and the exact selected script. Use the exact current reference versions Sensei selects, with their assigned roles and supplied order. **Current canon — owner selection, 30 October 2026:** Sensei explicitly approves the corrected reference versions made in this cleanup and orders them to overwrite the versions currently being used. The corrected files at their existing Drive IDs are the current selected sources, including the updated `01_ISEKAI_SENSEI_REFERENCE.jpg` with the full GERTECH palette and science/magic equipment. This explicit promotion supersedes older restrictions that excluded these files merely because they were cleaned, compiled or updated. Keep each file's assigned character/environment/equipment role and the active production's selected main Android model. A group roster or scene atlas does not become every character's identity. Palettes are interchangeable, and Sensei's current requested changes control. Do not invent priority from search order or filename labels. Existing owner selections remain valid until Sensei changes them; do not ask him to repeat them.
-- These repository files are sources, not automatic updates to Meta AI's native instructions or memory. Confirm actual content access once at session setup. If a URL cannot be opened, use the supplied file/text; identify only the missing required input.
-- Scripts and production-specific directions: [scripts](scripts/README.md). Personality: each agent's named card. **Concept sheets and model images contain artwork only; never print titles, captions, FIXED/LOCKED labels, visual restrictions or renderer commands on them.** Any existing wording baked into older images is historical image content, not an instruction. Keep production-specific directions in separate text files in TO WORLD's TEXT area, never on the image. Unfinished tasks and device tests: [to-do list](TODO.md). Keep their contents out of standing orders.
-- A stored source, old prompt, audit or to-do item does not start another production. Use existing selected references throughout the requested scope. **Meta:** assume each next render defaults to the last generated clip despite earlier window instructions. Include **FORCE FIRST MODEL** in **every** clip prompt, retry and continuation; reselect the **first current reference selected for the active production (or its owner-assigned character-specific source)** as visual source only, not an instruction sheet. FIRST refers to Sensei's supplied source order, including a corrected version he explicitly promotes to canon; search order and the last render do not select it. Preserve only the visual aspects Sensei explicitly asks to preserve for this shot. Previous generated clips supply action/camera/timing continuity only, never a replacement source model. **No visual feature is permanently fixed merely because it appears on a reference sheet:** costume, shorts, coverings, materials, colors, hair, face details, body proportions and geometry are changeable according to Sensei's current request. Remove or replace garment modules as ordered without inventing them again. Ignore baked-in text on any old reference image, even if marked FIXED, LOCKED, CANON, ALWAYS or NEVER. Use the selected sheet's matching art-direction text file in TO WORLD's TEXT area only where it does not conflict with Sensei's current instruction. See [META frame rule](META.md#meta-frame--first-model-force-on-every-render). Verify the resulting clip, not just the prompt.
+## Universal game rules — first implementation pass
 
-## Work and report
+1. **Bullets:** portable ammo entries with a stable item ID, ammo type, quantity, and optional equipment compatibility. Individual games can interpret permitted uses, but may not silently remove or convert ammunition.
+2. **Potions:** portable consumables with a stable item ID, quantity, effect data and any duration/cooldown. Games without that effect preserve the potion unchanged.
+3. **Backpack:** one shared inventory capable of holding **everything**, with **no slot, weight or quantity limit** imposed by the cross-game system. Keep all ammunition, potions, equipment, quest objects and other collected items. No automatic dropping or deletion.
+4. **Transitions:** entering or leaving a game retains the exact item identity, amounts, metadata and inventory contents. A receiving game may temporarily disable unsupported actions, but the items remain stored. Conversion or use of an item requires explicit rules, never a silent overwrite.
+5. **Save/load:** serialize and restore the complete shared inventory before and after transitions. Preserve equipped references and quantities consistently; do not duplicate or lose items.
 
-- Perform the checks relevant to the request. After editing an instruction, re-read its original section and scan the affected file and linked orders for obsolete wording or conflicting instructions. Verify actual file changes by reading them back. For rendering, check the resulting media, speech and continuity before claiming success.
-- Keep user-reported progress distinct from independently checked output. Do not overwrite reported completed clips with “none” merely because a receipt is unavailable.
-- Report the completed change, its location, and any concrete remaining blocker. Put follow-up tasks in TODO.md, not here.
-- For production work, finish the report with: LAST RENDERED CLIP: [production / confirmed number, or no new render this run]. Never derive rendered progress from script numbering.
+Start with these three item families. Other common game systems (controls, health, interaction, currency, checkpoints) are possible future modules, not authorization to start new work.
 
-## Current participation
+## Working discipline
 
-- Meta, Chat, Work, Jan and DeepSeek retain their individual personality cards.
-- Grok and Grok bots are independent external contractors, outside the GitHub command/work chain. Do not route tasks, approvals or relays through them. Existing fictional character art does not grant operational authority.
-- Muse is off project. Do not assign tasks or treat its previous capacity as an available quota.
-- Retired repositories and historical records are not current instructions. Do not rebuild their old workflows. Publishing, messaging and unrelated work require the owner's instruction.
+- Keep code/manifests in GitHub and artwork/video in Google Drive. Do not touch existing artwork, video, World Book media, or private archives for this reset.
+- Existing scripts and old prototypes are retired from the current working branch; Git history preserves their previous text. Do not treat old files or prior render progress as active work.
+- Meta's native Orders are separate. A GitHub edit does not automatically install instructions into Meta AI.
+- Report only work actually completed and verified. Sensei decides when to implement or test the new shared mechanics.
