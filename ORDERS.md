@@ -2,13 +2,13 @@
 
 **Single current production authority:** [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). This GitHub file is the stable discovery/router entry for fresh agents. In a conflict, the Drive CURRENT orders decide active Meta casting, render authorization and production status. Do not run an old archived instruction in preference to the current document.
 
-## CORE CANON — THE SPACE BEHIND THE INVENTORY
+## CORE CANON — THE INVENTORY AND DNA WORMHOLE
 
-ZIPPER is the shared-universe intro/outro and the connection between the player's ordinary inventory screen and the real working world behind it. Our gold/crystal lattice squares are the generic inventory slots. Their interiors contain storage, fairy workbenches and linked spawn points. Describe the physical connection in new render prompts as a wormhole aperture through the owner-selected lattice geometry.
+ZIPPER is the shared-universe intro/outro and the connection between the player's ordinary inventory screen and the real working world behind it. The GERTECH DNA wormhole opens as two gold lattice strands in a double helix twist apart; the same strands rejoin to close it. The opening reveals the owner-selected 5×5 geometric/fractal relay interior. Our gold/crystal lattice squares are the generic inventory slots; their interiors contain storage, fairy workbenches and linked spawn points.
 
 For an inventory Combine, show the actual transaction: the player places a gem and shaft into generic combiner slots; those same inputs arrive through the incoming wormhole onto the fairy's desk; the fairy performs the requested assembly; the completed item returns through the wormhole to the player's inventory; then the inventory updates. The player sees a flash. We show the full 30 seconds of work in between, including the receiving, keeping, working and sending of the items.
 
-Read this governing premise first in the [live Drive orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). In source scene language, “unzips” and “zips shut” describe the wormhole aperture opening and closing.
+Read this governing premise first in the [live Drive orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). In source scene language, “unzips” means the two gold lattice double-helix strands twist apart to open the DNA wormhole; “zips shut” means they rejoin. The fractal controls world construction; each original FIRST MODEL controls its own character.
 
 ## CASTING — FINAL
 
