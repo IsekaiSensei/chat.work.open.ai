@@ -6,7 +6,7 @@ Isekai Sensei — agent personalities and shared workflow.
 
 [Current ORDERS](ORDERS.md) · [Universal Game Standards](https://github.com/IsekaiSensei/to-world-open-crew/blob/main/GAME_STANDARDS.md) · [Meta](META.md)
 
-Begin with bullets, potions and an unlimited backpack shared between every game. No active scripts, individual story/game productions, render batches or legacy project assignments.
+Begin with bullets, potions, an unlimited backpack, shared spawner templates and world-local spawn points. Save the exact same inventory and spawn progress across every compatible game transition. No active scripts, individual story/game productions, render batches or legacy project assignments.
 
 Character/personality references (not active assignments): [CHAT](CHAT.md) · [WORK](WORK.md) · [JAN](JAN.md) · [DEEPSEEK](DEEPSEEK.md) · [META](META.md). Older cards remain historical character descriptions, not instructions to start projects.
 
