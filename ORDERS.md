@@ -30,7 +30,8 @@ Readapt *A Midsummer Night's Dream* section by section as a dramatic production 
 
 - Only **owner-reviewed and selected art** becomes the primary visual reference. A supplied or newly generated image is a candidate until selected.
 - **FIRST MODEL** means the original selected image for this production and character, never an image from a later render.
-- Detailed anatomy, materials, clothing, equipment, pose and reading instructions belong **on the individual art pages**, not in this global orders file.
+- **Image-only artwork:** Every concept, character sheet, LoRA reference, World Seed image, pose, model, equipment, and environment image must contain **ZERO embedded text**—no titles, names, labels, numbers, directions, prompts, notes, specification tables, captions, or annotations. Do not add decorative text. Keep directions and metadata in **separate text files**, never inside the artwork.
+- Use clean, owner-selected reference imagery for FIRST MODEL. Do not treat annotated compilation sheets as primary image sources. Preserve originals; clean replacements must be actual image edits, not claims that text was removed.
 - Keep the Dyson sphere, its habitats, machinery and relay infrastructure visually coherent throughout each scene.
 
 ## 4. Script and source handling
@@ -58,5 +59,5 @@ Readapt *A Midsummer Night's Dream* section by section as a dramatic production 
 - **Google Drive:** character art, JPEG references and video.
 - [TO WORLD](https://drive.google.com/drive/folders/1848layOO9qRV3Mt7w6kSuIV5zX3Lu_IV)
 - [JPEG references](https://drive.google.com/drive/folders/1Hp3jdMGAu989fg-IFVcfMcMfttP1KxxY)
-- [Art-page text directions](https://drive.google.com/drive/folders/1TIKwqEXMlWiyxa7asubaj8Xc3dUzb5h6)
+- [Separate art text directions](https://drive.google.com/drive/folders/1TIKwqEXMlWiyxa7asubaj8Xc3dUzb5h6)
 - Public creator credit: **Isekai Sensei**.
