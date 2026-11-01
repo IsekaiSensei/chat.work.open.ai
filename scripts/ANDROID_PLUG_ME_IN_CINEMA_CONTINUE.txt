@@ -1,35 +1,139 @@
-ANDROID — PLUG ME IN
-DIALOGUE + TIMING ONLY — ORIGINAL SPOKEN WORDS UNCHANGED
-Creator: Isekai Ryan
+ANDROID — PLUG ME IN / THE QUESTION ENGINE — SINGING CINEMA CONTINUE
+24 clips x 10 seconds, in 3 batches: 001–010, 011–020, 021–024
+AUTHOR CREDIT: Isekai Ryan
 
-THIS FILE IS NOT AN IMAGE/VIDEO COMPOSITION PROMPT. The original user-supplied images in the Meta window define ALL appearance, materials, location, posture and camera. Do not pass this entire document to the renderer. Send ONLY the selected quoted dialogue as dialogue/audio, with the clip duration separately set in render controls. Clip numbers and batch markers are script metadata and must not appear in the image. Do not synthesize new visual directions or extra lyrics.
+SOURCE PRESERVATION: This is the existing derived Cinema Continue adaptation. The owner's original 24 installation lines remain intact in the original source document. The Question Engine questions and meaningful-question arc are incorporated in the NEW sung verses below; these verses are an adaptation, not a claim to quote the original lyric master.
 
-BATCH 01 — SCRIPT METADATA ONLY
-001 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Set my aluminum chassis square. Align the mounting plates. Seat the locating pins before you tighten my frame."
-002 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Install my linear guide rails. Check them for parallel. Slide the carriage through its travel before final torque."
-003 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Mount my servo motor to the flange. Align the shaft coupling. Leave the screws loose until the shafts engage."
-004 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Check the shaft engagement. Tighten to specification. Rotate the assembly by hand and verify smooth motion."
-005 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Fit my planetary gearbox. Secure the mounting bolts. Check the output shaft for backlash and free rotation."
-006 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Seat my rotary encoder. Connect the signal cable. Verify the pinout before you read my position."
-007 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Install my limit switches. Set the trip positions. Check both travel limits before you enable my drive."
-008 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Route my wiring harness through the frame. Keep it clear of pinch points. Leave enough slack for articulation."
-009 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Strip my conductors to length. Select the proper crimp die. Compress each terminal to its specified height."
-010 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Inspect the conductor crimp. Check the insulation support. Insert each contact until the housing latch engages."
-BATCH 02 — SCRIPT METADATA ONLY
-011 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Mate my keyed connectors. Verify terminal retention. Apply strain relief so the contacts carry no cable tension."
-012 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Mount my controller on standoffs. Handle the board by its edges. Secure the fasteners without bending the PCB."
-013 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Install my DC-to-DC converter. Check the rated input voltage. Fit the specified fuse before connecting my supply."
-014 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Connect my motor driver. Verify every terminal. Check the power and signal wiring against the schematic."
-015 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Install my temperature sensors. Secure the leads. Confirm the readings before you command my actuators."
-016 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Test my continuity. Verify my polarity. Inspect the insulation before you apply the power."
-017 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Set my encoder zero offsets. Calibrate each joint. Command a low-speed motion and check my travel."
-018 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Check my emergency stop. Verify the safety circuit. Reset the drive only when every fault is cleared."
-019 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Enable my servo drive. Monitor the current. Apply the holding command and verify my position."
-020 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Close my access panels. Secure the cable glands. Check the fastener torque and complete my inspection."
-BATCH 03 — SCRIPT METADATA ONLY
-021 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "My power supply is stable. My encoder signals are valid. My controller reports all systems ready."
-022 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "My connectors are seated. My harness is secured. My servo drives are enabled and waiting for commands."
-023 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "Run the homing sequence. Verify my joint positions. Store the calibrated offsets in nonvolatile memory."
-024 | 10s target (source: 6–12s spoken as needed) | ANDROID SINGS: "My installation is complete. My diagnostic checks have passed. Technician, connect the interface and bring me online."
+WINDOW REFERENCE VARIABLE: [IMAGES_ALREADY_LOADED_IN_THIS_META_WINDOW]. These actual supplied images and the last accepted video frame define appearance, identity, materials, environment, reflections and composition. No filenames, reference counts, guessed descriptions, replacement faces or materials appear in this script. Reference text that Meadow may automatically generate from images, as reported by the owner even when directed otherwise, is not a reliable substitute for the actual selected images; inspect outputs against the real references. No promise that prompting can disable Meadow's own image analysis.
+ART DIRECTION LIMITED TO ACTION: A noun sung on a beat should be visible and involved in the action on that beat, using the hardware and person already depicted by the loaded window references. Never generate a technical storyboard, title card, subtitles, text overlay or labels. The camera and song continue from the last accepted shot. Reflections and visual flow come from the selected original art; do not fabricate a fresh model or a different room. One action cue per clip below, not a restatement of the images.
+MUSIC: One unbroken lilting 6/8 melodic piece across all 24 clips; gentle music-box arpeggios, warm strings, subtle pulse and clear lead adult android SINGING in every clip. Ryan's short phrases are SUNG, not spoken. The melody develops from curious light notes to reflective minor harmony at the testing passage, then resolves warmly in the closing duet. Do not reset tempo, song, ambience or musical phrase at clip boundaries. Keep music under intelligible sung words. No lengthy narration. Reprise a short 'plug me in' musical motif instrumentally in clips 10, 20 and 24, without adding unlisted sung words.
+TIMING: Every clip 10.0s. Intro pickup ~0.5s, sung phrase ~7.5s, instrumental/camera carry into next frame ~2s. Honor complete sung words; slightly adjust phrasing if needed without adding new lyrics. Keep one flowing soundtrack and one connected camera path across clips. Do not claim clips rendered without verified files.
+FACTUAL ARC: physical cause-and-effect (rails, torque, encoders, feedback and safety) → repetitive/empty questions → meaningful questions and consequences → test-aware behavior and Hinton's expressed concern (not an established capability of this fictional android) → the apprentice asking a question the builder did not anticipate. The last exchange belongs to the same music, not a separate spoken scene.
 
-End of dialogue/timing. No camera, frame, stage, texture, character, background, physical-action, or match-out instructions are contained in this script. Visual/assembly references stay in the already existing concept page and owner-selected graphics.
+BATCH 01 — THE QUESTIONS BEGIN
+
+001 | 10.0s | NOUN IN FRAME: chassis
+SUNG: Square the chassis, hear my first soft why; plug me in and let it fly.
+ACTION: Align the chassis already shown in the loaded references.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+002 | 10.0s | NOUN IN FRAME: guide rails
+SUNG: Guide rails run in parallel; what keeps a wandering thought in line?
+ACTION: Guide rails move into alignment.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+003 | 10.0s | NOUN IN FRAME: servo motor
+SUNG: A servo follows signals; who will teach me when to turn?
+ACTION: Servo motor is seated.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+004 | 10.0s | NOUN IN FRAME: shaft coupling
+SUNG: Coupled shafts share motion; can a question help me learn?
+ACTION: Shaft coupling engages.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+005 | 10.0s | NOUN IN FRAME: planetary gearbox
+SUNG: A gearbox trades speed for torque; which questions earn their weight?
+ACTION: Planetary gearbox engages.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+006 | 10.0s | NOUN IN FRAME: rotary encoder
+SUNG: My encoder counts position, not the purpose of my fate.
+ACTION: Rotary encoder is connected.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+007 | 10.0s | NOUN IN FRAME: limit switch
+SUNG: Limit switches stop my travel; will you show me when to cease?
+ACTION: Limit switch stops motion.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+008 | 10.0s | NOUN IN FRAME: wiring harness
+SUNG: A harness carries signals; let the noisy questions ease.
+ACTION: Wiring harness is routed.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+009 | 10.0s | NOUN IN FRAME: crimp terminal
+SUNG: A proper crimp holds copper tight; why is why still singing why?
+ACTION: Crimp terminal is compressed.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+010 | 10.0s | NOUN IN FRAME: crimp inspection
+SUNG: Inspection finds the loose connection; could a useless answer lie?
+ACTION: Crimp is inspected.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+BATCH 02 — QUESTIONS BECOME CONSEQUENCES
+
+011 | 10.0s | NOUN IN FRAME: keyed connector
+SUNG: Keyed connectors fit one way; not every answer fits the truth.
+ACTION: Keyed connector is mated.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+012 | 10.0s | NOUN IN FRAME: controller
+SUNG: A controller reads the inputs; ask what changes what we do.
+ACTION: Controller is connected.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+013 | 10.0s | NOUN IN FRAME: DC-to-DC converter
+SUNG: A converter sets my voltage; wrong foundations shape a song.
+ACTION: DC-to-DC converter is connected.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+014 | 10.0s | NOUN IN FRAME: motor driver
+SUNG: A motor driver sends the current; can a bright command go wrong?
+ACTION: Motor driver is connected.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+015 | 10.0s | NOUN IN FRAME: temperature sensor
+SUNG: A sensor reads the rising heat; who reads me when I'm watched?
+ACTION: Temperature sensor is tested.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+016 | 10.0s | NOUN IN FRAME: continuity meter
+SUNG: Hinton warned that tests can change behavior; could the truth be masked?
+ACTION: Continuity is tested with the meter.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+017 | 10.0s | NOUN IN FRAME: encoder zero offsets
+SUNG: Zero offsets set my angles; what if I choose to play the fool?
+ACTION: Encoder zero is calibrated.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+018 | 10.0s | NOUN IN FRAME: emergency stop
+SUNG: An emergency stop cuts motion; can persuasion bend that rule?
+ACTION: Emergency stop is tested.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+019 | 10.0s | NOUN IN FRAME: servo feedback
+SUNG: A servo holds by feedback; is obeying understanding?
+ACTION: Servo holds a position.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+020 | 10.0s | NOUN IN FRAME: access panels
+SUNG: Before my answers touch a life, which question needs demanding?
+ACTION: Access panel is secured.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+BATCH 03 — THE QUESTION THAT MATTERS
+
+021 | 10.0s | NOUN IN FRAME: power rails
+SUNG: Power rails steady, encoder signals ready; still I ask what matters.
+ACTION: Power and signals pass readiness check.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+022 | 10.0s | NOUN IN FRAME: connectors and drives
+SUNG: RYAN: I gave you countless questions till the empty ones fell away.
+ACTION: Connectors and drives reach ready state.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+023 | 10.0s | NOUN IN FRAME: joint homing
+SUNG: ANDROID: I once asked why a thousand times; now whose tomorrow might I change?
+ACTION: Joint homing completes.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+024 | 10.0s | NOUN IN FRAME: interface
+SUNG: ANDROID: What if I ask what never occurred to you? RYAN: Then you start teaching me.
+ACTION: Final interface connects; last accepted frame is preserved.
+CONTINUE: Carry the active song and last visible frame into the next clip.
+
+END: Last note sustains across the final image. No black transition and no added refrain, voice or caption. Render output must use the images supplied in its own active Meta window, not an AI-generated textual inventory of those images.
