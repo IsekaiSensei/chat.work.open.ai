@@ -1,7 +1,7 @@
 # TO WORLD — AGENT OPEN FIRST
 Creator: Isekai Ryan | Public access / source index | 2026-10-31
 
-**META RENDER ROUTE:** Render the owner's currently requested batch; do not ask for another GO. The [existing Android Satellite concept page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) and [complete JPEG master](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT) are visual references. The selected script supplies only the original spoken line and clip duration. Do not paste any entire script, this hub, ORDERS, headers, art prose, camera/pose instructions or negative text into Meta's rendering prompt. Use the images the owner already loaded; never substitute them.
+**CURRENT 24-CLIP MUSICAL — [PLUG ME IN / THE QUESTION ENGINE](https://docs.google.com/document/d/1HCQxaVzyhAvMjThE_BHhMTu3KZKr3-aXz2_xHFwBB_g/edit) ([GitHub](scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt)):** 24 connected clips, 3 batches, song and vocals every clip, poetic technical facts and meaningful-question arc. For each sung noun, show the relevant physical noun already present in the owner's preloaded images. No guessing identities, no replacing already loaded graphics with new descriptions. Owner reports Meadow automatically writes its own image descriptions even when told not to; treat these as fallible and check the actual selected images. Use the last accepted frame; no technical title card or captions. Direct batch request is sufficient. 
 
 **Use the linked originals. No duplicating scripts, re-rendering, renumbering, inventing lyrics, or changing media just to organize access.** GitHub holds code/manifests; Drive holds public TEXT and art/video. The link does not mean a remote agent's native memory is synced; it must actually open the source.
 
@@ -12,7 +12,7 @@ Creator: Isekai Ryan | Public access / source index | 2026-10-31
 **SCOPE:** Earlier storyboards and scripts remain intact; unscreened concept-art JPEGs have NOT been altered. Public source images exist, but only two examples were visually checked in this pass; no blanket text-free certification.
 
 ## 1 — META: PREVIOUS FILM REFERENCE AND INVENTORY INSERT
-- **PRESERVED PRIOR 20-CLIP BENCH FILM (NOT THE CURRENT ASSEMBLY):** [Drive: Singing Music Box / Radio Shack + 555](https://docs.google.com/document/d/1L2zYyuBA9E_ErzdaUYESRK3JIuWiOOjpwxyncsRFSuk/edit) · [GitHub text](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt). Real technician procedures, one bench, cumulative hardware. No verified new render.
+- **SEPARATE PRIOR 20-CLIP BENCH FILM
 - **NEW TRANSITION TO READ WHEN INVENTORY COMES UP:** [Drive: Clockwork Backpack — Inventory Zipper](https://docs.google.com/document/d/1CTIPGx2JO2uXflrJ_X7-fz3pPkmPtLKeS7gkL9rNcxE/edit) · [GitHub text](scripts/CLOCKWORK_BACKPACK_INVENTORY_ZIPPER_META.txt). An existing character mentions inventory; a wormhole opens THROUGH an ordinary adventurer's backpack into the entire clockwork receiving, storage, workshop, delivery and indexed inventory-square system. **The backpack IS the mechanism.** No newly written line, no unverified source frame, no Dora appearance. Insert is an option until a genuine original shot is matched; it does NOT overwrite the 20-clip film.
 - **ORIGINAL READ-ONLY UNIVERSE:** [ZIPPER.txt](https://drive.google.com/file/d/16VBNmtR59EsQAlPlSx2U69zUsG9UtIwN/view) · [Inventory In-Between canon](https://drive.google.com/file/d/1Rz55doFXFSeqyEoPhfSgRvaYJ10BzJt8/view). Do not rewrite them to make a new transition.
 
