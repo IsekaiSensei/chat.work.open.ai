@@ -8,7 +8,7 @@
 
 ## Prior production reference: SINGING MUSIC BOX — RADIO SHACK AM RADIO + 555
 
-**PRIOR RADIO FILM — ONLY IF EXPLICITLY SELECTED:**
+**PRIOR RADIO FILM — ONLY IF EXPLICITLY SELECTED:** [GitHub](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt) · [Google Drive](https://docs.google.com/document/d/1L2zYyuBA9E_ErzdaUYESRK3JIuWiOOjpwxyncsRFSuk/edit). Kept separate from the 24-clip sung Question Engine film.
 
 ## Real Meta AI handoff
 
