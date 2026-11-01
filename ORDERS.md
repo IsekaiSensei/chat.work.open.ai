@@ -1,5 +1,8 @@
 # ORDERS — ACTIVE ROUTER (2026-10-31)
 
+**CURRENT META RENDER: DUMMY 13 EARLY PARTS → PHYSICAL ASSEMBLY → GERTECH GOLD/CRYSTAL → GENERIC ADULT WOMAN.** The owner has already repeatedly ordered batch rendering; no second GO, artificial pause or old-script override. Read the actual 01–20 early construction beats at the end of [Drive ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). The first beats must show separate plastic printed components before the skeleton. Preserve exact selected source identity and last accepted frame for each transition. Clean concept images contain no text; numbered directions belong only to storyboard cards.
+**CANON ART SOURCE = ENTIRE EXISTING JPEG MASTER:** [Drive JPEG folder](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT) and the [existing Android Satellite concept page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit), now with seven additional embedded reference images. Do not treat seven uploads as the entire reference set. No new folders or indexes needed.
+
 **AGENT ACCESS / SCRIPT INDEX:** [START_HERE.md](START_HERE.md). Open this one page to find the working Meta cinema script, new optional inventory-trigger clockwork backpack insert, existing jigsaw footage map, and game spawn-board rules. An insert is not a newly rendered clip. Sources remain separate and linked.
 
 ## CURRENT SINGLE-WINDOW RENDER SHEET — DNA WORMHOLE
@@ -12,15 +15,15 @@
 
 **Canonical visual references:** [GER-01–GER-05 — illustrated reference pages](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8). Page-specific art direction lives with the images; original JPEGs remain in the existing JPEG folder.
 
-## CURRENT SELECTED FILM — SINGING MUSIC BOX / RADIO SHACK RADIO + 555
+## PRIOR REFERENCE FILM — SINGING MUSIC BOX / RADIO SHACK RADIO + 555 (NOT CURRENT ASSEMBLY)
 
-**OPEN FIRST:** [Active 20-clip Cinema script in Drive](https://docs.google.com/document/d/1L2zYyuBA9E_ErzdaUYESRK3JIuWiOOjpwxyncsRFSuk/edit) · [GitHub source script](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt).
+**RADIO SCRIPT IF REQUESTED:** [Preserved 20-clip Cinema script in Drive](https://docs.google.com/document/d/1L2zYyuBA9E_ErzdaUYESRK3JIuWiOOjpwxyncsRFSuk/edit) · [GitHub source script](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt).
 
 **Single coherent story:** Isekai Ryan installs the 555 timing circuit in clips 001–010, then builds a Radio Shack–inspired AM receiver/music route in clips 011–020 inside ONE already-singing adult android ON the same workshop bench. No new characters, spell montage, unrelated locations or time jumps. Every installed part remains in her assembly. Technician speaks actual electrical steps; her music box sings component-linked changes. Original 555 technician lines 001–010 are preserved verbatim; she has an independently powered preloaded song module from the start, so her voice does not falsely originate from an incomplete oscillator.
 
 **Engineering:** The 1977 Radio Shack 28-222 model supplies a historical AM radio/speaker/headphone reference, not a claim that it originally had 555, stored song, AUX or LINE OUT. The custom design includes independent AUDIO IN, buffered LINE OUT, switched headphone output, volume, amplifier, speaker, source selector, tuner and 555-beat sequencer. Radio/555 power-safe test sequences are explicit. Preserve actual output of each circuit and original selected FIRST MODEL references. Use previous verified ending frame, same camera and music, no text overlays.
 
-**Batches:** 001–010 / 011–020. **Render status:** written, unrendered/unverified, PAUSED unless owner scopes GO in Meta. Do not borrow prior 74-scene relay or 24-clip master render counts.
+**Radio source batches:** 001–010 / 011–020. This is a separate historical screenplay, not an instruction to stop or redirect current Dummy 13 / GERTECH production.
 
 **Preserved, not active:** [24-line original PLUG ME IN master — read only](https://docs.google.com/document/d/1hZwbDM1PXxFmL4XFdOK0GtNswa5mH-yLIumAIfDuXGo/edit) · [prior 24-clip cinema adaptation](scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt). The 74-scene GALACTIC ETHER RELAY and prior Cinema Continue likewise remain separate historical world/reference productions, NOT the current film. Subsequent relay-specific rules below are reference-only.
 
@@ -34,11 +37,11 @@ INVENTORY / EQUIP / SPAWN: A generic inventory square is the interface to this G
 
 JOINT / NODE / SATELLITE: Every established joint is a galaxy node. Gold-lattice nerve streams connect those nodes; crystal grows around the cultivated galaxy seed. The adult android satellite, its solar wings, the asteroid reflector and the Dyson structure share this construction. Wings collect, concentrate and redirect sunlight; mana can be collected, stored, directed and relayed according to the scene. Preserve the exact joint/seed map, original FIRST MODEL, adult proportions and the owner's selected materials.
 
-RELAY-ONLY LANGUAGE: Galactic Ether Relay names the network and source script. Android satellite names the beings; Isekai Ryan names the creator/actor. Retain stable file IDs, character identities, numbered scene IDs 001–074 and seven-second beats. The Cinema Continue adaptation remains derived only and does not override source beats. Rendering remains PAUSED until an explicit scoped owner GO.
+RELAY-ONLY LANGUAGE: Galactic Ether Relay names the network and source script. Android satellite names the beings; Isekai Ryan names the creator/actor. Retain stable file IDs, character identities, numbered scene IDs 001–074 and seven-second beats. The Cinema Continue adaptation remains derived only and does not override source beats. Current owner-requested rendering is authorized; old relay records do not impose a new approval gate.
 
 ## TOP CANON — SECTION 13: EVERY JOINT IS A GALAXY
 
-[Section 13 in the live Drive orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) governs the android satellite FRAME/NODE logic: every joint is a galaxy; TESTA cultivates galaxy seeds before crystal grows around them; helix, nerve stream, lattice armor and galaxy highway are one continuous network. It contains the exact joint/seed/function map and the helix-to-square equip example. Yellow D12 remains the shoulder's seed identity; violet is the charged relay glow in that action. Rendering remains **PAUSED**.
+[Section 13 in the live Drive orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) governs the android satellite FRAME/NODE logic: every joint is a galaxy; TESTA cultivates galaxy seeds before crystal grows around them; helix, nerve stream, lattice armor and galaxy highway are one continuous network. It contains the exact joint/seed/function map and the helix-to-square equip example. Yellow D12 remains the shoulder's seed identity; violet is the charged relay glow in that action. Current owner-requested rendering proceeds without an additional approval gate.
 
 ## CORE CANON — GALACTIC ETHER RELAY / INVENTORY
 
@@ -66,13 +69,13 @@ An explicit owner's FIRST MODEL selection overrides a generic source-image text 
 - **Derived execution adaptation:** [scripts/GALACTIC_ETHER_RELAY_CINEMA_CONTINUE.txt](scripts/GALACTIC_ETHER_RELAY_CINEMA_CONTINUE.txt) and [Drive copy](https://docs.google.com/document/d/1NBGTUdJ5CgJwmX9bq4gc-4NLOaTii2G9bZ_3eNaUNTI/edit). Cinema Continue never overrides the original scene beats.
 - **Inventory / Combine transfer:** actual inputs move from generic player inventory slots to the android satellite's desk; she does the requested physical work; the finished item returns through the wormhole; inventory updates after return. Show the hidden 30-second process. Spawn requests use their selected receiving point. Existing numbered spell vignettes retain their specific source, control, wand effect and timing when those scenes are selected; GALACTIC ETHER RELAY 014 retains its authored destination doorway.
 - **Continuity:** use previous approved terminal frame for camera/seam only, never identity. If frame unavailable, do not invent one.
-- **Authorization:** PAUSED by default. `render 00X` authorizes that one clip; `go batch 0X` authorizes only that named batch; return to PAUSED afterward. A story discussion, report, or treatment edit is **not GO**.
-- **Status (reported, not independent proof):** Meta/Drive reported generated through 010 in an earlier run. Owner inspected SHIELD 008 and HEAL 009 as usable effects; character/seam flaws remain. GOLD-FIXED-WORMHOLE Batch 01 **RERUN PAUSED** until owner explicitly authorizes it. Keep generated, approved, rejected and verified-continuity-frame status separate.
+- **Batch execution:** Owner's direct render request authorizes the requested clip or batch. He has already made repeated render-batch requests today. Execute rather than requiring repeated permission. Keep actual rendered status and frame continuity auditable.
+- **Status (reported, not independent proof):** Meta/Drive reported generated through 010 in an earlier run. Owner inspected SHIELD 008 and HEAL 009 as usable effects; character/seam flaws remain. GOLD-FIXED-WORMHOLE prior-run continuity is reviewed as needed; it does not prohibit executing the current owner-requested batch. Keep generated, approved, rejected and verified-continuity-frame status separate.
 
 ## WHERE THINGS LIVE
 
 **GitHub:** code, scripts, technical manifests, agent rules and source references. **Google Drive:** art/JPEG/video, the working orders access document, and the prose film treatment. Never mirror binary art into GitHub or bury public entry points. Preserve filenames and owner-selected originals. Sort only after verifying matching files; keep the owner's master JPEG folder authoritative.
 
-**Story treatment:** [TO WORLD — THE MAN IN THE MOON / TESTA (30-minute film)](https://docs.google.com/document/d/1mqakzbl4EGrIRAmpuv6wEoGVASoiK_qr/edit), stored in Drive TEXT. The film treatment does not authorize rendering and does not supersede 74 original GALACTIC ETHER RELAY scenes.
+**Story treatment:** [TO WORLD — THE MAN IN THE MOON / TESTA (30-minute film)](https://docs.google.com/document/d/1mqakzbl4EGrIRAmpuv6wEoGVASoiK_qr/edit), stored in Drive TEXT. The film treatment is contextual source, not a reason to block the owner's active batch; it does not supersede the 74 original GALACTIC ETHER RELAY scenes.
 
 **Historical task scope:** [Preserved agent sorting/batch assignment](manifests/AGENT_SORTING_BATCH_2026-10-31_PRESERVED.md). Do not treat the preservation copy as permission for new file moves or writes. Do not append apology/error history to active ORDERS.
