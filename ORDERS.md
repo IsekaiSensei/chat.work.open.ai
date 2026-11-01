@@ -4,17 +4,17 @@
 
 **Canonical visual references:** [GER-01–GER-05 — illustrated reference pages](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8). Page-specific art direction lives with the images; original JPEGs remain in the existing JPEG folder.
 
-## CURRENT SELECTED PRODUCTION — ANDROID: PLUG ME IN (ONE CONTINUOUS FILM)
+## CURRENT SELECTED FILM — SINGING MUSIC BOX / RADIO SHACK RADIO + 555
 
-**ACTIVE SCRIPT, OPEN FIRST IN META:** [24-clip Cinema Continue on Google Drive](https://docs.google.com/document/d/1HCQxaVzyhAvMjThE_BHhMTu3KZKr3-aXz2_xHFwBB_g/edit) · [Canonical execution script](scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt) · [Verbatim original 24 lyric lines — READ ONLY](https://docs.google.com/document/d/1hZwbDM1PXxFmL4XFdOK0GtNswa5mH-yLIumAIfDuXGo/edit).
+**OPEN FIRST:** [Active 20-clip Cinema script in Drive](https://docs.google.com/document/d/1L2zYyuBA9E_ErzdaUYESRK3JIuWiOOjpwxyncsRFSuk/edit) · [GitHub source script](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt).
 
-**Story and format:** Isekai Ryan installs real components INSIDE ONE adult mechanical android resting ON a workbench. Same builder, same android, same fixed workshop, one uninterrupted song and camera path. Mechanical frame → guides/servo/encoder → wiring and control → checks and safety → calibration → first autonomous movement → bring her online. Source lines 1–24 remain VERBATIM, one per clip. Preserve each completed clip's verified ending frame and original selected FIRST MODEL references; no substitution or hard visual resets. Every part visibly stays installed. No separate robot box. Zero text embedded in new rendered imagery.
+**Single coherent story:** Isekai Ryan installs the 555 timing circuit in clips 001–010, then builds a Radio Shack–inspired AM receiver/music route in clips 011–020 inside ONE already-singing adult android ON the same workshop bench. No new characters, spell montage, unrelated locations or time jumps. Every installed part remains in her assembly. Technician speaks actual electrical steps; her music box sings component-linked changes. Original 555 technician lines 001–010 are preserved verbatim; she has an independently powered preloaded song module from the start, so her voice does not falsely originate from an incomplete oscillator.
 
-**Batching:** three consecutive render batches: 001–010, 011–020, 021–024; aim for 10 seconds per clip and never truncate the original lyric. This is the ONLY currently selected story. No relay spells, new characters or unrelated locations inside this cut.
+**Engineering:** The 1977 Radio Shack 28-222 model supplies a historical AM radio/speaker/headphone reference, not a claim that it originally had 555, stored song, AUX or LINE OUT. The custom design includes independent AUDIO IN, buffered LINE OUT, switched headphone output, volume, amplifier, speaker, source selector, tuner and 555-beat sequencer. Radio/555 power-safe test sequences are explicit. Preserve actual output of each circuit and original selected FIRST MODEL references. Use previous verified ending frame, same camera and music, no text overlays.
 
-**Render status:** script created and source-checked. **No Plug Me In clips independently verified as rendered.** Prior Galactic Ether Relay clip 010 does NOT belong to this cut. Rendering is PAUSED until a scoped GO in Meta. Exact Meta first-model JPEG identifiers must come from the user's selected existing session, never guessed.
+**Batches:** 001–010 / 011–020. **Render status:** written, unrendered/unverified, PAUSED unless owner scopes GO in Meta. Do not borrow prior 74-scene relay or 24-clip master render counts.
 
-**Separate preserved material:** the 74-scene GALACTIC ETHER RELAY master and its derivative Cinema Continue remain intact as another production / world reference, NOT the active film. Rules and statistics later in this file about 74 relay scenes are **relay-only**, do not supersede this 24-clip selection.
+**Preserved, not active:** [24-line original PLUG ME IN master — read only](https://docs.google.com/document/d/1hZwbDM1PXxFmL4XFdOK0GtNswa5mH-yLIumAIfDuXGo/edit) · [prior 24-clip cinema adaptation](scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt). The 74-scene GALACTIC ETHER RELAY and prior Cinema Continue likewise remain separate historical world/reference productions, NOT the current film. Subsequent relay-specific rules below are reference-only.
 
 ## UNIVERSE REFERENCE — GALACTIC ETHER RELAY / MANA (NOT CURRENT FILM)
 
