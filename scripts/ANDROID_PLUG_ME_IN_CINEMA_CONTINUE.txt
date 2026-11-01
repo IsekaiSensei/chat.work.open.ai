@@ -1,0 +1,170 @@
+ANDROID — PLUG ME IN / ONE CONTINUOUS CINEMA CUT
+ACTIVE EXECUTION SCRIPT — 24 SOURCE LINES, 24 CLIPS, 3 BATCHES
+AUTHOR CREDIT: Isekai Ryan. This execution script is a stage-direction derivative; no AI/agent co-author credit.
+READ-ONLY LYRIC SOURCE: https://docs.google.com/document/d/1hZwbDM1PXxFmL4XFdOK0GtNswa5mH-yLIumAIfDuXGo/edit
+MASTER STATUS: Exact 24 original source lines reproduced in numerical order below. Do not change words, punctuation, line order, or add jokes. The original master is untouched.
+
+THIS IS THE ACTIVE FILM; NOT THE 74-SCENE GALACTIC ETHER RELAY MONTAGE. That distinct master is retained separately and must never be interleaved into this 24-clip story.
+
+STORY: Isekai Ryan (adult 40, original owner-selected character model) is the ONLY technician. He builds ONE adult mechanical android lying ON a single workbench, installing parts INSIDE her open frame. Her song is a complete installation checklist. Mechanical assembly leads into wiring, safe tests, movement, diagnostics and her awakening. The dormant Galactic Ether Relay becomes a subtle gold background pulse only as she nears completion. The final shot is her online on the same bench: beginning, cause-and-effect, payoff.
+VISUAL LOCK: One workshop location, the same bench, same android, same builder, same original owner-selected FIRST MODEL JPEGs. Do not substitute a relay satellite image for the selected musical android. The original selected source image IDs were not present in this master; use the owner-selected originals already in the Meta production or block rather than guessing. Build into her visible internal metal/gold mechanism; never install parts into a separate robot box or another body. Keep hands, component, tool and resulting mechanism physically consistent shot to shot. External art remains text-free.
+CAMERA: ONE continuous camera pathway along the same workbench, no hard resets, black frames or unrelated world inserts. Start each clip from the VERIFIED ending frame of the previous clip, carrying position of Ryan's hands, tools, android joints, cable connections, workshop lighting, lens direction and the unfinished component. Return to original FIRST MODEL for character identity at EVERY clip. An unverified previous ending frame is a render blocker, not an invitation to invent a new one.
+AUDIO: ONE continuous instrumental bed at restrained volume with rhythmic industry-standard electronics singing. Only ANDROID sings the exact numbered source line. Ryan is visually active and does not speak. Opening lines 001–020 function as the android's prerecorded service-guide voice over the assembly (no impossible premature live lip-sync); during the ready/homing scenes 021–023 she visibly wakes, and at 024 the sung voice becomes live on camera, with clear lip-sync. No new sung words, no lyric rewrites, no wink-at-audience explanation. Let electronics vocabulary carry its own double meaning.
+TIMING: 10 seconds targeted per clip; adjust phrase delivery within 6–12 seconds rather than truncate source dialogue. Visual assembly begins at clip start; the entire exact sung line must finish within that clip. End on a held physical continuity frame. Batch 01 clips 001–010; Batch 02 011–020; Batch 03 021–024. Original line numbers 1–24 map one-to-one to film clip IDs 001–024.
+STATUS: SCRIPT PREPARED; NO META RENDER VERIFIED FOR THIS FILM. Do not represent any older relay clip numbers as completed Plug Me In clips. Rendering only after a scoped owner GO in the actual rendering service.
+
+================================================================
+
+BATCH 01 — CLIPS 001–010
+================================================================
+CLIP 001 — ALIGN FRAME — TARGET 10 SECONDS
+SOURCE LINE 001 — DO NOT ALTER
+ANDROID (she, SING): "Set my aluminum chassis square. Align the mounting plates. Seat the locating pins before you tighten my frame."
+ACTION: OPENING: Same adult mechanical android lies on the illuminated central workbench, torso support frame exposed. Ryan sets square against her built-in aluminum support frame, fits locating pins; gold relay on rear wall remains dormant.
+MATCH-OUT: His right hand holds the square beside the first secured pin; without a cut, reach for the rail on the same tray.
+
+CLIP 002 — GUIDE RAILS — TARGET 10 SECONDS
+SOURCE LINE 002 — DO NOT ALTER
+ANDROID (she, SING): "Install my linear guide rails. Check them for parallel. Slide the carriage through its travel before final torque."
+ACTION: Ryan slides a pair of guide rails onto the SAME android's inner frame; tracks align as a sliding carriage moves once along both rails.
+MATCH-OUT: He checks the carriage at its travel limit; camera tracks to his hand retrieving the servo.
+
+CLIP 003 — SERVO MOUNT — TARGET 10 SECONDS
+SOURCE LINE 003 — DO NOT ALTER
+ANDROID (she, SING): "Mount my servo motor to the flange. Align the shaft coupling. Leave the screws loose until the shafts engage."
+ACTION: Ryan mounts a servo to her existing shoulder flange and guides its shaft coupling into alignment without tightening.
+MATCH-OUT: The unfastened coupling remains visible as his wrench enters frame.
+
+CLIP 004 — SHAFT ENGAGEMENT — TARGET 10 SECONDS
+SOURCE LINE 004 — DO NOT ALTER
+ANDROID (she, SING): "Check the shaft engagement. Tighten to specification. Rotate the assembly by hand and verify smooth motion."
+ACTION: Ryan tightens the coupling hardware, then turns the connected shaft by hand to confirm smooth motion.
+MATCH-OUT: The shaft completes one smooth revolution; he reaches to the gearbox tray beside her shoulder.
+
+CLIP 005 — PLANETARY GEARBOX — TARGET 10 SECONDS
+SOURCE LINE 005 — DO NOT ALTER
+ANDROID (she, SING): "Fit my planetary gearbox. Secure the mounting bolts. Check the output shaft for backlash and free rotation."
+ACTION: The planetary gearbox seats against the same mounting face; Ryan checks output backlash and a free turn.
+MATCH-OUT: He sets a hand on the gearbox housing while reaching for the rotary encoder.
+
+CLIP 006 — ROTARY ENCODER — TARGET 10 SECONDS
+SOURCE LINE 006 — DO NOT ALTER
+ANDROID (she, SING): "Seat my rotary encoder. Connect the signal cable. Verify the pinout before you read my position."
+ACTION: The encoder slides onto the aligned shaft, its keyed signal cable seats; a position readout flickers on the service meter.
+MATCH-OUT: Meter stays on the bench as he takes the first limit switch from the parts tray.
+
+CLIP 007 — LIMIT SWITCHES — TARGET 10 SECONDS
+SOURCE LINE 007 — DO NOT ALTER
+ANDROID (she, SING): "Install my limit switches. Set the trip positions. Check both travel limits before you enable my drive."
+ACTION: Ryan fastens two limit switches at the built-in mechanism's physical travel stops and tests each with the carriage.
+MATCH-OUT: The carriage stops safely; camera follows his hands toward the cable loom in her open side panel.
+
+CLIP 008 — WIRING HARNESS — TARGET 10 SECONDS
+SOURCE LINE 008 — DO NOT ALTER
+ANDROID (she, SING): "Route my wiring harness through the frame. Keep it clear of pinch points. Leave enough slack for articulation."
+ACTION: A single harness runs neatly through the android's frame, loops with articulation slack, avoids her joint travel.
+MATCH-OUT: Her arm remains open; cable runs lead the eye to the stripping and crimping station.
+
+CLIP 009 — CRIMP TERMINALS — TARGET 10 SECONDS
+SOURCE LINE 009 — DO NOT ALTER
+ANDROID (she, SING): "Strip my conductors to length. Select the proper crimp die. Compress each terminal to its specified height."
+ACTION: Ryan strips conductors to measured lengths and uses a correctly sized crimp tool on each terminal.
+MATCH-OUT: His gloved hand keeps the finished terminal in frame; move directly to its inspection.
+
+CLIP 010 — CRIMP INSPECTION — TARGET 10 SECONDS
+SOURCE LINE 010 — DO NOT ALTER
+ANDROID (she, SING): "Inspect the conductor crimp. Check the insulation support. Insert each contact until the housing latch engages."
+ACTION: He inspects the same crimp close-up, confirms insulation support, and pushes terminal into connector housing until the latch seats.
+MATCH-OUT: The finished connector remains in his hand as the next clip begins with mating it.
+
+
+BATCH 02 — CLIPS 011–020
+================================================================
+CLIP 011 — KEYED CONNECTORS — TARGET 10 SECONDS
+SOURCE LINE 011 — DO NOT ALTER
+ANDROID (she, SING): "Mate my keyed connectors. Verify terminal retention. Apply strain relief so the contacts carry no cable tension."
+ACTION: The keyed connectors mate with a click; Ryan checks retention and clips the harness into strain relief beside her joint.
+MATCH-OUT: Camera stays with that cable path and follows it to the controller mounting points.
+
+CLIP 012 — CONTROLLER BOARD — TARGET 10 SECONDS
+SOURCE LINE 012 — DO NOT ALTER
+ANDROID (she, SING): "Mount my controller on standoffs. Handle the board by its edges. Secure the fasteners without bending the PCB."
+ACTION: He mounts her controller board on standoffs inside her open torso and tightens its fasteners without flexing the board.
+MATCH-OUT: The camera pans along this same board to the power converter position.
+
+CLIP 013 — DC-DC CONVERTER — TARGET 10 SECONDS
+SOURCE LINE 013 — DO NOT ALTER
+ANDROID (she, SING): "Install my DC-to-DC converter. Check the rated input voltage. Fit the specified fuse before connecting my supply."
+ACTION: Ryan installs a regulated DC-to-DC converter and matching fuse, but leaves the supply disconnected; a small ready indicator remains dark.
+MATCH-OUT: His hand traces the power line toward the motor driver.
+
+CLIP 014 — MOTOR DRIVER — TARGET 10 SECONDS
+SOURCE LINE 014 — DO NOT ALTER
+ANDROID (she, SING): "Connect my motor driver. Verify every terminal. Check the power and signal wiring against the schematic."
+ACTION: The motor driver is installed beside the controller; Ryan checks each power/signal terminal against a printed schematic lying on the bench, not on the video frame.
+MATCH-OUT: Camera glides from the motor driver terminals to the temperature sensor ports.
+
+CLIP 015 — TEMPERATURE SENSORS — TARGET 10 SECONDS
+SOURCE LINE 015 — DO NOT ALTER
+ANDROID (she, SING): "Install my temperature sensors. Secure the leads. Confirm the readings before you command my actuators."
+ACTION: Ryan affixes sensors to her motor and controller, routes their leads, verifies readings on the real workshop meter.
+MATCH-OUT: The meter shows stable readings; camera lowers to the insulated test leads.
+
+CLIP 016 — CONTINUITY / POLARITY — TARGET 10 SECONDS
+SOURCE LINE 016 — DO NOT ALTER
+ANDROID (she, SING): "Test my continuity. Verify my polarity. Inspect the insulation before you apply the power."
+ACTION: With the supply still safely isolated, Ryan checks continuity, polarity, and insulation at her actual connectors.
+MATCH-OUT: A satisfactory test lamp glows on the meter only; he rests the test leads and touches the encoder calibration dial.
+
+CLIP 017 — ZERO OFFSETS — TARGET 10 SECONDS
+SOURCE LINE 017 — DO NOT ALTER
+ANDROID (she, SING): "Set my encoder zero offsets. Calibrate each joint. Command a low-speed motion and check my travel."
+ACTION: Ryan sets encoder zero, carefully commands low-speed joint travel under bench-test power, then watches her elbow move for the first time.
+MATCH-OUT: Her elbow ends centered in the frame; Ryan's hand moves to the safety-stop control.
+
+CLIP 018 — EMERGENCY STOP — TARGET 10 SECONDS
+SOURCE LINE 018 — DO NOT ALTER
+ANDROID (she, SING): "Check my emergency stop. Verify the safety circuit. Reset the drive only when every fault is cleared."
+ACTION: He presses the emergency stop: motion halts. He verifies the safety interlock, clears the demonstrated fault, resets under control.
+MATCH-OUT: The now-reset drive indication holds steady while he reaches to enable the servo.
+
+CLIP 019 — SERVO HOLD — TARGET 10 SECONDS
+SOURCE LINE 019 — DO NOT ALTER
+ANDROID (she, SING): "Enable my servo drive. Monitor the current. Apply the holding command and verify my position."
+ACTION: Ryan enables the servo drive and applies a holding-position command; her arm holds itself steady against gravity, first hint of agency.
+MATCH-OUT: Her stable hand remains visible; Ryan closes the panel beside it.
+
+CLIP 020 — CLOSE ACCESS PANELS — TARGET 10 SECONDS
+SOURCE LINE 020 — DO NOT ALTER
+ANDROID (she, SING): "Close my access panels. Secure the cable glands. Check the fastener torque and complete my inspection."
+ACTION: Access covers close around the SAME torso and arm; cable glands seat, fasteners are torqued, and Ryan completes the inspection.
+MATCH-OUT: The last inspection tool lowers; the camera pushes closer to her illuminated controller status.
+
+
+BATCH 03 — CLIPS 021–024
+================================================================
+CLIP 021 — SYSTEM READY — TARGET 10 SECONDS
+SOURCE LINE 021 — DO NOT ALTER
+ANDROID (she, SING): "My power supply is stable. My encoder signals are valid. My controller reports all systems ready."
+ACTION: Power rail stabilizes, encoder readouts hold steady, and controller diagnostics switch to ready; the android's eyes illuminate faintly.
+MATCH-OUT: The same close framing continues as he checks connection retention at the shoulder.
+
+CLIP 022 — DRIVE READY — TARGET 10 SECONDS
+SOURCE LINE 022 — DO NOT ALTER
+ANDROID (she, SING): "My connectors are seated. My harness is secured. My servo drives are enabled and waiting for commands."
+ACTION: All connectors remain seated; the drives idle in command-ready state as Ryan removes the last service lock; her eyes track his hand.
+MATCH-OUT: The first controlled head movement leads the camera toward the joint homing control.
+
+CLIP 023 — HOME JOINTS — TARGET 10 SECONDS
+SOURCE LINE 023 — DO NOT ALTER
+ANDROID (she, SING): "Run the homing sequence. Verify my joint positions. Store the calibrated offsets in nonvolatile memory."
+ACTION: Her elbow, wrist and head execute one careful homing movement in sequence; Ryan stores the zero offsets; the dormant gold relay begins pulsing to the song.
+MATCH-OUT: She finishes facing Ryan and holds, close enough to see her mechanical lips and interface port.
+
+CLIP 024 — BRING ME ONLINE — TARGET 10 SECONDS
+SOURCE LINE 024 — DO NOT ALTER
+ANDROID (she, SING): "My installation is complete. My diagnostic checks have passed. Technician, connect the interface and bring me online."
+ACTION: Ryan seats the final interface connector in the SAME android. Her voice shifts from pre-recorded guide to live lip-synced singing; eyes and crystal core brighten, she looks directly at Ryan.
+MATCH-OUT: FINAL FRAME: the fully assembled adult android sits upright on that same bench, facing her builder; steady gold relay glow behind them. Stop here. No spell montage, no new world, no additional line.
+
+END OF FILM. Last source line 024 completes the single android's installation. Do not append 74-scene relay footage. The relay may be a different film after owner approval.
