@@ -122,7 +122,7 @@ ACTION: Power and signals pass readiness check.
 CONTINUE: Carry the active song and last visible frame into the next clip.
 
 022 | 10.0s | NOUN IN FRAME: connectors and drives
-SUNG: RYAN: I gave you countless questions till the empty ones fell away.
+SUNG: ANDROID: Which questions matter? RYAN: The ones that change what we do.
 ACTION: Connectors and drives reach ready state.
 CONTINUE: Carry the active song and last visible frame into the next clip.
 
