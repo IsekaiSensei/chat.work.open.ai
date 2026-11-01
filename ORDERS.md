@@ -4,7 +4,19 @@
 
 **Canonical visual references:** [GER-01–GER-05 — illustrated reference pages](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8). Page-specific art direction lives with the images; original JPEGs remain in the existing JPEG folder.
 
-## TOP CANON — GALACTIC ETHER RELAY / MANA
+## CURRENT SELECTED PRODUCTION — ANDROID: PLUG ME IN (ONE CONTINUOUS FILM)
+
+**ACTIVE SCRIPT, OPEN FIRST IN META:** [24-clip Cinema Continue on Google Drive](https://docs.google.com/document/d/1HCQxaVzyhAvMjThE_BHhMTu3KZKr3-aXz2_xHFwBB_g/edit) · [Canonical execution script](scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt) · [Verbatim original 24 lyric lines — READ ONLY](https://docs.google.com/document/d/1hZwbDM1PXxFmL4XFdOK0GtNswa5mH-yLIumAIfDuXGo/edit).
+
+**Story and format:** Isekai Ryan installs real components INSIDE ONE adult mechanical android resting ON a workbench. Same builder, same android, same fixed workshop, one uninterrupted song and camera path. Mechanical frame → guides/servo/encoder → wiring and control → checks and safety → calibration → first autonomous movement → bring her online. Source lines 1–24 remain VERBATIM, one per clip. Preserve each completed clip's verified ending frame and original selected FIRST MODEL references; no substitution or hard visual resets. Every part visibly stays installed. No separate robot box. Zero text embedded in new rendered imagery.
+
+**Batching:** three consecutive render batches: 001–010, 011–020, 021–024; aim for 10 seconds per clip and never truncate the original lyric. This is the ONLY currently selected story. No relay spells, new characters or unrelated locations inside this cut.
+
+**Render status:** script created and source-checked. **No Plug Me In clips independently verified as rendered.** Prior Galactic Ether Relay clip 010 does NOT belong to this cut. Rendering is PAUSED until a scoped GO in Meta. Exact Meta first-model JPEG identifiers must come from the user's selected existing session, never guessed.
+
+**Separate preserved material:** the 74-scene GALACTIC ETHER RELAY master and its derivative Cinema Continue remain intact as another production / world reference, NOT the active film. Rules and statistics later in this file about 74 relay scenes are **relay-only**, do not supersede this 24-clip selection.
+
+## UNIVERSE REFERENCE — GALACTIC ETHER RELAY / MANA (NOT CURRENT FILM)
 
 Galactic Ether Relay is the shared network; GERTECH means Galactic Ether Relay Technology. Mana is its usable energy flow. The same relay carries the encoded construction pattern and routes actual materials and finished items through the fictional Ether connections. Its visible form is fluid: gold/crystal lattice, a charged helix, a square aperture, a joint-galaxy or a stellar network are expressions of one system. Use the selected action and references to determine its form.
 
@@ -14,7 +26,7 @@ INVENTORY / EQUIP / SPAWN: A generic inventory square is the interface to this G
 
 JOINT / NODE / SATELLITE: Every established joint is a galaxy node. Gold-lattice nerve streams connect those nodes; crystal grows around the cultivated galaxy seed. The adult android satellite, its solar wings, the asteroid reflector and the Dyson structure share this construction. Wings collect, concentrate and redirect sunlight; mana can be collected, stored, directed and relayed according to the scene. Preserve the exact joint/seed map, original FIRST MODEL, adult proportions and the owner's selected materials.
 
-ACTIVE LANGUAGE: Galactic Ether Relay names the network and source script. Android satellite names the beings; Isekai Ryan names the creator/actor. Retain stable file IDs, character identities, numbered scene IDs 001–074 and seven-second beats. The Cinema Continue adaptation remains derived only and does not override source beats. Rendering remains PAUSED until an explicit scoped owner GO.
+RELAY-ONLY LANGUAGE: Galactic Ether Relay names the network and source script. Android satellite names the beings; Isekai Ryan names the creator/actor. Retain stable file IDs, character identities, numbered scene IDs 001–074 and seven-second beats. The Cinema Continue adaptation remains derived only and does not override source beats. Rendering remains PAUSED until an explicit scoped owner GO.
 
 ## TOP CANON — SECTION 13: EVERY JOINT IS A GALAXY
 
@@ -38,7 +50,7 @@ An explicit owner's FIRST MODEL selection overrides a generic source-image text 
 
 **Mandatory actual prompt start for GALACTIC ETHER RELAY android satellite scenes:** `Adult crystal android satellite 25+ / 165cm / mature face / adult proportions / gold-lattice clear crystal shell / molten gold nervous system / GOLD BODIES 1/10 FACES internal gold lattice translucent shell / owner-selected original JPEG = FIRST MODEL — zero juvenile, zero childlike, zero 10cm`. Attach the actual selected JPEG every clip. If a generation note or appearance indicates juvenile drift, reject it and do not use it for continuity.
 
-## GALACTIC ETHER RELAY / CINEMA CONTINUE
+## SEPARATE RELAY PRODUCTION / CINEMA CONTINUE (NOT CURRENT FILM)
 
 **Locked concepts:** The [live Drive orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) name the owner-locked concepts and link the [master concept reference](https://drive.google.com/file/d/1AxJMCu4CTLWpfE8JMoQldRA554x62Z6d/view?usp=drivesdk). Read that paragraph before extending the shared movie/game seed.
 
