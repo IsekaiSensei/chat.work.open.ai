@@ -1,6 +1,8 @@
 # TO WORLD — AGENT OPEN FIRST
 Creator: Isekai Ryan | Public access / source index | 2026-10-31
 
+**CURRENT META RENDER — EXECUTE REQUESTED BATCHES:** The owner has already repeatedly authorized batches today. No added GO/PAUSE gate. Use the 01–20 early construction beats at the end of [Drive ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) with the [existing Android Satellite concept page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit). All artwork is in the entire [existing Drive JPEG master](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT), not a seven-image collection or new folder. Start with printed plastic Dummy 13 components, assemble the skeleton on screen, then gold/crystal GERTECH and generic adult female android. No Queen Bee/fox face/tail; no words on finished concept renders. Use already selected reference frames; don't claim unverified renders.
+
 **Use the linked originals. No duplicating scripts, re-rendering, renumbering, inventing lyrics, or changing media just to organize access.** GitHub holds code/manifests; Drive holds public TEXT and art/video. The link does not mean a remote agent's native memory is synced; it must actually open the source.
 
 ## CURRENT SINGLE-WINDOW RENDER SHEET — DNA WORMHOLE
@@ -9,8 +11,8 @@ Creator: Isekai Ryan | Public access / source index | 2026-10-31
 **EXCEPTION:** The Gremlin PSA's tested single-window storyboard can have explanatory text. Its storyboard design must not be copied onto ordinary concept art. Queen Bee's honeycombs are geometric hexagons, not rows of printed B letters; cartoons/anime squash/stretch are permitted where the world's physics support them, without losing the selected face.
 **SCOPE:** Earlier storyboards and scripts remain intact; unscreened concept-art JPEGs have NOT been altered. Public source images exist, but only two examples were visually checked in this pass; no blanket text-free certification.
 
-## 1 — META: CURRENT FILM AND NEW INVENTORY INSERT
-- **CURRENT 20-CLIP BENCH FILM:** [Drive: Singing Music Box / Radio Shack + 555](https://docs.google.com/document/d/1L2zYyuBA9E_ErzdaUYESRK3JIuWiOOjpwxyncsRFSuk/edit) · [GitHub text](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt). Real technician procedures, one bench, cumulative hardware. No verified new render.
+## 1 — META: PREVIOUS FILM REFERENCE AND INVENTORY INSERT
+- **PRESERVED PRIOR 20-CLIP BENCH FILM (NOT THE CURRENT ASSEMBLY):** [Drive: Singing Music Box / Radio Shack + 555](https://docs.google.com/document/d/1L2zYyuBA9E_ErzdaUYESRK3JIuWiOOjpwxyncsRFSuk/edit) · [GitHub text](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt). Real technician procedures, one bench, cumulative hardware. No verified new render.
 - **NEW TRANSITION TO READ WHEN INVENTORY COMES UP:** [Drive: Clockwork Backpack — Inventory Zipper](https://docs.google.com/document/d/1CTIPGx2JO2uXflrJ_X7-fz3pPkmPtLKeS7gkL9rNcxE/edit) · [GitHub text](scripts/CLOCKWORK_BACKPACK_INVENTORY_ZIPPER_META.txt). An existing character mentions inventory; a wormhole opens THROUGH an ordinary adventurer's backpack into the entire clockwork receiving, storage, workshop, delivery and indexed inventory-square system. **The backpack IS the mechanism.** No newly written line, no unverified source frame, no Dora appearance. Insert is an option until a genuine original shot is matched; it does NOT overwrite the 20-clip film.
 - **ORIGINAL READ-ONLY UNIVERSE:** [ZIPPER.txt](https://drive.google.com/file/d/16VBNmtR59EsQAlPlSx2U69zUsG9UtIwN/view) · [Inventory In-Between canon](https://drive.google.com/file/d/1Rz55doFXFSeqyEoPhfSgRvaYJ10BzJt8/view). Do not rewrite them to make a new transition.
 
@@ -22,5 +24,5 @@ Creator: Isekai Ryan | Public access / source index | 2026-10-31
 - [GitHub: Single-Board Spawn Point Generator placement rules](manifests/SPAWN_POINT_GENERATOR_SINGLE_BOARD.md). One strategic AI window, resource-confirmed delivery, pawns to bosses by strategic purpose, disrupted routes change deployment. **Queen does not default to the gate.** This is game logic, NOT a Shotcut editing layer.
 
 **Existing public TEXT folder:** https://drive.google.com/drive/folders/1TIKwqEXMlWiyxa7asubaj8Xc3dUzb5h6
-**Existing public JPEG folder:** https://drive.google.com/drive/folders/1Hp3jdMGAu989fg-IFVcfMcMfttP1KxxY
+**Existing complete JPEG master folder:** https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT · **Existing concept page:** https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit
 **GitHub ORDERS router:** [ORDERS.md](ORDERS.md). Drive ORDERS — CURRENT remains the selected production-status authority for connected agents, but this public index can be opened by agents without that connection.
