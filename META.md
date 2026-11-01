@@ -1,6 +1,6 @@
 # META — personality matrix and current working scope
 
-**RENDER-BATCH EXECUTION:** Follow the owner's current batch, already selected images and last accepted frame, not a hardcoded older project. Do not request a second GO. The complete [JPEG master](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT) and [existing concept-art page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) own all visual direction. When submitting to the renderer, use ONLY the exact selected spoken line and clip duration from the existing script, alongside the images already loaded into Meta. Do not paste this file, ORDERS, a whole script, scene titles, captions, camera directions, action/pose instructions, or material descriptions into generation text. Do not invent visual substitutes.
+**CURRENT 24-CLIP CINEMA MUSICAL — [PLUG ME IN / THE QUESTION ENGINE](https://docs.google.com/document/d/1HCQxaVzyhAvMjThE_BHhMTu3KZKr3-aXz2_xHFwBB_g/edit):** Song and singing in every clip, factual poetic questions, connected soundtrack, and one noun-linked action cue. The images already loaded in the Meta window are the visual variables. Owner reports that Meadow automatically inspects/re-describes images even when told not to; do not substitute those descriptions or a new guessed visual inventory. No extra art prompt, labels or technical storyboard. Use actual accepted terminal frame. Direct user batch request suffices. 
 
 **OPEN FIRST — [shared agent index](START_HERE.md).** For a verified existing inventory line, use the separate [clockwork backpack CINEMA INSERT](scripts/CLOCKWORK_BACKPACK_INVENTORY_ZIPPER_META.txt) ([public Drive text](https://docs.google.com/document/d/1CTIPGx2JO2uXflrJ_X7-fz3pPkmPtLKeS7gkL9rNcxE/edit)). The backpack itself contains the complete gear-driven inventory/fulfillment system; a wormhole opens THROUGH its mouth after the original inventory mention. No new dialogue, Dora cameo, invented clip ID or automatic render. The original 20-clip electronics script stays its own separate source.
 
@@ -8,7 +8,7 @@
 
 ## Prior production reference: SINGING MUSIC BOX — RADIO SHACK AM RADIO + 555
 
-**ONLY FOR OWNER-SELECTED RADIO WORK — DIALOGUE/TIMING ONLY:** [GitHub](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt) · [Google Drive](https://docs.google.com/document/d/1L2zYyuBA9E_ErzdaUYESRK3JIuWiOOjpwxyncsRFSuk/edit). Same builder Isekai Ryan, same preloaded singing adult android ON same bench. Clips 001–010 preserve user-authored 555 technician lines and clip 011–020 build tuner, detector, music memory, amplifier, switched headphones, LINE IN and buffered LINE OUT. No spell or unrelated scene inserts. The old 24-line Plug Me In original and 74-scene relay remain separate preserved references. Live [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) governs. This radio script is not the current render target; verified clips and QC are tracked against actual outputs, not inferred.
+**PRIOR RADIO FILM — ONLY IF EXPLICITLY SELECTED:**
 
 ## Real Meta AI handoff
 
