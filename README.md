@@ -6,7 +6,7 @@
 
 Isekai Ryan — agent personalities and shared workflow.
 
-**Current selected production: SINGING MUSIC BOX — Radio Shack–inspired AM radio + 555 (20 clips).** [Active Cinema script](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt) · [Open in Google Drive](https://docs.google.com/document/d/1L2zYyuBA9E_ErzdaUYESRK3JIuWiOOjpwxyncsRFSuk/edit). The original 24-line Plug Me In master, its prior cinema script, Galactic Ether Relay and Midsummer are preserved separately, not the current cut.
+**Current Meta render target: Dummy 13 printed parts → mechanical assembly → GERTECH gold/crystal → generic adult android woman (20 × 7-second early-stage beats).** The owner already directed Meta to render batches; do not impose historical PAUSED instructions. [Existing Android Satellite concept page with new images embedded](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) · [entire existing JPEG master](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT). **Older reference only: SINGING MUSIC BOX — Radio Shack–inspired AM radio + 555 (20 clips).** [Active Cinema script](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt) · [Open in Google Drive](https://docs.google.com/document/d/1L2zYyuBA9E_ErzdaUYESRK3JIuWiOOjpwxyncsRFSuk/edit). The original 24-line Plug Me In master, its prior cinema script, Galactic Ether Relay and Midsummer are preserved separately, not the current cut.
 
 [Current ORDERS](ORDERS.md) · [Current work](TODO.md) · [Meta](META.md)
 
