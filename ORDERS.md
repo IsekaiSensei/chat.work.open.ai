@@ -1,5 +1,7 @@
 # ORDERS — ACTIVE ROUTER (2026-10-31)
 
+**AGENT ACCESS / SCRIPT INDEX:** [START_HERE.md](START_HERE.md). Open this one page to find the working Meta cinema script, new optional inventory-trigger clockwork backpack insert, existing jigsaw footage map, and game spawn-board rules. An insert is not a newly rendered clip. Sources remain separate and linked.
+
 **Single current production authority:** [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). This GitHub file is the stable discovery/router entry for fresh agents. In a conflict, the Drive CURRENT orders decide active Meta casting, render authorization and production status. Do not run an old archived instruction in preference to the current document.
 
 **Canonical visual references:** [GER-01–GER-05 — illustrated reference pages](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8). Page-specific art direction lives with the images; original JPEGs remain in the existing JPEG folder.
