@@ -1,5 +1,7 @@
 # chat.work.open.ai
 
+**AGENTS — OPEN FIRST:** [Shared TO WORLD work index](START_HERE.md). Links to the public Meta clockwork-backpack insert, music-box film, Shakespeare jigsaw and single-board spawn rules. Original material remains in place.
+
 Isekai Ryan — agent personalities and shared workflow.
 
 **Current selected production: SINGING MUSIC BOX — Radio Shack–inspired AM radio + 555 (20 clips).** [Active Cinema script](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt) · [Open in Google Drive](https://docs.google.com/document/d/1L2zYyuBA9E_ErzdaUYESRK3JIuWiOOjpwxyncsRFSuk/edit). The original 24-line Plug Me In master, its prior cinema script, Galactic Ether Relay and Midsummer are preserved separately, not the current cut.
