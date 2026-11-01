@@ -2,7 +2,7 @@
 
 **AGENTS — OPEN FIRST:** [Shared TO WORLD work index](START_HERE.md). Links to the public Meta clockwork-backpack insert, music-box film, Shakespeare jigsaw and single-board spawn rules. Original material remains in place.
 
-**SEPARATE INVENTORY REFERENCE — [DNA WORMHOLE.txt](scripts/DNA%20WORMHOLE.txt)** · [JPEG storyboard card index](manifests/JPEG_STORYBOARD_CARD_PROJECT_INDEX.md). Keep source concepts text-free; production cards carry numbered prompts separately; original relay source is preserved.
+**SEPARATE INVENTORY REFERENCE — [DNA WORMHOLE.txt](scripts/DNA%20WORMHOLE.txt)** · [existing Android Satellite concept page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit). Keep source concepts text-free; production cards carry numbered prompts separately; original relay source is preserved.
 
 Isekai Ryan — agent personalities and shared workflow.
 
