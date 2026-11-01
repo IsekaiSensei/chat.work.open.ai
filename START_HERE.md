@@ -1,20 +1,18 @@
 # TO WORLD — AGENT OPEN FIRST
 Creator: Isekai Ryan | Public access / source index | 2026-10-31
 
-**GLOBAL CASTING HARD FAIL — ALL RENDERS:** Only the owner (Isekai Sensei / Isekai Ryan) and the fairies are in the default on-screen cast. No other male person or male-presenting character, including an anonymous technician, extra, silhouette, portrait, or stand-in, may appear. Use ONLY the owner's already-loaded reference images for his likeness; treat them as visual variables, never invent or restate his appearance in a script. Any other male is a HARD FAIL: reject that output; never reuse its end frame or publish it. Exception: a different male is permitted ONLY if the owner explicitly casts him for that particular scene (for example, an A Midsummer Night's Dream production). The exception does not carry over to general scenes. Keep this cast rule in ORDERS/agent routing, NOT as replacement art direction or image-caption text in the musical script.
 
-**CURRENT 24-CLIP MUSICAL — [PLUG ME IN / THE QUESTION ENGINE](https://docs.google.com/document/d/1HCQxaVzyhAvMjThE_BHhMTu3KZKr3-aXz2_xHFwBB_g/edit) ([GitHub](scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt)):** 24 connected clips, 3 batches, song and vocals every clip, poetic technical facts and meaningful-question arc. For each sung noun, show the relevant physical noun already present in the owner's preloaded images. No guessing identities, no replacing already loaded graphics with new descriptions. Owner reports Meadow automatically writes its own image descriptions even when told not to; treat these as fallible and check the actual selected images. Use the last accepted frame; no technical title card or captions. Direct batch request is sufficient. 
+
+**CURRENT REQUEST / SELECTED PRODUCTION:** Drafting follows Ryan's current request and the references selected for that draft. Saved art direction applies when finalizing the selected project. A specific image edit follows its own requested scope. [Current production orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) · [Selected film master](https://docs.google.com/document/d/1_jz-Eu2MCt9ufyE9jvNXBNzDIoEK0QUcm0iUod6z5cs/edit).
 
 **Use the linked originals. No duplicating scripts, re-rendering, renumbering, inventing lyrics, or changing media just to organize access.** GitHub holds code/manifests; Drive holds public TEXT and art/video. The link does not mean a remote agent's native memory is synced; it must actually open the source.
 
-## SEPARATE INVENTORY/PORTAL REFERENCE — DNA WORMHOLE
-**USE FOR A SELECTED INVENTORY EFFECT ONLY:** [DNA WORMHOLE.txt](scripts/DNA%20WORMHOLE.txt). This is the new separate text file. The earlier source file is preserved unmodified but must NOT be used as the render prompt merely because it was the original source. The cinematic geometry is a luminous gold/crystal double-helix aperture; no clothing hardware or lettering.
-**SOURCE → CARD → PAGE → SCROLL → BOOK:** Visual notes belong to [the existing concept-art page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit). No art instructions in this agent hub or a dialogue script.
-**EXCEPTION:** The Gremlin PSA's tested single-window storyboard can have explanatory text. Its storyboard design must not be copied onto ordinary concept art. Queen Bee's honeycombs are geometric hexagons, not rows of printed B letters; cartoons/anime squash/stretch are permitted where the world's physics support them, without losing the selected face.
-**SCOPE:** Earlier storyboards and scripts remain intact; unscreened concept-art JPEGs have NOT been altered. Public source images exist, but only two examples were visually checked in this pass; no blanket text-free certification.
+## Optional project references
+
+[DNA WORMHOLE.txt](scripts/DNA%20WORMHOLE.txt) is a separate inventory-effect source for a selected project. [The existing concept-art page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) stores visual and layout direction for project finalization.
 
 ## 1 — META: PREVIOUS FILM REFERENCE AND INVENTORY INSERT
-- **SEPARATE PRIOR 20-CLIP BENCH FILM
+- **SEPARATE PRIOR 20-CLIP BENCH FILM**
 - **NEW TRANSITION TO READ WHEN INVENTORY COMES UP:** [Drive: Clockwork Backpack — Inventory Zipper](https://docs.google.com/document/d/1CTIPGx2JO2uXflrJ_X7-fz3pPkmPtLKeS7gkL9rNcxE/edit) · [GitHub text](scripts/CLOCKWORK_BACKPACK_INVENTORY_ZIPPER_META.txt). An existing character mentions inventory; a wormhole opens THROUGH an ordinary adventurer's backpack into the entire clockwork receiving, storage, workshop, delivery and indexed inventory-square system. **The backpack IS the mechanism.** No newly written line, no unverified source frame, no Dora appearance. Insert is an option until a genuine original shot is matched; it does NOT overwrite the 20-clip film.
 - **ORIGINAL READ-ONLY UNIVERSE:** [ZIPPER.txt](https://drive.google.com/file/d/16VBNmtR59EsQAlPlSx2U69zUsG9UtIwN/view) · [Inventory In-Between canon](https://drive.google.com/file/d/1Rz55doFXFSeqyEoPhfSgRvaYJ10BzJt8/view). Do not rewrite them to make a new transition.
 
