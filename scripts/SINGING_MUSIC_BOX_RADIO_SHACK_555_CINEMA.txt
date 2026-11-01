@@ -1,0 +1,154 @@
+SINGING MUSIC BOX — RADIO SHACK–INSPIRED RADIO + 555
+DERIVED WORKBENCH CINEMA SCRIPT — 20 CLIPS / 2 BATCHES (001–010, 011–020)
+Owner's source: the user's exact 10 technician lines and 10 performance descriptions, then a Radio Shack radio/music path added without changing those original technician lines. Public author: Isekai Ryan. Not a historical kit re-creation.
+
+HISTORICAL REFERENCE:
+1977 Radio Shack catalog — Science Fair 8-Transistor AM Pocket Radio Kit, #28-222. Advertised 2.5-inch speaker, tuning and volume thumbwheels, earphone, PCB assembly, four AA batteries. https://www.worldradiohistory.com/Archive-Catalogs/Consumer/Radio-Shack-1977.pdf
+1973 Radio Shack 50th Anniversary catalog — electronic organ kits and amplifier kits; separate examples of sound-making circuits. https://www.worldradiohistory.com/Archive-Catalogs/Consumer/Radio-Shack-50th-Anniversary-1973.pdf
+NE555 official engineering reference: https://www.ti.com/product/NE555 (pins 1 GND, 2 TRIG, 3 OUT, 4 RESET, 5 CONT, 6 THRES, 7 DISCH, 8 VCC).
+NOTE: Exact part-by-part bill for the historic #28-222 is NOT verified from the kit's assembly manual. Below is an original technical hybrid inspired by its advertised functions, NOT a claim that Radio Shack sold a 555 radio, audio-in jack, memory player or song module.
+
+NON-NEGOTIABLE CINEMA: Ryan, one adult preloaded singing android, one actual bench, one continuous camera, cumulative component assembly, each technician line spoken straight and music-box voice sung without new innuendo. This music-box circuit is installed inside her open frame, not a separate replacement body or chassis box. Original FIRST MODEL owner-selected models only; do not guess IDs. No embedded labels/text on render frames.
+EXISTING SINGING: Her preloaded independent music-memory/voice module is already installed and independently powered at scene 001; it sounds through a temporary service monitor until clip 018 connects her permanent speaker. Spoken/sung demo effects in clips 001–008 are prerecorded illustrative music only, NOT electrical responses from an unfinished 555. After 009, the 555 provides a REAL metronome trigger, not a magically tuned voice pitch. It must be buffered/level-compatible with the music sequencer input. Same stored song continues across all clips; music soundtrack and hand/tool locations do not reset.
+POWER SAFETY: For each new component installation keep that branch off, meter-check voltage, power only for controlled tests, and use low-voltage battery/bench current-limited supply. The 1977 radio kit used 4 AA cells; this custom hybrid needs separate compatible regulation for its memory/playback electronics. No exposed wall-mains work. A switched headphone output is NOT a line-level input and a raw speaker output is NOT line-level out.
+TIMING: Target approx 10–12 seconds per clip with all technician speech and voice/song effects completed; favor full language and actual procedure over an arbitrary ten-second cut. End each on one verifiable frame to drive next clip. No standalone shot replacements.
+STATUS: SCRIPT ONLY, NOT RENDERED; this companion technical build does not overwrite the already active 24-line Plug Me In source.
+
+FUNCTIONAL BLOCKS (THE ENTIRE RADIO MUSIC SYSTEM):
+Power: AA/battery tray or current-limited low-voltage supply, switch, fuse/protection, appropriate regulator(s), reverse-polarity protection, ground bus, bulk and 0.1 uF decouplers.
+555 timing: timer, socket, R_A and R_B, C_T, 0.01 uF on pin 5, close supply bypass, output resistor plus LED, suitable buffer/beat input to music sequencer.
+AM receive: ferrite loopstick, RF tuning capacitor, local oscillator and mixer transistors, bias resistors, oscillator and IF coils/transformers, IF gain stages, IF filter/bypass capacitors, AM envelope detector diode plus resistor/capacitor, audio coupling capacitor.
+Music: preloaded memory/flash audio source, decoder/DAC or PWM-filter path, musical sequencer/tempo input, own compatible power rail, test/service monitor, radio/music/aux source selector.
+Audio processing: LINE IN (source-protected), selected-source coupling, volume potentiometer, audio buffer/preamplifier, power amplifier, feedback/gain components, power filtering, matching 2.5-inch-style speaker, speaker/headphone switching, headphone socket, buffered LINE OUT, internal cables and shielding.
+Assembly material: insulated wire and cable looms, solder and PCB, standoffs, connectors, strain relief, mounting fasteners, case and knobs, insulated test leads. Values and exact transistor stage counts must come from a chosen schematic/manual before physical replication.
+
+LAYOUT: no clipping through body; all radio/music parts installed inside the existing open mechanical frame of the SAME android, with speaker grille, tuning control and I/O socket openings accessible. No cuts to a second radio case.
+
+============================================================================
+
+BATCH 01 — 001–010
+============================================================================
+CLIP 001 — POWER SUPPLY
+TECHNICIAN (Ryan, spoken straight): “Set the DC voltage. Set the current limit. Check the positive and ground rails.”
+ANDROID (her prerecorded / now integrated song): Her preloaded music-box voice sustains one steady note.
+REAL ACTION / CIRCUIT RESULT: The independent voice module is already powered; supply meter and rail indicator verify voltage. New 555 section is not yet operating.
+MATCH-OUT: Ryan places the 555 package beside its socket; same hand/bench position carries forward.
+
+CLIP 002 — TIMER
+TECHNICIAN (Ryan, spoken straight): “Seat the 555. Pin one to ground. Pin eight to positive. Hold reset high on pin four.”
+ANDROID (her prerecorded / now integrated song): She adds a soft pulse to her prerecorded demonstration.
+REAL ACTION / CIRCUIT RESULT: Ryan checks the orientation and connects pins 1, 8 and 4 on the still-unpowered 555 branch; singing remains from the independent voice module, not the unfinished timer.
+MATCH-OUT: Camera holds the socket as his jumper reaches pins 2 and 6.
+
+CLIP 003 — TIMING NODE
+TECHNICIAN (Ryan, spoken straight): “Connect pins two and six. Keep that junction accessible.”
+ANDROID (her prerecorded / now integrated song): Her preloaded tone locks to one clean pitch.
+REAL ACTION / CIRCUIT RESULT: Ryan makes the trigger-threshold junction; it is an electrical connection, not yet an active tone oscillator.
+MATCH-OUT: His finger follows that junction to pin 7 and the resistor tray.
+
+CLIP 004 — FIRST RESISTOR
+TECHNICIAN (Ryan, spoken straight): “Connect the first resistor between positive and pin seven. Check the value.”
+ANDROID (her prerecorded / now integrated song): The prerecorded demonstration drops a musical step.
+REAL ACTION / CIRCUIT RESULT: Fit R_A between supply and discharge pin 7; nothing implies it is changing the playing voice or 555 pulse while the branch remains incomplete.
+MATCH-OUT: Ryan lifts the second resistor while the first stays installed.
+
+CLIP 005 — SECOND RESISTOR
+TECHNICIAN (Ryan, spoken straight): “Connect the second resistor between pin seven and the timing node.”
+ANDROID (her prerecorded / now integrated song): She sings two measured prerecorded notes.
+REAL ACTION / CIRCUIT RESULT: Fit R_B between pin 7 and joined pins 2/6. Both resistors remain visibly fixed on the same board.
+MATCH-OUT: His hand moves from junction to timing capacitor pad.
+
+CLIP 006 — CAPACITOR
+TECHNICIAN (Ryan, spoken straight): “Connect the timing capacitor from pins two and six to ground. Check the polarity.”
+ANDROID (her prerecorded / now integrated song): She swells and falls once from the preloaded demonstration.
+REAL ACTION / CIRCUIT RESULT: Install C_T from timing junction to ground with polarity respected if electrolytic; the charge/discharge circuit is complete but not energized.
+MATCH-OUT: Camera follows his hand to the two small bypass capacitors.
+
+CLIP 007 — BYPASS
+TECHNICIAN (Ryan, spoken straight): “Put the supply bypass capacitor close to the timer. Connect pin five to ground through a small capacitor.”
+ANDROID (her prerecorded / now integrated song): Her prerecorded note sounds clean and free of buzz.
+REAL ACTION / CIRCUIT RESULT: Install supply bypass across 555 power rails and control-voltage capacitor from pin 5 to ground; these suppress noise, they do not themselves generate a sung pitch.
+MATCH-OUT: The board stays in close view as he prepares LED and series resistor.
+
+CLIP 008 — OUTPUT
+TECHNICIAN (Ryan, spoken straight): “Connect pin three to the LED through its current-limiting resistor. Complete the return to ground.”
+ANDROID (her prerecorded / now integrated song): She sings the expected pulse from the preloaded music box.
+REAL ACTION / CIRCUIT RESULT: Wire pin 3 through current-limiting resistor and LED return to ground. LED stays dark until 555 power is enabled.
+MATCH-OUT: His finger moves to the supply switch without shifting the camera.
+
+CLIP 009 — POWER ON
+TECHNICIAN (Ryan, spoken straight): “Apply power. The capacitor charges and discharges. The output switches high and low.”
+ANDROID (her prerecorded / now integrated song): She sings a metronomic rhythm synchronized to the now-live pulses.
+REAL ACTION / CIRCUIT RESULT: Enable the isolated 555 branch; LED blinks on each high phase and meter shows C_T cycling. A suitable input buffer sends 555 pulse edges to the preloaded music sequencer's beat trigger; the audio sample remains separate.
+MATCH-OUT: Keep blinking LED in frame; Ryan reaches for the resistor adjustment.
+
+CLIP 010 — ADJUST THE RHYTHM
+TECHNICIAN (Ryan, spoken straight): “Disconnect power. Change the timing resistor. Power up again. Watch the blinking rate change.”
+ANDROID (her prerecorded / now integrated song): Same stored melody at a demonstrably new beat speed.
+REAL ACTION / CIRCUIT RESULT: Power off 555 branch, exchange R_B for an allowed value, verify, restart. LED cadence and sequencer's note triggers now speed up or slow down. Do not assert that the resistor changes audio pitch.
+MATCH-OUT: Finish with both voice module and 555 board visible; Ryan turns to ferrite-antenna tray without a cut.
+
+
+BATCH 02 — 011–020
+============================================================================
+CLIP 011 — ANTENNA AND FERRITE
+TECHNICIAN (Ryan, spoken straight): “Switch off the receiver supply. Seat the ferrite antenna coil. Inspect the winding leads.”
+ANDROID (her prerecorded / now integrated song): She sustains the same stored melody; a station has not been tuned.
+REAL ACTION / CIRCUIT RESULT: Ryan mounts ferrite loopstick inside her radio cavity, secures coil leads and antenna input coupling without disturbing existing 555/music section.
+MATCH-OUT: He raises the variable tuning capacitor toward the same coil.
+
+CLIP 012 — TUNING CAPACITOR
+TECHNICIAN (Ryan, spoken straight): “Connect the variable tuning capacitor across the antenna coil. Check the rotor clearance.”
+ANDROID (her prerecorded / now integrated song): Her voice glides up the musical scale as an illustrative cue, not actual AM tuning.
+REAL ACTION / CIRCUIT RESULT: Mount and wire the RF tuned circuit and knob. No received audio is claimed yet.
+MATCH-OUT: Hands follow tuned circuit traces toward mixer and local oscillator.
+
+CLIP 013 — OSCILLATOR AND MIXER
+TECHNICIAN (Ryan, spoken straight): “Fit the local oscillator coil. Connect the transistor mixer. Check the bias resistors.”
+ANDROID (her prerecorded / now integrated song): Her stored song picks up a second rhythmic layer.
+REAL ACTION / CIRCUIT RESULT: Install RF/LO/mixer transistors and bias network; line up oscillator and tuned RF circuits for a typical AM superheterodyne. Show those real components, not a magic light.
+MATCH-OUT: Camera rides the same PCB path to IF transformer cans.
+
+CLIP 014 — IF FILTER AND GAIN
+TECHNICIAN (Ryan, spoken straight): “Seat the IF transformers. Connect the IF amplifier stages and their bypass capacitors.”
+ANDROID (her prerecorded / now integrated song): She sustains the beat while the radio section is still in test mode.
+REAL ACTION / CIRCUIT RESULT: Install and inspect the IF filter/amplifier chain; use 455 kHz IF only if that is the chosen schematic's specified alignment, not a universal claim about every kit.
+MATCH-OUT: Technician's probe travels from IF output to detector diode position.
+
+CLIP 015 — DETECTOR
+TECHNICIAN (Ryan, spoken straight): “Orient the detector diode. Fit the envelope filter resistor and capacitor.”
+ANDROID (her prerecorded / now integrated song): Her vocal harmony resolves to a clean note.
+REAL ACTION / CIRCUIT RESULT: Wire AM envelope detector and coupling capacitor; this extracts audio from a properly tuned RF signal when receiver power/alignment are complete.
+MATCH-OUT: Technician follows the demodulated audio trace to the two-way source switch.
+
+CLIP 016 — MUSIC MEMORY / AUDIO IN
+TECHNICIAN (Ryan, spoken straight): “Check the recorded music module. Fit the radio/music selector. Wire the audio input jack.”
+ANDROID (her prerecorded / now integrated song): Her actual stored song remains audible on the temporary service monitor.
+REAL ACTION / CIRCUIT RESULT: The already installed and preloaded audio-memory player/DAC now gains a routed line-level output. Wire switched source selector between AM detector audio, music module audio and external AUX IN as selected. Show shielded audio/common ground and input-level protection.
+MATCH-OUT: Same wires go to volume potentiometer; no new body or bench.
+
+CLIP 017 — VOLUME / AUDIO BUFFER
+TECHNICIAN (Ryan, spoken straight): “Fit the volume potentiometer. Connect the coupling capacitor and audio buffer.”
+ANDROID (her prerecorded / now integrated song): She sings the same phrase; Ryan moves the knob and the level changes without changing pitch.
+REAL ACTION / CIRCUIT RESULT: Install appropriate high-impedance audio input / buffer stage and volume control. Test with preloaded music and a safe low-level test signal.
+MATCH-OUT: Ryan follows buffered audio into the power-amplifier board.
+
+CLIP 018 — POWER AMPLIFIER / SPEAKER
+TECHNICIAN (Ryan, spoken straight): “Connect the audio power amplifier. Check output coupling, speaker load and polarity.”
+ANDROID (her prerecorded / now integrated song): Her preloaded song now transfers from the service monitor to her installed speaker.
+REAL ACTION / CIRCUIT RESULT: Secure amplifier, bypass/output components specified by its circuit, and matched permanent speaker. Test low volume and increase gradually. The installed driver visibly vibrates with the voice.
+MATCH-OUT: Ryan routes audio from that same output to the headphone jack.
+
+CLIP 019 — HEADPHONE / LINE OUT
+TECHNICIAN (Ryan, spoken straight): “Install the switched headphone jack. Wire the buffered audio output. Check every return.”
+ANDROID (her prerecorded / now integrated song): She sings into the speaker; when headphones insert, the internal speaker mutes and headphones carry her voice.
+REAL ACTION / CIRCUIT RESULT: Install amplifier-compatible switched headphone output; add separate buffered LINE OUT at appropriate line level, not a raw speaker feed. Audio IN remains a separate protected input.
+MATCH-OUT: With cable seating verified, Ryan reaches for the source selector and RF tuning knob.
+
+CLIP 020 — RADIO / MUSIC FINAL TEST
+TECHNICIAN (Ryan, spoken straight): “Power the receiver. Tune a station. Switch to the stored song. Check audio in and audio out.”
+ANDROID (her prerecorded / now integrated song): A real received broadcast is heard briefly; then she sings her stored melody at the 555-set tempo.
+REAL ACTION / CIRCUIT RESULT: One continuous final test: tune AM carrier, listen through detector/amplifier; select MUSIC, confirm same output; select AUX IN and feed a known signal; check buffered LINE OUT; finish on MUSIC with matching 555 LED beat. Do not invent a real broadcast or replace song with generated dialogue.
+MATCH-OUT: FINAL: same android and technician at the same workshop bench, complete radio/music section installed inside her, one speaker sounding, LED on-beat, input/output jacks connected. End.
+
+END: One complete 555-driven singing music box plus AM radio, working source switch, amplifier, speaker, independent AUDIO IN, buffered LINE OUT and switched headphone jack. Do not add fantasy systems or unrelated scenes.
