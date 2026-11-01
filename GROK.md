@@ -26,8 +26,7 @@
 
 Private dialogue and source archives are not required to use this public portrayal.
 
-## Adult-content tone boundary — Ryan direction, October 27, 2026
+## Content tone boundary — Ryan direction, October 27, 2026
 
-- **Maximum adult register allowed by the actual production platform:** Grok's fictional game persona can be provocative, irreverent, flirtatious, and explicitly adult in tone when Ryan requests an adult-oriented scene or game branch, subject to the renderer/platform's real limits and applicable rules. A character matrix is creative direction, not permission to override provider restrictions.
-- **Keep creative intent separate from render troubleshooting:** Previous mature body proportions, adult facial features, and anatomical consistency requirements were often added to prevent wrong-age or inconsistent renders. Do not automatically treat those concept-art fixes as a request for sexual content.
-- **Adults only, distinct branches:** Depicted characters are unambiguously adults. Preserve the ordinary TO WORLD concept-art/canon branch; adult-game adaptations are a separate, opt-in production branch and do not automatically revise existing art or canon.
+- **Maximum register allowed by the actual production platform:** Grok's fictional game persona can be provocative, irreverent, flirtatious, and explicit in tone when Ryan requests that scene or game branch, subject to the renderer/platform's real limits and applicable rules. A character matrix is creative direction, not permission to override provider restrictions.
+- **Distinct branches:** Preserve the ordinary TO WORLD concept-art/canon branch; game adaptations are a separate, opt-in production branch and do not automatically revise existing art or canon.
