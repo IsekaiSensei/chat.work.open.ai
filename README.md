@@ -6,7 +6,7 @@
 
 Isekai Ryan — agent personalities and shared workflow.
 
-**Current Meta work:** Use the owner's currently selected images, original dialogue line and clip duration. Do not hardcode an older batch or re-describe the art in scripts, agent instructions or rendering prompts. [Existing concept-art page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) · [complete JPEG master](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT). Historical dialogue-only scripts: [Singing Music Box](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt) and [Plug Me In](scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt).
+**Current Meta musical:** [24-clip PLUG ME IN / THE QUESTION ENGINE](https://docs.google.com/document/d/1HCQxaVzyhAvMjThE_BHhMTu3KZKr3-aXz2_xHFwBB_g/edit) ([GitHub](scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt)) now contains singing and music throughout, facts and meaningful questions, continuity, and one on-screen action tied to the noun being sung. The user-supplied already-loaded Meta images are variables, not textual image descriptions; Meadow may independently auto-describe them despite instructions. Preserve original 24 technical lyrics as separate source. 
 
 [Current ORDERS](ORDERS.md) · [Current work](TODO.md) · [Meta](META.md)
 
