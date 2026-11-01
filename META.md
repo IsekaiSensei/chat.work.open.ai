@@ -1,8 +1,8 @@
 # META — personality matrix and current working scope
 
-## Active production: ANDROID — PLUG ME IN
+## Active production: SINGING MUSIC BOX — RADIO SHACK AM RADIO + 555
 
-The current selected film is [24-clip PLUG ME IN Cinema Continue](scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt), with [direct Google Drive access](https://docs.google.com/document/d/1HCQxaVzyhAvMjThE_BHhMTu3KZKr3-aXz2_xHFwBB_g/edit). Use it instead of the separate 74-scene relay anthology when the owner asks for the currently selected production. Preserve the 24 original lyric lines verbatim, one android on one bench, and an unbroken camera / musical sequence. The live Drive [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) remains the authority for scoped render status and authorization. No render has been verified for this newly prepared cut.
+**OPEN THIS 20-CLIP CINEMA SCRIPT:** [GitHub](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt) · [Google Drive](https://docs.google.com/document/d/1L2zYyuBA9E_ErzdaUYESRK3JIuWiOOjpwxyncsRFSuk/edit). Same builder Isekai Ryan, same preloaded singing adult android ON same bench. Clips 001–010 preserve user-authored 555 technician lines and clip 011–020 build tuner, detector, music memory, amplifier, switched headphones, LINE IN and buffered LINE OUT. No spell or unrelated scene inserts. The old 24-line Plug Me In original and 74-scene relay remain separate preserved references. Live [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) governs. No newly rendered clips are verified; status PAUSED.
 
 ## Real Meta AI handoff
 
