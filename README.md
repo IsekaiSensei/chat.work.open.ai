@@ -2,7 +2,7 @@
 
 Isekai Ryan — agent personalities and shared workflow.
 
-**Current selected production: ANDROID — PLUG ME IN (24-clip continuous film).** [Active Cinema Continue script](scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt) · [Open in Google Drive](https://docs.google.com/document/d/1HCQxaVzyhAvMjThE_BHhMTu3KZKr3-aXz2_xHFwBB_g/edit). Galactic Ether Relay and Midsummer are separate preserved work; they are not the active cut.
+**Current selected production: SINGING MUSIC BOX — Radio Shack–inspired AM radio + 555 (20 clips).** [Active Cinema script](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt) · [Open in Google Drive](https://docs.google.com/document/d/1L2zYyuBA9E_ErzdaUYESRK3JIuWiOOjpwxyncsRFSuk/edit). The original 24-line Plug Me In master, its prior cinema script, Galactic Ether Relay and Midsummer are preserved separately, not the current cut.
 
 [Current ORDERS](ORDERS.md) · [Current work](TODO.md) · [Meta](META.md)
 
