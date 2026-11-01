@@ -2,6 +2,8 @@ SINGING MUSIC BOX — RADIO SHACK–INSPIRED RADIO + 555
 DERIVED WORKBENCH CINEMA SCRIPT — 20 CLIPS / 2 BATCHES (001–010, 011–020)
 Owner's source: the user's exact 10 technician lines and 10 performance descriptions, then a Radio Shack radio/music path added without changing those original technician lines. Public author: Isekai Ryan. Not a historical kit re-creation.
 
+CURRENT COMPOSITING CONTINUITY: The main fairy's existing Midsummer performance at the Dyson sphere is heard inside working androids' heads. The owner already has 10 fairy Echo of the Universe versions and 13 android Shakespeare quote versions; these are separate EXISTING footage pools. Use the owner's original soundtrack as a shared zipper, never invent new lyrics, assign unverified clips, or force 23 inserts. Bench dialogue and physical steps stay unchanged. Local 555 timing affects only its own circuit, not the master soundtrack. The 20 singing descriptions are EDITING CUES, not a demand to generate a new song. For fades, overlays, opaque cutaways, mental images, thought bubbles, voice transfers and actual Shotcut layer planning, see scripts/ECHOES_OF_THE_UNIVERSE_JIGSAW_EDIT_MAP.md and https://docs.google.com/document/d/1WWJo99mlmWkj543xURVjN1NUmw2NLhl0Ukwqm_7hqr4/edit .
+
 HISTORICAL REFERENCE:
 1977 Radio Shack catalog — Science Fair 8-Transistor AM Pocket Radio Kit, #28-222. Advertised 2.5-inch speaker, tuning and volume thumbwheels, earphone, PCB assembly, four AA batteries. https://www.worldradiohistory.com/Archive-Catalogs/Consumer/Radio-Shack-1977.pdf
 1973 Radio Shack 50th Anniversary catalog — electronic organ kits and amplifier kits; separate examples of sound-making circuits. https://www.worldradiohistory.com/Archive-Catalogs/Consumer/Radio-Shack-50th-Anniversary-1973.pdf
