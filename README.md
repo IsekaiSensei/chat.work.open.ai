@@ -2,7 +2,7 @@
 
 Isekai Ryan — agent personalities and shared workflow.
 
-**Production: A Midsummer Night's Dream — GERTECH Dyson Sphere.**
+**Current selected production: ANDROID — PLUG ME IN (24-clip continuous film).** [Active Cinema Continue script](scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt) · [Open in Google Drive](https://docs.google.com/document/d/1HCQxaVzyhAvMjThE_BHhMTu3KZKr3-aXz2_xHFwBB_g/edit). Galactic Ether Relay and Midsummer are separate preserved work; they are not the active cut.
 
 [Current ORDERS](ORDERS.md) · [Current work](TODO.md) · [Meta](META.md)
 
