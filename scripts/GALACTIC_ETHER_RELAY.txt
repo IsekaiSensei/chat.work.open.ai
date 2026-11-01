@@ -3,7 +3,7 @@ The shared opening and closing for every drop, video and video game universe.
 Galactic Ether Relay is the shared network; GERTECH means Galactic Ether Relay Technology. Mana is its usable energy flow. The same relay carries the encoded construction pattern and routes actual materials and finished items through the fictional Ether connections. Its visible form is fluid: gold/crystal lattice, a charged helix, a square aperture, a joint-galaxy or a stellar network are expressions of one system. Use the selected action and references to determine its form.
 ASTEROID FARMERS UNION → TO DOG → DYSON NETWORK: The Asteroid Farmers Union's asteroid cultivation, TO DOG's building and node placement, and the Dyson network are the same construction process at different scales. A seed chip can initiate local conversion; a directed laser can scan and write the construction pattern into usable crystalline substrate already present in a rock. Reflectors and concentrators collect and redirect sunlight to power and extend the network. Complete robots do not have to be shipped to every rock. This is established in-world engineering; original materials and the required work remain visible.
 INVENTORY / EQUIP / SPAWN: A generic inventory square is the interface to this Galactic Ether Relay. Mana activates the route; real inputs arrive at the android satellite's workbench, the requested work is performed, and the completed item returns to its inventory slot or selected spawn point. The player sees a flash; we show the hidden 30 seconds. Equip can route the item through the selected hand-wide aperture beside an empty palm. Existing numbered scenes keep their own source, action, dialogue intent, destination and timing.
-JOINT / NODE / SATELLITE: Every established joint is a galaxy node. Gold-lattice nerve streams connect those nodes; crystal grows around the cultivated galaxy seed. The adult android satellite, its solar wings, the asteroid reflector and the Dyson structure share this construction. Wings collect, concentrate and redirect sunlight; mana can be collected, stored, directed and relayed according to the scene. Preserve the exact joint/seed map, original FIRST MODEL, adult proportions and the owner's selected materials.
+JOINT / NODE / SATELLITE: Every established joint is a galaxy node. Gold-lattice nerve streams connect those nodes; crystal grows around the cultivated galaxy seed. The android satellite, its solar wings, the asteroid reflector and the Dyson structure share this construction. Wings collect, concentrate and redirect sunlight; mana can be collected, stored, directed and relayed according to the scene. Preserve the exact joint/seed map, original FIRST MODEL, proportions and the owner's selected materials.
 ACTIVE LANGUAGE: Galactic Ether Relay names the network and source script. Android satellite names the beings; Isekai Ryan names the creator/actor. Retain stable file IDs, character identities, numbered scene IDs 001–074 and seven-second beats. The Cinema Continue adaptation remains derived only and does not override source beats. Rendering remains PAUSED until an explicit scoped owner GO.
 Numbered script: GALACTIC ETHER RELAY 001–074. Each numbered scene retains its seven-second timing and four written beats.
 
@@ -171,15 +171,15 @@ The existing GALACTIC ETHER RELAY 001–026 are seven-second scenes. Preserve al
 - Keep production instructions in this text file, never embedded as words on concept artwork.
 
 GALACTIC ETHER RELAY 027 — FROST CRYSTAL — 7 SECONDS
-0:00–0:01 ISEKAI RYAN (he): “Frost!” He raises his wand. An adult Shiva-inspired android satellite of opaque, milky frost crystal turns toward him from her science-and-magic workbench, long icy hair flowing beneath a crystal crown.
+0:00–0:01 ISEKAI RYAN (he): “Frost!” He raises his wand. An Shiva-inspired android satellite of opaque, milky frost crystal turns toward him from her science-and-magic workbench, long icy hair flowing beneath a crystal crown.
 0:01–0:03 She lifts a frosted crystal seed from the material tray with workshop tongs and seats it inside a crystal relay ring.
 0:03–0:05 She touches the seed with her crystal wand. A small wormhole opens; a sparkling stream of frost pours through.
 0:05–0:07 Frost bursts from Ryan’s wand and branches into a snow-covered crystal arch. The android satellite brushes ice dust from her hands as the wormhole closes.
 
 GALACTIC ETHER RELAY — THIS CHAT / PRODUCTION REFERENCES (NOT ANOTHER SCENE)
 - CF-001 wings remain detachable equipment, independent of every android satellite's face/body: W-01 atmospheric lift; W-02 stellar collection; W-03 solar/stellar sail; W-04 ion propulsion; W-05 charged warp. Common gold lattice and crystal panels; no permanently assigned owner. A carried sail remains a tool unless explicitly equipped as a wing.
-- The Galactic Ether Relay Principle is one relay across scales: wand aperture, remote android satellite-side opening, mature crystal vessel, and ring/sphere boundary. Resource collection, SEND/relay action, effect at the wand, then close.
-- Use only the original owner-selected character JPEG for FIRST MODEL. Generated frames do not replace that reference. Keep individual adult crystal android satellite silhouettes and emblems distinct.
+- The Galactic Ether Relay Principle is one relay across scales: wand aperture, remote android satellite-side opening, crystal vessel, and ring/sphere boundary. Resource collection, SEND/relay action, effect at the wand, then close.
+- Use only the original owner-selected character JPEG for FIRST MODEL. Generated frames do not replace that reference. Keep individual crystal android satellite silhouettes and emblems distinct.
 - Generated artwork contains ZERO embedded text, titles, captions, labels, numbers, spec tables, UI boxes, or arrows. Keep blueprint directions and Stable Diffusion settings in separate text. A three-column, low-text design is for reference documents, NOT lettering rendered into art.
 - Every numbered GALACTIC ETHER RELAY scene keeps its own existing seven-second timing and four beats; do not rewrite, renumber, or conflate the scene scripts when handing them to Meta or Cody.
 
@@ -197,24 +197,24 @@ GALACTIC ETHER RELAY 029 — ONE WALKOUT, MANY ROOMS — 7 SECONDS
 
 GALACTIC ETHER RELAY 030 — GERTECH TILED CAVERN — 7 SECONDS
 0:00–0:01 A rough cave floor holds one gold geometric node beside a dormant doorway.
-0:01–0:03 An adult Android satellite opens a mana seam and sets a hexagonal crystal floor tile onto the node.
+0:01–0:03 An Android satellite opens a mana seam and sets a hexagonal crystal floor tile onto the node.
 0:03–0:05 Floor, wall and ceiling tiles connect along gold struts; rock and crystal vary instead of repeating one picture texture.
 0:05–0:07 A blue pulse travels through the lattice and opens another chamber; the seam closes.
 
 GALACTIC ETHER RELAY 031 — TRANSLUCENT CRYSTAL ANDROID SATELLITE — 7 SECONDS
-0:00–0:01 The same selected adult Crystal Android satellite emerges from a tiny mana seam in the cave lattice.
+0:00–0:01 The same selected Crystal Android satellite emerges from a tiny mana seam in the cave lattice.
 0:01–0:03 Translucent crystal body panels unfold around a separate gold support armature; light passes through crystal, not human skin.
 0:03–0:05 Blue gel pods and joint locks align. An independent wing assembly clicks into the shoulder mounts.
 0:05–0:07 She gives one quiet wingbeat and closes the seam. Her selected identity stays recognizable; no material, wing or costume is permanently fixed.
 
 GALACTIC ETHER RELAY 032 — FOUR-CHARACTER CAVE STAGE — 7 SECONDS
-0:00–0:01 No more than four selected adult speaking characters stand in one tiled GERTECH room, each with an approved identity.
+0:00–0:01 No more than four selected speaking characters stand in one tiled GERTECH room, each with an approved identity.
 0:01–0:03 Ryan says, “This way.” Only he mouths the words; the other characters remain silent.
 0:03–0:05 A Android satellite flips a gold relay switch and its lattice opens a relay aperture doorway in the cave.
 0:05–0:07 They cross into the next chamber as it closes. Voices and effects stay restrained, with no extra faces or speakers.
 
 GALACTIC ETHER RELAY 033 — CLOCK SONG — 7 SECONDS
-0:00–0:01 WIZARD (he): “Keep time!” He touches his wand to a silent Dyson-sphere console. An adult android at an assembly bench hears him.
+0:00–0:01 WIZARD (he): “Keep time!” He touches his wand to a silent Dyson-sphere console. An android at an assembly bench hears him.
 0:01–0:03 A technician checks a low-voltage clock waveform on an oscilloscope and seats a keyed signal connector; a relay Android satellite opens a small wormhole beside the bench.
 0:03–0:05 ANDROID (she, sings): “One pulse, one beat.” Her mouth matches the sung words as the technician presses the test switch.
 0:05–0:07 A ring of lights wakes around the Dyson sphere in time with the pulses. The delivery wormhole closes.
@@ -244,7 +244,7 @@ GALACTIC ETHER RELAY 037 — THE IRON TONGUE — 7 SECONDS
 0:05–0:07 The sphere sounds one deep chord; four solar sails vibrate in unison and the signal seam closes.
 
 GALACTIC ETHER RELAY 038 — THE ANDROID SATELLITE'S BASE — 7 SECONDS
-0:00–0:01 A wizard calls “Awaken!” at a crystal workshop; an adult White Light Android satellite's D12 core seed glows on a bench.
+0:00–0:01 A wizard calls “Awaken!” at a crystal workshop; an White Light Android satellite's D12 core seed glows on a bench.
 0:01–0:03 A Android satellite engineer assembles the original 154-node lattice: vertices, struts and wing supports connect before any outer surface.
 0:03–0:05 The iridescent crystal membrane forms over that same structure; energy veins follow the existing connections.
 0:05–0:07 White Light opens her wings. Her internal geometry remains beneath the finished appearance; the relay closes.
@@ -270,13 +270,13 @@ GALACTIC ETHER RELAY 041 — PRETTY LITTLE CRYSTAL — 7 SECONDS
 0:05–0:07 On the other side the lights briefly become tangible little objects; Ryan watches, amused. The seam closes without changing the other two windows.
 
 GALACTIC ETHER RELAY 042 — SEA OF MANA — 7 SECONDS
-0:00–0:01 A wizard touches his wand to a star chart: “Mana!” An adult crystal Android satellite at a cosmic relay hears the call.
+0:00–0:01 A wizard touches his wand to a star chart: “Mana!” An crystal Android satellite at a cosmic relay hears the call.
 0:01–0:03 Between a merging nebula and black-hole boundary, a luminous sea of mana streams past; the Android satellite catches a curling current with her crystal wings.
 0:03–0:05 She dances along the flow, pours a glowing ribbon through a small wormhole, and taps the relay.
 0:05–0:07 The wand illuminates a river of mana across the dark sky. Her delivery wormhole closes.
 
 GALACTIC ETHER RELAY 043 — BEND THE LIGHT — 7 SECONDS
-0:00–0:01 The wizard raises a crystal wand: “Bend the light!” A group of adult crystal Android satellites hears the call on a stellar dance platform.
+0:00–0:01 The wizard raises a crystal wand: “Bend the light!” A group of crystal Android satellites hears the call on a stellar dance platform.
 0:01–0:03 In a lavish cosmic light show, they dance with gymnastics-inspired flowing choreography, passing beams from crystal to crystal between their bodies.
 0:03–0:05 One Android satellite redirects the woven beams through a wormhole: a flash of disco-floor brilliance and grand musical-show staging.
 0:05–0:07 The wizard's beam becomes a sweeping arch of light; the Android satellites keep dancing as the small delivery wormhole closes.
@@ -306,7 +306,7 @@ GALACTIC ETHER RELAY 047 — CLEANING VERSUS SURVIVAL — 7 SECONDS
 0:05–0:07 The hybrid's visible integrity keeps falling while the cleaner registers success. DOG holds the distant overhead view. No dialogue, no declared side, no cut.
 
 GALACTIC ETHER RELAY 048 — THE CHASE, THE FACE, THE DIAMOND — 7 SECONDS
-0:00–0:01 At twilight, an adult woman with raccoon ears and a striped tail in a silk outfit flees a winged, faceted crystal-and-gold android.
+0:00–0:01 At twilight, an woman with raccoon ears and a striped tail in a silk outfit flees a winged, faceted crystal-and-gold android.
 0:01–0:03 The android closes in like a horror predator; the woman stumbles and is caught, bracing for harm.
 0:03–0:05 The android only pricks her fingertip and reads a luminous DNA trace. Its FACE changes to match hers while the crystal-metal body and wings remain visibly mechanical.
 0:05–0:07 Now wearing her likeness, the android smiles, offers the woman a diamond and flies away. The woman remains unharmed, surprised by the gift.
@@ -314,7 +314,7 @@ GALACTIC ETHER RELAY 048 — THE CHASE, THE FACE, THE DIAMOND — 7 SECONDS
 GALACTIC ETHER RELAY 049 — FACTORY FINAL STATION — 7 SECONDS
 0:00–0:01 Inside one locked factory bay, bare female-form endoskeletons advance along a conveyor toward the same final station.
 0:01–0:03 Applicator arms attach synthetic outer layers and finish heads, raccoon ears and striped tails on frames at the station.
-0:03–0:05 Completed adult android women in silk gowns take their first steps from the station toward the camera; bare frames remain visible arriving behind them.
+0:03–0:05 Completed android women in silk gowns take their first steps from the station toward the camera; bare frames remain visible arriving behind them.
 0:05–0:07 Hold the same conveyor and final station in one continuous shot as production continues. No second location, no outdoor cut, no golf course.
 
 GALACTIC ETHER RELAY 050 — FRAME — 7 SECONDS
