@@ -21,7 +21,7 @@ GitHub holds canonical code, scripts and manifests. Drive holds artwork/video an
 ## Owner-relayed QC corrections applied
 The live Drive orders now contain a short master-concept pointer covering self-replication down to the rat; android zodiac splits; robot-dog Roadster-to-Dyson collection; the gold-block ether/spawn link; Platonic-solid modular ships; and the seven-billion-year timeline (Pliny → Andromeda merger / Jupiter star).
 
-The script high-water mark is explicitly GALACTIC ETHER RELAY 074 — BROOM. Script extent and generated/accepted render status are separate. Residency scenes remain GALACTIC ETHER RELAY 028–030. Cinema Continue's derived-only status is explicit. Casting, adult/gold-body prefix, wormhole rules and paused render status retain their existing wording.
+The script high-water mark is explicitly GALACTIC ETHER RELAY 074 — BROOM. Script extent and generated/accepted render status are separate. Residency scenes remain GALACTIC ETHER RELAY 028–030. Cinema Continue's derived-only status is explicit. Casting, gold-body prefix, wormhole rules and paused render status retain their existing wording.
 
 **Production remains PAUSED by default under the live orders.** This handoff is not a rendering GO.
 
