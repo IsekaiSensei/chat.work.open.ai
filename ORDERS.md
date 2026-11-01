@@ -28,7 +28,7 @@
 
 **Radio source batches:** 001–010 / 011–020. This is a separate historical screenplay, not an instruction to stop or redirect current Dummy 13 / GERTECH production.
 
-**ORIGINAL LYRICS PRESERVED; MUSICAL ADAPTATION ACTIVE:**
+**ORIGINAL LYRICS PRESERVED; MUSICAL ADAPTATION ACTIVE:** [Original 24-line lyric master (unchanged)](https://docs.google.com/document/d/1hZwbDM1PXxFmL4XFdOK0GtNswa5mH-yLIumAIfDuXGo/edit) · [24-clip active singing adaptation](scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt). Other original relay and radio references remain separate, not part of the current batch.
 
 ## UNIVERSE REFERENCE — GALACTIC ETHER RELAY / MANA (NOT CURRENT FILM)
 
