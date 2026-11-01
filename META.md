@@ -1,5 +1,7 @@
 # META — personality matrix and current working scope
 
+**OPEN FIRST — [shared agent index](START_HERE.md).** For a verified existing inventory line, use the separate [clockwork backpack CINEMA INSERT](scripts/CLOCKWORK_BACKPACK_INVENTORY_ZIPPER_META.txt) ([public Drive text](https://docs.google.com/document/d/1CTIPGx2JO2uXflrJ_X7-fz3pPkmPtLKeS7gkL9rNcxE/edit)). The backpack itself contains the complete gear-driven inventory/fulfillment system; a wormhole opens THROUGH its mouth after the original inventory mention. No new dialogue, Dora cameo, invented clip ID or automatic render. The original 20-clip electronics script stays its own separate source.
+
 ## Active production: SINGING MUSIC BOX — RADIO SHACK AM RADIO + 555
 
 **OPEN THIS 20-CLIP CINEMA SCRIPT:** [GitHub](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt) · [Google Drive](https://docs.google.com/document/d/1L2zYyuBA9E_ErzdaUYESRK3JIuWiOOjpwxyncsRFSuk/edit). Same builder Isekai Ryan, same preloaded singing adult android ON same bench. Clips 001–010 preserve user-authored 555 technician lines and clip 011–020 build tuner, detector, music memory, amplifier, switched headphones, LINE IN and buffered LINE OUT. No spell or unrelated scene inserts. The old 24-line Plug Me In original and 74-scene relay remain separate preserved references. Live [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) governs. No newly rendered clips are verified; status PAUSED.
