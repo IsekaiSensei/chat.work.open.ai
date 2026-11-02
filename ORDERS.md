@@ -26,7 +26,7 @@ World mechanics and original scene beats remain available for relevant drafting:
 
 ## Existing file workflow
 
-“Add to the concept page” means embed the supplied images in the existing concept page and verify they appear there. “Add to JPEG” means use the [existing complete JPEG master](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT), preserving supplied filenames and originals.
+“Add to the concept page” means embed the supplied images in the existing concept page and verify they appear there. “Add to JPEG” means use the [one canonical JPEG directory](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT) and update the [single JPEG_INDEX.txt](https://drive.google.com/file/d/1aZmzn0x6ymN5L7UFvdZhdMymr5Q6aBJG/view), preserving original file IDs, names and source art. Sort index entries by filename and stable ID, not guessed character, color or generated labels. Existing secondary sections are reference sources, not new destinations; do not relocate private/unapproved material into the public folder.
 
 GitHub holds code, scripts, manifests and agent workflow. Drive holds art, video, public text and the working production-access document. Use existing destinations; do not create extra folders, indexes, mirrors or tracking structures without Ryan asking.
 
