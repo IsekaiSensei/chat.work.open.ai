@@ -1,32 +1,22 @@
-# TO WORLD — AGENT OPEN FIRST
-Creator: Isekai Ryan | Public access / source index | 2026-10-31
+# TO WORLD — SOURCE & WORKFLOW INDEX
 
+**Owner:** Isekai Ryan · **Current film:** [Unified Master — Hard War / Soft War / Midsummer / Plug Me In](https://docs.google.com/document/d/1_yLIUOzvVoTzyvTUXZYt3chr-Zhmtindv3oa66Q3h6o/edit). The Moon Bar construction conflict is the spine. The Briefing Room, source plays, music, and relay scenes are parts of **one** screenplay. Original clip numbers remain provenance; don't independently restart archived batches.
 
+**Route work:** [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) · [GitHub router](ORDERS.md). ORDERS points to selected work; it does not contain art direction or screenplay history.
 
-**CURRENT REQUEST / SELECTED PRODUCTION:** Drafting follows Ryan's current request and the references selected for that draft. Saved art direction applies when finalizing the selected project. A specific image edit follows its own requested scope. [Current production orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) · [Active BAR-001–035 origin master](https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit) · [Separate 80-clip Midsummer feature](https://docs.google.com/document/d/1_jz-Eu2MCt9ufyE9jvNXBNzDIoEK0QUcm0iUod6z5cs/edit).
+**Source images first:** [Original JPEG library](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT) · [JPEG index](https://drive.google.com/file/d/1aZmzn0x6ymN5L7UFvdZhdMymr5Q6aBJG/view) · [Concept-art reference page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) · [Actual NMS ship exterior still](https://drive.google.com/file/d/1QvlR7ykoCP051_-T9pDF3HOOwi48Sbr0/view). Verify original pixels before visual production; engineering-sheet substitute hulls are not the ship.
 
-**Use the linked originals. No duplicating scripts, re-rendering, renumbering, inventing lyrics, or changing media just to organize access.** GitHub holds code/manifests; Drive holds public TEXT and art/video. The link does not mean a remote agent's native memory is synced; it must actually open the source.
+## Preserved source chapters (not separate active films)
 
-## Optional project references
+- [Moon Bar Origin — 35 clips](https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit) · [Earlier Moon Bar feature — 80 beats](https://docs.google.com/document/d/1_jz-Eu2MCt9ufyE9jvNXBNzDIoEK0QUcm0iUod6z5cs/edit)
+- [Shakespeare Act I — original 193 clips](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc/edit) · [Line Before the Line — correction scene bank](https://docs.google.com/document/d/1CFFHujAE3RCELy6HkBE7oI282k7qBd-Tzj8uilGYH6E/edit)
+- [Plug Me In — Question Engine source](https://docs.google.com/document/d/1HCQxaVzyhAvMjThE_BHhMTu3KZKr3-aXz2_xHFwBB_g/edit) · [Galactic Ether Relay source](https://docs.google.com/document/d/1NBGTUdJ5CgJwmX9bq4gc-4NLOaTii2G9bZ_3eNaUNTI/edit)
+- [Preserved inventory-relay source](https://drive.google.com/file/d/16VBNmtR59EsQAlPlSx2U69zUsG9UtIwN/view) · [Inventory In-Between](https://drive.google.com/file/d/1Rz55doFXFSeqyEoPhfSgRvaYJ10BzJt8/view) · [DNA WORMHOLE.txt](scripts/DNA%20WORMHOLE.txt) · [Earlier clockwork-backpack insert](scripts/CLOCKWORK_BACKPACK_INVENTORY_ZIPPER_META.txt)
 
-- [Current Moon Bar origin — summoned companion and working fleet](https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit). Five sonnets / BAR-001–035. LM-0725 stays beside Sensei throughout; the differently colored summon fleet performs its distinct construction jobs. Use that source for the origin.
+## Supporting production and game references
 
-- [The Line Before the Line — original dialogue and adapted scene bank](https://docs.google.com/document/d/1CFFHujAE3RCELy6HkBE7oI282k7qBd-Tzj8uilGYH6E/edit). Includes entries 09–11: the realization itself, the holodeck-program purpose, and the summoned helper with her working fleet. Verbatim exchanges and adapted scenes are labeled in that source.
+- [Echoes of the Universe — Shotcut edit map](https://docs.google.com/document/d/1WWJo99mlmWkj543xURVjN1NUmw2NLhl0Ukwqm_7hqr4/edit) · [GitHub editing map](scripts/ECHOES_OF_THE_UNIVERSE_JIGSAW_EDIT_MAP.md). Source footage requires independent verification; don't claim listed clips already stitched.
+- [Single-Board Spawn Point Generator](manifests/SPAWN_POINT_GENERATOR_SINGLE_BOARD.md) — game mechanic, not a film editing instruction.
+- [Drive TEXT archive](https://drive.google.com/drive/folders/1TIKwqEXMlWiyxa7asubaj8Xc3dUzb5h6) · [Agent Meta handoff](META.md). An external renderer has not necessarily opened these sources.
 
-[DNA WORMHOLE.txt](scripts/DNA%20WORMHOLE.txt) is a separate inventory-effect source for a selected project. [The existing concept-art page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) stores visual and layout direction for project finalization.
-
-## 1 — META: PREVIOUS FILM REFERENCE AND INVENTORY INSERT
-- **SEPARATE PRIOR 20-CLIP BENCH FILM**
-- **NEW TRANSITION TO READ WHEN INVENTORY COMES UP:** [Drive: Clockwork Backpack — Inventory Zipper](https://docs.google.com/document/d/1CTIPGx2JO2uXflrJ_X7-fz3pPkmPtLKeS7gkL9rNcxE/edit) · [GitHub text](scripts/CLOCKWORK_BACKPACK_INVENTORY_ZIPPER_META.txt). An existing character mentions inventory; a wormhole opens THROUGH an ordinary adventurer's backpack into the entire clockwork receiving, storage, workshop, delivery and indexed inventory-square system. **The backpack IS the mechanism.** No newly written line, no unverified source frame, no Dora appearance. Insert is an option until a genuine original shot is matched; it does NOT overwrite the 20-clip film.
-- **ORIGINAL READ-ONLY UNIVERSE:** [ZIPPER.txt](https://drive.google.com/file/d/16VBNmtR59EsQAlPlSx2U69zUsG9UtIwN/view) · [Inventory In-Between canon](https://drive.google.com/file/d/1Rz55doFXFSeqyEoPhfSgRvaYJ10BzJt8/view). Do not rewrite them to make a new transition.
-
-## 2 — JIGSAW: EXISTING FOOTAGE ONLY
-- [Drive: Echoes of the Universe — Shotcut Jigsaw Map](https://docs.google.com/document/d/1WWJo99mlmWkj543xURVjN1NUmw2NLhl0Ukwqm_7hqr4/edit) · [GitHub map](scripts/ECHOES_OF_THE_UNIVERSE_JIGSAW_EDIT_MAP.md).
-- Owner-reported sources: **10 existing fairy echoes**, **13 existing android Shakespeare clips**, ongoing Dyson-sphere Midsummer performance, workshop action. These are footage pools, **not 23 clips verified and matched to edit slots**. Original media stay intact; source ID, in/out, layer, opacity, sound role and return frame assigned only after inspection. [Midsummer Act I performance](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc/edit).
-
-## 3 — GAME: ONE BOARD, ONE CONTROLLER
-- [GitHub: Single-Board Spawn Point Generator placement rules](manifests/SPAWN_POINT_GENERATOR_SINGLE_BOARD.md). One strategic AI window, resource-confirmed delivery, pawns to bosses by strategic purpose, disrupted routes change deployment. **Queen does not default to the gate.** This is game logic, NOT a Shotcut editing layer.
-
-**Existing public TEXT folder:** https://drive.google.com/drive/folders/1TIKwqEXMlWiyxa7asubaj8Xc3dUzb5h6
-**Existing complete JPEG master folder:** https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT · **Existing concept page:** https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit
-**GitHub ORDERS router:** [ORDERS.md](ORDERS.md). Drive ORDERS — CURRENT remains the selected production-status authority for connected agents, but this public index can be opened by agents without that connection.
+Preserve originals and source IDs. No automatic media generation, retitling, purging, or claims of remote synchronization.
