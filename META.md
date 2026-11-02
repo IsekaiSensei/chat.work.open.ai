@@ -4,7 +4,7 @@
 
 Drafting follows Ryan's current request and the references selected for that draft. Saved art direction applies when finalizing the selected project. A specific image edit follows its own requested scope.
 
-[Current production orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) identify the selected script and status. [Shared source index](START_HERE.md) links the other saved productions. Use the production Ryan selects rather than carrying an earlier production's settings into a new draft.
+[Unified master film and glossary](https://docs.google.com/document/d/1_yLIUOzvVoTzyvTUXZYt3chr-Zhmtindv3oa66Q3h6o/edit) governs the Moon Bar / Midsummer / Plug Me In story. [Current production orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) route the selected work. [Source index](START_HERE.md) holds historical references, not competing active films.
 
 [Project finalization art notes](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) are available when finishing the chosen project.
 
@@ -15,7 +15,7 @@ Drafting follows Ryan's current request and the references selected for that dra
 - [Optional clockwork-backpack inventory insert](scripts/CLOCKWORK_BACKPACK_INVENTORY_ZIPPER_META.txt).
 - [Separate inventory-effect source](scripts/DNA%20WORMHOLE.txt).
 
-These remain separate references for their selected projects.
+These are preserved sources and optional inserts within the unified film; do not start a separate production without a new owner instruction.
 
 ## Real Meta AI handoff
 
