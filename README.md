@@ -12,6 +12,6 @@ Isekai Ryan — agent personalities and shared workflow.
 
 Character/personality references (not active assignments): [CHAT](CHAT.md) · [WORK](WORK.md) · [JAN](JAN.md) · [DEEPSEEK](DEEPSEEK.md) · [META](META.md).
 
-Original artwork/video remain in Drive. [JPEG pictures](https://drive.google.com/drive/folders/1Hp3jdMGAu989fg-IFVcfMcMfttP1KxxY) · [TEXT references](https://drive.google.com/drive/folders/1TIKwqEXMlWiyxa7asubaj8Xc3dUzb5h6) · [TO WORLD](https://drive.google.com/drive/folders/1848layOO9qRV3Mt7w6kSuIV5zX3Lu_IV).
+Original artwork/video remain in Drive. [JPEG — canonical master directory](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT) · [JPEG_INDEX.txt — exact-name / Drive-ID lookup](https://drive.google.com/file/d/1aZmzn0x6ymN5L7UFvdZhdMymr5Q6aBJG/view) · [TEXT references](https://drive.google.com/drive/folders/1TIKwqEXMlWiyxa7asubaj8Xc3dUzb5h6) · [TO WORLD](https://drive.google.com/drive/folders/1848layOO9qRV3Mt7w6kSuIV5zX3Lu_IV).
 
 **Meta handoff:** GitHub instructions are not automatically synced to Meta's built-in Orders or memory. Supply/open the current ORDERS and Meta card when starting a session.
