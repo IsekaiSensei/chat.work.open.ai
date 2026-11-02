@@ -1,17 +1,12 @@
-# chat.work.open.ai
+# TO WORLD — START HERE
 
-**AGENTS — OPEN FIRST:** [Shared TO WORLD work index](START_HERE.md). Links to the public Meta clockwork-backpack insert, music-box film, Shakespeare jigsaw and single-board spawn rules. Original material remains in place.
+**Creator:** Isekai Ryan · **One film:** *Hard War / Soft War — A Midsummer Night's Stream*, including the Moon Bar, *Plug Me In: The Briefing Room*, and GERTECH. Older scripts are preserved **source chapters**, not competing current films.
 
-**SEPARATE INVENTORY REFERENCE — [DNA WORMHOLE.txt](scripts/DNA%20WORMHOLE.txt)** · [existing Android Satellite concept page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit). Visual notes on the existing concept page apply at project finalization; the original relay source is preserved.
+1. **[Unified master script + working glossary](https://docs.google.com/document/d/1_yLIUOzvVoTzyvTUXZYt3chr-Zhmtindv3oa66Q3h6o/edit)** — opening, story continuity, source chapters, musical law, and prompt vocabulary. **The fairies are the tuning tools:** one fairy sings when free; when all are working, machines carry the tune. No silence.
+2. **[ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit)** — **router and status only**; no scripts, commentary, or art-direction dumps. [GitHub router](ORDERS.md).
+3. **[Original JPEG master](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT)** · [JPEG filename/ID index](https://drive.google.com/file/d/1aZmzn0x6ymN5L7UFvdZhdMymr5Q6aBJG/view) · [Art-reference page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit). Match actual image pixels; descriptions and filenames are not substitutes.
+4. **[Source and workflow index](START_HERE.md)** — archived scripts, inventory/relay references, edit maps, and game standards.
 
-Isekai Ryan — agent personalities and shared workflow.
+**Separation:** GitHub holds code, manifests, and agent workflow; Drive holds scripts, art, and video. Preserve originals. Use the exact approved source and accepted frame for continuity; a link does not mean Meta loaded it. No unsolicited renders or deletion.
 
-**Current request and production:** Follow Ryan's current request. [Live production orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) identify the selected project and script. Saved art direction applies when finalizing that project. [PLUG ME IN / THE QUESTION ENGINE](https://docs.google.com/document/d/1HCQxaVzyhAvMjThE_BHhMTu3KZKr3-aXz2_xHFwBB_g/edit) remains a separate existing production.
-
-[Current ORDERS](ORDERS.md) · [Current work](TODO.md) · [Meta](META.md)
-
-Character/personality references (not active assignments): [CHAT](CHAT.md) · [WORK](WORK.md) · [JAN](JAN.md) · [DEEPSEEK](DEEPSEEK.md) · [META](META.md).
-
-Original artwork/video remain in Drive. [JPEG — canonical master directory](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT) · [JPEG_INDEX.txt — exact-name / Drive-ID lookup](https://drive.google.com/file/d/1aZmzn0x6ymN5L7UFvdZhdMymr5Q6aBJG/view) · [TEXT references](https://drive.google.com/drive/folders/1TIKwqEXMlWiyxa7asubaj8Xc3dUzb5h6) · [TO WORLD](https://drive.google.com/drive/folders/1848layOO9qRV3Mt7w6kSuIV5zX3Lu_IV).
-
-**Meta handoff:** GitHub instructions are not automatically synced to Meta's built-in Orders or memory. Supply/open the current ORDERS and Meta card when starting a session.
+**Agent cards:** [Chat](CHAT.md) · [Work](WORK.md) · [Meta](META.md) · [Jan](JAN.md) · [DeepSeek](DEEPSEEK.md).
