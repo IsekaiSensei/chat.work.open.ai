@@ -3,7 +3,7 @@ Creator: Isekai Ryan | Public access / source index | 2026-10-31
 
 
 
-**CURRENT REQUEST / SELECTED PRODUCTION:** Drafting follows Ryan's current request and the references selected for that draft. Saved art direction applies when finalizing the selected project. A specific image edit follows its own requested scope. [Current production orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) · [Selected film master](https://docs.google.com/document/d/1_jz-Eu2MCt9ufyE9jvNXBNzDIoEK0QUcm0iUod6z5cs/edit).
+**CURRENT REQUEST / SELECTED PRODUCTION:** Drafting follows Ryan's current request and the references selected for that draft. Saved art direction applies when finalizing the selected project. A specific image edit follows its own requested scope. [Current production orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) · [Active BAR-001–035 origin master](https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit) · [Separate 80-clip Midsummer feature](https://docs.google.com/document/d/1_jz-Eu2MCt9ufyE9jvNXBNzDIoEK0QUcm0iUod6z5cs/edit).
 
 **Use the linked originals. No duplicating scripts, re-rendering, renumbering, inventing lyrics, or changing media just to organize access.** GitHub holds code/manifests; Drive holds public TEXT and art/video. The link does not mean a remote agent's native memory is synced; it must actually open the source.
 
