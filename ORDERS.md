@@ -12,7 +12,7 @@ Keep replies concise. Preserve Ryan's meaning and distinguish his words from int
 
 [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) identifies the selected production, its script and its status.
 
-The selected film reference is [FIRST BAR ON THE MOON / MIDSUMMER FOURTH WALL — cinema master v2](https://docs.google.com/document/d/1_jz-Eu2MCt9ufyE9jvNXBNzDIoEK0QUcm0iUod6z5cs/edit). Casting, dialogue, action, batch sequence and story continuity for that film live in its master. Use that material when working on that film.
+The ACTIVE production is [FIRST BAR ON THE MOON — Five-Fairy Genesis Fleet / Origin Sonnets (BAR-001–035)](https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit). The immediate batch is BAR-001–010. Ship-containing shots use the [original gameplay exterior JPEG](https://drive.google.com/file/d/1QvlR7ykoCP051_-T9pDF3HOOwi48Sbr0/view) from the existing JPEG master, actually loaded into the renderer. The [80-clip Midsummer Moon Bar feature](https://docs.google.com/document/d/1_jz-Eu2MCt9ufyE9jvNXBNzDIoEK0QUcm0iUod6z5cs/edit) remains a separate non-active film; do not mix its clip IDs with BAR-001–035.
 
 [START_HERE.md](START_HERE.md) links the other existing productions, footage map, inventory insert and game rules. Historical scripts remain separate sources; they do not become default tasks.
 
