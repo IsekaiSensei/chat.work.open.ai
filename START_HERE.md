@@ -9,6 +9,8 @@ Creator: Isekai Ryan | Public access / source index | 2026-10-31
 
 ## Optional project references
 
+- [The Line Before the Line — original dialogue and adapted scene bank](https://docs.google.com/document/d/1CFFHujAE3RCELy6HkBE7oI282k7qBd-Tzj8uilGYH6E/edit). Includes entry 09, “The Realization Is the Scene,” and entry 10, “Holodeck Programs for a Federation Starship.” Verbatim exchanges and adapted scenes are labeled in that source.
+
 [DNA WORMHOLE.txt](scripts/DNA%20WORMHOLE.txt) is a separate inventory-effect source for a selected project. [The existing concept-art page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) stores visual and layout direction for project finalization.
 
 ## 1 — META: PREVIOUS FILM REFERENCE AND INVENTORY INSERT
