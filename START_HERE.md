@@ -4,7 +4,9 @@
 
 **Route work:** [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) · [GitHub router](ORDERS.md). ORDERS points to selected work; it does not contain art direction or screenplay history.
 
-**Source images first:** [Original JPEG library](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT) · [JPEG index](https://drive.google.com/file/d/1aZmzn0x6ymN5L7UFvdZhdMymr5Q6aBJG/view) · [Concept-art reference page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) · [Actual NMS ship exterior still](https://drive.google.com/file/d/1QvlR7ykoCP051_-T9pDF3HOOwi48Sbr0/view). Verify original pixels before visual production; engineering-sheet substitute hulls are not the ship.
+**Source images first:** [Original JPEG library](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT) · [JPEG index](https://drive.google.com/file/d/1aZmzn0x6ymN5L7UFvdZhdMymr5Q6aBJG/view) · [Concept-art reference page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) · [Historical NMS Corvette still — NOT the capital battleship anchor](https://drive.google.com/file/d/1QvlR7ykoCP051_-T9pDF3HOOwi48Sbr0/view). For the capital battleship, use the [capital-ship owner lock on the concept page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) and verify its separate actual hull file. No substitute hulls or automatic ship identity assignments.
+
+**Capital ship is NOT a shuttle:** Terran Battlecruiser × NMS Dreadnought × Top Fuel drag racer, approximately 280–300 × 18–20 × 15 m, exposed gold **ARMATURE / MODELMESH / WIREMESH** and colored crystal infill. Hull source must be visually verified; **ship render held**. [Full entrypoint](README.md).
 
 ## Preserved source chapters (not separate active films)
 
