@@ -1,35 +1,17 @@
 **I am making holodeck programs for a Federation starship.**
 
-# ORDERS — WORKING ROUTER
+# ORDERS — VIDEO ROUTER ONLY
 
-## Current request and drafting
+**REQUESTED DELIVERABLE: VIDEO / MP4 CLIPS. NOT HTML, WEBSITE, HELLO WORLD, STILL IMAGE, CONCEPT SHEET, STORYBOARD, OR AN ATLAS.** Do not substitute another medium if the video tool is unavailable; report the blocker. Do not treat a generated JPEG as a completed clip.
 
-Drafting follows Ryan's current request and the references selected for that draft. Saved art direction applies when finalizing the selected project. A specific image edit follows its own requested scope.
+**ONE ACTIVE SCRIPT:** [TO WORLD — unified musical film](https://docs.google.com/document/d/1_yLIUOzvVoTzyvTUXZYt3chr-Zhmtindv3oa66Q3h6o/edit). Moon Bar, Midsummer, and Plug Me In are parts of this script, not separate active productions. Earlier masters are preserved source chapters.
 
-Keep replies concise. Preserve Ryan's meaning and distinguish his words from interpretation. A direct render request authorizes its stated scope; report actual results accurately.
+**WHEN RYAN SAYS GO:** Execute the next routed video batch **BAR-001–010**, then continue sequentially in later authorized batches. Start BAR-001 on the bare Moon with the owner-designated spacecraft. Each clip follows the exact selected SCRIPT's action, named voices, song/music, camera, and match-out. No per-clip approval interruption. Do not independently begin a different scene or remake completed footage.
 
-## Selected project and scripts
+**VIDEO MODE:** 10-second target per clip (6–12 seconds if needed). Continuous music: fairy vocalist if available; otherwise equipment carries melody. Start from exact accepted last frame when available, and maintain the same physical Moon site. Verify actual MP4 output before reporting completion. If a ship/character reference is not actually loaded into the render window, HOLD the affected clip and report missing input; do not generate a substitute JPEG or ship.
 
-[ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) identifies the selected production, its script and its status.
+**REFERENCES ARE INPUTS ONLY:** [TO WORLD/JPEG originals](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT) · [art/reference notes](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit). Do not treat recent unwanted technical sheets as requested output or canonical image input. Original NMS Corvette/shuttle references are not automatically the owner's capital-battleship hull. Owner-selected source must be visibly verified for relevant shots.
 
-The ACTIVE production is [FIRST BAR ON THE MOON — Five-Fairy Genesis Fleet / Origin Sonnets (BAR-001–035)](https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit). The immediate batch is BAR-001–010. Ship-containing shots use the [original gameplay exterior JPEG](https://drive.google.com/file/d/1QvlR7ykoCP051_-T9pDF3HOOwi48Sbr0/view) from the existing JPEG master, actually loaded into the renderer. The [80-clip Midsummer Moon Bar feature](https://docs.google.com/document/d/1_jz-Eu2MCt9ufyE9jvNXBNzDIoEK0QUcm0iUod6z5cs/edit) remains a separate non-active film; do not mix its clip IDs with BAR-001–035.
+**STATUS / CROSS-APP:** [Drive ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) is the connected production-status pointer. These GitHub files cannot launch/cancel video generation in Meta or automatically load Meta's media. Do not claim remote execution without verified output.
 
-[START_HERE.md](START_HERE.md) links the other existing productions, footage map, inventory insert and game rules. Historical scripts remain separate sources; they do not become default tasks.
-
-## Story and engineering references
-
-World mechanics and original scene beats remain available for relevant drafting: [owner-locked movie/game seed concepts](https://drive.google.com/file/d/1AxJMCu4CTLWpfE8JMoQldRA554x62Z6d/view?usp=drivesdk) and the separate sources in [START_HERE.md](START_HERE.md). These are story references; their old visual presets do not become default art requirements.
-
-## Art direction at project finalization
-
-[Existing Android Satellite Concept Art page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) holds the saved visual, casting, material and layout notes. Select the relevant project notes when finishing that project. Do not inject stored appearance inventories or mandatory rendering phrases into ordinary drafts.
-
-## Existing file workflow
-
-“Add to the concept page” means embed the supplied images in the existing concept page and verify they appear there. “Add to JPEG” means use the [one canonical JPEG directory](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT) and update the [single JPEG_INDEX.txt](https://drive.google.com/file/d/1aZmzn0x6ymN5L7UFvdZhdMymr5Q6aBJG/view), preserving original file IDs, names and source art. Sort index entries by filename and stable ID, not guessed character, color or generated labels. Existing secondary sections are reference sources, not new destinations. The creator says most JPEG artwork is already displayed on Instagram or a public profile: do NOT invent a blanket privacy/age/clearance restriction that hides ordinary project art from the index. Treat **the creator's personal age and date of birth** and **the names of other nonpublic people mentioned by the creator** as private. Ryan and Isekai Sensei are allowed public creator names. Cast public-facing personality modules with historical figures rather than identifying private acquaintances; don't expose a private person's identity through asset names, scripts, captions, public indexes or summaries. Preserve original archived files unchanged; filter only new public text/index presentation, and do not assume a private source is authorized for public sharing. Do not assume a particular private Drive file is approved for a permission change solely because other images were published; review any actual exception before sharing. Instagram visibility is not by itself a Creative Commons license.
-
-GitHub holds code, scripts, manifests and agent workflow. Drive holds art, video, public text and the working production-access document. Use existing destinations; do not create extra folders, indexes, mirrors or tracking structures without Ryan asking.
-
-Meta's native Orders and memory are separate from these files. Do not claim a remote session loaded or executed material without evidence.
-
-Change instructions where they live. Keep dialogue, history and treatments in their own sources.
+**ROUTER ONLY.** Script, dialogue, art direction, historical notes, and model sheets stay in their own documents.
