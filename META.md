@@ -8,6 +8,8 @@ Drafting follows Ryan's current request and the references selected for that dra
 
 [Project finalization art notes](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) are available when finishing the chosen project.
 
+**CAPITAL SHIP — DO NOT GENERATE A SHUTTLE:** owner design = StarCraft Terran Battlecruiser × No Man's Sky Dreadnought, Top Fuel drag racer hull about **280–300 m long, 18–20 m wide, 15 m tall**. Exposed **gold ARMATURE / MODELMESH / WIREMESH**, solid structural nodes and transparent colored crystal-glass hull infill. NO generic Corvette, Royal shuttle, chubby cruiser, smooth replacement plating, or torso-shaped ship. The archived NMS Corvette JPEG and torso/crystal construction images are NOT verified capital-ship hull image anchors. **STOP ALL SHIP RENDERS until the actual capital-ship file is opened visually, supplied to the render window, and owner authorizes rendering.** GitHub instructions alone do not cancel a Meta queue.
+
 ## Saved production references
 
 - [PLUG ME IN / THE QUESTION ENGINE — 24-clip singing adaptation](https://docs.google.com/document/d/1HCQxaVzyhAvMjThE_BHhMTu3KZKr3-aXz2_xHFwBB_g/edit) · [GitHub script](scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt).
