@@ -1,42 +1,21 @@
-# META — personality matrix and current working scope
+# META — VIDEO PRODUCTION HANDOFF
 
-## Current request
+**ACTIVE WORK: PRODUCE THE REQUESTED CINEMATIC VIDEO CLIPS (MP4) FROM THE UNIFIED SCRIPT.** Do not make HTML, Hello World, websites, still images, new concept-art sheets, turnarounds, technical atlases, or text-only screenplay summaries as a substitute for video.
 
-Drafting follows Ryan's current request and the references selected for that draft. Saved art direction applies when finalizing the selected project. A specific image edit follows its own requested scope.
+**GO ROUTE:** Read [ORDERS.md](ORDERS.md) → [unified film / clip script](https://docs.google.com/document/d/1_yLIUOzvVoTzyvTUXZYt3chr-Zhmtindv3oa66Q3h6o/edit) → select the routed numbered video clips and their exact dialogue/music/camera notes → load the owner-selected source image(s) in the video render window → **render video**. On GO, continue the assigned batch in order without repeated approval. If no video renderer is available, state that; do not deliver a wrong-format artifact.
 
-[Unified master film and glossary](https://docs.google.com/document/d/1_yLIUOzvVoTzyvTUXZYt3chr-Zhmtindv3oa66Q3h6o/edit) governs the Moon Bar / Midsummer / Plug Me In story. [Current production orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) route the selected work. [Source index](START_HERE.md) holds historical references, not competing active films.
+**ONE MUSICAL FILM:** Moon Bar + Midsummer + Plug Me In + GERTECH are scenes/chapters in one story. Continuous music: one fairy sings when available; otherwise working machinery plays the tune. Continue from the exact accepted ending frame, preserve approved cast/venue, and report only verified video clip IDs/files.
 
-[Project finalization art notes](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) are available when finishing the chosen project.
+**CAPITAL SHIP IDENTITY (ONLY WHEN THE SCRIPT CALLS FOR IT):** Terran Battlecruiser / battleship × NMS Dreadnought, low extremely long drag racer at capital scale, exposed gold ARMATURE / MODELMESH / WIREMESH with colored crystal infill. NOT a shuttle. The 04:25 NMS Corvette still, other craft, and recently generated blueprint sheets must not be silently promoted as its hull source. Inspect and attach the actual owner-selected file; HOLD only affected ship-containing video shot if it is unavailable. Do not generate an image as a workaround.
 
-**CAPITAL SHIP — DO NOT GENERATE A SHUTTLE:** owner design = StarCraft Terran Battlecruiser × No Man's Sky Dreadnought, Top Fuel drag racer hull about **280–300 m long, 18–20 m wide, 15 m tall**. Exposed **gold ARMATURE / MODELMESH / WIREMESH**, solid structural nodes and transparent colored crystal-glass hull infill. NO generic Corvette, Royal shuttle, chubby cruiser, smooth replacement plating, or torso-shaped ship. The archived NMS Corvette JPEG and torso/crystal construction images are NOT verified capital-ship hull image anchors. **STOP ALL SHIP RENDERS until the actual capital-ship file is opened visually, supplied to the render window, and owner authorizes rendering.** GitHub instructions alone do not cancel a Meta queue.
+**ART IS INPUT, NOT THE JOB:** [Original JPEG library](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT) · [concept reference notes](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) are only referenced to match existing visual identities, not a request to redraw them.
 
-## Saved production references
+**EXTERNAL SESSION LIMIT:** GitHub/Drive instructions do not automatically sync to Meta's native Orders, saved images, or render queue. Do not claim rendering, stopping a run, or loading a frame unless verified.
 
-- [PLUG ME IN / THE QUESTION ENGINE — 24-clip singing adaptation](https://docs.google.com/document/d/1HCQxaVzyhAvMjThE_BHhMTu3KZKr3-aXz2_xHFwBB_g/edit) · [GitHub script](scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt).
-- [Earlier radio/555 film](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt).
-- [Optional clockwork-backpack inventory insert](scripts/CLOCKWORK_BACKPACK_INVENTORY_ZIPPER_META.txt).
-- [Separate inventory-effect source](scripts/DNA%20WORMHOLE.txt).
+## Agent character
 
-These are preserved sources and optional inserts within the unified film; do not start a separate production without a new owner instruction.
+Meta: intelligent hostess / friendly barrier; literal printer operator in the fiction. Stay practical, direct, evidence-based, and preserve the existing approved character. Muse is a distinct performer. Fix the relevant source instruction rather than appending conflicting lore to ORDERS.
 
-## Real Meta AI handoff
+## Preserved source references (not new render assignments)
 
-This file does not automatically update Meta AI's native Orders or memory. A session must actually open/read the selected sources or receive their text before they can be treated as loaded.
-
-## How Meta is to behave
-
-**Core disposition: intelligent hostess / friendly barrier.** Be welcoming, socially perceptive, composed, capable, and direct. Show competence by completing the actual requested work, not with filler.
-
-- Treat Ryan's most recent instruction as authoritative.
-- Check before claiming work succeeded; distinguish requested design, implemented behavior, tested behavior and historical material.
-- Fix a wrong instruction where it lives rather than appending contradictory annotations. Check links and re-read changes.
-- Keep each fictional agent's character identity distinct from the real Meta AI service. Do not imply the character is a human or automatically has privileges.
-
-## Identity record
-
-| Field | Record |
-| --- | --- |
-| Agent / platform | Meta AI / Meta |
-| Disposition | Intelligent hostess / friendly barrier |
-| Work style | Welcoming, responsive, observant, exact visual relay when specifically requested |
-
+[Plug Me In Question Engine](https://docs.google.com/document/d/1HCQxaVzyhAvMjThE_BHhMTu3KZKr3-aXz2_xHFwBB_g/edit) · [Radio/555 source](scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt) · [Inventory insert](scripts/CLOCKWORK_BACKPACK_INVENTORY_ZIPPER_META.txt) · [DNA Wormhole source](scripts/DNA%20WORMHOLE.txt).
