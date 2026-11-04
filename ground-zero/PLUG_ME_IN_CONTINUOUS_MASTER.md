@@ -12,6 +12,14 @@ The viewing language is **VH1 Pop-Up Video meets How It's Made**, with Wikipedia
 
 This is a continuous performance, **not a prescribed final number of clips**. The production may be divided into successive ten-second visual stories, while the exact source dialogue/music carries across boundaries without cutting a word. The verified end state of one image becomes the physical starting state of the next. Never silently replace the technician, android, place, component or original source image.
 
+## THE ETHER SIDE OF THE INVENTORY TRANSFER — OWNER DIRECTION, NOVEMBER 4
+
+When the inventory transfer reveals its other side, show Ryan/Sensei's pocket dimension in **ethereal zero-G ether**. Here he is Titan, swimming with his mermaids among wormholes, with DNA spawning out of shells. This is also the return/spawn point for heroes during the loading screen. The approved top picture and the owner's exact direction are in [reference slot 01](NINE_REFERENCE_SOURCE_REGISTER.md#top-picture--titan-and-four-mermaids-in-the-ether).
+
+**Show the work and its return:** coins, drops and ore arrive. Titan receives them and physically puts things together with the fairies. Show the resulting item going back through the wormhole. Carry the identifiable materials and resulting item through the receiving, assembly and return, as part of the existing physical inventory process. His role is the head craftsman in this pocket dimension, the owner's comparison to the head bunny smith of *Shangri-La Frontier*. Ryan's approved likeness remains the face reference.
+
+The same manufacturing and installation sequence continues at the real future workbench, with the microscopic parts and the standing Titan-scale android retaining their established relationship. The stage direction above adds the owner-requested view of fulfillment; the original installation dialogue below remains verbatim and in order.
+
 ## SOURCE TECHNICAL VOICE — VERBATIM, IN ORIGINAL ORDER
 
 The following are unchanged original source lines, not newly written dialogue. Each instruction must correspond to real visible manufacturing/installation; the action can occupy as much continuing footage as required. An earlier Question Engine musical derivative is a separate preserved source, not replacement words to mix into these by default.
