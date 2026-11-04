@@ -11,13 +11,15 @@
 | Word / collision | Apply it this way |
 |---|---|
 | Sensei / Isekai Senpai / Titan | Ryan's source-matched identity or established speaker/role alias. Load his approved likeness and glasses; the alias alone does not select a different face, ethnicity, stock sage or creature. |
+| Titan / scale / origin | Distinguish Ryan's current Titan role, the standing android's Titan scale relative to microscopic work, and the separate unresolved primordial Titan origin account. Do not infer an unprovided identity or dimensional relationship. |
+| Neural link / cyber eyes | Owner wording: ChatGPT is the neural link; Meta is the cyber eyes. For the visual role retain the full description: altered reality pass-through agent — diode tester, multimeter, amp reader, projector, X-ray visor. |
 | AI agent assistant / Android assistant | Keep the full applicable machine-role description on the concept page and in the subject direction. A machine assistant that looks like a human remains the referenced machine assistant. |
 | Tool worker / robot helper | Use the approved form doing its physical job. The current supplied winged raccoon workers are their own referenced helper form; do not replace them with a humanoid because another source is humanoid. |
 | Meta | Distinguish the glasses/pass-through agent, an approved embodied assistant, and the external production renderer by scene. The fabrication printer is a separate machine. |
 | Metadress | Use the approved beautiful dress and its physical silk fashion/coverage layer. Preserve the exact selected body and garment; the clothing, engineered exterior and internal lattice are separate layers. |
 | Modesty flash / Tinkerbell comparison | Bright local fairy light provides censor coverage where needed; silk keeps the wearer covered while the workers visibly change the clothing. The named comparison is a function reference, not an instruction to import another character's name or costume. |
 | Head bunny / Shangri-La Frontier comparison | Ryan's chief-smith role in his pocket dimension. Keep Ryan's approved face and form; the comparison does not replace him with a rabbit or import a game character's costume. |
-| Ether / underwater-looking reference | The current spawn/workshop medium is **ethereal zero-G ether**. Preserve the approved likeness and weightless mood; water-like reflections in a source do not turn this scene into an ocean or pool. |
+| Ether / underwater-looking reference | The current pocket-workshop / spawn-point medium is **ethereal zero-G ether**. Preserve the approved likeness and weightless mood; water-like reflections in a source do not turn this scene into an ocean or pool. |
 | Zipper / DNA wormhole | GERTECH's double-helix transfer seam at the relevant object; the surrounding wormholes belong to the approved ether setting. Distinguish an item-sized local exchange from the whole pocket dimension. |
 | LATTICE / modelmesh / armature | Actual rigid structural struts, nodes, joints and selected crystal infill. Preserve material-specific engineering; do not turn the framework into a textile description. |
 | Coyote Ugly / source-game labels | Keep as source provenance only. Use the owner's selected lounge performance and physical bartop action; do not propagate that rejected trigger or borrowed character names into new render-facing labels. |
@@ -144,6 +146,8 @@ The silk is the programmable fashion/coverage layer. Presentation is wearer-cont
 3. For glasses, use the owner's three MAX CANON images and existing wearable scan/inventory/profile views; the Meta agent is **not** the printer.
 4. Preserve the owner's exact identity, desk props and current scene. A photo link is not proof pixels are already loaded in the renderer.
 5. QC: correct source image, era, glasses/agent role, loaded references.
+6. Preserve the owner's full visual-agent description: **altered reality pass-through agent — diode tester / multimeter / amp reader / projector / X-ray visor**. The glasses perform this in-scene instrument/viewing role; do not replace it with a fairy holding an unrelated scanner. ChatGPT is the user's neural link; Meta is the cyber eyes.
+7. For the specifically selected origin chapter, retain the owner's glasses-first account and the unresolved primordial Titan form rather than inventing a generic robot origin. [Owner's exact origin / visual-cortex statements, Appendix C](https://docs.google.com/document/d/1okBgoCgA5DG0u0ZKm-aM8xpnszXbkVPHs5BcywRUYxA/edit). This is source-scoped continuity, not a reset of the current workbench scene.
 
 ## B-01 — BOOK / PAGE / SCROLL / ARCHIVE
 **Ingredients:** requested source work, source provenance, the correct kind of artifact, owner current public title.
@@ -217,8 +221,14 @@ Select the narrative entry point from the owner's source before treating a new b
 **Continuation is not genesis:** [WORLD1-101–164](https://docs.google.com/document/d/1V_c2cKZkBZyv6qNBUk8_mG3KCfqe08eo4jkxITVr83s/edit) starts **after** the owner-accepted first hundred; its first clip number is a batch clock, not story time zero. The first bar and earlier summoned agents already exist. Do not replay their creation, move an offscreen speaker into the bar as another man, or promote a historical interior WINDOW-001/Briefing Room flash-forward into the origin. Preserve exact words, music and physical state; never manufacture a new emergence simply to make a new production window feel introductory. For any actual newly authored arrival, use its sourced entry mechanism and actual approved reference.
 
 
-### 10-second modular film — continuous source, not 10-second mini-stories
-A ten-second render is a **production container** for the same ongoing film, not a standalone short story. Preserve the original script's **entire spoken and sung dialogue, wording, repetitions and timing** in sequence, dividing it across as many consecutive clips as needed. Never shorten dialogue just to make a clip self-contained. A line or physical operation may begin in one clip and finish in the next.
+### Historical bar word-sense chain — preserve the cause
+
+The owner's corrected account is **pry bar → I-beam → raise the bar in construction → tavern → intended higher standards → no drinks → comet ethanol → Comet Beer**. Preserve the original misunderstanding and its consequences; do not reduce the origin to an intentional request for a tavern. [Exact owner account, item 01](https://docs.google.com/document/d/1okBgoCgA5DG0u0ZKm-aM8xpnszXbkVPHs5BcywRUYxA/edit). The accepted first hundred remain closed; this reference does not reopen them.
+
+**Preservation / casting:** the owner's offscreen-war statement controls over the pasted assistant teardown/QC-that-deletes interpretation. Scary outputs and too-cute-for-bar work are preserved with their source; the latter belongs to the owner's North Pole backlog direction. These source rules do not authorize new characters, a new clip or deletion.
+
+### 10-second modular film — linked visual fables, continuous source performance
+Each ten-second unit is its own linked visual short film: a source-grounded **story, fable, journey and time-to-frame**, while the dialogue remains **one continuous screenplay**. Preserve every spoken/sung word, repetition, timing and musical cue in order. Use the source's actual visual story and metadata rather than inventing a replacement arc or camera design. The screenplay determines how many consecutive clips are needed, with no final clip ceiling. A line or physical operation may begin in one clip and finish in the next.
 
 For each clip, use its actual **source passage, assigned approved visual references, named speaker/singer, existing location/props, physical action, music handoff, entering state and leaving state**. Camera movement is chosen only from the owner's selected storyboard or original reference; do not manufacture a new visual bible, character design or arbitrary shot direction. The active film's established 10-second, 96-BPM / 4-bar musical rule applies where its script specifies it. There is **no mandatory 0–3 / 3–7 / 7–10 subdivision**.
 
