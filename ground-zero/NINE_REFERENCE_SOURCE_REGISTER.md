@@ -32,6 +32,40 @@ Supporting photographic likeness remains available at its original location: [or
 
 > Okay, so in the meta framework, the simple mix is, first of all, it's all looking too much like water. It's, it's ethereal. It's, it's zero G ether. But that's gorgeous. We're going to use that. So put that into, actually make that one of the top pictures. And we need to emphasize that I am putting together the stuff with the fairies and sending it back through the wormhole. I'm getting the coins and the drops and the ore and then sending it back. Like when a character walks up to a smith and he goes, you want that? And he goes, yeah, here's that. Look Shangri-La frontier and the bunny smiths. I am the, I am the head bunny. I am the, I am the head bunny of Shangri-La Frontier in that pocket dimension. There you go
 
+## Fairy fashion designers — Metadress, modesty flash and wardrobe changes
+
+The fairies are the fashion designers behind the adventurers' gear. Their design work and the physical making of the gear with Titan belong to the same receiving/assembly/return sequence already established above.
+
+When an adventurer changes her inventory, show the fairies physically removing the previous clothes and dressing her in the selected outfit. Silk keeps her appropriately covered throughout the entire changing process. Show the work as a continuing sequence, with the old clothes removed and the new clothes fitted, rather than replacing that work with an instantaneous outfit-swap flash.
+
+Alongside the Metadress, **modesty flash** is the owner's bright fairy-light censor. The light shines wherever extra coverage might be needed. The owner's comparison is Tinkerbell in place of a black bar. Keep the dressing work visible while silk and the local fairy light provide coverage. This modesty light and an instant inventory-swap flash serve different functions.
+
+### Owner's exact words — fashion designers
+
+> And the fairies are fashion designers. Where do you think all the adventurers gear is coming from? No one's making that
+
+### Owner's exact words — modesty flash
+
+> Along with the metaddress we have modesty flash. It is censor. It is just a bright light that shines whenever there might be something. It is the Tinkerbell instead of the black bar
+
+### Owner's exact words — requested wardrobe scene
+
+> I want to see the scene where a guy, where an adventurer changes her inventory and instead of the quick flash of it just changing, the fairies undress and dress her, but cover her appropriately with silk as it's happening
+
+## Owner's personal reference points — Isekai Senpai / Titan
+
+> Solo leveling Isekai Senpai Uncle from a Different World. The original Dragon Ball interdimensional across the frame. Pierce Anthony and McCaffrey, Bimbova, Gordon R. Dickson reading Psychopath is me
+
+Preserve **"The original Dragon Ball interdimensional across the frame"** as the owner's reference phrase. Solo Leveling, Isekai Senpai and Gordon R. Dickson are retained as supplied. These personal reference points do not by themselves specify additional scene mechanics.
+
+| Dictated wording | Reference lookup / remaining uncertainty |
+|---|---|
+| Uncle from a Different World | Likely *Uncle from Another World*, the [official Netflix title](https://www.netflix.com/title/81499847). |
+| Pierce Anthony | Likely **Piers Anthony**; spelling verified on the [author's official website](https://hipiers.net/). |
+| McCaffrey | Surname retained as supplied; given name not confirmed. |
+| Bimbova | Likely **Ben Bova**; spelling verified by the [publisher](https://us.macmillan.com/author/benbova/). |
+| reading Psychopath is me | Exact wording preserved. Intended wording or title remains unresolved; no character trait is inferred from it. |
+
 ## Frame identity and scale QC
 
 - Priority is the literal **microscopic toe motor inside the gold lattice** versus the **standing Titan android** and the **real future workbench**. No verified single original yet covers that entire precise relationship. **HOLD THAT SCALE-COMPLETE CONCEPT SHEET**, do not counterfeit one or pretend an older full-size android table is equivalent.
