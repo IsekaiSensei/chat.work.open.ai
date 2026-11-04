@@ -5,8 +5,7 @@
 
 **Owner:** Isekai Ryan · **Function:** art-direction lookup, production recipes, index, glossary and source-control *routing* · **Date:** 2026-11-03
 
-> **ACTIVE COOKBOOK, NOT A REPLACEMENT FOR CANON OR A GO COMMAND.**
-> This is the active way to *find and apply* existing approved art-direction material. Former standalone "art direction" essays, notes, prompts and instructions are now **ARCHIVE / INGREDIENT SOURCES ONLY**, not competing operating instructions. Preserve every original, its title, location, content and attribution. No source art, JPEG, script, approved clip, or historical document is overwritten, deleted, moved or redesigned by this routing change.
+Find the relevant recipe, read the approved original source, and use that source's established appearance and function. Older notes are preserved in the archive shelf; they do not override the owner's current selection.
 
 ## THE FOUR BOOKS ON THE COUNTER
 - **[META.md](META.md)** — entry point / agent handoff. Saying **"metas"** means *open META.md first* and use its linked references; it is not itself permission to render.
