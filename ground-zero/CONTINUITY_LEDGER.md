@@ -8,6 +8,14 @@
 - Current **accepted Meta render frame:** NOT VERIFIED in this session. No generated video end-frame should be invented or declared accepted. The first ordered render must use an actual original image and the real confirmed continuity state.
 - Clips: ten-second units may be stitched, but **no final number or total runtime is set**; the stage play and all original words remain continuous.
 
+## Owner update — ether pocket dimension and inventory fulfillment
+
+- **Approved still / top reference:** [Titan and Four Mermaids in the Ether.png](https://drive.google.com/file/d/1a0j5KnhU_jL259cM_Dg1-__TuwvtsPjj/view?usp=drivesdk), source slot 01. Owner accepted it on November 4 and corrected the medium to **ethereal zero-G ether**. This is an approved still, not an accepted video end-frame.
+- **Actor / place:** Ryan/Sensei is Titan in this ether pocket dimension, the head craftsman working with fairies; his mermaids swim among the surrounding wormholes. DNA spawns from shells. Heroes return to this spawn point during the loading screen.
+- **Inventory / part continuity:** record the incoming coins, drops and ore; the physical assembly performed by Titan with the fairies; and the resulting item sent back through the wormhole. Preserve the identifiable workpiece and actual inventory changes across those stages.
+- **Scale continuity:** retain the existing microscopic manufacturing and standing Titan-scale android relationship when the view returns to the real workbench.
+- **Owner wording / source:** [approved picture, exact owner correction and chief-smith comparison](NINE_REFERENCE_SOURCE_REGISTER.md#titans-pocket-smith--owner-directed-scene-and-fulfillment).
+
 ## Layer and actor separation
 
 - Meta = approved actual glasses / altered-reality pass-through visual instruments: diode tester, multimeter, amp reader, registered projector and fictional X-ray-style schematic.
