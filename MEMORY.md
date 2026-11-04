@@ -17,3 +17,8 @@ This first rule controls the project agent workflow. It does not supersede the o
 - [Drive ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit)
 
 **Scope:** This file is a durable project memory stored in GitHub, distinct from ChatGPT's account Memory summary.
+
+
+## Selected expansion — November 4, 2026
+
+The owner explicitly requested QC, addition, expansion and activation of the pasted Android Assembly Night routine with the connecting material from November 3–4. The selected expanded screenplay is [PLUG ME IN — Android Assembly Night](ground-zero/PLUG_ME_IN_CONTINUOUS_MASTER.md). Newly written dialogue and installation sonnets are the adaptation requested for this task; preserve user-supplied spoken lines verbatim. This selection does not change source-image appearance, independently approve proposed name-to-face mappings, or authorize future unsourced redesigns. QC, provenance and unresolved threads remain in the [companion review](ground-zero/ANDROID_ASSEMBLY_NIGHT_QC_2026-11-04.md), outside performed dialogue.
