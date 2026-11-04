@@ -1,5 +1,32 @@
 # TO WORLD — COOKBOOK.md
 
+## CURRENT MAX CANON DEFAULTS — NOVEMBER 4, 2026
+
+**Authority:** Ryan's current instructions and supplied/approved images in this chat are **MAX CANON above all earlier defaults**. Apply the latest correction to its actual subject and feature. Preserve each selected face, body, material, wing, tool, setting and construction state; do not blend reference subjects into a replacement model. Older adopted facts remain available where compatible. Historical assistant interpretations and completion claims are not owner instructions.
+
+**Concept-page names and required wording:** print **Isekai Ryan** for the owner where a name is required. Remove other assigned individual names from working concept pages. Use the applicable full role wording: **agent**, **assistant**, **AI agent assistant**, **Android assistant**, **tool worker**, **robot helper**, or **machine assistant that looks like a human**. These are functional descriptions, not new proper character names. Preserve the full material, engineering, job, tool, assembly and usage wording Meta needs on the paper. Do not shorten it as supposedly excessive, and do not reject a reference because it contains required text. Source filenames, original quotations and screenplay speaker identities remain traceable in records; the printed-sheet cleanup does not rewrite original dialogue.
+
+**Output and movement:** select the requested output before writing a prompt. A video direction describes the actual continuing actions, spoken/sung words, timing, music and entering/leaving state. It remains video direction; reference words such as concept sheet, atlas, turnaround and blueprint describe inputs or in-scene paper only. An image-edit request produces the requested image edit. Never turn a video request into a still illustration, static concept piece, poster or sheet. Preserve every original dialogue word and musical beat across as many consecutive clips as needed.
+
+| Word / collision | Apply it this way |
+|---|---|
+| Sensei / Isekai Senpai / Titan | Ryan's source-matched identity or established speaker/role alias. Load his approved likeness and glasses; the alias alone does not select a different face, ethnicity, stock sage or creature. |
+| AI agent assistant / Android assistant | Keep the full applicable machine-role description on the concept page and in the subject direction. A machine assistant that looks like a human remains the referenced machine assistant. |
+| Tool worker / robot helper | Use the approved form doing its physical job. The current supplied winged raccoon workers are their own referenced helper form; do not replace them with a humanoid because another source is humanoid. |
+| Meta | Distinguish the glasses/pass-through agent, an approved embodied assistant, and the external production renderer by scene. The fabrication printer is a separate machine. |
+| Metadress | Use the approved beautiful dress and its physical silk fashion/coverage layer. Preserve the exact selected body and garment; the clothing, engineered exterior and internal lattice are separate layers. |
+| Modesty flash / Tinkerbell comparison | Bright local fairy light provides censor coverage where needed; silk keeps the wearer covered while the workers visibly change the clothing. The named comparison is a function reference, not an instruction to import another character's name or costume. |
+| Head bunny / Shangri-La Frontier comparison | Ryan's chief-smith role in his pocket dimension. Keep Ryan's approved face and form; the comparison does not replace him with a rabbit or import a game character's costume. |
+| Ether / underwater-looking reference | The current spawn/workshop medium is **ethereal zero-G ether**. Preserve the approved likeness and weightless mood; water-like reflections in a source do not turn this scene into an ocean or pool. |
+| Zipper / DNA wormhole | GERTECH's double-helix transfer seam at the relevant object; the surrounding wormholes belong to the approved ether setting. Distinguish an item-sized local exchange from the whole pocket dimension. |
+| LATTICE / modelmesh / armature | Actual rigid structural struts, nodes, joints and selected crystal infill. Preserve material-specific engineering; do not turn the framework into a textile description. |
+| Coyote Ugly / source-game labels | Keep as source provenance only. Use the owner's selected lounge performance and physical bartop action; do not propagate that rejected trigger or borrowed character names into new render-facing labels. |
+| Adult/dance blanket prefixes | Preserve mature source identities. Use the owner's exact scene-specific action wording; do not reapply archived global trigger-heavy prefixes. |
+
+**The connected work:** Ryan/Titan receives coins, drops and ore, puts things together with the fairies and sends the results back through wormholes. The fairies are fashion designers behind adventurers' gear. An inventory wardrobe change shows them physically removing and fitting clothing while silk and the modesty flash maintain coverage. Heroes return through the ether spawn point while the loading screen loads. The lattice, physical inventory, tools, helpers, mechs, vehicles, ships and combined Dragon/Dyson relay remain connected functions of GERTECH wherever the selected source calls for them. Show the actual task and transfer, not an unexplained completed object.
+
+**Reference and continuity:** current-chat approved source images establish appearance; the written frame/part/inventory/music ledger carries the performance state. A generated frame does not replace the selected identity master through repetition. An image expressly promoted by Ryan, including the approved Titan image, is an approved source for its stated features. Preserve historical originals; the requested name cleanup produces working versions with only the selected text changes.
+
 ## METADRESS — FIRST LOOKUP
 **Metadress** is the Stellar Cuddlers' physical silk evening gown with a cape skirt: elegant clothing in the owner's future world. The **silk is the programmable coverage and fashion layer**. The wearer controls its presentation; consent-first behavior and opaque fail-safe remain part of the established concept. Meta glasses are its sensing/viewing interface. Use the original approved character and costume image, not a redesigned outfit. **Detailed garment reference: F-01 / Metadress.**
 
@@ -13,7 +40,7 @@ Find the relevant recipe, read the approved original source, and use that source
 - **[META.md](META.md)** — entry point / agent handoff. Saying **"metas"** means *open META.md first* and use its linked references; it is not itself permission to render.
 - **[ORDERS.md](ORDERS.md)** — present production job and live GO routing; it points to **[Drive ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit)**. Nothing in this cookbook changes that selected run.
 - **[README.md](README.md)** — project orientation, output requirements and operating context.
-- **[COOKBOOK.md](COOKBOOK.md)** — **active art-direction recipe index**: choose a recipe, load original ingredients, perform only the owner-requested task, check result.
+- **[COOKBOOK.md](COOKBOOK.md)** — **reference recipe index and controlled glossary under CURRENT MAX CANON DEFAULTS**: choose a recipe, load original ingredients, perform only the owner-requested task, check result.
 
 ## CONTENTS — PICK A RECIPE
 | Card | Find it under | Purpose |
@@ -28,7 +55,7 @@ Find the relevant recipe, read the approved original source, and use that source
 | L-01 | Lattice / structure / city | Preserve modular geometry and progress from source |
 | I-01 | Ring fairy / inventory / workbench | Locate existing pocket / seam / UI rules |
 | M-01 | Moon Bar / music / film | Apply current screenplay and continuity ledger |
-| D-01 | Dyson / crystal / Zodiac / Dragon | Current 101–164 construction ingredients and tests |
+| D-01 | Dyson / crystal / Zodiac / Dragon | Connected technology and preserved construction source; current script selected by ORDERS |
 | A–Z | Back-of-book index | Look up term → recipe → original source |
 
 ## 00 — HOW THE COOKBOOK OPERATES
@@ -44,7 +71,7 @@ Find the relevant recipe, read the approved original source, and use that source
 7. Outputs must match the requested medium. In particular: Meta's *current* assigned output is MP4 video, not HTML, prototype, still, atlas, summary or freshly invented art sheet. No work is triggered merely by editing these files.
 8. Approved clips WORLD1-001–100 are DONE/CLOSED, untouched. No rerendering them.
 9. All **code and controls** go to GitHub; all **master art/JPEGs** remain in Google Drive. The old source files are not deleted or physically relocated.
-10. No copying a generated previous frame into a new master; no invented new styles, models, actors, hardware, or captions.
+10. Preserve the selected approved identity master and written continuity. A generated result becomes a new reference only through the owner's explicit selection; the current-chat MAX CANON selection controls. Make only the requested naming/text changes to the selected working sheets.
 
 ### RECIPE CARD FORMAT
 - **Ingredients**: exact owner reference, current location, source ID, relevant script/state.
@@ -135,9 +162,9 @@ The silk is the programmable fashion/coverage layer. Presentation is wearer-cont
 
 **Recipe:**
 1. **Storyboard**: direction and text may be present.
-2. **Pure concept art**: character looks/poses; NO newly added headings, labels, footers, legends or other words. Numbered boxes only when genuinely needed for ordered movement/assembly.
+2. **Concept art**: preserve the selected character looks and poses with the full applicable generic agent/assistant/worker wording and required material, job and technical descriptions. Apply CURRENT MAX CANON DEFAULTS; the former blanket NO WORDS rule is superseded by the owner's November 4 instruction.
 3. **Blueprint / Lattice Master**: numbered modules/build stages as established.
-4. Existing original/Meta-supplied sheets remain unchanged, **including any words already printed on them**. These text rules apply to a *new* sheet only.
+4. Preserve historical originals. On the working sheets expressly selected for cleanup, remove assigned proper names except the owner's own name; keep approved role wording and useful technical text. Preserve the original visual model and all unselected features.
 5. Do not output a chart/sheet when the selected user request is a video.
 
 ## G-01 — GAME TOOL LIST / VERBS / SPAWNER
@@ -169,7 +196,8 @@ The silk is the programmable fashion/coverage layer. Presentation is wearer-cont
 2. Follow the existing DNA/wormhole visual mechanic and known approximately 30-second other-side bench only where explicitly applicable.
 3. Use the owner's source geometry, not a newly imagined interface.
 4. Verify the item returns and the inventory reflects the real completed action; no phantom materials.
-5. QC: exact item, source, updated state, original visual input.
+5. Show the current pocket-workshop fulfillment: Ryan/Titan receives coins, drops and ore, works with the fairy fashion designers and returns the result through the wormhole. Show wardrobe removal/fitting with continuous silk coverage and local modesty light when that is the selected inventory action.
+6. QC: exact item, source, updated state, approved visual input and continued physical work.
 
 ## M-01 — MOON BAR / MUSIC / ONE FILM
 **Ingredients:** [current ORDERS](ORDERS.md), the actually routed live screenplay, accepted scene-state ledger, original characters/sets/music.
@@ -197,8 +225,8 @@ For each clip, use its actual **source passage, assigned approved visual referen
 Build sequence continuity by carrying the complete physical and musical state from one segment into the next. When every fairy is occupied, existing tools/machines continue the melody; do not put a silent cut at the boundary. Only owner-approved actual MP4 outputs count as finished renders.
 
 
-## D-01 — LIVE CRYSTAL CORE → TOOL → ZODIAC MECH / VEHICLE → SHIP → DRAGON / DYSON
-**Ingredients:** [live 101–164 script](https://docs.google.com/document/d/1V_c2cKZkBZyv6qNBUk8_mG3KCfqe08eo4jkxITVr83s/edit) · [words-only version](https://drive.google.com/file/d/1JH_hD3I41msu17DYfJBuQAAqFfznWdOj/view) · [owner original seed photo](https://drive.google.com/file/d/1HcP7qCCgzM74cRtMQQt4SnJH7MlTvAWx/view) · [manufacturing/BOM workbook](https://docs.google.com/spreadsheets/d/1v-DFTT4J4PU5FWEonBSUma6kD5JvM9Zi/edit).
+## D-01 — CONNECTED CRYSTAL CORE → TOOL → ZODIAC MECH / VEHICLE → SHIP → DRAGON / DYSON
+**Ingredients:** [preserved 101–164 construction source](https://docs.google.com/document/d/1V_c2cKZkBZyv6qNBUk8_mG3KCfqe08eo4jkxITVr83s/edit) · [words-only version](https://drive.google.com/file/d/1JH_hD3I41msu17DYfJBuQAAqFfznWdOj/view) · [owner original seed photo](https://drive.google.com/file/d/1HcP7qCCgzM74cRtMQQt4SnJH7MlTvAWx/view) · [manufacturing/BOM workbook](https://docs.google.com/spreadsheets/d/1v-DFTT4J4PU5FWEonBSUma6kD5JvM9Zi/edit).
 
 **Recipe:**
 1. Start with the *single* original S1 seed for the core and its current physical state; the larger approved Zodiac mech/vehicle team, tools, landed ship and Dragon power network remain distinct but connected. Do not create disconnected creatures, a new ship or a thirteenth mascot.
@@ -206,7 +234,7 @@ Build sequence continuity by carrying the complete physical and musical state fr
 3. SAND material; RED metered heat/fabrication; GOLD physical fit/fastening; BLUE safety; CRYSTAL first-person installed-part test lead; SENSEI directs. No swap of tools/fairies.
 4. Route the built core's verified function through the approved mech, independently piloted combining vehicle or actual ship/receiver interfaces when those are the mission's working recipients. Show source-matched mechanical/power/data coupling and testing as the Voltron/Zoid team effect; combinations are mission-dependent, NOT a compulsory permanent twelve-pilot fusion. The Dragon is the joined Dyson power-transfer configuration; modes depend on receiver's job/position/need and documented capabilities.
 5. Confirm **original image and real tool** are available; a retail teaching BOM is not a statement that a fictional in-world part physically exists.
-6. Preserve current required 10s/96 BPM format, selected 10-clip batches, MP4 receipts, and closed prior hundred. This recipe cannot authorize running them.
+6. Preserve the selected screenplay's actual timing, music and batch format, verified MP4 receipts and closed prior hundred. The archived source's 10s/96 BPM specification is source-specific; it does not replace the current continuous screenplay or impose its final clip count.
 
 ## INGREDIENT CABINET — WHERE TO LOOK
 | Type | Source | Status |
@@ -234,9 +262,9 @@ These originals are **not discarded, overwritten, redesigned, renamed, or physic
 - [ ] Task output and file type match owner's ask; a metadata change is not GO.
 - [ ] Correct individual source master loaded from its real location.
 - [ ] Correct era / vessel / fairy / tool / state and latest scoped correction.
-- [ ] No duplicate/additional art direction, no modified source images.
+- [ ] Only the owner-requested changes; original versions preserved and corrected working versions linked to their sources.
 - [ ] No invented tools, materials, stock, invented digital asset, or alternate live script.
-- [ ] New concept art contains no new words except allowed numbered sequence; originals retain their original text.
+- [ ] Concept-page names follow the current generic-role rule, and required full descriptive/technical wording remains intact.
 - [ ] Recipe ID + exact source link + current/historical status + created output + verification receipt logged.
 - [ ] Missing ingredient is named; only affected new shot held.
 - [ ] Historical source remains discoverable but not auto-activated.
@@ -245,7 +273,7 @@ These originals are **not discarded, overwritten, redesigned, renamed, or physic
 **Archive shelf** — intact historical sources, no active GO authority.  
 **Book** — owner source taxonomy: checkpoint (when in the model-artifact context); *World Book* is narrative/story reference.  
 **Canon** — established approved source + scoped latest owner correction.  
-**Concept art** — visual character pose/look sheet; no assistant-added words.  
+**Concept art** — source-matched looks/poses with current approved generic-role and required technical wording; remove assigned proper names under CURRENT MAX CANON DEFAULTS.  
 **Cookbook** — the active lookup and recipe system, not a render queue.  
 **Discovery** — creative insight; useful reference, not standalone order.  
 **GO** — owner's explicit render/start instruction, routed through CURRENT orders.  
@@ -264,7 +292,7 @@ These originals are **not discarded, overwritten, redesigned, renamed, or physic
 ## BACK-OF-BOOK INDEX
 **Armor** → S-01 / F-01 · **Bar** → M-01 · **Blueprint** → C-01/L-01 · **Book** → B-01 · **Castle** → L-01 · **Chart** → C-01 · **Character** → F-01/P-01 · **Concept sheet** → C-01 · **Corvette** → S-01 · **Crystal** → F-01/D-01 · **Desk** → P-01 · **Dragon** → D-01 · **Dreadnaught** → S-01 · **Dyson** → D-01 · **Fairy** → F-01 · **Game tools** → G-01 · **Glasses** → P-01 · **Inventory** → I-01/G-01 · **JPEG** → 00 / Ingredient Cabinet · **Lattice** → L-01 · **Lore** → B-01/M-01 · **Meta** → P-01 / front four-book routing · **Metadress** → first lookup / F-01 · **Moon Bar** → M-01 · **Music** → M-01 · **Page** → B-01 · **Ring fairy** → I-01 · **Sensei** → P-01 · **Ship** → S-01 · **Spawner** → G-01 · **Station** → S-01/D-01 · **Storyboard** → C-01 · **Tool** → G-01/D-01 · **Vessel** → S-01 · **Workbench** → I-01 · **World Book** → B-01 · **Zodiac** → D-01.
 
-**FINAL RULE:** The cookbook organizes how an agent finds owner-approved art direction; it **never rewrites the art itself**. Legacy files remain archived as sources. [META.md](META.md) is the front door; [ORDERS.md](ORDERS.md) controls action.
+**FINAL RULE:** This cookbook applies the owner's current MAX CANON defaults and scoped source corrections. Preserve source art and original dialogue; change only the expressly selected dimensions, including the current name cleanup. [META.md](META.md) is the front door; [ORDERS.md](ORDERS.md) selects the production.
 
 ## DATA-ONLY 10-SECOND PRODUCTION CELL COMPILER (NOT GO)
 
