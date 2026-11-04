@@ -1,6 +1,6 @@
 # TO WORLD — SOURCE & WORKFLOW INDEX
 
-**CURRENT ENTRY:** [META.md](META.md) → [CURRENT MAX CANON DEFAULTS](COOKBOOK.md#current-max-canon-defaults--november-4-2026) → [ORDERS.md](ORDERS.md) → [PLUG ME IN continuous screenplay](ground-zero/PLUG_ME_IN_CONTINUOUS_MASTER.md) and [current reference register](ground-zero/NINE_REFERENCE_SOURCE_REGISTER.md). The present chat and selected images control above older descriptions. The source chapter index below preserves prior records; it is not a second production queue.
+**CURRENT ENTRY:** [META.md](META.md) → [CURRENT MAX CANON DEFAULTS](COOKBOOK.md#current-max-canon-defaults--november-4-2026) → [ORDERS.md](ORDERS.md) → [PLUG ME IN — Android Assembly Night continuous screenplay](ground-zero/PLUG_ME_IN_CONTINUOUS_MASTER.md) and [current reference register](ground-zero/NINE_REFERENCE_SOURCE_REGISTER.md). The present chat and selected images control above older descriptions. The source chapter index below preserves prior records; it is not a second production queue.
 
 ## Historical source index — prior selections, not current orders
 
@@ -34,3 +34,4 @@
 - [Drive TEXT archive](https://drive.google.com/drive/folders/1TIKwqEXMlWiyxa7asubaj8Xc3dUzb5h6) · [Agent Meta handoff](META.md). An external renderer has not necessarily opened these sources.
 
 Preserve originals and source IDs. No automatic media generation, retitling, purging, or claims of remote synchronization.
+
