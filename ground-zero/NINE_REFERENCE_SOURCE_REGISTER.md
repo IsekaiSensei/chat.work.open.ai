@@ -1,12 +1,37 @@
 # GROUND ZERO — NINE REFERENCE IMAGE REGISTER
 
-Exactly nine *slots* for the repeatable Meta window handoff. These links point to the single preserved originals in the Drive JPEG master (or original connected location). This is a **source and QC register**, not a claim that nine newly authored/perfected sheets already exist. No original has been moved, overwritten or redesigned.
+Nine reusable source-image slots support each Meta window handoff. Select the needed sources from the current approved bank for the actual scene. Source art remains in the Drive JPEG master; this register records identity and feature use, not an alternate render queue.
 
 ## Top picture — Titan and Four Mermaids in the Ether
 
 **Priority 01, owner approved November 4, 2026:** [Titan and Four Mermaids in the Ether.png](https://drive.google.com/file/d/1a0j5KnhU_jL259cM_Dg1-__TuwvtsPjj/view?usp=drivesdk). Use this exact approved image as a leading reference. Ryan confirmed the supplied portrait looks like him and accepted this resulting scene. The current visual correction is **ethereal zero-G ether**; its water-like appearance is not the setting for subsequent shots. Preserve the approved likeness and calm, weightless mood.
 
 Supporting photographic likeness remains available at its original location: [original Sensei face photograph](https://drive.google.com/file/d/1jMemxJqimu4Wpiox0FF_loKJxVyzdriG/view).
+
+## Current-chat MAX CANON reference bank — November 4, 2026
+
+Apply [CURRENT MAX CANON DEFAULTS](../COOKBOOK.md#current-max-canon-defaults--november-4-2026). The owner selected the current chat and its supplied images above earlier references, with the explicit naming cleanup below. Preserve each image's own identity, materials, geometry, job and setting; use only the features needed by the selected scene. Nine reusable window slots are not a limit of nine images in the canon bank and do not require loading unrelated references together.
+
+Working concept pages retain Ryan's own name and the applicable full generic role description: **agent**, **assistant**, **AI agent assistant**, **Android assistant**, **tool worker**, **robot helper**, **machine assistant that looks like a human**. Required technical wording stays. The cleaned working versions below preserve the source designs; original versions remain traceable.
+
+| Ref | Supplied original filename | Approved feature / selected use | Working image |
+|---|---|---|---|
+| 01 | `9287C605-0557-48D6-8338-2120C5447DE2.jpeg` | Ryan, actual glasses/interface, populated future mission desk and assistant team | [open working source](https://drive.google.com/file/d/1A-E_3YrdfIqjqrJTbHT40fV0blxlAvE-/view?usp=drivesdk) |
+| 02 | `D56C4306-4BCC-4792-B03E-D151108A49DD.jpeg` | Android assistant identity, poses, supply role and equipment; assigned personal name removed | [open working source](https://drive.google.com/file/d/1FoFozXF6-97yOIs4K7H2jkKicAghGmg5/view?usp=drivesdk) |
+| 03 | `889014760_1113855744809028_6915608785425270677_n(1).webp` | Ryan's expressly approved likeness; apply the zero-G ether setting correction | [open working source](https://drive.google.com/file/d/19h0CgSDN4TSVJWapXmMgqJfkUh8xN3oz/view?usp=drivesdk) |
+| 04 | `DD3E17E9-050E-49C9-90CA-A9D31E3EACE6.jpeg` | Four source models, poses and bartop performance reference; generic role labels and rejected trigger cleanup | [open working source](https://drive.google.com/file/d/1JQKd6QX27lEr4o0lQz_pjtoFuDmdJhyd/view?usp=drivesdk) |
+| 05 | `C05FB723-06CE-48BA-978E-30AFB90F222A(1).jpeg` | Connected crystal/lattice Zodiac tools, forms, vehicles and Dragon/Dyson architecture | [open working source](https://drive.google.com/file/d/1CzHYFrj76qaoRQ6t1xP57H-LCJTQ-B4g/view?usp=drivesdk) |
+| 06 | `886417139_1790995661953913_2486176895556539107_n(1).webp` | Tavern/prop reference with generic venue sign; do not substitute an empty room or floating mugs for an ordered performance | [open working source](https://drive.google.com/file/d/1tn_ycK8nw5SlWvPoUYTw2wktahTJMRul/view?usp=drivesdk) |
+| 07 | `E2D1D1A9-69DD-401E-A43C-61E8D7CD5529(1).jpeg` | Geometric lattice/inventory cell tiling; source numbers remain component-specific | [open working source](https://drive.google.com/file/d/1lb-Y7aYpV0yahNCARf7mpG5ySD2LgOkJ/view?usp=drivesdk) |
+| 08 | `628DC9BF-7627-4946-B28C-924840A6E1EB(1).jpeg` | Fictional workshop transmission/assembly reference, Ryan and Android assistant; required technical text retained with external names cleaned | [open working source](https://drive.google.com/file/d/1vXKgrrfCXsbEkjyGtLll_PUPYEt7AU-R/view?usp=drivesdk) |
+| 09 | `887011565_1193845326914297_5091804595831861637_n.webp` | Lattice, node and geometric material workshop appearance; preserve selected shapes and source layers | [open working source](https://drive.google.com/file/d/1_y2RptwT72A7SibffhcpJQcKJLoyymAA/view?usp=drivesdk) |
+| 10 | `887751140_1061572276937423_3199175450729079102_n.webp` | Winged raccoon tool workers handling silk around the referenced engineered assistant; preserve this helper form and coverage action | [open working source](https://drive.google.com/file/d/1rwkOKpSr2eIK-t-GWLzo5BlHNLioiXeH/view?usp=drivesdk) |
+
+The already-approved **Titan and Four Mermaids in the Ether** remains a top picture below. Ryan is the pocket-dimension chief craftsman: coins, drops and ore arrive, he and the fairies make the requested work, and the result returns through the wormhole. The medium is ethereal zero-G ether. The fairies also design and physically change adventurers' gear with continuous silk coverage and local modesty light. These are actions for the video scene; the sheets are reference inputs.
+
+## Supporting nine-slot source map
+
+The following earlier source links remain available for their specific features. The current-chat bank above controls where it is more recent or more specific; a source's label text is not grounds for blanket rejection.
 
 | Slot | Source role | Current review result | Source file | Original Drive source |
 |---|---|---|---|---|
@@ -16,9 +41,9 @@ Supporting photographic likeness remains available at its original location: [or
 | 04 | META_GLASSES | MAX CANON SOURCE | `MAX_CANON_01_ISEKAI_RYAN_ACTUAL_GLASSES_META_UI_20261103.webp` | [open original](https://drive.google.com/file/d/1ea3j6ptLDY2i7p5yuz9K1AQAAQ4BTyXD/view) |
 | 05 | POCKET_INVENTORY | SOURCE VERIFIED — inspect for scale/character continuity | `MAX_CANON_02_BACKPACK_POCKET_DIMENSION_AGENT_20261103.jpg` | [open original](https://drive.google.com/file/d/1T4dulTomgg6dVvv6Rk95lfqLkusOFb-A/view) |
 | 06 | MATERIAL_SAMPLE | SOURCE VERIFIED — actual photographed material | `IMG_4462.jpeg` | [open original](https://drive.google.com/file/d/1HcP7qCCgzM74cRtMQQt4SnJH7MlTvAWx/view) |
-| 07 | ANDROID_INTERNALS | REVIEW / HOLD — not approved as Titan-scale manufacturing master | `transparent_android_energy_blueprint.png` | [open original](https://drive.google.com/file/d/1tEA6ln8Xttlz_9JWpadmlcEM_5_aA1oR/view) |
-| 08 | TEAM_OF_SEVEN | REVIEW / HOLD — recent concept with printed labels | `image_20261104_083012.jpg` | [open original](https://drive.google.com/file/d/1iI_ohZBQR2WWct6dmt7KFJEcBW9ebKDI/view) |
-| 09 | PORCELAIN_HARD_SHELL | REVIEW / HOLD — recent engineering sheet with printed text | `image_20261104_051650.jpg` | [open original](https://drive.google.com/file/d/136v8d2gi3sdk4bKHayi2r5wUKHf-AolB/view) |
+| 07 | ANDROID_INTERNALS | SUPPORTING SOURCE — internal anatomy/material reference; check selected scale | `transparent_android_energy_blueprint.png` | [open original](https://drive.google.com/file/d/1tEA6ln8Xttlz_9JWpadmlcEM_5_aA1oR/view) |
+| 08 | TEAM_OF_SEVEN | SUPPORTING SOURCE — team reference; retain required role/technical wording | `image_20261104_083012.jpg` | [open original](https://drive.google.com/file/d/1iI_ohZBQR2WWct6dmt7KFJEcBW9ebKDI/view) |
+| 09 | PORCELAIN_HARD_SHELL | SUPPORTING SOURCE — engineered shell reference; retain required technical wording | `image_20261104_051650.jpg` | [open original](https://drive.google.com/file/d/136v8d2gi3sdk4bKHayi2r5wUKHf-AolB/view) |
 
 ## Titan's pocket smith — owner-directed scene and fulfillment
 
@@ -68,12 +93,12 @@ Preserve **"The original Dragon Ball interdimensional across the frame"** as the
 
 ## Frame identity and scale QC
 
-- Priority is the literal **microscopic toe motor inside the gold lattice** versus the **standing Titan android** and the **real future workbench**. No verified single original yet covers that entire precise relationship. **HOLD THAT SCALE-COMPLETE CONCEPT SHEET**, do not counterfeit one or pretend an older full-size android table is equivalent.
-- Recent RGB variants, reviewed but not promoted to this nine: [image_20261104_083014.jpg](https://drive.google.com/file/d/1xyXQK-ou40F49aCOom2HLEbpLDqLFMXs/view). Their panel labels/spec text need separate QC against the owner text rules.
+- Preserve the literal **microscopic toe motor inside the gold lattice**, the **standing Titan-relative android** and the **real future workbench** in the selected manufacturing scene. Use source images for their actual features; an overall body sheet does not convert an internal guide rail into a room-sized handrail.
+- Additional RGB source: [image_20261104_083014.jpg](https://drive.google.com/file/d/1xyXQK-ou40F49aCOom2HLEbpLDqLFMXs/view). Keep its source-specific assignments; apply the current generic-name rule and retain useful role/specification wording.
 - Older android images show an unrelated human technician. Do not silently replace Isekai Ryan's face or make them the new scene's operator.
-- Concept art may show identity, appearance and poses. Technical explanatory text belongs to storyboard/blueprint-specific use; do not carry printed stats into new pure concept artwork. Owner original images stay untouched.
-- Source-image approval, physical scale approval and render status are three different things. The review/HOLD labels are intentional.
+- Concept pages preserve the selected identity, looks and poses together with the current permitted generic-role and required technical wording. Component numbers remain scoped to their own source. Preserve original versions and link each expressly requested cleaned working version.
+- Source-image authority, suitability for a selected scale/operation and returned video state are distinct. Apply the current owner selection; do not invent a rejection because a sheet contains labels.
 
 ## Loading rule
 
-Use only the nine image originals that pass QC for the requested shot; do not mistake this registry for nine licensed output renders. Presently the last three are HOLD as default render inputs until exact suitability is resolved. Source art is in Drive; script/continuity is in GitHub.
+Load the actual approved working sources for the selected shot, prioritizing the current-chat MAX CANON bank. Retain the selected identity references and the written physical/dialogue/music continuity state. Required role or technical text does not trigger a blanket HOLD. A source file is an input; a requested video remains a moving action sequence with the full original performance. Source art is in Drive; the selected script and continuity are in GitHub.
