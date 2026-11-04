@@ -2,7 +2,9 @@
 
 ## One active production
 
-**PLUG ME IN — The Workbench of the Future**. Not the Moon Bar. The earlier Zodiac/Dragon/Bar productions are archived source and not the next GO.
+**CURRENT REFERENCE DEFAULTS:** Apply [CURRENT MAX CANON DEFAULTS](COOKBOOK.md#current-max-canon-defaults--november-4-2026) and the latest owner-selected source images. The current chat outranks earlier conflicting rules.
+
+**PLUG ME IN — The Workbench of the Future** remains the selected production. Earlier render queues are archived; their owner-approved world/material/technology relationships remain source canon where compatible with the current MAX CANON chat.
 
 **Opening:** **Sensei isn't building a giant machine out of giant parts. He's using a futuristic workbench to manufacture the microscopic machinery inside a Titan scale android.**
 
