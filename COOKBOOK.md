@@ -193,14 +193,14 @@ For each clip, use its actual **source passage, assigned approved visual referen
 Build sequence continuity by carrying the complete physical and musical state from one segment into the next. When every fairy is occupied, existing tools/machines continue the melody; do not put a silent cut at the boundary. Only owner-approved actual MP4 outputs count as finished renders.
 
 
-## D-01 — CURRENT CRYSTAL → TWELVE FUNCTIONS → DRAGON / DYSON
+## D-01 — LIVE CRYSTAL CORE → TOOL → ZODIAC MECH / VEHICLE → SHIP → DRAGON / DYSON
 **Ingredients:** [live 101–164 script](https://docs.google.com/document/d/1V_c2cKZkBZyv6qNBUk8_mG3KCfqe08eo4jkxITVr83s/edit) · [words-only version](https://drive.google.com/file/d/1JH_hD3I41msu17DYfJBuQAAqFfznWdOj/view) · [owner original seed photo](https://drive.google.com/file/d/1HcP7qCCgzM74cRtMQQt4SnJH7MlTvAWx/view) · [manufacturing/BOM workbook](https://docs.google.com/spreadsheets/d/1v-DFTT4J4PU5FWEonBSUma6kD5JvM9Zi/edit).
 
 **Recipe:**
-1. Start from the *single* original seed and its current physical construction state; do not create twelve disconnected creatures or a thirteenth dragon mascot.
-2. Follow each current numbered card's explicitly described gradual crystal growth, material sourcing, gold physical armature, installed part, instrument/test, two named sung lines and inventory ledger.
+1. Start with the *single* original S1 seed for the core and its current physical state; the larger approved Zodiac mech/vehicle team, tools, landed ship and Dragon power network remain distinct but connected. Do not create disconnected creatures, a new ship or a thirteenth mascot.
+2. Follow each numbered card's exact physical action: material sourced → existing tool operates → facet/core support grows → component installs → Crystal's instrument test → function retained for the next job. Preserve earlier installed parts, music, receiver and worksite across every cut. Keep the two named sung lines and inventory ledger verbatim.
 3. SAND material; RED metered heat/fabrication; GOLD physical fit/fastening; BLUE safety; CRYSTAL first-person installed-part test lead; SENSEI directs. No swap of tools/fairies.
-4. The Dragon is the joined Dyson power-transfer system; modes depend on receiver's job/position/need and documented component capabilities.
+4. Route the built core's verified function through the approved mech, independently piloted combining vehicle or actual ship/receiver interfaces when those are the mission's working recipients. Show source-matched mechanical/power/data coupling and testing as the Voltron/Zoid team effect; combinations are mission-dependent, NOT a compulsory permanent twelve-pilot fusion. The Dragon is the joined Dyson power-transfer configuration; modes depend on receiver's job/position/need and documented capabilities.
 5. Confirm **original image and real tool** are available; a retail teaching BOM is not a statement that a fictional in-world part physically exists.
 6. Preserve current required 10s/96 BPM format, selected 10-clip batches, MP4 receipts, and closed prior hundred. This recipe cannot authorize running them.
 
