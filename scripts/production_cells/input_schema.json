@@ -1,0 +1,274 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:to-world:production-cell-input:1",
+  "title": "TO WORLD non-destructive production cell input",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "project_id",
+    "visual_references",
+    "turns"
+  ],
+  "properties": {
+    "project_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "visual_references": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/visual"
+      }
+    },
+    "turns": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/turn"
+      }
+    }
+  },
+  "$defs": {
+    "visual": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "reference_id",
+        "original_image_uri",
+        "status"
+      ],
+      "properties": {
+        "reference_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "original_image_uri": {
+          "type": "string",
+          "minLength": 1
+        },
+        "panel_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "status": {
+          "enum": [
+            "VERIFIED",
+            "UNVERIFIED"
+          ]
+        },
+        "approval_source": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "status": {
+                "const": "VERIFIED"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "approval_source"
+            ],
+            "properties": {
+              "approval_source": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    "turn": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "turn_id",
+        "text",
+        "speaker_id",
+        "speaker_status",
+        "silent_listener_ids",
+        "listener_status",
+        "frame_ref"
+      ],
+      "properties": {
+        "turn_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "text": {
+          "type": "string"
+        },
+        "speaker_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "speaker_status": {
+          "enum": [
+            "VERIFIED",
+            "UNVERIFIED"
+          ]
+        },
+        "speaker_source": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "silent_listener_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "listener_status": {
+          "enum": [
+            "VERIFIED",
+            "VERIFIED_NONE",
+            "UNVERIFIED"
+          ]
+        },
+        "listener_source": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "frame_ref": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source_span": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "start_char",
+            "end_char"
+          ],
+          "properties": {
+            "start_char": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "end_char": {
+              "type": "integer",
+              "minimum": 0
+            }
+          }
+        },
+        "timed_units": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/timedUnit"
+          }
+        },
+        "the_tale": {
+          "type": "string"
+        },
+        "the_fable": {
+          "type": "string"
+        },
+        "the_journey": {
+          "type": "string"
+        },
+        "time_to_frame": {
+          "type": "string"
+        },
+        "frame_state": {
+          "type": "string"
+        },
+        "story_context_source": {
+          "type": "string"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "speaker_status": {
+                "const": "VERIFIED"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "speaker_source"
+            ],
+            "properties": {
+              "speaker_source": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "listener_status": {
+                "enum": [
+                  "VERIFIED",
+                  "VERIFIED_NONE"
+                ]
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "listener_source"
+            ],
+            "properties": {
+              "listener_source": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    "timedUnit": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "char_start",
+        "char_end",
+        "start_ms",
+        "end_ms",
+        "timing_evidence"
+      ],
+      "properties": {
+        "char_start": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "char_end": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "start_ms": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "end_ms": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "timing_evidence": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    }
+  }
+}
