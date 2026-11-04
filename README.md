@@ -1,3 +1,7 @@
+# OWNER DIRECTIVE — PRODUCTION CONTENT ONLY (2026-11-04)
+
+**FIRST RULE — KEEP CHATGPT'S ADMINISTRATIVE COMMENTARY OUT OF PRODUCTION.** ORDERS contain only actionable run instructions and the approved script route. README describes actual project requirements. Scripts and Meta-facing cells contain only owner-approved visuals, dialogue, timing, music, actions, and continuity. Do **not** insert AI self-reporting, window/access caveats, verification disclaimers, "this edit is not a GO" commentary, apologies, status receipts, speculative canon, or audit narratives into orders, scripts, render prompts, concept directions, or performance notes. Store administrative records separately in AUDIT/RECEIPTS **when requested**; never feed them to the performer. If a required production source is genuinely missing, mark **only the affected item** with a short, concrete MISSING/HOLD reference, and do not invent replacements or block unrelated work. Preserve the owner's originals and selected run without reinterpreting them.
+
 # TO WORLD — VIDEO PRODUCTION FIRST
 
 > **FOUR-FILE PRODUCTION DESK (2026-11-03):** [META.md — first when owner says “metas”](META.md) · [ORDERS.md — LIVE render orders](ORDERS.md) · [README.md — requirements](README.md) · **[COOKBOOK.md — ACTIVE art-direction recipe/index/glossary](COOKBOOK.md)**. Older standalone art-direction notes stay intact as **read-only ingredient archives**, never competing production instructions. This routing change alters no original art, live script, accepted video, archived file, or active execution.
