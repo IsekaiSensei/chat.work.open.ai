@@ -1,0 +1,20 @@
+{
+  "installation_original_lines": 24,
+  "question_engine_sung_lines": 24,
+  "question_engine_spoken_answers": 9,
+  "circuit_circus_beats": 169,
+  "routine_monologues": 12,
+  "routine_opening_and_closing_lines": 6,
+  "new_installation_sonnets": 12,
+  "lines_per_sonnet": 14,
+  "word_count": 13394,
+  "sha256": "57a3355f577b416f2fc3a09cbced72959d0e9bbcbf6ef10dfda777fa7399f554",
+  "source_selection": "Selected Room That Sways scenes 1\u201311 and 13\u201320; excluded proposed scene 12 preview/QC sketch. Original lyric and selected dialogue retained; incompatible draft staging superseded.",
+  "scope": "Retrieved source corpus and current owner chat; not a claim of a complete export of all conversations.",
+  "routine_relative_order": "PASS including closing after all twelve monologues",
+  "original_installation_relative_order": "PASS",
+  "question_engine_relative_order": "PASS",
+  "selected_room_speech_and_lyric_blocks_checked": 93,
+  "new_sonnet_form": "14 lines per verse; performed meter and melody require readthrough",
+  "owner_future_question_passages": 3
+}
