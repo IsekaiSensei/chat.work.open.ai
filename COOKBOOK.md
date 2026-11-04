@@ -204,6 +204,8 @@ The silk is the programmable fashion/coverage layer. Presentation is wearer-cont
 6. QC: exact item, source, updated state, approved visual input and continued physical work.
 
 ## M-01 — MOON BAR / MUSIC / ONE FILM
+**CURRENT SELECTED SCREENPLAY:** [PLUG ME IN — Android Assembly Night](ground-zero/PLUG_ME_IN_CONTINUOUS_MASTER.md), expanded by the owner's November 4 instruction. Component comedy, installation sonnets, original engineering voice, Question Engine, selected lounge performance, ether fulfillment, fairy fashion and relay operations continue as one work. Historical source clip totals do not impose a total on this screenplay. Preserve every supplied spoken line; use the [QC/source concordance](ground-zero/ANDROID_ASSEMBLY_NIGHT_QC_2026-11-04.md) outside the performance.
+
 **Ingredients:** [current ORDERS](ORDERS.md), the actually routed live screenplay, accepted scene-state ledger, original characters/sets/music.
 
 **Recipe:**
@@ -312,3 +314,4 @@ These originals are **not discarded, overwritten, redesigned, renamed, or physic
 - To verify dialogue against the real document rather than against the input JSON alone, provide the actual source UTF-8 transcript and explicit per-turn character offsets; any mismatch is rejected. An external source reference and character identity must have declared provenance; the tool does not independently authenticate the source.
 - Unverified metadata holds **only affected** output cells. For overlapping, contradictory, or boundary-crossing timing, retain all words and report the precise gap; **never fabricate a missing word, a silence, a camera move, an object relationship, or an MP4 receipt**.
 - This is a **compiler and validation tool only**, not a production order or permission to render. It makes **no changes to current live ORDERS, accepted footage, original JPEGs, or archived files**.
+
