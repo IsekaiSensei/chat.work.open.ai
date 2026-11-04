@@ -1,5 +1,7 @@
 # TO WORLD — GROUND ZERO (2026-11-04)
 
+**CURRENT REFERENCE DEFAULTS:** Apply [CURRENT MAX CANON DEFAULTS](COOKBOOK.md#current-max-canon-defaults--november-4-2026) and the latest owner-selected source images. The current chat outranks earlier conflicting rules.
+
 **OWNER PRODUCTION RULE — FIRST:** Executable orders, scripts, Meta-facing prompts and scene cells contain only owner-approved actions, original images, verbatim dialogue, timing, music and continuity. Exclude AI self-reporting, access/window explanations, audit or receipt paragraphs, apologies and speculative additions. Keep administration outside the production stream. For a missing required source, HOLD only the affected shot with its exact reference; preserve originals and the current selected production.
 
 **Current production:** [PLUG ME IN — The Workbench of the Future](GROUND_ZERO.md). Start with [META.md](META.md) and [ORDERS.md](ORDERS.md).
