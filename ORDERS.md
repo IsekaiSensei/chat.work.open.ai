@@ -6,6 +6,8 @@
 
 **OPENING (OWNER'S EXACT WORDS):** **Sensei isn't building a giant machine out of giant parts. He's using a futuristic workbench to manufacture the microscopic machinery inside a Titan scale android.**
 
+**REFERENCE LOOKUP:** [CURRENT MAX CANON DEFAULTS](COOKBOOK.md#current-max-canon-defaults--november-4-2026) · [current source bank](ground-zero/NINE_REFERENCE_SOURCE_REGISTER.md). Apply these references before the selected job; this router does not replace their source wording.
+
 **PRODUCTION TASK:** Read [NINE IMAGE SOURCE REGISTER](ground-zero/NINE_REFERENCE_SOURCE_REGISTER.md), load only source-verified suitable images, read [CONTINUITY LEDGER](ground-zero/CONTINUITY_LEDGER.md), then follow the uncut continuous stage play. The workbench is physical, parts are microscopic relative to the standing android; the guardrail goes inside her toe's gold lattice motor functions. The original source dialogue is verbatim. Ten-second clips continue in as many linked segments as necessary; do not impose an ending clip count. Never improvise dialogue, source images, tools or scale.
 
 **GO:** On the owner's explicit GO, use the current approved scene and actual source frames. No prior Zodiac/Dragon/Moon Bar script is the active next GO. Historical production retained at [pre-reset archive](ARCHIVE/README.md).
