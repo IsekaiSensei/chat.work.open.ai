@@ -1,5 +1,7 @@
 # TO WORLD — GROUND ZERO (2026-11-04)
 
+**OWNER PRODUCTION RULE — FIRST:** Executable orders, scripts, Meta-facing prompts and scene cells contain only owner-approved actions, original images, verbatim dialogue, timing, music and continuity. Exclude AI self-reporting, access/window explanations, audit or receipt paragraphs, apologies and speculative additions. Keep administration outside the production stream. For a missing required source, HOLD only the affected shot with its exact reference; preserve originals and the current selected production.
+
 **Current production:** [PLUG ME IN — The Workbench of the Future](GROUND_ZERO.md). Start with [META.md](META.md) and [ORDERS.md](ORDERS.md).
 
 The opening is: **Sensei isn't building a giant machine out of giant parts. He's using a futuristic workbench to manufacture the microscopic machinery inside a Titan scale android.**
