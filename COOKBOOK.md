@@ -3,6 +3,8 @@
 ## METADRESS — FIRST LOOKUP
 **Metadress** is the Stellar Cuddlers' physical silk evening gown with a cape skirt: elegant clothing in the owner's future world. The **silk is the programmable coverage and fashion layer**. The wearer controls its presentation; consent-first behavior and opaque fail-safe remain part of the established concept. Meta glasses are its sensing/viewing interface. Use the original approved character and costume image, not a redesigned outfit. **Detailed garment reference: F-01 / Metadress.**
 
+**META ORDERS → METADRESS REFERENCE:** [Drive ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) → the selected exact scene and dialogue → [F-01 — Metadress](#f-01--fairy--stellar-cuddler--crystal) → [owner-approved dress description in Drive META.md](https://drive.google.com/file/d/1qXcWXZlaKfRL3dy-GPNYEy365M6DHBIV/view) → [original Stellar Cuddler/character costume references](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit). When an ordered Meta shot includes a Metadress, render the already-approved dress and character from their actual original images. If the ordered shot does not feature a Metadress, do not introduce one. The selected script controls who appears and what happens; this recipe controls the established garment's appearance.
+
 **Owner:** Isekai Ryan · **Function:** art-direction lookup, production recipes, index, glossary and source-control *routing* · **Date:** 2026-11-03
 
 Find the relevant recipe, read the approved original source, and use that source's established appearance and function. Older notes are preserved in the archive shelf; they do not override the owner's current selection.
@@ -89,6 +91,8 @@ The silk is the programmable fashion/coverage layer. Presentation is wearer-cont
 **For Meta visuals:** describe the **beautiful dress** and use the owner's original approved character and costume image. Do not insert explanations of reveal mechanics, attraction logic, or other invented pretext into prompts. Do not change the existing dress, silhouette, character, or wardrobe.
 
 **Original wording/source:** [Drive META.md — Metadress garment link](https://drive.google.com/file/d/1qXcWXZlaKfRL3dy-GPNYEy365M6DHBIV/view).
+
+**Use in Meta orders:** For a selected scene containing a Stellar Cuddler wearing her Metadress, follow [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) for the actual clip, dialogue and action; use **this Metadress recipe** and the owner's original character/costume image for the appearance. Keep the approved silk gown and cape skirt; do not substitute generic clothing, add reveal-mechanic narration, or dress characters who are not wearing it in the original scene.
 
 **Preserved source shelf:** [Existing approved concept references](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) · [Drive META.md (MAX canon and Cuddler settings)](https://drive.google.com/file/d/1qXcWXZlaKfRL3dy-GPNYEy365M6DHBIV/view) · [Fairy Lattice source notes](https://docs.google.com/document/d/1hAI_6miFJINH3jjcafc8XbOEz8OBrBj6Gbu4crFv74I/edit). These are *ingredients*, not newly executable orders.
 
@@ -210,6 +214,7 @@ Build sequence continuity by carrying the complete physical and musical state fr
 | Owner original stills | [JPEG MASTER](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT) | Canonical appearance; untouched |
 | Owner still names | [JPEG index](https://drive.google.com/file/d/1CnpbcZEyggnWBNoFZ43Z_W2SzX11s7ik/view) | Lookup only |
 | Owner Meta/canon corrections | [Existing Drive META.md](https://drive.google.com/file/d/1qXcWXZlaKfRL3dy-GPNYEy365M6DHBIV/view) | Preserved source; no GO |
+| Metadress for Meta-rendered Stellar Cuddler scenes | [Drive ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) → [F-01 Metadress](#f-01--fairy--stellar-cuddler--crystal) → [approved dress source](https://drive.google.com/file/d/1qXcWXZlaKfRL3dy-GPNYEy365M6DHBIV/view) | Scene-specific garment reference; original image controls |
 | Current video and action | [ORDERS.md](ORDERS.md) → [Drive CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) | Sole live script routing |
 | Sensei equipment and images | [Three-profile/desk map](https://docs.google.com/document/d/1gaEhpM0Q1CbiHcl9y2ctrOOz6GVcZbKEFqBxFGfRdjY/edit) | Exact source lookups |
 | Current game standards | [TO WORLD universal game repo](https://github.com/IsekaiSensei/to-world-open-crew) | Game standards only |
