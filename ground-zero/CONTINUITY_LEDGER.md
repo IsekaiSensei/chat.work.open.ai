@@ -24,10 +24,10 @@
 - Other agents: may begin in profile viewscreen and later appear physically only through the established visible transition. Do not invent an unapproved manifestation.
 - Information overlays: VH1 Pop-Up Video / How It's Made / Wikipedia / Google style; don't fabricate factual search results. Matrix-code bubble is separately above the android's head. Real bench remains visible.
 
-## Exact dialogue sources — do not mix competing cuts
+## Exact dialogue sources — current selected integration
 
 - [Original uncut installation master](https://docs.google.com/document/d/1hZwbDM1PXxFmL4XFdOK0GtNswa5mH-yLIumAIfDuXGo/edit): 24 exact original technical lines, incorporated verbatim in the new continuous screenplay.
-- [Question Engine revision 02](https://drive.google.com/file/d/1bxG2tWSAD3UoDHfQLtAWJqzJZMYhUYst/view): separate derived 4/4 singing/question performance with Ryan replies, preserved as source. Not silently substituted for original.
+- [Question Engine revision 02](https://drive.google.com/file/d/1bxG2tWSAD3UoDHfQLtAWJqzJZMYhUYst/view): derived 4/4 singing/question performance with Ryan replies. Under the current explicit expansion instruction, its 24 sung lines and 9 replies follow the corresponding original installation passages as additional refrains, without replacing or overlaying them. Its superseded lying-on-bench staging is not carried into the current standing-android frame.
 - [GitHub separate 6/8 adaptation](https://github.com/IsekaiSensei/chat.work.open.ai/blob/archive/pre-ground-zero-2026-11-04/scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt): a distinct archived musical variant.
 - [Owner verbatim corrections](https://docs.google.com/document/d/1okBgoCgA5DG0u0ZKm-aM8xpnszXbkVPHs5BcywRUYxA/edit): the exact recent user instruction chronology including stage-play-before-clips requirement.
 - [Sensei desk source register](https://docs.google.com/document/d/1gaEhpM0Q1CbiHcl9y2ctrOOz6GVcZbKEFqBxFGfRdjY/edit): photos and original source image identities.
@@ -36,3 +36,22 @@
 ## Continuity record after each verified scene
 
 The only update fields are: source dialogue start/stop with *full words*, speaker, audio bar/music continuity where established, actual source image ID, last accepted video frame ID, installed/unfinished physical part, mold/tool state, inventory state, schematic state, agent representation state, next camera/hand continuity. No new design directives or rewritten dialogue in the ledger. Keep last-frame IDs blank until actually returned and verified.
+
+
+## Android Assembly Night — active expansion
+
+The current master path remains unchanged. Its contents now contain the expanded single screenplay, selected by the owner's latest instruction to QC, add, expand and make active. See [QC, provenance and verification](ANDROID_ASSEMBLY_NIGHT_QC_2026-11-04.md).
+
+| Stream | State to carry |
+|---|---|
+| Original engineering voice | All 24 full passages, original relative order; manufacture and install the corresponding real part. |
+| Question Engine | 24 original sung lines and 9 spoken replies, adjacent to their engineering passage; allow extra time rather than simultaneous recitation. Source 96 BPM / 4/4 applies to these passages only. |
+| Component comedy | All 12 pasted monologues plus opening and five closing call/response lines retained verbatim. Technical clarifications are added replies; source claims are not silently rewritten. |
+| Installation sonnets | 12 new fourteen-line verses, performed during physical connection/checking work; not a sung inventory. |
+| Circuit Circus | All 169 source teaching beats preserved as dialogue. The count is not a physical BOM, a growth-stage count, or the final clip count. |
+| Lounge performance | Selected Room That Sways scenes 1–11 and 13–20, with source lyrics and selected dialogue retained. Draft casting assumptions and conflicting staging superseded; rejected-preview/QC scene 12 excluded. |
+| Fashion | Continuous silk coverage; old outfit stored, new garment fitted and secure before reveal; local modesty light follows coverage. |
+| Animals and hardware | Natural Zodiac animals with glasses are living crew; lattice Zodiac machinery and combined Dragon remain distinct equipment. Inventory drops are operator/equipment activity. |
+| Relay | Track physical component → tool/helper → vehicle/ship/relay integration, received cube count, incremental crystal growth and actual test results. |
+
+The completed first hundred are not reopened. Source draft scene numbers are provenance and do not become new accepted video IDs. No new rendered terminal frame or runtime has been verified. Musical rests in a lead voice are sustained by another singer or machinery.
