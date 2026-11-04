@@ -1,5 +1,7 @@
 # TO WORLD — PROJECT MEMORY / FIRST RULE
 
+**CURRENT REFERENCE DEFAULTS:** Apply [CURRENT MAX CANON DEFAULTS](COOKBOOK.md#current-max-canon-defaults--november-4-2026) and the latest owner-selected source images. The current chat outranks earlier conflicting rules.
+
 **OWNER RULE, 2026-11-04 — HARD BOUNDARY: PRODUCTION VS. AI ADMINISTRATION**
 
 ORDERS = what to execute, which approved script and sources. README = project operating requirements. SCRIPT / META CELLS = exact approved dialogue, speakers, visual references, music, timing, state and continuity. Do not inject the assistant's self-reporting, comments about another AI's window, access limitations, verification disclaimers, apology paragraphs, audit receipts, or interpretation of what it did/didn't do into the production streams. Keep administrative/audit notes separate, only when requested, never as performable text. Do not make up new dialogue, shots, tools, materials, relationships, timeline rules or canon. If a specific required production reference is unavailable, hold only that affected new item with an exact source pointer, not a broad audit paragraph.
