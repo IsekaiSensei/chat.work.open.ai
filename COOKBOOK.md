@@ -1,8 +1,8 @@
-# OWNER DIRECTIVE — PRODUCTION CONTENT ONLY (2026-11-04)
-
-**FIRST RULE — KEEP CHATGPT'S ADMINISTRATIVE COMMENTARY OUT OF PRODUCTION.** ORDERS contain only actionable run instructions and the approved script route. README describes actual project requirements. Scripts and Meta-facing cells contain only owner-approved visuals, dialogue, timing, music, actions, and continuity. Do **not** insert AI self-reporting, window/access caveats, verification disclaimers, "this edit is not a GO" commentary, apologies, status receipts, speculative canon, or audit narratives into orders, scripts, render prompts, concept directions, or performance notes. Store administrative records separately in AUDIT/RECEIPTS **when requested**; never feed them to the performer. If a required production source is genuinely missing, mark **only the affected item** with a short, concrete MISSING/HOLD reference, and do not invent replacements or block unrelated work. Preserve the owner's originals and selected run without reinterpreting them.
-
 # TO WORLD — COOKBOOK.md
+
+## METADRESS — FIRST LOOKUP
+**Metadress** is the Stellar Cuddlers' physical silk evening gown with a cape skirt: elegant clothing in the owner's future world. The **silk is the programmable coverage and fashion layer**. The wearer controls its presentation; consent-first behavior and opaque fail-safe remain part of the established concept. Meta glasses are its sensing/viewing interface. Use the original approved character and costume image, not a redesigned outfit. **Detailed garment reference: F-01 / Metadress.**
+
 **Owner:** Isekai Ryan · **Function:** art-direction lookup, production recipes, index, glossary and source-control *routing* · **Date:** 2026-11-03
 
 > **ACTIVE COOKBOOK, NOT A REPLACEMENT FOR CANON OR A GO COMMAND.**
@@ -18,7 +18,7 @@
 | Card | Find it under | Purpose |
 | --- | --- | --- |
 | 00 | How this cookbook works | Authority, no-overwrite rule, where art direction lives |
-| F-01 | Fairy / Stellar Cuddler / Crystal | Resolve exact character, approved form, assigned job |
+| F-01 | Fairy / Stellar Cuddler / Crystal / Metadress | Resolve exact character, approved form, assigned job |
 | S-01 | Ship / shuttle / Corvette / dreadnaught / station | Apply vessel-specific existing reference |
 | P-01 | Sensei / glasses / Meta / desk | Locate exact operator, MAX glasses and era-locked desk source |
 | B-01 | Book / page / scroll / world book | Select the correct canonical document type |
@@ -81,6 +81,15 @@ END
 4. Keep established singing/music handoff and role chronology where that scene/script requires it.
 5. Check exact silhouette, material, wings, hardware, age presentation and accessories against the original and latest scoped owner correction.
 6. QC: same approved identity, correctly assigned task, correct scene state, correct source link.
+
+### Metadress — the approved garment description
+The Stellar Cuddlers wear **physical silk evening gowns with cape skirts**, known as **Metadresses**. Their underlying engineered material is **living pearlescent translucent porcelain-ceramic with a gold skeletal/engineering structure**, **not organic skin**.
+
+The silk is the programmable fashion/coverage layer. Presentation is wearer-controlled, consent-first, and has an opaque fail-safe. Meta glasses provide the sensing/viewing interface.
+
+**For Meta visuals:** describe the **beautiful dress** and use the owner's original approved character and costume image. Do not insert explanations of reveal mechanics, attraction logic, or other invented pretext into prompts. Do not change the existing dress, silhouette, character, or wardrobe.
+
+**Original wording/source:** [Drive META.md — Metadress garment link](https://drive.google.com/file/d/1qXcWXZlaKfRL3dy-GPNYEy365M6DHBIV/view).
 
 **Preserved source shelf:** [Existing approved concept references](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) · [Drive META.md (MAX canon and Cuddler settings)](https://drive.google.com/file/d/1qXcWXZlaKfRL3dy-GPNYEy365M6DHBIV/view) · [Fairy Lattice source notes](https://docs.google.com/document/d/1hAI_6miFJINH3jjcafc8XbOEz8OBrBj6Gbu4crFv74I/edit). These are *ingredients*, not newly executable orders.
 
@@ -169,6 +178,14 @@ END
 4. Keep scene construction, tools, inventory, dialogue, and music synchronized, without improvising new framing.
 5. Output the owner-requested MP4 clip only upon an actual GO; track verified receipts.
 
+### 10-second modular film — continuous source, not 10-second mini-stories
+A ten-second render is a **production container** for the same ongoing film, not a standalone short story. Preserve the original script's **entire spoken and sung dialogue, wording, repetitions and timing** in sequence, dividing it across as many consecutive clips as needed. Never shorten dialogue just to make a clip self-contained. A line or physical operation may begin in one clip and finish in the next.
+
+For each clip, use its actual **source passage, assigned approved visual references, named speaker/singer, existing location/props, physical action, music handoff, entering state and leaving state**. Camera movement is chosen only from the owner's selected storyboard or original reference; do not manufacture a new visual bible, character design or arbitrary shot direction. The active film's established 10-second, 96-BPM / 4-bar musical rule applies where its script specifies it. There is **no mandatory 0–3 / 3–7 / 7–10 subdivision**.
+
+Build sequence continuity by carrying the complete physical and musical state from one segment into the next. When every fairy is occupied, existing tools/machines continue the melody; do not put a silent cut at the boundary. Only owner-approved actual MP4 outputs count as finished renders.
+
+
 ## D-01 — CURRENT CRYSTAL → TWELVE FUNCTIONS → DRAGON / DYSON
 **Ingredients:** [live 101–164 script](https://docs.google.com/document/d/1V_c2cKZkBZyv6qNBUk8_mG3KCfqe08eo4jkxITVr83s/edit) · [words-only version](https://drive.google.com/file/d/1JH_hD3I41msu17DYfJBuQAAqFfznWdOj/view) · [owner original seed photo](https://drive.google.com/file/d/1HcP7qCCgzM74cRtMQQt4SnJH7MlTvAWx/view) · [manufacturing/BOM workbook](https://docs.google.com/spreadsheets/d/1v-DFTT4J4PU5FWEonBSUma6kD5JvM9Zi/edit).
 
@@ -223,6 +240,7 @@ These originals are **not discarded, overwritten, redesigned, renamed, or physic
 **Ingredient** — exact existing approved image, script, tool, geometry, state or source.  
 **Lattice Master** — approved modular construction reference.  
 **Meta** — established glasses/UI/agent and video renderer; not the fabrication printer.  
+**Metadress** — physical silk gown with cape skirt; approved programmable fashion layer; see first lookup and F-01.  
 **MP4 receipt** — verified completed video output; link alone is not a render receipt.  
 **Page** — concept.  
 **Recipe** — stable repeatable method for using existing sources.  
@@ -232,7 +250,7 @@ These originals are **not discarded, overwritten, redesigned, renamed, or physic
 **Tool list** — verified verbs and mechanisms, not an invented feature roadmap.
 
 ## BACK-OF-BOOK INDEX
-**Armor** → S-01 / F-01 · **Bar** → M-01 · **Blueprint** → C-01/L-01 · **Book** → B-01 · **Castle** → L-01 · **Chart** → C-01 · **Character** → F-01/P-01 · **Concept sheet** → C-01 · **Corvette** → S-01 · **Crystal** → F-01/D-01 · **Desk** → P-01 · **Dragon** → D-01 · **Dreadnaught** → S-01 · **Dyson** → D-01 · **Fairy** → F-01 · **Game tools** → G-01 · **Glasses** → P-01 · **Inventory** → I-01/G-01 · **JPEG** → 00 / Ingredient Cabinet · **Lattice** → L-01 · **Lore** → B-01/M-01 · **Meta** → P-01 / front four-book routing · **Moon Bar** → M-01 · **Music** → M-01 · **Page** → B-01 · **Ring fairy** → I-01 · **Sensei** → P-01 · **Ship** → S-01 · **Spawner** → G-01 · **Station** → S-01/D-01 · **Storyboard** → C-01 · **Tool** → G-01/D-01 · **Vessel** → S-01 · **Workbench** → I-01 · **World Book** → B-01 · **Zodiac** → D-01.
+**Armor** → S-01 / F-01 · **Bar** → M-01 · **Blueprint** → C-01/L-01 · **Book** → B-01 · **Castle** → L-01 · **Chart** → C-01 · **Character** → F-01/P-01 · **Concept sheet** → C-01 · **Corvette** → S-01 · **Crystal** → F-01/D-01 · **Desk** → P-01 · **Dragon** → D-01 · **Dreadnaught** → S-01 · **Dyson** → D-01 · **Fairy** → F-01 · **Game tools** → G-01 · **Glasses** → P-01 · **Inventory** → I-01/G-01 · **JPEG** → 00 / Ingredient Cabinet · **Lattice** → L-01 · **Lore** → B-01/M-01 · **Meta** → P-01 / front four-book routing · **Metadress** → first lookup / F-01 · **Moon Bar** → M-01 · **Music** → M-01 · **Page** → B-01 · **Ring fairy** → I-01 · **Sensei** → P-01 · **Ship** → S-01 · **Spawner** → G-01 · **Station** → S-01/D-01 · **Storyboard** → C-01 · **Tool** → G-01/D-01 · **Vessel** → S-01 · **Workbench** → I-01 · **World Book** → B-01 · **Zodiac** → D-01.
 
 **FINAL RULE:** The cookbook organizes how an agent finds owner-approved art direction; it **never rewrites the art itself**. Legacy files remain archived as sources. [META.md](META.md) is the front door; [ORDERS.md](ORDERS.md) controls action.
 
