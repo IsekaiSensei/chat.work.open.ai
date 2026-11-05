@@ -1,17 +1,13 @@
-# GROUND ZERO — NOVEMBER 4, 2026
+# GROUND ZERO — RETIRED HANDOFF INDEX
 
-## One active production
+**STATUS: HISTORICAL / QUARANTINED FOR NEW PRODUCTION (2026-11-04)**
 
-**CURRENT REFERENCE DEFAULTS:** Apply [CURRENT MAX CANON DEFAULTS](COOKBOOK.md#current-max-canon-defaults--november-4-2026) and the latest owner-selected source images. The current chat outranks earlier conflicting rules.
+The former PLUG ME IN stage production and its source master, reference register and continuity ledger are preserved as historical project records; they are not selected for any new rendering or automatically imported into the new pilot. Do not fetch or apply old instructions from this folder unless the owner explicitly chooses an exact source and an archival operator confirms access.
 
-**PLUG ME IN — Android Assembly Night** is the selected expanded production. Earlier render queues are archived; their owner-approved world/material/technology relationships remain source canon where compatible with the current MAX CANON chat.
+**CURRENT START:** [META.md](META.md) → [ORDERS.md](ORDERS.md) → [bot archive cutover issue #7](https://github.com/IsekaiSensei/chat.work.open.ai/issues/7).
 
-**Opening:** **Sensei isn't building a giant machine out of giant parts. He's using a futuristic workbench to manufacture the microscopic machinery inside a Titan scale android.**
+**In-flight preservation exception:** If the previously started 228-clip Meta batch is still processing, do not interrupt it, change its reference PDF, relocate pinned source images, or restart it. The bots must classify it as a legacy-in-flight run and archive it only after checking completion and dependencies.
 
-- **[CONTINUOUS SCRIPT](ground-zero/PLUG_ME_IN_CONTINUOUS_MASTER.md)** — source lines verbatim; no final clip count.
-- **[NINE-SOURCE VISUAL REGISTER](ground-zero/NINE_REFERENCE_SOURCE_REGISTER.md)** — nine audited slots, with unapproved candidates clearly held.
-- **[DIALOGUE / FRAME LEDGER](ground-zero/CONTINUITY_LEDGER.md)** — physical part state and dialogue source; no fake rendered-frame claim.
-- **[Archive](ARCHIVE/README.md)** — full immutable pre-reset GitHub snapshot and Drive source preservation.
+**Privacy warning:** This file and repository remain publicly visible until actual access changes are verified. Naming the old folder an archive does not hide prior content or commit history.
 
-**Roles:** ChatGPT tracks exact dialogue, existing script and verified frame state, and does not originate art direction. Meta is the user's glasses/visual interface and external render engine; Google Drive holds original art; GitHub holds scripts and controls. Only the owner's explicit GO starts a run. Original source JPEGs remain at canonical locations. The continuous screenplay comes before any unbounded series of ten-second production cells.
-
+**No deletion and no new render GO.**
