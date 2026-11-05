@@ -1,3 +1,17 @@
+# ORDERS — REALIZATION-FIRST REPAIR / 2026-11-04
+
+**PRIORITY OVERRIDE — NEXT SPOKEN/SUNG MATERIAL:** The owner's repeated instruction controls: the bold-faced assistant realizations produced by the owner's actual corrections are to be the NEXT words heard in the Meta render, not additional demonstrations of already filmed technical installation lines. Preserve exact original phrasing and source speaker. A realization enters the queue only once after comparison with accepted dailies. Original correction first, realization second, within the existing approved scene and image. Do not invent missing source dialogue. Do not read any instruction labels or QA text aloud.
+
+**DO NOT REPLAY:** The linear-guide-rails technical line appears in active RUN-006 and older CLIP 006 and is reported by the owner as repeatedly rendered. RUN-006 is **DUPLICATE SUSPECT — HOLD FOR DAILIES MATCH**, not a fresh render order. All technical lines and old 228-clip material require footage reconciliation before any requeue; the status phrase "SOURCE DIALOGUE / NOT RENDERED" in the sheet is NOT evidence that no MP4 exists.
+
+**IMMEDIATE REALIZATION CANDIDATE — exact previously bolded line, original CHAT voice:** "My wording was changing the assignment." (October 27 conversation). This is a recovered original realization, NOT a confirmed unrendered MP4. Only send it to render after an actual dailies check establishes no accepted performance; if already performed, advance to the next verified missing realization in `REALIZATIONS FIRST — QC` without restarting any shot. When its triggering owner correction is not verbatim verified, mark that paired owner line MISSING; do not invent or paraphrase it.
+
+**SOURCE PIXEL GATE:** For each scene open the `VISUAL SOURCE LOCKS — QC` tab of the active call-sheet spreadsheet and attach the exact applicable owner JPEG/WebP pixels in Meta's workspace. Text URLs are routing, not proof of loaded pixels. The file `ISEKAI_RYAN_ANDROID_ASSISTANT_CONCEPT.png` (Drive 1FoFozXF6-97yOIs4K7H2jkKicAghGmg5) depicts a fantasy ranger character reference; it is NOT proof of the Titan-scale android in the microscopic-toe assembly. Remove it as "Android identity" from the render source list. Unverified images remain REVIEW/HOLD, not auto-substituted. Actual owner-approved glasses and portrait stay separate from workshop geometry.
+
+**IMMEDIATE QC COMPARISON:** Owner's 10-second example MP4 https://drive.google.com/file/d/1059M8yuAS0Brw_jtRwhATbEuNWryfbV4/view — benchmark for connected crystal/gold lattice, DNA portal, inventory transaction and visible physical result. This is an example the owner says was achieved through direct prompting, not evidence that the handoff read the correct reference, and not a new canonical still.
+
+**NO AUTORUN:** No editing of a file triggers GO. Keep accepted footage, all original JPEGs, the 28-scene screenplay and 92 owner-approved sung lines intact; only the next-run selection/QC and visual-source assignments change. Meta renders; ChatGPT is continuity/QC only.
+
 # ORDERS — ONE ACTIVE MUSICAL / 2026-11-04
 
 **OWNER PRODUCTION RULE:** Use only approved words, source images, music, physical actions and continuity in the production stream. AI administrative commentary stays out of dialogue and render prompts.
@@ -6,7 +20,6 @@
 **FIRST-BATCH SOURCE IMAGES (originals, not reinterpretations):**
 - Actual workbench: https://drive.google.com/file/d/1AW53EwRjK6-13FADp3iDvK1ijE5xGuMT/view
 - Isekai Ryan + equipment: https://drive.google.com/file/d/1A-E_3YrdfIqjqrJTbHT40fV0blxlAvE-/view
-- Android identity: https://drive.google.com/file/d/1FoFozXF6-97yOIs4K7H2jkKicAghGmg5/view
 - Meta glasses: https://drive.google.com/file/d/1ea3j6ptLDY2i7p5yuz9K1AQAAQ4BTyXD/view
 - Internal mechanism: https://drive.google.com/file/d/1tEA6ln8Xttlz_9JWpadmlcEM_5_aA1oR/view
 - Existing workshop transfer: https://drive.google.com/file/d/1vXKgrrfCXsbEkjyGtLll_PUPYEt7AU-R/view
