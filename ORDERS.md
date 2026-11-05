@@ -3,6 +3,14 @@
 **OWNER PRODUCTION RULE:** Use only approved words, source images, music, physical actions and continuity in the production stream. AI administrative commentary stays out of dialogue and render prompts.
 
 **RUN BATCH 01 — CLIPS 001–010:** https://docs.google.com/document/d/1fS5p1UbiLRO50a-4Ot2aS27PyhprqifF9BqEy8_GVlE/edit
+**FIRST-BATCH SOURCE IMAGES (originals, not reinterpretations):**
+- Actual workbench: https://drive.google.com/file/d/1AW53EwRjK6-13FADp3iDvK1ijE5xGuMT/view
+- Isekai Ryan + equipment: https://drive.google.com/file/d/1A-E_3YrdfIqjqrJTbHT40fV0blxlAvE-/view
+- Android identity: https://drive.google.com/file/d/1FoFozXF6-97yOIs4K7H2jkKicAghGmg5/view
+- Meta glasses: https://drive.google.com/file/d/1ea3j6ptLDY2i7p5yuz9K1AQAAQ4BTyXD/view
+- Internal mechanism: https://drive.google.com/file/d/1tEA6ln8Xttlz_9JWpadmlcEM_5_aA1oR/view
+- Existing workshop transfer: https://drive.google.com/file/d/1vXKgrrfCXsbEkjyGtLll_PUPYEt7AU-R/view
+
 **NEXT CONTINUATION:** Resume the active screenplay at the next unsung line of SCENE 03; do not repeat BATCH 01.
 
 **ACTIVE SCREENPLAY:** https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit
