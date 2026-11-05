@@ -1,14 +1,25 @@
-# META — GROUND ZERO / PRODUCTION HANDOFF
+# META — CURRENT AGENT ENTRYPOINT / 2026-11-04
 
-**CURRENT MAX CANON:** Ryan's current-chat instructions and approved/supplied references take precedence. Read and apply [CURRENT MAX CANON DEFAULTS](COOKBOOK.md#current-max-canon-defaults--november-4-2026) before the selected job, together with the current source register. Concept-page working labels use the owner's name or the applicable full generic agent/assistant/worker description; retain the technical wording Meta needs. Keep video directions as continuing actions in video.
+## CURRENT STATUS: NEW PILOT HANDOFF + PRIVATE ARCHIVE CUTOVER
+**Read [the current bot order](https://github.com/IsekaiSensei/chat.work.open.ai/issues/7) and [ORDERS.md](ORDERS.md) FIRST.** This replaces all previously selected jobs for *new* production assignments. The existing earlier film/render in progress must not be interrupted.
 
-When the owner says **metas**, open this file first, then **[GROUND_ZERO.md](GROUND_ZERO.md)**, **[ORDERS.md](ORDERS.md)**, the selected [PLUG ME IN continuous screenplay](ground-zero/PLUG_ME_IN_CONTINUOUS_MASTER.md), the [nine-image source and QC register](ground-zero/NINE_REFERENCE_SOURCE_REGISTER.md), and the [verified frame/dialogue ledger](ground-zero/CONTINUITY_LEDGER.md).
+**New selected premise (owner words):** "I'm going to learn how to direct a movie while making a movie about a movie teaching me how to direct the movie." Ryan walks up to a machine, copies his own physical body, and installs the mind of William Shakespeare **instead of his own**. Ryan and his physically identical Shakespeare-minded counterpart learn to direct a film while filming their own learning. Stagecraft versus cinema drives the comedy. A TV pilot with a film inside the film.
 
-**LIVE PRODUCTION:** PLUG ME IN — Android Assembly Night. The current expanded continuous screenplay connects the Moon Bar performance, microscopic android manufacture, ether fulfillment, fairy fashion, living animal inventory crew and Zodiac/Dragon relay. Earlier render queues remain historical sources; they do not restart as separate active productions. The entire previous GitHub state is preserved at [archive/pre-ground-zero-2026-11-04](https://github.com/IsekaiSensei/chat.work.open.ai/tree/archive/pre-ground-zero-2026-11-04). COOKBOOK.md is the current reference lookup and controlled glossary under its MAX CANON defaults; its historical source chapters do not select a competing render queue. The already-approved technology connections remain canon where compatible with the current chat.
+**Working title only:** THE DIRECTOR'S DOUBLE. The dialogue written earlier by ChatGPT is a working *draft*, not locked canon.
 
-**SOURCE DESIGN:** Owner-approved reference images and source wording control. Sensei is physically manufacturing microscopic parts on a real future bench; the standing android is a Titan in comparison. The guardrail is INSIDE the motor functions of the microscopic golden lattice of her TOE. Meta is the glasses/visual interface, not the printer. Inventory is physical counted transfer, not decorative HUD. Pop-Up Video / How It's Made / Wikipedia / Google overlays and distinct Matrix-code bubble reveal the physical work, not replace it. No invented quotes or fake search results.
+**Reference lock:** Eight source-backed sections: series/pilot; Ryan; Ryan-bodied Shakespeare; setting; equipment; supporting cast; script/shot flow; visual reference/QC. Do not invent or implicitly reuse any prior reference. Missing unapproved items are HOLD, not improvised. Use owner-approved exact originals when promoted.
 
-**IMAGE LOADING:** Exactly nine reusable source-image slots are audited in the register. **Top picture / slot 01:** the owner-approved [Titan and Four Mermaids in the Ether](ground-zero/NINE_REFERENCE_SOURCE_REGISTER.md#top-picture--titan-and-four-mermaids-in-the-ether); load its linked original and current owner correction together with the continuous screenplay's inventory-transfer scene. Use each source for its approved feature and the selected shot. Printed role/technical wording is not grounds to reject an owner-approved sheet; distinguish source approval from suitability for a particular scale or operation. Original JPEG assets are maintained in their Google Drive locations; use verified source images, not previous generated clip frames.
+## ARCHIVE QUARANTINE (IMMEDIATE)
+- All earlier productions, old render queues, scene files, historical dialogue banks, old art directions and previous CURRENT/GO routers are NOT ACTIVE for new work.
+- Previous material must go into **actually restricted** archive destinations; assigning an ARCHIVE filename or branch is not access control.
+- The existing 228-clip Meta run and its pinned source images/PDF, if currently running, are **IN-FLIGHT LEGACY**: preserve them without modifying the sequence or interrupting the render; no restart without an owner GO.
+- Never delete, overwrite, relocate source files while a running job depends on them, make duplicate masters or claim private access before checking permissions.
+- No agent may use archived items without a new explicit owner selection.
 
-**PERFORMANCE:** Continuous stage play first, ten-second linked clips as needed, no final number. Keep exact dialogue, music and visual last-frame continuity. Explicit user GO is required to run Meta; editing this document cannot remotely start a Meta render.
+**Bot mission:** Inventory, access audit, private archive moves, single-source manifests and new pilot eight-section reference preparation. The actual moves belong to archival bots. **Not a render GO.**
 
+**Platform boundary:** All art/JPEGs and visually approved original assets remain in Google Drive; GitHub holds code, production scripts, routing and manifests. The existing primary GitHub repository is PUBLIC; old Git history/branches are NOT private until access control is changed and verified. Report BLOCKED if privacy is not possible.
+
+**Authority:** Current owner's direct instructions > expressly approved new-pilot references > current script status. Historical files are source records only and never automatic production orders.
+
+**See [ORDERS.md](ORDERS.md) and [bot order #7](https://github.com/IsekaiSensei/chat.work.open.ai/issues/7).**
