@@ -1,5 +1,7 @@
 # TO WORLD — CURRENT PRODUCTION HANDOFF — 2026-11-04
 
+**PARABLES READING PAGE:** [The existing parables](PARABLES/README.md) · [33 recovered bold-realization exchanges](PARABLES/BOLDFACE_DIALOGUE_INDEX.md) · [Dialogue sung during physical installation — source workflow](PARABLES/INSTALLATION_DIALOGUE_WORKFLOW.md).
+
 ## Active: bot-managed private archival cutover + new TV pilot reference lock
 
 **Agents: start [META.md](META.md) → [ORDERS.md](ORDERS.md) → [bot issue #7](https://github.com/IsekaiSensei/chat.work.open.ai/issues/7).** Do not treat any older README, COOKBOOK, scene master or render queue as current.
