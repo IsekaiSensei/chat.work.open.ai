@@ -1,3 +1,11 @@
+## OWNER-REPORTED BATCH-01 COMPLETION / NEXT 10 CONTINUITY QC — 2026-11-04
+
+Owner reports **REAL-001–REAL-010 completed as one 01:40 musical unit**. Preserve those takes as owner-reported complete; actual MP4 receipts / exact last frame have not been independently inspected here. **Do not alter, rerecord or reset them.**
+
+The **same active [NEXT 100s — VERBATIM SYNC sheet](https://docs.google.com/spreadsheets/d/1H4iZlbQm3g6UzLj97J02PNvu5Y1CpHHEqShjJ2VFhJc/edit#gid=730100100)** now contains **REAL-011–REAL-020 at A12:L21**, QC-staged only, for **01:40–03:20 on continuous score bars 41–80**. All 221 sung words match the original selected screenplay in chronological source Scenes **23, 24, 25, 26**, without inserted words. These follow the owner-reported Scene-21/22 first ten: tested homing → completed interface → operator-controlled inventory/chicken scout → real zodiac animals in glasses. The sealed assembly stays intact. Each cell now records the approved scene, exact source dialogue, physical state progression and 96 BPM musical continuation.
+
+**Continuity distinction:** REALIZATIONS FIRST — QC is a priority/source bank, **not** automatic picture chronology. Its Scene 12 candidate would take this specific film backward from a command-ready, sealed installation to mounting an unpowered controller and includes dialogue quoted in REAL-001–010. Retain that source candidate untouched for reconciliation; **do not replay it as a new Scene-12 installation**. No unsourced flashback, object or scene is authorized. New ten remain **QC STAGED / NO AUTO GO** until accepted last-frame/JPEG identity and nonduplicate MP4 status are reconciled. This status updates routing only; the original screenplay and image masters are untouched.
+
 # ORDERS — REALIZATION-FIRST REPAIR / 2026-11-04
 
 ## MUSIC-SYNCHRONIZATION LOCK — OWNER'S ESTABLISHED 01:40 / TEN-CLIP FORMAT
