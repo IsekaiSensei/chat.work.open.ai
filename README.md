@@ -78,3 +78,8 @@ For the worker was not on the moon, yet his labor was there.
 The machine remained in the dust. And the worker learned the way.
 
 [Original draft Page](https://drive.google.com/file/d/1dgzQuIStkDevQhH6-ERzgQaAoTPCGgCU/view)
+
+
+## Real conversation archive — CHATS (2026-11-05)
+
+**Source archive, separate from the parables and production:** [Google Drive TEXT/CHATS](https://drive.google.com/drive/folders/1dDLuFZz4_TOUS6b_XS4IBuTd4aNngfEM). Every old or new ChatGPT/Work source window must follow the [CHAT.md collector and reuse instructions](CHAT.md#active--chat-window-recovery--2026-11-05) and the [ORDERS.md non-render recovery order](ORDERS.md#chat-recovery--file-move-order--2026-11-05). Reuse/move existing text dumps from the earlier prompts; no repeated whole-chat retrieval. Each window retains its own exact source excerpts; a single master compiles the index. [Project MEMORY.md](MEMORY.md) carries the continuity rule. Do not confuse this archive with the approved audiovisual production.
