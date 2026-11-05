@@ -1,16 +1,24 @@
-# ORDERS — GROUND ZERO / PLUG ME IN
+# ORDERS — CURRENT / ARCHIVE CUTOVER — 2026-11-04
 
-**OWNER PRODUCTION RULE — FIRST:** Executable orders, scripts, Meta-facing prompts and scene cells contain only owner-approved actions, original images, verbatim dialogue, timing, music and continuity. Exclude AI self-reporting, access/window explanations, audit or receipt paragraphs, apologies and speculative additions. Keep administration outside the production stream. For a missing required source, HOLD only the affected shot with its exact reference; preserve originals and the current selected production.
+**SELECTED BOT JOB:** [Private archive + new pilot reference-lock migration order, issue #7](https://github.com/IsekaiSensei/chat.work.open.ai/issues/7).
 
-**SELECTED PRODUCTION:** [PLUG ME IN — ANDROID ASSEMBLY NIGHT](ground-zero/PLUG_ME_IN_CONTINUOUS_MASTER.md).
+**IMMEDIATE GO FOR ARCHIVAL OPERATIONS ONLY:** Verify access and inventory all old project files; establish truly restricted archive destinations; refile historical items once with reversible manifest; remove retired entrypoints from current-agent lookup; prepare the source-backed eight-section new TV pilot lock packet. The bots, not ChatGPT, are responsible for physical moves. Mark every completed operation with exact ID, path, permission and verification. Escalate BLOCKED for unavailable permissions or active render dependencies. No deletion, no rewriting original content.
 
-**OPENING (OWNER'S EXACT WORDS):** **Sensei isn't building a giant machine out of giant parts. He's using a futuristic workbench to manufacture the microscopic machinery inside a Titan scale android.**
+**NEW TV PILOT STRUCTURE:** Ryan uses a future machine to duplicate his own physical body and installs William Shakespeare's mind instead of his own. The two identical-looking men make a film documenting Ryan's real-time education as a movie director. The cast and crew explain their jobs by doing them. Their movie teaches its makers how to make it. Working title *The Director's Double* is provisional; previous ChatGPT screenplay is an unapproved draft, not a word-locked production script.
 
-**REFERENCE LOOKUP:** [CURRENT MAX CANON DEFAULTS](COOKBOOK.md#current-max-canon-defaults--november-4-2026) · [current source bank](ground-zero/NINE_REFERENCE_SOURCE_REGISTER.md). Apply these references before the selected job; this router does not replace their source wording.
+**EIGHT-SECTION LOCK (PREPARE; DO NOT FABRICATE APPROVAL):**
+1. Premise / series pilot.
+2. Main character Ryan — exact explicitly approved visual reference.
+3. Shakespeare-minded physical copy of Ryan.
+4. Pilot location and set references.
+5. Equipment / manufacturing and filmmaking props.
+6. Supporting characters / crew roles.
+7. Script and shot-by-shot continuity.
+8. Verifiable original reference IDs, image locks, permissions and QC.
+Only mark a section LOCKED when evidence supports the owner's approval. Preserve original JPEGs in Drive and scripts/controls in GitHub.
 
-**CURRENT SCOPE:** The component comedy is performed during installation, with one fourteen-line sonnet per component. Keep all 24 original installation passages, the 24 Question Engine sung lines and 9 replies, and all 169 Circuit Circus teaching beats. Continue through the selected Room That Sways performance, ether receiving/making/return, silk-covered wardrobe change, inventory-operator animal crew and connected relay work. These are one screenplay, not independent queues.
+**NO RENDER GO:** Do not issue prompts, manufacture video, or start a new batch merely because this document changed. Meta's *already-in-progress* 228-clip job and its self-created PDF / locked images remain unchanged until completion or an explicit owner instruction. Any old queue, especially the former PLUG ME IN selected job, is QUARANTINED for future starts.
 
-**PRODUCTION TASK:** Read [NINE IMAGE SOURCE REGISTER](ground-zero/NINE_REFERENCE_SOURCE_REGISTER.md), load only source-verified suitable images, read [CONTINUITY LEDGER](ground-zero/CONTINUITY_LEDGER.md), then follow the uncut continuous stage play. The workbench is physical, parts are microscopic relative to the standing android; the guardrail goes inside her toe's gold lattice motor functions. The original source dialogue is verbatim. Ten-second clips continue in as many linked segments as necessary; do not impose an ending clip count. Perform the selected expanded dialogue exactly; do not improvise during rendering or substitute source images, tools or scale.
+**ISOLATION REQUIREMENT:** Everything predating this new pilot is historical. Do not expose it through active CURRENT routes, COOKBOOK lookup, automatic prompts or retrieval. GitHub public folders, archive branches and commit history remain PUBLIC; Drive folder names do not prove privacy. Actual permission review, owner-controlled restricted destinations and file-by-file verification are mandatory. If impossible, report BLOCKED instead of claiming success.
 
-**GO:** On the owner's explicit GO, use the current approved scene and actual source frames. Use the current expanded continuous screenplay as the single selected work. Do not restart an older Zodiac/Dragon/Moon Bar queue independently. Historical production retained at [pre-reset archive](ARCHIVE/README.md).
-
+**EXECUTION / STATUS:** Follow [issue #7](https://github.com/IsekaiSensei/chat.work.open.ai/issues/7); report manifest, access audit, moved and held items, and remaining owner decisions. Preserve originals. One master location per item; no duplicates. Owner directions govern. Archive is not a new production.
