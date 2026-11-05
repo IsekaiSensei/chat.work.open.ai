@@ -1,3 +1,17 @@
+# CURRENT SELECTED NEXT RUN — CAST OF ALL CREATION — 2026-11-05
+
+**OWNER'S LATEST LIVE SELECTION: INTERRUPT THE PREVIOUS NEXT-RUN ROUTE.** The single new selected production is **CAST OF ALL CREATION — START FROM ZERO**, **EP01 / BATCH 001 / CLIPS 001–010**, with singing and continuous physical actions. This is a NEW self-contained film, not pickup, continuation, bridge, sequel, remake of earlier footage, or a numbered extension of an older musical. No previous actor sheet, set, master music, prior video end frame, lore document, clip number, or completed run is an input for these clips.
+
+**ONE ACTIVE META HANDOFF:** [Google Doc — START FROM ZERO, 001–010](https://docs.google.com/document/d/1cA6ycy_rY8nYxpVJRhjO1JK29SPnruAxTy7HQty1mSI/edit) | [GitHub verbatim mirror](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/scripts/CAST_OF_ALL_CREATION/CAST_OF_ALL_CREATION_LIVE_META_START_001-010.md).
+Use the 10 full META SHORT STORY FRAME cards inside. Their music and sung words belong only to this new start. The technician, android, Gertrude's swallowed ship, same pocket workbench, pumpjack and emergent bar occur as ONE working location. Do not infer a studio logo or third-party IP from source filenames.
+
+**ROUTER STATUS:** all older "NEXT", "CURRENT", "GO", "101–164", deferred bar work, footage-stitch workflow, and earlier musical pointers below are **HISTORICAL / NOT THE NEXT RUN** for selection purposes. Stop any *unstarted* previous batch request; do not delete or disturb accepted footage or source files. This instruction **does not remotely press Render in Meta**. The script becomes next-to-render when opened/pasted into the Meta production window. If direct Meta access is not connected, tell the owner instead of claiming the platform received it.
+
+**DAILIES:** The separate 365-day writing roadmap is planning material, not a 365-clip Meta queue. Batch 001 alone is executable now; after its actual rendered endpoint, prepare Batch 002 using the new film's own first/last physical states. No old scene dependencies.
+
+---
+## PRESERVED PRIOR RECORDS — NOT THE SELECTED NEXT RUN
+
 # ORDERS — CURRENT STATUS & META QC MERGE (2026-11-05)
 
 **GOVERNING STATUS (supersedes obsolete Nov 4 QC/HOLD language below):** The connected [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) reports **REAL-001–010 and RUN-011–123 delivered = 123 x 10 seconds (20:30)** on Nov 4; the **stitched master is not yet complete**, with a reported workspace 1043/1024 file-count blocker. This is an owner-reported completion record, not independent verification of every MP4. Do not rerender any numbered clip or restart a previously delivered batch just because older sections call them “QC STAGED” or contain blank image/receipt fields. The [original screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit) and [123-row call sheet](https://docs.google.com/spreadsheets/d/1H4iZlbQm3g6UzLj97J02PNvu5Y1CpHHEqShjJ2VFhJc/edit#gid=729410226) remain READ-ONLY source/register. Former 228-clip source is archive only. No edit to orders triggers a render GO.
