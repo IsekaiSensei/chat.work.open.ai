@@ -56,3 +56,14 @@ The **same active [NEXT 100s — VERBATIM SYNC sheet](https://docs.google.com/sp
 **DEFAULT READING PAGE:** [The original parables](README.md). The Distant Hand stays draft, not silently performed.
 
 **NO COMPETING SCRIPT ROUTES:** The former 228-clip screenplay, old technical masters, ZODIAC/BAR episodes, standalone source banks and helper indexes are not alternative next-GO entrypoints. Do not requeue or alter accepted footage or currently running work. Do not perform instructions, source annotations or audit records as speech.
+
+
+## CHAT RECOVERY / FILE-MOVE ORDER — 2026-11-05 (NOT A RENDER ORDER)
+
+For old and new conversations, read [CHAT.md — Active Chat Window Recovery](CHAT.md#active--chat-window-recovery--2026-11-05), [README.md](README.md) and [MEMORY.md](MEMORY.md). DESTINATION: [Google Drive TEXT/CHATS](https://drive.google.com/drive/folders/1dDLuFZz4_TOUS6b_XS4IBuTd4aNngfEM).
+
+**PRIORITY 1: MOVE/USE EXISTING DUMPS.** If any window already ran one, two or all three prior recovery prompts and has an existing `chat.txt`, numbered `chat(1).txt` or other text dump, **move that existing text into CHATS**, verify and report the file. Do NOT rerun, re-extract, create duplicate dumps, or spend remaining context trying to recover the whole history again. If the existing collection is inline text only, save that already collected output once. **PRIORITY 2:** only if no previous dump/result exists, do the **targeted** search for bold realizations, correction/failure/humor/breakthrough and exact surrounding exchanges; save directly as a per-window TXT in CHATS.
+
+**MASTER:** A single master compiler maintains the compiled index; collectors write only their own source-window files, never a shared master or `ID.text`. Do not merge unrelated windows, truncate original chat responses or infer missing words. Each window must report source, exact filename, final link, actual files moved/created, byte count, verified exchanges when countable and blockers. No file write = report zero.
+
+**PRODUCTION FIREWALL:** This is a source-archive instruction only. No new Meta shots, clip runs, dialogue adaptations, reference-image edits or production queue restarts are authorized.
