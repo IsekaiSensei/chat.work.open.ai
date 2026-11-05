@@ -4,6 +4,8 @@
 
 **ACTIVE SCREENPLAY:** https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit
 
+**CURRENT META CALL SHEET:** https://docs.google.com/spreadsheets/d/1H4iZlbQm3g6UzLj97J02PNvu5Y1CpHHEqShjJ2VFhJc/edit#gid=729410226 — `ACTIVE RENDER CALL SHEET` is the selected ordered shot breakdown (RUN-001–RUN-123) extracted from the active screenplay. Only the DIALOGUE — VERBATIM field is sung; all other cells are non-performed production guidance. The older `CLIP SCRIPT` tab remains historical. Do not replace or restart accepted 228-clip footage.
+
 **NEXT OWNER GO:** Perform this ONE continuous screenplay in order. Begin with the rusted-sword request and the owner's exact **COPPER** correction; continue through all 24 physical installation scenes and the three scout-to-world-seeding scenes already in the same file. Sing the original owner/AI recognition and exact technical words while physical work proceeds. The operator opens inventory first, real animals in glasses scout unknown wormholes before people, and the entered world carries their actual prepared paths and resources. One score, real work, continuous ten-second visual shorts. No word deleted at a clip boundary.
 
 **SCENE CONTINUITY:** Existing quantum-teller capsule and DNA-wormhole handoff; real workbench; Titan-scale standing android relative to microscopic installed toe parts. Same objects and approved original images across the entire run. No new set or manufactured item appearance without its real process.
