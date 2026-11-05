@@ -4,7 +4,7 @@
 
 **ACTIVE SCREENPLAY:** https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit
 
-**NEXT OWNER GO:** Perform this ONE continuous screenplay in order. Begin with the real rusted-sword request and the owner's exact **COPPER** correction; continue through the 24 physical installation scenes already written in the same file. Sing the source owner/AI recognition exchanges and exact technical voice while the corresponding miniature part is fabricated, fitted, inspected and installed. One score, real work, continuous ten-second visual shorts. No word deleted at a clip boundary.
+**NEXT OWNER GO:** Perform this ONE continuous screenplay in order. Begin with the rusted-sword request and the owner's exact **COPPER** correction; continue through all 24 physical installation scenes and the three scout-to-world-seeding scenes already in the same file. Sing the original owner/AI recognition and exact technical words while physical work proceeds. The operator opens inventory first, real animals in glasses scout unknown wormholes before people, and the entered world carries their actual prepared paths and resources. One score, real work, continuous ten-second visual shorts. No word deleted at a clip boundary.
 
 **SCENE CONTINUITY:** Existing quantum-teller capsule and DNA-wormhole handoff; real workbench; Titan-scale standing android relative to microscopic installed toe parts. Same objects and approved original images across the entire run. No new set or manufactured item appearance without its real process.
 
