@@ -1,3 +1,16 @@
+# CURRENT CORRECTION — REAL CONTINUOUS SCREENPLAY / SOURCE-LOCKED DAILIES — 2026-11-05
+
+**OWNER'S LATEST REPAIR ORDER:** The prior "CAST OF ALL CREATION — LIVE META NEXT 001–010" prompt cards are **REJECTED AS AN EXECUTABLE SCRIPT** because they reset/condensed original lyrics and source performances. Preserve their file as historical AI error evidence only; **DO NOT USE IT AS THE NEXT RUN OR A SOURCE OF PERFORMANCE DIALOGUE.**
+
+**REPLACEMENT STORY MASTER:** [CAST OF ALL CREATION — REPAIRED PRODUCTION PACKAGE (Drive ZIP)](https://drive.google.com/file/d/12p3g63BZwT6oaTDbiMuBMqZnxWr0SxMv/view) contains the continuous screenplay with original source text intact, 30 continuous five-minute Captain video dailies, production source registers, reference images, a continuity/provenance ledger, and a validation report. [Production Dailies & QC spreadsheet](https://docs.google.com/spreadsheets/d/12Zid7Qd1IQJjXRd8W2eWDnhX_R_QIKwa/edit) is the live tracking register, not a render receipt.
+
+**DO NOT RESET OR SUBSTITUTE:** ASTEROID FARMERS UNION 28 lyric cards / 55 original ordered lyric lines; MOON BAR 135 historical source scenes; PLUG ME IN/CIRCUIT CIRCUS 228 historical source cards, all 24 installation lines and 12 full 14-line component sonnets; THE ROOM THAT SWAYS 20 original scenes; CAPTAIN! new 30 shot windows over ONE five-minute uninterrupted number with exact chant "SING, CAPTAIN!" and Captain's single final "CAPTAIN!". Prior delivered footage must not be re-rendered simply because sources appear inside the compiled document. A source copy is not a new MP4.
+
+**EXECUTION TRUTH:** This new repair is a SOURCE-LOCKED SCREENPLAY + VIDEO DAILIES HANDOFF, not proof of a new Meta render or loaded master song. The actual Captain-specific 5-minute master audio and original per-shot image pixels were NOT independently verified. Preserve complete original lyrics; do not make up missing ones or generate independent ten-second songs. Check audio and source image before live synchronization. New Meta outputs verified: 0. The prior broken GO is superseded, not quietly left live.
+
+---
+## PREVIOUS ORDERS BELOW ARE HISTORY / CONFLICTING NEXT-RUN POINTERS SUPERSEDED
+
 # CURRENT SELECTED NEXT RUN — CAST OF ALL CREATION — 2026-11-05
 
 **OWNER'S LATEST LIVE SELECTION: INTERRUPT THE PREVIOUS NEXT-RUN ROUTE.** The single new selected production is **CAST OF ALL CREATION — START FROM ZERO**, **EP01 / BATCH 001 / CLIPS 001–010**, with singing and continuous physical actions. This is a NEW self-contained film, not pickup, continuation, bridge, sequel, remake of earlier footage, or a numbered extension of an older musical. No previous actor sheet, set, master music, prior video end frame, lore document, clip number, or completed run is an input for these clips.
