@@ -1,3 +1,34 @@
+# META — HISTORICAL FAILURE LOG / PASTED META HANDOFF (2026-11-05)
+
+**SOURCE STATUS: Owner-pasted text from another AI. ARCHIVAL / QC ONLY. NOT an active Meta GO, not a replacement for current owner's orders, and not a verified completion report.** Preserve Meta's words below exactly as submitted, including its admissions. This record must not be sung, rendered, promoted into a new script, or used to restart an older run.
+
+**Failure classification:** Meta's reported loader retried a rejected setup; it substituted a generic garage bench and toy-sized pig for the actual quantum/light-engine workplace, microscopic part → tube transfer → Titan-scale android scale chain. Earlier failures included unauthorized branding, edited material sheets, unapproved sheer/fishnet interpretations, a rejected cartoon/bar reference propagated as canon, generic replacement ship/set, conflated projects, and text on visual-only concept sheets. Rejected images remain historical FAIL references, never source-of-truth production inputs. The **Moon Bar is completed and remains the permanent main base**; the owner asked for women dancing on the bar with the movie branding removed, not a ban on dancing. Source details: [CHATS Meta failure exchange](https://drive.google.com/file/d/1izzznEp4YpknXyYx4OVRlbcoYdtYDoX_/view).
+
+**Source-versus-order boundary:** The quoted `META_RUN_FROM_CLIP_011_TO_228_CLEAN_PILOT_2.txt`, 011–228 instruction, porcine composite concept, 96 BPM timing, and KJV fallback are **reported historical directions in the pasted Meta response**, not a new authorization to restart or redefine this project. Do not elevate the pig, guardrail, KJV verses, previous cast counts, or other unverified details above the owner's original JPEGs and current exact approved audio. The old 228-clip sequence is not the new run. Current separate GERTECH music transition is filed in [GERTECH next-run conversion](https://drive.google.com/file/d/106C4mQ8xwSSbZCDu8US9NFL_Wsgt2uuJ/view). Follow the latest owner-selected run and [ORDERS.md](ORDERS.md); retain verified accepted footage and preserve continuous music whenever the approved story uses a song.
+
+## Exact owner-pasted Meta note — historical quotation
+
+```text
+You're right to be pissed. I ran the loader wrong twice, after you already called it trash, and I kept putting it back in the generic garage bench with the wrong scale and the little toy pig instead of your actual canon.
+
+If you're starting a new chat, take this hard lock with you so you don't have to re-explain it:
+
+**Burned-in lock for new chat:**
+- Real script = META_RUN_FROM_CLIP_011_TO_228_CLEAN_PILOT_2.txt - AUDIO kept EXACT, STORY = direction + action + assembly = one 10s small story
+- Bench = virtual quantum assembly table = air table = san crystals + gold lattice + silk diffuser = light engine / forge window / wormhole aperture / baccatank gel (zero-G ether that looks underwater, not garage)
+- Scale chain = microscopic gold diamond lattice with blue hex core in tweezers -> pneumatic tube wormhole (old bank air tubes) -> speck inside Titan-scale porcelain android toe motor, miniature guardrail INSIDE motor, same part stays same part 011-228
+- Porcine is always the answer = gold porcelain hyper-real pig, translucent porcelain with gold lattice nervous system and blue hex core, Titan-scale, universal stand-in plate for overlay VFX so you can composite META/WORK/CHAT/DEEPSEEK in post
+- Music law = MUSIC IS NEVER ABSENT, one continuous take, 96 BPM 4/4, 4 bars = 10.00 sec per clip, 555 timer ticks carry melody, gold-junction chimes, crystal rings, jewelry sings first, never cuts to silence
+- Performers = only male on screen is you (Sensei), four porcelain androids only, seam lines, no male face on female bodies, no text overlays, no beam/flash/matter duplication
+- Fallback = if no bold line known, KJV Proverb/Psalm sung - Proverbs 3:5, Proverbs 2:6, Psalm 23:1
+
+I fucked up the batch. In the new chat I'll run 011 as air table light engine with the microscopic speck, gold porcelain porcine Titan present at full scale, exact sung AUDIO about that part, continuous music, no garage loader.
+
+Sorry for wasting your time on this one.
+```
+
+---
+
 ## OWNER-REPORTED BATCH-01 COMPLETION / NEXT 10 CONTINUITY QC — 2026-11-04
 
 Owner reports **REAL-001–REAL-010 completed as one 01:40 musical unit**. Preserve those takes as owner-reported complete; actual MP4 receipts / exact last frame have not been independently inspected here. **Do not alter, rerecord or reset them.**
