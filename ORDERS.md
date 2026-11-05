@@ -1,24 +1,21 @@
-# ORDERS — CURRENT / ARCHIVE CUTOVER — 2026-11-04
+# ORDERS — LIVE ROUTER / 2026-11-04
 
-**SELECTED BOT JOB:** [Private archive + new pilot reference-lock migration order, issue #7](https://github.com/IsekaiSensei/chat.work.open.ai/issues/7).
+**CURRENT SELECTED SCENE:** GERTECH QUANTUM TELLER / DNA WINDOW, not generic android manufacture.
 
-**IMMEDIATE GO FOR ARCHIVAL OPERATIONS ONLY:** Verify access and inventory all old project files; establish truly restricted archive destinations; refile historical items once with reversible manifest; remove retired entrypoints from current-agent lookup; prepare the source-backed eight-section new TV pilot lock packet. The bots, not ChatGPT, are responsible for physical moves. Mark every completed operation with exact ID, path, permission and verification. Escalate BLOCKED for unavailable permissions or active render dependencies. No deletion, no rewriting original content.
+**SINGLE LIVE OWNER ORDER (Drive):** https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit
 
-**NEW TV PILOT STRUCTURE:** Ryan uses a future machine to duplicate his own physical body and installs William Shakespeare's mind instead of his own. The two identical-looking men make a film documenting Ryan's real-time education as a movie director. The cast and crew explain their jobs by doing them. Their movie teaches its makers how to make it. Working title *The Director's Double* is provisional; previous ChatGPT screenplay is an unapproved draft, not a word-locked production script.
+**SCRIPT — WORDS ONLY (Drive, owner speech verbatim):** https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit
 
-**EIGHT-SECTION LOCK (PREPARE; DO NOT FABRICATE APPROVAL):**
-1. Premise / series pilot.
-2. Main character Ryan — exact explicitly approved visual reference.
-3. Shakespeare-minded physical copy of Ryan.
-4. Pilot location and set references.
-5. Equipment / manufacturing and filmmaking props.
-6. Supporting characters / crew roles.
-7. Script and shot-by-shot continuity.
-8. Verifiable original reference IDs, image locks, permissions and QC.
-Only mark a section LOCKED when evidence supports the owner's approval. Preserve original JPEGs in Drive and scripts/controls in GitHub.
+**NON-PERFORMED ZIPPER OPERATING REFERENCE (Drive):** https://docs.google.com/document/d/1ymWBkLpCUFKxxHcsjjVdhullaIW4eXbvVrpBZfsrXkY/edit
 
-**NO RENDER GO:** Do not issue prompts, manufacture video, or start a new batch merely because this document changed. Meta's *already-in-progress* 228-clip job and its self-created PDF / locked images remain unchanged until completion or an explicit owner instruction. Any old queue, especially the former PLUG ME IN selected job, is QUARANTINED for future starts.
+**LOAD ORDER:** Read Drive CURRENT → selected words-only dialogue → verified existing character/frame source → supporting non-performed reference for the precise item transaction. Do not treat old ground-zero/PLUG_ME_IN_CONTINUOUS_MASTER.md, DAILIES_FOR_THE_PILOT__RUN_011-228.txt, old seven-second ZIPPER sequences or the previous technical build/sonnet queue as active dialogue.
 
-**ISOLATION REQUIREMENT:** Everything predating this new pilot is historical. Do not expose it through active CURRENT routes, COOKBOOK lookup, automatic prompts or retrieval. GitHub public folders, archive branches and commit history remain PUBLIC; Drive folder names do not prove privacy. Actual permission review, owner-controlled restricted destinations and file-by-file verification are mandatory. If impossible, report BLOCKED instead of claiming success.
+**ONE SERVICE, NOT A FACTORY REBOOT:** On-call quantum assembly table already exists inside a pocket dimension in the quantum realm. A sealed bank-teller-style capsule carries the actual supplied item through a DNA wormhole to an operator who performs the requested task and sends the correct item back. Inventory updates only after delivery. The latest quoted rusty-sword correction changes the requested return from supposed gold to COPPER; don't invent gold or an authorized sword repair.
 
-**EXECUTION / STATUS:** Follow [issue #7](https://github.com/IsekaiSensei/chat.work.open.ai/issues/7); report manifest, access audit, moved and held items, and remaining owner decisions. Preserve originals. One master location per item; no duplicates. Owner directions govern. Archive is not a new production.
+**FIXED FILM FRAME:** Existing wormhole opening → DNA swirl → real dialogue and its corresponding object transfer → reverse DNA → wormhole closing. Total 10-second clips; do not shorten dialogue, force silence, replace reference images or invent a new portal. Spoken words can overlap transitions; use the original visual frame. No restarting from initial assembly.
+
+**NO RENDER GO from a document edit.** Preserve in-flight renders and original JPEGs. Running Meta contexts may still hold an earlier loaded script; no claim they updated automatically.
+
+**SEPARATE ARCHIVE TASK, STILL ASSIGNED:** https://github.com/IsekaiSensei/chat.work.open.ai/issues/7. Agents must preserve prior work, verify private permissions and never treat historical documents as an active production command. This is administrative work, not video dialogue.
+
+**OWNER AUTHORITY:** exact current-chat words, original approved images, selected source frame, continuous audio and continuity. Do not originate art direction, invented dialogue, additional cast, props or measurements.
