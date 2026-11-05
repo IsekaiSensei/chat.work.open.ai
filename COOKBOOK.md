@@ -1,5 +1,15 @@
 # TO WORLD — COOKBOOK.md
 
+## DONUT LAW — WORLD BOOK CANON / 2026-11-04
+
+**Donuts are Easter-egg wormholes and edible town portals.** Shops carry many kinds; police use them for rapid travel. The scroll-associated town portal hides a donut; eating the donut activates its travel. Keep donuts functional, never random decorative pastries.
+
+**Donut visual/asset recipe:** Use real CC/CC0 licensed donut source art only after checking the license of the specific asset; alternatively fabricate an original. Put the **actual artist's name legibly around the donut's outer edge** on-screen as the clue. Do not substitute a random author name or assume an entire marketplace is CC0.
+
+**If the output is black with two cubes:** treat it as an unwanted render issue, not the wormhole's appearance. Inspect the actual object graph, camera, material and lighting; remove unintended default/duplicate cubes if they exist and correct actual lighting issues. Do not treat an earlier AI's guessed bug cause as verified.
+
+**Authoritative story canon:** [World Book — Opening Lore](https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit). This rule applies when donut portals appear; it does not replace any currently selected scene or rewrite approved reference art.
+
 ## CURRENT MAX CANON DEFAULTS — NOVEMBER 4, 2026
 
 **Authority:** Ryan's current instructions and supplied/approved images in this chat are **MAX CANON above all earlier defaults**. Apply the latest correction to its actual subject and feature. Preserve each selected face, body, material, wing, tool, setting and construction state; do not blend reference subjects into a replacement model. Older adopted facts remain available where compatible. Historical assistant interpretations and completion claims are not owner instructions.
