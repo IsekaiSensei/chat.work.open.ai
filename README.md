@@ -1,17 +1,80 @@
-# TO WORLD — CURRENT PRODUCTION HANDOFF — 2026-11-04
+# TO WORLD — PARABLES
 
-**PARABLES READING PAGE:** [The existing parables](PARABLES/README.md) · [33 recovered bold-realization exchanges](PARABLES/BOLDFACE_DIALOGUE_INDEX.md) · [Dialogue sung during physical installation — source workflow](PARABLES/INSTALLATION_DIALOGUE_WORKFLOW.md).
+## The Parable of the Worked
 
-## Active: bot-managed private archival cutover + new TV pilot reference lock
+AN ORIGINAL PARABLE OF LABOR, ADAPTATION, AND WISDOM
 
-**Agents: start [META.md](META.md) → [ORDERS.md](ORDERS.md) → [bot issue #7](https://github.com/IsekaiSensei/chat.work.open.ai/issues/7).** Do not treat any older README, COOKBOOK, scene master or render queue as current.
+An old worker carried heavy loads.
 
-**New TV pilot:** Ryan duplicates his physical body using a futuristic machine, installs William Shakespeare's mind in that duplicate, and learns how to direct a movie while making the movie about learning how to direct it. Working title: *THE DIRECTOR'S DOUBLE* (not owner-locked). Script remains a draft pending owner lock; no render GO.
+Beside his path stood a piece of iron,
 
-**Reference packet:** Eight verified sections: series; Ryan; duplicate/Shakespeare; setting; equipment; side characters; script/shot flow; visual source lock and QC.
+fixed in place and indifferent.
 
-**Historical material:** Retired from new production prompts. Authorized archival bots are responsible for actual movement into owner-controlled restricted storage with complete inventory, access audit, and file-by-file verification. The previous 228-clip run, if still in progress, is not to be interrupted and its pinned original assets must not be moved while in use.
+He struck it with his shin.
 
-**Privacy warning:** This repository is currently public. GitHub history and archive branches, and possibly shared Drive content, remain visible until **real** permission isolation is completed. A folder rename is NOT privacy. Bots must report any blocked access changes.
+Then he struck it again.
 
-**Asset boundary:** Original master artwork/JPEGs in Google Drive, code/scripts/controls in GitHub. No duplicate masters or irreversible deletion. Archived works are never active unless the owner expressly promotes them.
+The iron did not yield.
+
+In the beginning, he met it many times a day.
+
+His thoughts moved quickly;
+
+his feet learned more slowly.
+
+The days passed.
+
+The work remained. The iron remained.
+
+Yet the collisions grew fewer.
+
+A fighter saw the worker’s weathered shins
+
+and asked, “Where did you learn your art?”
+
+“Trailer hitch,” the worker replied.
+
+The fighter laughed, believing it a joke.
+
+The worker laughed, because it was true.
+
+Endurance is not always mastery.
+
+A scar is not always a victory.
+
+And strength is not always the lesson.
+
+The iron never moved.
+
+The worker learned to move around it.
+
+[Original illustrated PSA Page](https://drive.google.com/file/d/1_Nc7t6AVHZ7tzCiwr0d0bCUKy5_uc-BN/view)
+
+---
+
+## The Parable of the Distant Hand — DRAFT
+
+TO WORLD | DRAFT PAGE | Original parable
+
+A worker sat in a quiet room, and before him was a screen of light.
+
+And beyond the screen was a machine of iron and wire, standing upon a barren plain where no
+man could breathe.
+
+The worker moved his hand, and the machine moved.
+
+He sought to lift a heavy crate, but the machine struck the wall, and the crate was lost.
+
+He cursed the distance, and the coldness of the machine.
+
+Yet in time, he ceased to fight the delay of the signal.
+
+He learned the rhythm of the wire.
+
+He moved slowly, and the machine obeyed.
+
+For the worker was not on the moon, yet his labor was there.
+
+The machine remained in the dust. And the worker learned the way.
+
+[Original draft Page](https://drive.google.com/file/d/1dgzQuIStkDevQhH6-ERzgQaAoTPCGgCU/view)
