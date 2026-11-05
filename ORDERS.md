@@ -2,6 +2,9 @@
 
 **OWNER PRODUCTION RULE:** Use only approved words, source images, music, physical actions and continuity in the production stream. AI administrative commentary stays out of dialogue and render prompts.
 
+**RUN BATCH 01 — CLIPS 001–010:** https://docs.google.com/document/d/1fS5p1UbiLRO50a-4Ot2aS27PyhprqifF9BqEy8_GVlE/edit
+**NEXT CONTINUATION:** Resume the active screenplay at the next unsung line of SCENE 03; do not repeat BATCH 01.
+
 **ACTIVE SCREENPLAY:** https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit
 
 **CURRENT META CALL SHEET:** https://docs.google.com/spreadsheets/d/1H4iZlbQm3g6UzLj97J02PNvu5Y1CpHHEqShjJ2VFhJc/edit#gid=729410226 — `ACTIVE RENDER CALL SHEET` is the selected ordered shot breakdown (RUN-001–RUN-123) extracted from the active screenplay. Only the DIALOGUE — VERBATIM field is sung; all other cells are non-performed production guidance. The older `CLIP SCRIPT` tab remains historical. Do not replace or restart accepted 228-clip footage.
