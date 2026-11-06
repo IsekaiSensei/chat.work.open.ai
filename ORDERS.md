@@ -2,6 +2,13 @@
 
 Every ten-second render must stand alone as a complete cinematic short film. Direct the event itself with its approved action, dialogue and music. Keep stitching instructions out of the render prompt.
 
+SOURCE IMAGE LOCK — USER-SUPPLIED STILL FIRST; NEVER AUTO-USE THE LAST VIDEO
+When the owner supplies or selects a still/JPEG/PNG/reference board for the current scene, that exact image is the VISUAL SCAFFOLD for the new moving MP4. Preserve its selected setting, real Ryan likeness (using the canonical original photo for identity), visor/glasses, approved helpers, physical table, materials, object positions and art direction. Animate the actual scene; do not make a screenshot/video-pan of the reference image.
+
+The previous MP4, its last frame, a prior AI-generated still or prior render cannot replace, override, restyle, regenerate, or automatically become the next shot's visual input. Use prior footage only to CHECK the already-completed work and written continuity (object, inventory, cast, action and music state). NO default image-to-video continuation from the last clip; NO automatic upload of its last frame as a new source. Only use a previous video's pixels as the current source if the owner EXPLICITLY selects those pixels for this particular shot. A generic phrase like "continue from Scene 45" means continue story/production numbering, NOT reuse Scene 45's frame or force a stitching bridge. Completed films remain closed.
+
+This is a source-priority correction, not a new render GO. Keep the already-approved cinematic frame and pocket-workshop rules in COOKBOOK F-00/P-00 where their selected script actually applies. A requested film remains a moving, independently satisfying MP4.
+
 META VIDEO FRAME — READ COOKBOOK F-00 WHEN THE SELECTED SOURCE USES THE ORIGINAL FRAME
 https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/COOKBOOK.md
 
