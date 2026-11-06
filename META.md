@@ -4,6 +4,11 @@ Live production instructions: [ORDERS.md](ORDERS.md).
 
 This file records QC and history; it does not issue production assignments or a GO.
 
+## 2026-11-06 — Corrected false LIVE NEXT / video-vs-still failure
+The November 5 condensed `CAST OF ALL CREATION — LIVE META NEXT — 001–010` script was created/promoted after a longer existing-base screenplay and subsequently **rejected** for replacing source performances, flattening the Gertrude/Theia timeline, and reviving bar construction. The old Google Drive script continued to say “ONLY next new render batch,” causing its retrieval as current after the GitHub router had demoted it. The original Drive document and GitHub mirror now carry a top-of-file historical warning; no source text or accepted footage was deleted. Historical labels inside preserved documents are NOT GO instructions.
+
+Output failure to monitor: user provides a cinematic time-sequenced moving-image prompt, assistant acknowledges MP4 video intent, but substitutes a still, screenshot, contact sheet or storyboard. **Input and output types must match**: a timeline defines time-based action, and a photograph is only a reference. Never claim a still as a finished cinematic clip. Live operation and GO authority remain solely in [ORDERS.md](ORDERS.md). This QC entry does not authorize a render.
+
 ## 2026-11-05 — Instruction filing
 
 Observed defect: older "NEXT 10", "HOLD", and script-selection instructions remained in the QC log alongside later corrections and completed-work reports. This left competing production directions in the same file.
