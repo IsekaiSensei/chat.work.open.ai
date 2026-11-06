@@ -2,6 +2,14 @@
 
 Every ten-second render must stand alone as a complete cinematic short film. Direct the event itself with its approved action, dialogue and music. Keep stitching instructions out of the render prompt.
 
+CURRENT BUILD-FILM PRODUCTION SHEET — NEXT TEN INPUTS, CLIPS 046–055
+https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/BUILD_FILM_BATCH_01_CLIPS_046-055.md
+https://drive.google.com/file/d/1RGXmtlp5vzofiW7MbXe-cj_Oel7phP_a/view
+
+This is the owner's newly requested MOVIE SET PRODUCTION SHEETS method: one exact user-supplied JPEG already on Google Drive matched to one specific ten-second cinematic action/audio cue in the linked text. The first ten JPEGs, CLIP_046_SOURCE through CLIP_055_SOURCE, are verified in Google Drive/JPEG. Treat the two additional workshop/android images as set references, not clips 056–057. Read the full ten-card source map; do not infer imagery from a bare clip number. Each new film is a moving MP4, not an animated screenshot. The user reported 45 clips already rendered in the current window; continue with 046, and do not reset or rerender those 45. The newly written lyrics are for this new build-film proposal, not replacements for any earlier accepted recordings.
+
+The images and text are ready as production inputs; **DO NOT mark 046–055 rendered** until actual MP4 receipts are observed. Only 10 clips are issued in this first batch, not a dump of 100 clip prompts. The earlier REAL-001–RUN-123 completed material is a separate historical run, not the current build-film counter.
+
 SOURCE IMAGE LOCK — USER-SUPPLIED STILL FIRST; NEVER AUTO-USE THE LAST VIDEO
 When the owner supplies or selects a still/JPEG/PNG/reference board for the current scene, that exact image is the VISUAL SCAFFOLD for the new moving MP4. Preserve its selected setting, real Ryan likeness (using the canonical original photo for identity), visor/glasses, approved helpers, physical table, materials, object positions and art direction. Animate the actual scene; do not make a screenshot/video-pan of the reference image.
 
