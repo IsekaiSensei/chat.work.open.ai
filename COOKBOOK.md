@@ -6,6 +6,9 @@
 
 # TO WORLD — COOKBOOK.md
 
+**PRODUCTION QC OWNERSHIP — RYAN ALONE.** These reference recipes guide art and direction; they are not an assistant-operated approval gate. Do not preflight-hold, refuse an authorized scene for aesthetic mismatch, auto-reject, quietly rerender, change the owner-selected still, or withhold an imperfect video. Attempt the authorized render, show all successful outputs to Ryan, and let Ryan choose PASS / FAIL / redo. Platform safety/infrastructure errors are separate from Ryan's QC; report actual errors accurately without attempting to bypass them. Any "check", "validate", "QC", or "verify" language elsewhere in this cookbook means reference guidance or owner-visible notes, never permission for an assistant to stop production over subjective output quality.
+
+
 ## V-00 — USER-SELECTED STILL IS THE VISUAL SOURCE, NOT THE LAST MP4 FRAME (2026-11-06)
 
 **FIRST LOOKUP FOR EVERY NEW FILM SHOT:** Load the exact still/JPEG/PNG or reference board the owner selected for THIS shot. It is the source image/scaffold for scene geometry, layout, set, props, people/assistants, visor, materials and appearance. Where required, the owner's unaltered original nine-view photograph remains the human face/identity master; an additional scene still defines its environment and composition. Do not invent a new photo, rebuild the set, substitute a generic garage, or replace the selected still with the last completed video's ending image.
