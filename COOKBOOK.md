@@ -6,6 +6,12 @@
 
 # TO WORLD — COOKBOOK.md
 
+## FIRST REFERENCE — ISEKAI RYAN / ORIGINAL NINE-VIEW APPEARANCE
+
+**CANONICAL ORIGINAL IMAGE (UNCHANGED):** [Isekai Ryan — original nine-view photographic reference on Google Drive](https://drive.google.com/file/d/1_-bYRCJR4Rra7a6z-nPSyYZ_60RKSxOv/view). Google Drive file: `00_ISEKAI_RYAN_CANONICAL_APPEARANCE_9_VIEW_ORIGINAL_2026-11-06.jpg`, in the [TO WORLD/JPEG master library](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT). Owner approved this exact uploaded image on November 6, 2026.
+
+**FIRST LOOKUP for the human owner:** For Isekai Ryan / Ryan / Sensei / Senpai, use the nine unaltered views from this **original JPG**, before any prior generated lookalike, concept sheet or historical face reference. Do not change, restyle, redraw, relabel, crop or add text to the master image. This is an identity reference, not permission to render. GitHub stores this instruction and the Google Drive pointer; the image bytes remain on Google Drive.
+
 ## DONUT LAW — WORLD BOOK CANON / 2026-11-04
 
 **Donuts are Easter-egg wormholes and edible town portals.** Shops carry many kinds; police use them for rapid travel. The scroll-associated town portal hides a donut; eating the donut activates its travel. Keep donuts functional, never random decorative pastries.
