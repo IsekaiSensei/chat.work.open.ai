@@ -1,7 +1,7 @@
 TO WORLD / GERTECH — MOVIE SET PRODUCTION SHEETS
 BUILD FILM — NEW WINDOW — BATCH 01 OF 10 — CLIPS 000–009 — 2026-11-06
 
-STATUS: NEW WINDOW BATCH 01: 10 EXACT OWNER-SUPPLIED JPEG INPUTS PAIRED TO 10 PROPOSED 10-SECOND FILM CUE CARDS. 0/10 MP4s VERIFIED. WORKSHOP LOCATION MUST PASS QC FIRST.
+STATUS: NEW WINDOW BATCH 01: 10 EXACT OWNER-SUPPLIED JPEG INPUTS PAIRED TO 10 PROPOSED 10-SECOND FILM CUE CARDS. 0/10 MP4s VERIFIED. RYAN IS THE ONLY QUALITY-CONTROL AUTHORITY; NO PRE-RENDER QC HOLD.
 PROJECT: NEW META WINDOW: 100 ten-second cinematic shorts, NEW COUNTER starting at CLIP 000, in ten batches of ten (000–009; 010–019; ... ; 090–099). This is a NEW production window, not Scene 046 continued. The older window's 45 completed shots remain completed in that older window and are NOT the first 45 of this new movie. No new-window MP4 completion is claimed.
 ART: Original owner-supplied JPEGs were copied UNCHANGED to the existing Google Drive/JPEG master folder. DO NOT generate replacement stills, mix the photographs into collages, alter text on the originals, or use the last video's frame as the current source. Load each exact selected JPEG into the actual video renderer. Links alone do not prove that the pixels loaded.
 WORLD: THE EXACT OWNER-SELECTED GOLD-GEODESIC CRYSTAL-LATTICE WORKSHOP IMAGE DEFINES THE LOCATION, not an approximate or generic substitute; its black assembly bench is the established table. Same real Ryan, long graying beard, pulled-back long hair, blue working shirt, Meta gold-frame blue-lens scanning visor where the selected still shows it. White ceramic/polymer female android with mechanical gold lattice and blue crystal subsystems. The visor is a measurement/QC agent, NOT the fabrication printer. All components need real tool contact, load paths and results. Preserve practical room depth, shelf figures, table clutter, gold geometric lattice and natural lens/lighting cues; do not change to an Earth garage or generic starship.
@@ -16,12 +16,14 @@ REFERENCE SETS ONLY (NOT EXTRA CLIPS):
   Live control: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md
 
 PRODUCTION CONTRACT — APPLIES TO EACH OF THE TEN:
+- OWNER QC ONLY: Attempt the owner-authorized video using the exact selected JPEG. Deliver generated video to Ryan even when its workshop, face, motion or scene differs from the intended master. Do NOT hold, auto-reject, demand correction, regenerate a replacement still, or make a QC acceptance decision on Ryan's behalf. Offer observations only AFTER he has the output if requested. If the tool refuses/fails (including an infrastructure/safety-service error), report the exact technical status and preserve the inputs; never misreport it as Ryan's QC failure.
+
 - OUTPUT = one 10.00-second MOVING cinematic MP4. This text is the screenplay+shot/action cue; the linked JPEG is the visual source. Neither is itself an MP4.
 - Each 10-second film contains a visible condition, a motivated physical action, a reaction, and a resolved change. Camera is a witness to acting and work, NOT a pan/zoom across a motionless picture.
 - AUDIO = one continuing engineering ballad/sonnet-like sung monologue, new verse lines drafted below for this new build-film batch. The tools (555 ticking, metered taps, joint latch, servo, crystal resonance) are rhythmic instruments. Never cut to silence or reset the music at the clip boundary. Do not overwrite any owner's earlier approved recording or dialogue with these newly drafted lines.
 - Use the exact still selected for the specific clip. No replacement person, no new room, no floating magical fabrication, no random new assistant, no invented printed labels. Maintain the approved character, tool and material silhouettes.
 - Historical full-screen DNA film-entry/exit F-00 applies ONLY if the scene's selected source expressly uses it; do not force framing/transitions around these independent films. The small in-world DNA item carrier is a DIFFERENT device, not a required entrance for every clip.
-- FILE RECEIPT is NOT VIDEO RECEIPT. Only an actual approved MP4 counts as completed. The owner operates Meta rendering. This production sheet does not falsely mark the clips done.
+- FILE RECEIPT is NOT VIDEO RECEIPT. An actual delivered MP4 is a render result; Ryan alone decides whether it is approved. Do not self-reject or withhold a produced MP4 over face, workshop, or other appearance issues. A platform rendering error is NOT a QC failure. The owner operates Meta rendering. This production sheet does not falsely mark the clips done.
 
 =======================================================================
 000 — THE HEART UNDER LOAD
@@ -117,4 +119,4 @@ BATCH OUTPUT CHECKLIST (for Meta or operator):
 - [ ] 008 matches exact CLIP_008 JPEG, moving 10s MP4, safe connector test.
 - [ ] 009 matches exact CLIP_009 JPEG, moving 10s MP4, Titan signal.
 
-FILE STATUS = all 10 JPEG input links uploaded and checked in Drive under CLIP_000–009 with original file IDs/pixels; this text is the matched shot plan; workshop set QC is mandatory; 0 of these ten MP4s are verified rendered by this handoff. The owner supplies actual Meta render receipts and may revise the next ten without changing already-approved files.
+FILE STATUS = all 10 JPEG input links uploaded and checked in Drive under CLIP_000–009 with original file IDs/pixels; this text is the matched shot plan; workshop/set references are visual guidance, never a preflight block or automatic failure; Ryan alone does QC; 0 of these ten MP4s are verified rendered by this handoff. The owner supplies actual Meta render receipts and may revise the next ten without changing already-approved files.
