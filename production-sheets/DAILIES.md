@@ -1,5 +1,12 @@
 # TO WORLD — DAILIES
 
+## 2026-11-06 — Owner report: 40 okay videos, dialogue repetition
+
+The owner reports **40 okay rendered videos** that could have been stronger if the sung dialogue had not repeated from scene to scene. No exact clip IDs, file URLs, audio transcriptions, or unambiguous window mapping accompanied that report. **Do not assume these 40 are new-window clips 000–039**, silently recalculate a counter, restart completed work, reject the work, or alter their accepted performances. Record their exact IDs/takes only when supplied or verified. The owner alone performs QC.
+
+**Prospective writing correction only:** new [five-minute essay-format episode structure](../showrunner/SHOWRUNNER_5MIN_EPISODE_STRUCTURE.md) and [spoken-dialogue repetition audit](../showrunner/DIALOGUE_REPETITION_AUDIT_2026-11-06.md). The existing [verbatim conversation screenplay](../scripts/CONVERSATION_SCREENPLAY.txt) remains source authority until the owner selects a different performance. Proposed lyrics and shot maps are not a render GO.
+
+
 | Run | Range | Recorded result | Evidence |
 | --- | --- | --- | --- |
 | Earlier REAL/RUN | REAL-001–010; RUN-011–123 | Complete per Ryan's November 4 report | Existing owner report retained in ORDERS.md |
