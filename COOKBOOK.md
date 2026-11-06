@@ -12,6 +12,17 @@ The showrunner's [five-minute essay/teleplay structure](showrunner/SHOWRUNNER_5M
 
 **Owner's current narrative reference:** [World Book — Chronicles of Sol annotations](https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit). This recipe supplies place, source-image and prop references for the selected scene.
 
+### The Uninvited King — origin screenplay
+
+The owner selected the ordinary-forest/tree-wormhole/arena origin as the script: the Scotsman uses his limited staff skill; the queen deliberately changes the same shaft into a spear with a small mana sphere; the challenger becomes fairy king. That decision leads into willing makers, electronics, the persistent quantum table, Merlin's isolation grid, the relay market and Imperial Beach station.
+
+- [MAIN — sung screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.o59y58g80007) — 180 source scenes in six five-minute essay episodes.
+- [Long story essay, score and pacing](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.dhxbj5jltxik) — the five-promise structure, eighteen batches and exact sonnet placements.
+- [Camera and pacing plan — native readable Doc](https://docs.google.com/document/d/1rM5pKhotrEPe3GtWUZ_58eLhUfTGc-w7LcCZ9vVEVmc/edit?usp=drivesdk) — matching source IDs, four local action phases and one-second events.
+- [SONNETS — 91 short source units](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.q2t7ayw5ogwd) — eighteen passages already assigned in this volume.
+
+All nine owner-selected reference images remain inputs to every clip. The volume's scene keys do not replace a renderer window's take numbers. The Modesto parade precedes Earth's destruction; the surviving local IB shield remains distinct from Merlin's isolation grid. Earlier source conversation remains readable in the screenplay's ARCHIVE tab.
+
 ### Working method and source matching
 Ryan translates real-world places, objects and experiences into the existing graphic novel. “The fourth wall and the third wall and the second wall are all the same wall.” Apply this through the scene; do not add explanatory walls, director commentary or captions to the performance. The existing shark-patrol sequence is owner-reported at about five panels; recover its actual pages for a requested adaptation instead of inventing a replacement.
 The original title is **Chronicles of Sol**, with **COS / COSplay** wordplay. Use **Imperial Beach / IB** and **Sol Patriots / Patriots of the Stars**. Sol identifies our Sun and its system, not an American national affiliation.
