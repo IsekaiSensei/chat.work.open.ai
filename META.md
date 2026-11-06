@@ -12,24 +12,6 @@
 
 ---
 
-# OWNER FIRST — EVERY TEN SECONDS IS ITS OWN CINEMATIC SHORT FILM (2026-11-05)
-
-**Every ten-second Meta render must be an independently watchable cinematic short film, whatever happens in those ten seconds.** Direct what the audience sees and experiences—action, movement, a meaningful moment and its consequence—not the frame around the frame. **Do not explain the stitching, add bridge scenes, or write editorial handoff/transition mechanics into render prompts.** The stitching fits when each ten-second film stands on its own. Owner-supplied images define appearance; approved dialogue, continuous music, source actions and continuity remain exact. Never shorten lyrics, restart the song, invent speech, redesign subjects, or repeat accepted footage to satisfy this rule. Respect an explicitly approved on-screen effect without adding a new explanation of it. Correct the cinematic direction, not the source. **This is a priority creative-direction rule, not a new GO.**
-
----
-
-# OWNER'S TOP PRODUCTION RULE — EVERY 10 SECONDS IS A STANDALONE CINEMATIC SHORT FILM (2026-11-05)
-
-**EVERY TEN-SECOND RENDER MUST STAND AS ITS OWN COMPLETE CINEMATIC SHORT FILM, REGARDLESS OF SUBJECT.** Film the exact assigned moment as compelling cinema in its own right: an intelligible situation, meaningful action or emotion, and a satisfying on-screen result within that ten seconds. A quiet observation, song passage, repair, joke, or movement still deserves a complete cinematic treatment. Never render an empty bridge, explanatory shot, generic prompt card, or technical placeholder instead of the short.
-
-**NO STITCHING IN RENDER PROMPTS. NO FRAME AROUND THE FRAME.** Do not explain how to join clips, command transitions between clips, copy a prior render's last frame, add generic intro/outro devices, make continuity-bridge footage, or insert overlays/editing/admin instructions. Any old "last frame / continuity / stitching" fields are editorial tracking, not render direction unless their contents describe an expressly approved in-scene action. The owner assembles the finished shorts; they fit because each one stands alone.
-
-**EXACT SOURCE MATERIAL STAYS INTACT.** Preserve approved original JPEGs/identities, screenplay dialogue, complete lyrics, speaker assignments, physical scene actions, and the one continuous song/master audio where applicable. Standalone PICTURE storytelling does NOT mean ten new songs, chopped dialogue, invented actions, or replacing existing performances. Do not reopen accepted videos. This is a rendering-priority override, not a script rewrite or a new GO.
-
-**FIRST RENDER INSTRUCTION:** "Make this ten-second moment a complete, independent cinematic short film." Follow with ONLY the authorized in-scene image, action, and exact performance. Do not append an explanation of stitching.
-
----
-
 # META — SELF-QC CHANGE LOG: WHAT WORKED, WHAT FAILED, HOW TO REPEAT THE GOOD (2026-11-05)
 
 **PURPOSE: INTERNAL ASSISTANT QUALITY CONTROL ONLY.** Ryan explicitly asked that `META.md` track *what the AIs did, how they did it, and what worked or failed*. This is a readable postmortem and procedure for future tools. It is **NOT** script dialogue, a Meta video prompt, a render queue, a character sheet, a new story rewrite, or permission to change approved artwork. `ORDERS.md` selects work; original source scripts supply actual lines; `META.md` records methods/evidence/failures. **A prior QC log does not supersede a later owner correction.**
