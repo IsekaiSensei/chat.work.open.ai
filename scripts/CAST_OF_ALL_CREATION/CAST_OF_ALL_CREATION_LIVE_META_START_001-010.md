@@ -1,3 +1,8 @@
+# NOT CURRENT — REJECTED AS A RENDER SOURCE — HISTORICAL SCRIPT ONLY (2026-11-06)
+**DO NOT EXECUTE THIS SCRIPT.** Owner rejected this ten-card replacement on November 5: its fresh pumpjack/Gertrude lyrics, new room and base-building reset do not replace existing Moon Bar/base, original source dialogue/music or the broader Gertrude/Theia chronology. Its original “LIVE META NEXT / ONLY next batch” text below is preserved solely as historical evidence, without issuing permission to render. The identical Drive document has been marked NOT CURRENT. Read the full live [ORDERS.md](../../ORDERS.md) before any new job; if unreadable, stop instead of choosing archived material. Do not turn a video timeline into a still/screenshot.
+
+--- ORIGINAL REJECTED SOURCE BELOW — PRESERVED VERBATIM ---
+
 CAST OF ALL CREATION — LIVE META NEXT RUN
 START FROM ZERO — EPISODE 01 / BATCH 001 / CLIPS 001–010
 STATUS: OWNER SELECTED LIVE NEXT / INTERRUPT ANY EARLIER QUEUE
