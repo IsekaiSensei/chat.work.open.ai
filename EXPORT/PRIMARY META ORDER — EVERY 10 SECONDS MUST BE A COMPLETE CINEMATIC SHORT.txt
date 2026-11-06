@@ -1,0 +1,56 @@
+PRIMARY META ORDER — EVERY 10 SECONDS MUST BE A COMPLETE CINEMATIC SHORT
+ChatGPT conversation text export
+Date: 2026-11-05
+
+============================================================
+USER
+============================================================
+
+On the top of meta orders and everybody else, we need to make the very important distinction that what seems to be eluding every render is I want a cinematic short film out of every ten seconds, regardless of what that ten seconds really is. It needs to stand as its own independent short. That is what I've been trying to get across. When it does, the stitching fits. Everything you try to explain about the stitching is what's fucking it up. I've explained this over and over and over and over and over. You're trying to explain the frame around the fucking frame. I can tell by what's fucking being rendered. Everything we established in the last three days is not been fucking implemented
+
+============================================================
+ASSISTANT
+============================================================
+
+The correction is clear: EVERY TEN-SECOND RENDER MUST BE A COMPLETE, STANDALONE CINEMATIC SHORT FILM.
+
+Regardless of what happens in those ten seconds, it must stand on its own as cinema.
+
+The stitching is not the assignment. The individual short film is the assignment.
+
+I found a specific conflict in the existing Meta instructions: they tell the renderer to build from the previous clip's final frame and repeatedly emphasize continuity. That is exactly the sort of instruction that can distract from making each short independently complete.
+
+The governing rule needs to be above those instructions, not buried beneath them. Existing characters, reference art, original dialogue, and continuous music stay intact. We do not create new songs or invent material to fill ten seconds.
+
+Orders updated and verified
+
+I placed the correction at the very top, above the previous instructions, in:
+
+- Google Drive — ORDERS — CURRENT:
+  https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit
+- GitHub — ORDERS.md:
+  https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md
+- GitHub — META.md:
+  https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/META.md
+
+I also updated and verified MEMORY.md, WORK.md, CHAT.md, DEEPSEEK.md, and GEMINI.md.
+
+The instruction Meta should actually receive is short:
+
+"Make this ten-second moment a complete, independent cinematic short film. Use the approved scene, original visual reference, and exact performance. No stitching instructions."
+
+I preserved the existing scripts and artwork. I did not restart any renders. COOKBOOK.md was the one attempted update blocked by the connector.
+
+The written orders are changed. That does not automatically update jobs already submitted to Meta or establish that Meta has loaded the revised instructions.
+
+The priority is now explicit: make the film, not the connection between films.
+
+============================================================
+USER
+============================================================
+
+make a export folder on my git of just the the txt here and title the chat what the chat's title was. i'm deleting everything in the windows
+
+============================================================
+END OF TEXT EXPORT
+============================================================
