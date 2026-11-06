@@ -2,13 +2,19 @@
 
 Every ten-second render must stand alone as a complete cinematic short film. Direct the event itself with its approved action, dialogue and music. Keep stitching instructions out of the render prompt.
 
-CURRENT BUILD-FILM PRODUCTION SHEET — NEXT TEN INPUTS, CLIPS 046–055
-https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/BUILD_FILM_BATCH_01_CLIPS_046-055.md
-https://drive.google.com/file/d/1RGXmtlp5vzofiW7MbXe-cj_Oel7phP_a/view
+NEW META WINDOW — BUILD FILM — START AT CLIP 000, NOT 046
+CURRENT BATCH 01: CLIPS 000–009 (FIRST TEN ONLY)
+GitHub action/dialogue: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/BUILD_FILM_BATCH_01_CLIPS_000-009.md
+Google Drive action/dialogue: https://drive.google.com/file/d/1_taVPG5tThWq-DGw1z9dkoYmIb-Yowtk/view
 
-This is the owner's newly requested MOVIE SET PRODUCTION SHEETS method: one exact user-supplied JPEG already on Google Drive matched to one specific ten-second cinematic action/audio cue in the linked text. The first ten JPEGs, CLIP_046_SOURCE through CLIP_055_SOURCE, are verified in Google Drive/JPEG. Treat the two additional workshop/android images as set references, not clips 056–057. Read the full ten-card source map; do not infer imagery from a bare clip number. Each new film is a moving MP4, not an animated screenshot. The user reported 45 clips already rendered in the current window; continue with 046, and do not reset or rerender those 45. The newly written lyrics are for this new build-film proposal, not replacements for any earlier accepted recordings.
+THE PREVIOUS WINDOW'S 45 FINISHED MP4s are historical completion evidence; NEVER count them as shots 000–044 in this fresh 100-shot window. No 000–009 MP4 has been verified here. The OLD 046–055 sheet is retired as an incorrect carry-over. Work in batches of exactly 10; only this batch is prepared.
 
-The images and text are ready as production inputs; **DO NOT mark 046–055 rendered** until actual MP4 receipts are observed. Only 10 clips are issued in this first batch, not a dump of 100 clip prompts. The earlier REAL-001–RUN-123 completed material is a separate historical run, not the current build-film counter.
+WORKSHOP FIX: earlier workshop renders were wrong. The sole selected WORKSHOP LOCATION MASTER is the user-supplied geodesic gold-lattice crystal room, NOT a generic workshop or alternate garage:
+https://drive.google.com/file/d/1p-vpSVBfA9ge20yoM53ypkRK0dBMhabX/view
+And the assigned android build reference is:
+https://drive.google.com/file/d/1PqTXBThKJbzvGPZ5U2aZ77sm9EgHr8AQ/view
+
+For each 000–009 input, compare its architecture to the exact workshop master BEFORE attempting moving video. If the room differs, mark SET QC HOLD and obtain a user-approved corrected source image, do not silently invent a workshop or generate a replacement image. Supplied JPEGs are unaltered visual input; scenes only become rendered when actual moving MP4 receipts are observed. The FIRST VIDEO of each NEW META WINDOW is numbered 000. Do not restart or alter prior completed footage.
 
 SOURCE IMAGE LOCK — USER-SUPPLIED STILL FIRST; NEVER AUTO-USE THE LAST VIDEO
 When the owner supplies or selects a still/JPEG/PNG/reference board for the current scene, that exact image is the VISUAL SCAFFOLD for the new moving MP4. Preserve its selected setting, real Ryan likeness (using the canonical original photo for identity), visor/glasses, approved helpers, physical table, materials, object positions and art direction. Animate the actual scene; do not make a screenshot/video-pan of the reference image.
