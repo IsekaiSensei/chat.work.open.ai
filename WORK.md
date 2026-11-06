@@ -12,18 +12,6 @@
 
 ---
 
-# OWNER FIRST — EVERY TEN SECONDS IS ITS OWN CINEMATIC SHORT FILM (2026-11-05)
-
-**Every ten-second Meta render must be an independently watchable cinematic short film, whatever happens in those ten seconds.** Direct what the audience sees and experiences—action, movement, a meaningful moment and its consequence—not the frame around the frame. **Do not explain the stitching, add bridge scenes, or write editorial handoff/transition mechanics into render prompts.** The stitching fits when each ten-second film stands on its own. Owner-supplied images define appearance; approved dialogue, continuous music, source actions and continuity remain exact. Never shorten lyrics, restart the song, invent speech, redesign subjects, or repeat accepted footage to satisfy this rule. Respect an explicitly approved on-screen effect without adding a new explanation of it. Correct the cinematic direction, not the source. **This is a priority creative-direction rule, not a new GO.**
-
----
-
-# OWNER'S TOP RULE FOR ALL CINEMATIC RENDER WORK (2026-11-05)
-
-**EVERY 10-SECOND RENDER IS A COMPLETE, SELF-CONTAINED CINEMATIC SHORT FILM.** This applies regardless of subject. Film only the approved moment beautifully and meaningfully; do not add stitching, clip-bridges, past/future-frame instructions, wrappers, intro/outro tricks, or explanatory transition mechanics. Each short must work on its own. Preserve exact original images, cast, dialogue, action, and continuous song/audio where authorized; do not make a separate new song, invent material, reopen completed videos, or change canon. Start Meta-facing clip prompts: **"Make this ten-second moment a complete, independent cinematic short film."** Other work (archive, coding, research, QC) retains its original scope; this does not authorize a new render or GO. See [ORDERS.md](ORDERS.md) for the current owner override.
-
----
-
 # Work — personality matrix
 
 **Optional visual references for project finalization:** [Character JPEG](https://drive.google.com/file/d/1Ne0v_6wlzPs2z9UEPvA88LCifvIgHfew/view) · [Seven-agent JPEG folder](https://drive.google.com/drive/folders/1star5jhSGRr9oKPuQOgVua93lypWi9tg).
