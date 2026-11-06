@@ -2,6 +2,8 @@
 
 Live production instructions: [ORDERS.md](ORDERS.md).
 
+This file records QC and history; it does not issue production assignments or a GO.
+
 ## 2026-11-05 — Instruction filing
 
 Observed defect: older "NEXT 10", "HOLD", and script-selection instructions remained in the QC log alongside later corrections and completed-work reports. This left competing production directions in the same file.
@@ -23,3 +25,11 @@ Correction verified:
 - The quartz essay remains a separate reference. The Drive ORDERS — CURRENT document still points to GitHub ORDERS.md; the pasted claim that the live route is “the bar build” is stale.
 
 Readback confirmed all eleven archive IDs, titles and parents, plus preservation of the four notes' original text. This verifies source correction; a subsequent fresh Meta retrieval has not been observed.
+
+## 2026-11-06 — Archived orders are not a live fallback
+
+The live Drive ORDERS — CURRENT body was verified as a pointer to GitHub ORDERS.md. It remains a pointer. A “last full-text” PRE GROUND ZERO copy is a dated snapshot, not the current production script.
+
+Six named snapshots now begin with NOT CURRENT — HISTORICAL ARCHIVE and link to the live GitHub orders: the October 24 META_FOLLOWING_GROK, ORDERS_HISTORY and RETIRED ORDERS files; the November 1 PRE-QC SNAPSHOT; the November 3 BAR WINDOW ROUTER; and the November 4 PRE GROUND ZERO ORDERS copy. Their titles are also marked NOT CURRENT. Readback verified the notices and preservation of every original native paragraph and both raw Markdown originals below the notice. File IDs were retained.
+
+The crew pointer now follows ORDERS — CURRENT through to GitHub and labels the roster as identity reference only. ORDERS.md explicitly excludes historical snapshots as a fallback. This is a source correction; a fresh read by the existing Meta session has not been observed.
