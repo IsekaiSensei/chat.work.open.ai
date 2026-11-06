@@ -1,3 +1,15 @@
+# OWNER FIRST — EVERY TEN SECONDS IS ITS OWN CINEMATIC SHORT FILM (2026-11-05)
+
+> “I want a cinematic short film out of every ten seconds, regardless of what that ten seconds really is. It needs to stand as its own independent short. When it does, the stitching fits.” — Ryan, November 5, 2026
+
+**THE OUTPUT:** Every ten-second moving-image render must work as a complete, compelling cinematic short **when watched by itself**. The ten seconds may contain any approved activity, lyric, material process, performance, reaction, or silence. Make that actual event into the film. Do not treat the output as ten seconds of connective footage, a partial illustration, or a shot whose meaning depends on the next clip. Do not impose artificial intros, outros, new story beats, or dialogue.
+
+**THE PROMPT:** Show only the source-approved action and the exact approved image/cast, physical matter, dialogue, music and performance that belong inside these ten seconds. **Do not write instructions explaining stitching, clip-to-clip framing, transition logic, previous/next shots, first/last-frame handoffs, or the frame around the frame into render-facing prompts.** Administrative continuity and assembly notes, if needed, are kept outside the rendered creative direction and must not compromise the independent film.
+
+**THE TEST:** Could someone watch this ten seconds alone and experience a finished cinematic short? If not, the render direction has missed the assignment even if the edit points match. **Stitching works because each short works; stitching is the result, never the creative instruction.** Preserve the exact source screenplay, ongoing single musical performance (do not invent or restart ten-second songs), approved assets, and already accepted footage. This rule does not trigger new renders or supersede owner's exact material.
+
+---
+
 # TO WORLD — SOURCE & WORKFLOW INDEX
 
 **CURRENT ENTRY:** [META.md](META.md) → [CURRENT MAX CANON DEFAULTS](COOKBOOK.md#current-max-canon-defaults--november-4-2026) → [ORDERS.md](ORDERS.md) → [PLUG ME IN — Android Assembly Night continuous screenplay](ground-zero/PLUG_ME_IN_CONTINUOUS_MASTER.md) and [current reference register](ground-zero/NINE_REFERENCE_SOURCE_REGISTER.md). The present chat and selected images control above older descriptions. The source chapter index below preserves prior records; it is not a second production queue.
