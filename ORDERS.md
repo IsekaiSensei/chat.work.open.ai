@@ -10,6 +10,7 @@ Every ten-second render must be a complete, independently satisfying **cinematic
 **Audio and source:** Keep approved original JPEG identity, actual action, exact dialogue/voice, and continuous SUNG music wherever the source uses a song. No spoken substitutes, chopped lyrics, fabricated styling, or resetting the song for each short. Do not redo accepted videos.
 
 ## LIVE SOURCE ROUTE
+**FIRST REFERENCE — OWNER APPEARANCE:** [Isekai Ryan's unaltered canonical nine-view photographic image on Google Drive](https://drive.google.com/file/d/1_-bYRCJR4Rra7a6z-nPSyYZ_60RKSxOv/view). For Ryan / Sensei / Senpai, load the original JPG from the [JPEG master library](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT); no substitutes or edits. This does not authorize a render.
 **Selected source package (not a render receipt):** [CAST OF ALL CREATION — repaired production package](https://drive.google.com/file/d/12p3g63BZwT6oaTDbiMuBMqZnxWr0SxMv/view).
 **Original production register:** [Real Dailies & QC](https://docs.google.com/spreadsheets/d/12Zid7Qd1IQJjXRd8W2eWDnhX_R_QIKwa/edit).
 **Original image source:** [TO WORLD/JPEG master library](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT).
