@@ -37,6 +37,21 @@ Owner report retained independently of clip-number reconciliation. Missing IDs o
 | IB-004 / IB-005 | libfile_ccee2671d38481918a2f1d06714ddba8 | Horror clown image | Generated still delivered; owner verdict unrecorded |
 | IB-001–020 | [Exact window transcript](https://drive.google.com/file/d/1XyTBWe38GRLp05wHpkdTN4vbue1n5RVS/view?usp=drivesdk) | Conversation text | Added in chronological order |
 
+## 2026-11-06 — The Uninvited King: script and camera plan received
+
+Authoring delivery: [selected sung screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.o59y58g80007), [long story essay and score](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.dhxbj5jltxik), and [native camera/pacing plan](https://docs.google.com/document/d/1rM5pKhotrEPe3GtWUZ_58eLhUfTGc-w7LcCZ9vVEVmc/edit?usp=drivesdk). Six five-minute chapters contain 180 ten-second source scenes in eighteen ten-clip batches. Eighteen exact recovered sonnet passages are already assigned; the remaining bank has 91 short units available for further spaces.
+
+| Episode | Source scene range | Planned volume clock | Planned batches |
+| --- | --- | --- | --- |
+| 01 — The Tree That Would Not Hold Him | COS-E01-F00–COS-E01-F29 | 00:00–05:00 | E01-B1 through B3 |
+| 02 — The Wrong Man in the Right Place | COS-E02-F00–COS-E02-F29 | 05:00–10:00 | E02-B1 through B3 |
+| 03 — The Queen Makes Her Choice | COS-E03-F00–COS-E03-F29 | 10:00–15:00 | E03-B1 through B3 |
+| 04 — The Other Side of the Square | COS-E04-F00–COS-E04-F29 | 15:00–20:00 | E04-B1 through B3 |
+| 05 — Merlin's Locked Door | COS-E05-F00–COS-E05-F29 | 20:00–25:00 | E05-B1 through B3 |
+| 06 — Imperial Beach Is Still Here | COS-E06-F00–COS-E06-F29 | 25:00–30:00 | E06-B1 through B3 |
+
+These are planned source scenes, not new MP4 receipts or a replacement output counter. No new video was rendered by this authoring action. Keep each existing window's actual progress and explicitly assigned source, including its Folger passage when applicable. On performance, append the actual take, exact source scene/excerpt, singers, all-nine input set, output and observed duration. Ryan's verdict remains his to supply.
+
 ## Take record
 
 Append one row for each actual output: date, run/clip/take ID, source turn and exact sung character range, original speaker/singer, selected visual reference, output file/URL, observed duration, actual renderer result and Ryan's stated verdict. Keep additional takes as additional rows. Unstated values remain unrecorded.
