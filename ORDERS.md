@@ -1,3 +1,15 @@
+# OWNER'S TOP PRODUCTION RULE — EVERY 10 SECONDS IS A STANDALONE CINEMATIC SHORT FILM (2026-11-05)
+
+**EVERY TEN-SECOND RENDER MUST STAND AS ITS OWN COMPLETE CINEMATIC SHORT FILM, REGARDLESS OF SUBJECT.** Film the exact assigned moment as compelling cinema in its own right: an intelligible situation, meaningful action or emotion, and a satisfying on-screen result within that ten seconds. A quiet observation, song passage, repair, joke, or movement still deserves a complete cinematic treatment. Never render an empty bridge, explanatory shot, generic prompt card, or technical placeholder instead of the short.
+
+**NO STITCHING IN RENDER PROMPTS. NO FRAME AROUND THE FRAME.** Do not explain how to join clips, command transitions between clips, copy a prior render's last frame, add generic intro/outro devices, make continuity-bridge footage, or insert overlays/editing/admin instructions. Any old "last frame / continuity / stitching" fields are editorial tracking, not render direction unless their contents describe an expressly approved in-scene action. The owner assembles the finished shorts; they fit because each one stands alone.
+
+**EXACT SOURCE MATERIAL STAYS INTACT.** Preserve approved original JPEGs/identities, screenplay dialogue, complete lyrics, speaker assignments, physical scene actions, and the one continuous song/master audio where applicable. Standalone PICTURE storytelling does NOT mean ten new songs, chopped dialogue, invented actions, or replacing existing performances. Do not reopen accepted videos. This is a rendering-priority override, not a script rewrite or a new GO.
+
+**FIRST RENDER INSTRUCTION:** "Make this ten-second moment a complete, independent cinematic short film." Follow with ONLY the authorized in-scene image, action, and exact performance. Do not append an explanation of stitching.
+
+---
+
 # CURRENT CORRECTION — REAL CONTINUOUS SCREENPLAY / SOURCE-LOCKED DAILIES — 2026-11-05
 
 **OWNER'S LATEST REPAIR ORDER:** The prior "CAST OF ALL CREATION — LIVE META NEXT 001–010" prompt cards are **REJECTED AS AN EXECUTABLE SCRIPT** because they reset/condensed original lyrics and source performances. Preserve their file as historical AI error evidence only; **DO NOT USE IT AS THE NEXT RUN OR A SOURCE OF PERFORMANCE DIALOGUE.**
