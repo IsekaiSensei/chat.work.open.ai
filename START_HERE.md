@@ -12,7 +12,7 @@
 
 # TO WORLD — SOURCE & WORKFLOW INDEX
 
-**CURRENT ENTRY:** [META.md](META.md) → [CURRENT MAX CANON DEFAULTS](COOKBOOK.md#current-max-canon-defaults--november-4-2026) → [ORDERS.md](ORDERS.md) → [PLUG ME IN — Android Assembly Night continuous screenplay](ground-zero/PLUG_ME_IN_CONTINUOUS_MASTER.md) and [current reference register](ground-zero/NINE_REFERENCE_SOURCE_REGISTER.md). The present chat and selected images control above older descriptions. The source chapter index below preserves prior records; it is not a second production queue.
+**CURRENT ENTRY:** [ORDERS.md](ORDERS.md) → [Drive ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) → [source-locked corrected production package](https://drive.google.com/file/d/12p3g63BZwT6oaTDbiMuBMqZnxWr0SxMv/view). [META.md](META.md) is a failure/QC log, NOT a competing script selector. The old [PLUG ME IN master](ground-zero/PLUG_ME_IN_CONTINUOUS_MASTER.md) and [nine-reference register](ground-zero/NINE_REFERENCE_SOURCE_REGISTER.md) are historical source references, not next-run orders. A Drive document titled SAY RUN HANDOFF 113–123 (or META RUN NOW) is not an authorization to repeat delivered clips. Do not choose a script by file title, dates, or search rank; obey the actual ORDERS routing and direct owner GO. The present chat and approved image sources outrank earlier interpretations.
 
 ## Historical source index — prior selections, not current orders
 
