@@ -8,6 +8,80 @@ The showrunner's [five-minute essay/teleplay structure](showrunner/SHOWRUNNER_5M
 
 **No screenplay overwrite:** The source conversation's verbatim singer/words remain authoritative under [ORDERS.md](ORDERS.md). The [new 040–069 sample composition](production-sheets/EPISODE_NEXT_040-069_SCRIPT_WORDS_ONLY.md) and [separate camera shot list](production-sheets/EPISODE_NEXT_040-069_SHOT_LIST.md) are proposals only, not a live render GO and not replacement dialogue. The owner alone QC's finished outputs. Reference recipes and writer-side scans do not preflight-hold or self-reject video.
 
+## IB-01 — CHRONICLES OF SOL / IMPERIAL BEACH STATION AND RELAY MARKET
+
+**Owner's current narrative reference:** [World Book — Chronicles of Sol annotations](https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit). This recipe supplies place, source-image and prop references for the selected scene.
+
+### Working method and source matching
+Ryan translates real-world places, objects and experiences into the existing graphic novel. “The fourth wall and the third wall and the second wall are all the same wall.” Apply this through the scene; do not add explanatory walls, director commentary or captions to the performance. The existing shark-patrol sequence is owner-reported at about five panels; recover its actual pages for a requested adaptation instead of inventing a replacement.
+The original title is **Chronicles of Sol**, with **COS / COSplay** wordplay. Use **Imperial Beach / IB** and **Sol Patriots / Patriots of the Stars**. Sol identifies our Sun and its system, not an American national affiliation.
+Imperial Beach's shield preserves the actual city and citizens through Earth's destruction, so the station's shopping streets retain a recognizable town. The earlier Merlin AI quarantine, the city's survival shield and the pocket service workshop have their respective source functions; don't collapse them into one generic interior.
+
+### Ten original uploads in this conversation
+Use the unaltered originals according to Ryan's explicit reference assignment, including all nine images in every clip when that is his instruction. Reference availability does not require every pictured subject to appear physically in the scene. The eight shop photographs document one local store, not all twenty-one businesses.
+
+| Original filename | Existing original | Observed reference |
+|---|---|---|
+| IMG_4862.jpeg | [Original](https://chatgpt.com/library?file_id=libfile_e23e430bb1a0819191fce65be3ef3567&account_id=personal) | Gift-bag wall, tissue/paper stock, adjacent cleaning supplies; shelf and floor junction. |
+| IMG_4863.jpeg | [Original](https://chatgpt.com/library?file_id=libfile_85a9785687bc8191b63f6c144f52ce98&account_id=personal) | Long aisle toward entrance, gift-wrap wall and toy-car endcap; room depth and fluorescent ceiling. |
+| IMG_4864.jpeg | [Original](https://chatgpt.com/library?file_id=libfile_6d44bdc079688191819051c3b6fb475d&account_id=personal) | Toys, books, craft supplies and pegboard shelving; worn reddish floor. |
+| IMG_4865.jpeg | [Original](https://chatgpt.com/library?file_id=libfile_79a78a0d6ffc8191bbb3ec511fdec279&account_id=personal) | Household/party-plate endcap and hanging gift bags; price labels are part of the original photo. |
+| IMG_4866.jpeg | [Original](https://chatgpt.com/library?file_id=libfile_413e227b90248191a5ae558123393a36&account_id=personal) | Toy/plush aisle and adjacent gift-bag fixture; shelf, endcap and floor layout. |
+| IMG_4867.jpeg | [Original](https://chatgpt.com/library?file_id=libfile_134f66abbeb48191abaa25af1d89d4fc&account_id=personal) | Toy and seasonal-decoration aisle; stock and freestanding holiday display. |
+| IMG_4868.jpeg | [Original](https://chatgpt.com/library?file_id=libfile_8f8b4702b63081919d86f6d4da098f91&account_id=personal) | Second view of seasonal/toy aisle; retains separate original viewpoint. |
+| IMG_4869.jpeg | [Original](https://chatgpt.com/library?file_id=libfile_d5cd0f2ff56c81918c96993607803e8d&account_id=personal) | Close floor reference: worn gray center strip, reddish sides and fixture base. |
+| IMG_4855(1).jpeg | [Original](https://chatgpt.com/library?file_id=libfile_fa79acf2420c819184708e3f43f15187&account_id=personal) | Uploaded four-photo glamour collage; separate human appearance/wardrobe source, not a store interior or an android identity assignment. |
+| IMG_4856(1).png | [Original](https://chatgpt.com/library?file_id=libfile_a0155ec14e188191a7d14e54fbb07b7a&account_id=personal) | Gold-tone chain two-piece garment on a mannequin; separate costume/accessory construction reference. |
+
+The visible retail structure includes long narrow aisles, pegboard gondolas, mixed shelf stock, wire baskets, endcaps, hanging gift bags, fluorescent ceiling rows, seasonal displays and visibly worn reddish/gray flooring. Preserve these concrete observations when translating the store. No image was redrawn or relabeled for this entry.
+The uploaded chain garment and glamour collage are separate visual references. Their presence does not choose a new face, assign a character name, authorize a redesign or establish that every person appears in the shop.
+
+### Magic-shopping props and store names
+The Galactic Ether Relay is the magic shopping network. Ryan demonstrates products as the Home Shopping Network host of the video-game universe. Gold can buy mana, health, daggers and electronics—including 555 timers, transistors and electrodes. Electronics entering the elven/fantasy realm is a narrative development, not permission to invent an already approved circuit schematic.
+**Android OZ General:** all parts just one ounce of gold; sister store to **One Coin Tree**. The price is the fictional store premise, not a conversion of photographed dollar labels or the entire economy.
+**RadioShack / Hollywood Video:** owner's old-world references; “link and go” is the owner's phrase. **HoloWood Video** and a holodeck-rental interpretation were assistant suggestions in this chat.
+Show physical stock and the existing quantum table/capsule/DNA-seam transfer from P-00 and I-01. A purchased part is traceable through the work and delivery.
+
+### Palm Avenue / Ninth Street location directory — researched November 6, 2026
+The supplied landmarks identify **Imperial Beach Promenade and Breakwater Town Center**, including the immediate intersection. These are real-world source businesses for the fictional station, not automatic assignments of renamed tenants. Every address below is on Palm Avenue, Imperial Beach, CA.
+
+| Business or service | Palm Avenue address | Research source |
+|---|---|---|
+| Hampton Inn & Suites | 771 | [Source](https://www.hilton.com/en/hotels/sanibhx-hampton-inn-suites-imperial-beach-san-diego/) |
+| The Wave Bar (inside Hampton Inn) | 771 | [Source](https://www.hilton.com/en/hotels/sanibhx-hampton-inn-suites-imperial-beach-san-diego/) |
+| Five Guys | 781 | [Source](https://restaurants.fiveguys.com/781-palm-ave) |
+| T-Mobile | 781, Suite 102 | [Source](https://www.t-mobile.com/stores/bd/t-mobile-imperial-beach-ca-91932-5393) |
+| Balsamico Italian Kitchen | 791, Suite 101 | [Source](https://www.balsamicokitchen.com/) |
+| Wingstop | 791, Suite 102 | [Source](https://locations.wingstop.com/ca/imperial-beach/wingstop-1277-imperial-beach-ca-91932) |
+| Baskin-Robbins | 791, Suite 103 | [Source](https://locations.baskinrobbins.com/ca/imperial-beach/791-palm-ave-355138-br) |
+| CVS Pharmacy | 800 | [Source](https://www.cvs.com/store-locator/cvs-pharmacy-locations/California/Imperial-Beach) |
+| Starbucks | 801 | [Source](https://www.waze.com/live-map/directions/starbucks-palm-ave-801-imperial-beach?to=place.w.159187270.1591741626.6885278) |
+| Chipotle | 801 | [Source](https://locations.chipotle.com/ca/imperial-beach/801-palm-ave) |
+| Jersey Mike's Subs | 801, Suite 101 | [Source](https://www.jerseymikes.com/20223/imperial-beach-ca) |
+| POKÉ 1·2·3 | 801, Suite 102 | [Source](https://toast.app/r/poke-123-imperial-beach/order) |
+| Great Clips | 801, Suite 103 | [Source](https://salons.greatclips.com/us/ca/imperial-beach/801-palm-ave/salon-services) |
+| Dollar Tree | 836 | [Source](https://locations.dollartree.com/ca/imperial-beach/836-palm-avenue) |
+| Goodwill | 880 | [Source](https://sdgoodwill.org/location/imperial-beach-retail-store/) |
+| Grocery Outlet | 881 | [Source](https://www.ib-chamber.com/member/grocery-outlet-0) |
+| San Ysidro Health WIC | 886 | [Source](https://www.syhealth.org/services/wic-program) |
+| Jack in the Box | 890 | [Source](https://locations.jackinthebox.com/us/ca/imperial-beach/890-palm-ave) |
+| Imperial Beach Optometry | 894, Suite B | [Source](https://www.imperialbeachoptometry.com/) |
+| Raising Cane's | 900 | [Source](https://locations.raisingcanes.com/ca/imperial-beach/900-palm-avenue) |
+| 76 gas station | 907 | [Source](https://www.loc8nearme.com/california/imperial-beach/gas-stations/) |
+
+One storefront remains unresolved: **894 Palm, Suite C** has conflicting listings for B&G Barbershop and The Check Cashing Place; do not count them as two verified operating stores. [Barber listing](https://www.cylex.us.com/imperial-beach/barber-shops/) · [Check-cashing listing](https://www.bbb.org/us/ca/imperial-beach/profile/check-cashing-services/the-check-cashing-place-inc-1126-14001242/addressId/197848).
+An older leasing list calls the Italian tenant Soleluna; the restaurant's own current page identifies **Balsamico Italian Kitchen**, 791 Palm, Suite 101. The present list incorporates that correction. It is the researched cluster, not a guarantee that every current occupant of every unit was independently observed.
+
+### Imperial Beach's real sewage history
+The city's FAQ documents decades of transboundary sewage flows, worsening since 2017. A 2026 county report records sewage-related closures at Imperial Beach locations on 1,184 of 1,293 days between January 1, 2023 and July 17, 2026. These are location-based closure figures, not a claim that every beach segment was closed continuously. State Lands describes contaminated coastal access, ecological damage, odors and air-quality impacts.
+[City background FAQ](https://www.imperialbeachca.gov/DocumentCenter/View/2587/082024-Imperial-Beach-Sewage-FAQ) · [County closure report](https://sdcounty.legistar.com/LegislationDetail.aspx?FullText=1&GUID=EF0D557C-84A5-4B6D-9FAF-4C9018A80045&ID=8166701) · [State Lands](https://www.slc.ca.gov/trv-transboundary-pollution-crisis/).
+This is the researched local context for the owner's survival theme, not evidence of a present-day shield or a specified fictional engineering solution.
+
+### Modesto / Knights and Patriots reference
+Future car-show culture becomes the owner's spaceship parade: a Lucas tribute past **Thomas Downey High School** and the owner's size-comparison flyby at **Fred C. Beyer High School / Patriots**. [Downey school profile](https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/2930/Downey/ba8fe892-d8cb-4247-a78d-a686d46e8af8/TDHSprofile_25-26__1_.pdf?disposition=inline) · [Beyer athletics reference](https://mhs.mcs4kids.com/o/beyer/documents/athletics/athletic-information/322451).
+The filmmaker-age research was a dated conversation aside: on November 6, 2026, John Carpenter was 78 and George Lucas 82. Carpenter's Dark Star release in April 1974 put him at 26; Halloween in 1978 at 30. Lucas's first feature in 1971 was at 26; Star Wars in 1977 at 33. [Carpenter film record](https://theofficialjohncarpenter.com/dark-star/) · [Carpenter birth record](https://www.visitbgky.com/john-carpenter/biography/) · [Lucas birth record](https://achievement.org/achiever/george-lucas/) · [Lucasfilm history](https://www.lucasfilm.com/who-we-are/our-story/). These ages do not set the world's chronology.
+
+
 ## V-00 — OWNER-SELECTED VISUAL SOURCE
 
 The exact owner-selected JPEG/PNG/reference board defines the scene's composition, subject, setting, props and material appearance. Ryan's original identity photograph defines Ryan's likeness. The selected conversation's visual materials supply its background. Read source images as source images; use the cinematographer's shot list for the moving shot.
@@ -100,6 +174,8 @@ Find the relevant recipe, read the approved original source, and use that source
 - **[COOKBOOK.md](COOKBOOK.md)** — **reference recipe index and controlled glossary under CURRENT MAX CANON DEFAULTS**: choose a recipe, load original ingredients, perform only the owner-requested task, check result.
 
 ## CONTENTS — PICK A RECIPE
+
+- [IB-01 — Chronicles of Sol / Imperial Beach station and relay market](#ib-01--chronicles-of-sol--imperial-beach-station-and-relay-market)
 | Card | Find it under | Purpose |
 | --- | --- | --- |
 | 00 | How this cookbook works | Authority, no-overwrite rule, where art direction lives |
