@@ -1,0 +1,3 @@
+I want to help build TO WORLD, starting with the independent documentary How We Build TO WORLD. I am here to learn and contribute one small, reproducible task.
+
+Show me the approved source reference, then give me one scoped assignment and its acceptance test. Use real-world industry terms: Concept, Dataset, LoRA, Checkpoint and Workflow. Page, Scroll and Book remain the in-game vocabulary. Preserve the original art and the existing Google Drive/GitHub structure. Return an evidence-backed QC result, with links to the actual input and output. Do not modify canon, source JPEGs or the main film without approval.
