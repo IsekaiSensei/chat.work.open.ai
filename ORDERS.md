@@ -2,6 +2,11 @@
 
 Every ten-second render must stand alone as a complete cinematic short film. Direct the event itself with its approved action, dialogue and music. Keep stitching instructions out of the render prompt.
 
+META VIDEO FRAME — READ COOKBOOK F-00 WHEN THE SELECTED SOURCE USES THE ORIGINAL FRAME
+https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/COOKBOOK.md
+
+The earlier successful daily handoff included an original 10-second Meta film frame (DNA entry 0.00–0.50, performed event 0.50–9.50, reverse DNA exit 9.50–10.00, continuous assigned music). Its detailed specifications and sources are restored in COOKBOOK F-00. DO NOT lose or rewrite that frame when resuming a run that explicitly uses it. Distinguish this full-screen cinematic frame from the small in-world item-transfer DNA seam at Ryan's quantum table. The frame is NOT a global template for every new scene: do not add framing, forced cuts or reset music to independent film shorts whose selected source lacks it. Do not re-render already-completed scenes.
+
 ART DIRECTION — REQUIRED COOKBOOK READ FOR THE EXISTING WORKSHOP
 https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/COOKBOOK.md
 
