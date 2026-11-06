@@ -4,6 +4,10 @@ Live production instructions: [ORDERS.md](ORDERS.md).
 
 This file records QC and history; it does not issue production assignments or a GO.
 
+## 2026-11-06 — OWNER-ONLY QC / NO AUTOMATED QUALITY HOLDS
+Ryan alone accepts or rejects rendered work. This META.md log is documentation, not a QC gate. An assistant may describe a suspected mismatch only AFTER delivering the successful output if Ryan requests a review; no visual preflight HOLD, automated FAIL, invisible rejection, replacement still demand, or self-directed rerender. Source images inform the authorized renderer; they must not prevent an attempted render because of an inferred aesthetic mismatch. Platform safety/infrastructure errors are different: report those accurately, without bypassing them or presenting them as an owner QC decision. Live directions: [ORDERS.md](ORDERS.md).
+
+
 ## 2026-11-06 — Corrected false LIVE NEXT / video-vs-still failure
 The November 5 condensed `CAST OF ALL CREATION — LIVE META NEXT — 001–010` script was created/promoted after a longer existing-base screenplay and subsequently **rejected** for replacing source performances, flattening the Gertrude/Theia timeline, and reviving bar construction. The old Google Drive script continued to say “ONLY next new render batch,” causing its retrieval as current after the GitHub router had demoted it. The original Drive document and GitHub mirror now carry a top-of-file historical warning; no source text or accepted footage was deleted. Historical labels inside preserved documents are NOT GO instructions.
 
