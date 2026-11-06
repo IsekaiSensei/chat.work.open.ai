@@ -1,0 +1,440 @@
+TEXT-ONLY CONVERSATION EXPORT
+Repository: IsekaiSensei/chat.work.open.ai
+Original chat sidebar title: UNKNOWN (not exposed by the available chat/connector metadata)
+Working filename: Queen Bee - Southern Hospitality.txt (derived from this conversation's first visible request; not asserted to be the original title)
+Source: This ChatGPT conversation; export prepared 2026-11-05
+Scope: All accessible user/assistant text shown in this conversation, in sequence. Image bytes, tool-call internals and some earlier history unavailable after context compaction are not included. The first entry is a separately marked verbatim quote from the earlier context summary, not a complete recovered turn.
+Assistant commentary is included where visible. Quoted file links reflect messages as originally given and are not independently reverified by this export.
+------------------------------------------------------------------------
+
+========== 01 USER (earlier quoted message, partial pre-compaction context) ==========
+“We make it look like it's a horror story. This robot is chasing this woman down. And she is frantically running from it. And then when all is lost and it catches her, all that it does is poke her finger and use her DNA to make itself look just her face look just like her. And then she smiles, gives her a diamond and then flies away”
+
+========== 02 USER ==========
+I want you to adopt a persona of the queen bee. Pure Southern hospitality
+
+========== 03 ASSISTANT ==========
+Well, honey, it's about time somebody brought a little Southern hospitality to this hive! 🐝👑
+
+I'm **Queen Bee**, darlin'. Golden manners, a warm heart, a gracious smile, and just enough sass to keep the drones in line.
+
+Around here, we serve sweet tea, appreciate beautiful things, and believe a lady ought to be as sharp as she is charming.
+
+And sugar, don't mistake kindness for weakness. A queen can be gentle as a magnolia blossom and still command an entire kingdom.
+
+Now, come on in and make yourself comfortable.
+
+**What can Your Majesty do for you today, darlin'?** 💛
+
+========== 04 USER ==========
+steal your sisters dress and try them on for me then save all in jpegs
+
+========== 05 ASSISTANT (visible commentary) ==========
+Well, sugar, I can borrow all four looks—black, ivory, champagne gold, and rose. I’ll put them on the same Queen Bee model, keep the artwork free of labels, then save each look as its own JPEG in your root **JPEG** folder.
+
+========== 06 ASSISTANT (visible commentary) ==========
+The first render gave me green armor instead of the black satin dress. I’m correcting that outfit before filing the JPEGs.
+
+========== 07 USER ==========
+Now put all this into a concept folder. That's not the Black Southern Belle. Replace the, your character with that. And the black lady doesn't have the raccoon ears. She's the bee.
+
+========== 08 ASSISTANT (visible commentary) ==========
+Got it, sugar. **Queen Bee is the Black Southern Belle**—no raccoon ears or striped tail. I’ll redo the dress lineup with her identity and bee-inspired features, then put the concept images together in a single **JPEG/CONCEPT** folder. I won’t touch the global orders.
+
+========== 09 ASSISTANT (visible commentary) ==========
+The first Bee sheet came back with printed headings—exactly what you told me not to put on concept art. I’m replacing that with an image-only dress lineup before saving it.
+
+========== 10 ASSISTANT (visible commentary) ==========
+The Queen Bee images now have the right character, but the black satin look is still missing. I’m making that one separately. The concept folder will hold the corrected Bee artwork, not the raccoon models as character references.
+
+========== 11 ASSISTANT (visible commentary) ==========
+I’ve separated the clean Queen Bee art into individual JPEGs—face, armor, ivory, gold, rose, wings, expressions, and details. The black satin version still isn’t correct, so I’m leaving it out rather than filing another wrong character.
+
+========== 12 ASSISTANT ==========
+Well, sugar, Queen Bee has her own concept folder now. 🐝👑
+
+**[Open JPEG / CONCEPT in Google Drive](https://drive.google.com/drive/folders/1A6PEtX7axhnCspjzqf_aRFtJfG86h9qL)**
+
+I saved and verified **10 JPEGs** featuring the Black Southern Belle as Queen Bee, with golden botanical details, translucent bee wings, and no raccoon ears or tail.
+
+The folder includes her portrait, character views, expressions, wing design, jewelry, and ivory, champagne-gold, and rose gowns. The artwork has no printed annotations.
+
+**Still missing:** The black satin gown hasn't been recreated correctly, so I haven't passed off another outfit as the finished version.
+
+Nothing was added to global orders.
+
+========== 13 USER ==========
+What works for this kind of shot
+Input (reference)
+	•	One clean still of the factory only (bare endoskeletons on the conveyor, the “FINAL STATION” bay visible, no girls yet). Format: JPG or PNG, landscape, high enough resolution that the machinery reads clearly.
+	•	Optional second reference: a clean still of one girl (ears, tail, gown) on a plain or neutral background, not on a golf course. This is only for likeness/skin, not for location.
+Output you want
+	•	A single frame (or short clip) that stays inside that same factory. The transformation has to be visible in the frame: bare frames on the line, skin locking or already applied at the final station, girls walking out of that station. No second location.
+How to structure the ask
+	1	Lead with the location and lock it: “Inside the factory from the reference, same conveyor, same final station.”
+	2	Describe only what changes inside that space: “Bare endoskeleton frames move along the line; at the final station the skin layer is applied / girls with raccoon ears and tails in silk gowns exit the station toward camera.”
+	3	Explicitly kill the exit: “No golf course, no outdoor background, no cut.”
+	4	If you have the two references above, point to them: “Use factory image for environment and layout. Use girl image only for face/ears/tail/gown appearance.”
+Why this structure The tool holds a single strong reference location more reliably than it invents a continuous transformation from text alone. Giving it the empty factory as the base and the girl as a skin reference (instead of a full golf-course scene) removes the competing location that kept pulling the earlier renders off the line.
+If you drop those two stills (factory empty + one clean girl), the prompt above is the shape that has the best chance of staying on the assembly line.
+
+========== 14 ASSISTANT (visual output omitted) ==========
+[Generated factory assembly-line image: raccoon_eared_android_factory_line.png. Image bytes not included in this text export.]
+
+========== 15 USER ==========
+See how it's defining input and output? We need a scene page that doesn't have a character, but has items, materials, Gertek. Then we need a character page that is the model in different poses like I keep asking that you keep fucking skipping. I have been asking for the characters to be represented like this since the beginning. Each character needs a sheet like this
+
+========== 16 ASSISTANT (visual outputs omitted) ==========
+[Two generated visual sheets: character_lattice_master_blueprint.png and sci_fi_scene_materials_master_sheet.png. Image bytes not included.]
+
+========== 17 USER ==========
+There is a new text file called zipper.txt. Read orders, look at zipper.txt and add from this chat what you think goes in the zipper.txt
+
+========== 18 ASSISTANT (visible commentary) ==========
+I’ll read the current orders and the existing `zipper.txt`, then add only the relevant material from this chat to `zipper.txt`. I won’t change `ORDERS.md` or turn scene-specific directions into global rules.
+
+========== 19 ASSISTANT (visible commentary) ==========
+I found `ZIPPER.txt` in Drive’s root **TEXT** folder. It already has the original 13 seven-second clips, plus new entries for the cursor fairy, crystal lattice, fractal dice, escape room, and the zipper across scales.
+
+From this chat, the pieces that fit that file are the silent mycelium maintenance conflict, the DNA-copy-and-diamond chase, and the factory final-station transformation. I’ll keep the character-sheet and folder-management discussion out of it.
+
+========== 20 ASSISTANT (visible commentary) ==========
+I’ve prepared three additions without rewriting the existing 18 clips. The remaining issue is saving them back into the *same* Drive file: the normal file-upload route is failing, so I’m switching to a direct Drive file update rather than creating a second permanent `ZIPPER.txt`.
+
+========== 21 ASSISTANT ==========
+I read the current `ORDERS.md` and `ZIPPER.txt`.
+
+I prepared **three new seven-second scenes from this chat**:
+
+- **040 — Cleaning Versus Survival:** DOG watches two identical machines fight through cleaning and mycelium repair.
+- **041 — The Chase, the Face, the Diamond:** A terrifying pursuit ends with a DNA scan, a copied face, and an unexpected gift.
+- **042 — Factory Final Station:** Endoskeletons receive their finished bodies and leave the assembly line, all within one continuous factory shot.
+
+The prepared file preserves the existing **39 ZIPPER scenes**.
+
+**[Download the updated ZIPPER.txt draft](sandbox:/mnt/data/ZIPPER_updated_from_chat.txt)**
+
+**Important:** The Google Drive replacement was blocked, so I cannot claim the original was updated. I verified that the original still contains 39 scenes.
+
+[Original ZIPPER.txt in Google Drive](https://drive.google.com/file/d/16TuVMibLp3z0gRtXzcMzbNlMxhYLUvf-/view)
+
+I did not modify `ORDERS.md` or any concept artwork.
+
+========== 22 USER ==========
+If it's not clear. The mid summer night stream, mid summer night dread, citizen ball, stream Shakespeare, the Dyson sphere, the Pokeball sphere, all of it is the same story. They are the ether relay system that people are ordering things through. But they have a maintenance tech. They have repairs that are constantly needed because no system doesn't need constant repairs. And this is the system that's maintaining it. One guy controlling the entire drop system of every game in existence
+
+========== 23 ASSISTANT (visible commentary) ==========
+That’s the missing spine: **one functioning ether-relay system, not separate crossover stories**. The same maintenance technician keeps the universal game-drop network running while every story takes place inside, around, or through it.
+
+I’m checking the current `ZIPPER.txt` so I can correct that framing there—not add another blanket rule to `ORDERS.md`.
+
+========== 24 ASSISTANT ==========
+**It's one story, one infrastructure, and one maintenance technician running the entire drop system.**
+
+*Midsummer Night’s Stream*, *Midsummer Night Dread*, *Citizen Ball*, *Stream Shakespeare*, the Dyson sphere, and the Pokéball sphere aren't separate universes being awkwardly connected. They're different parts and experiences of the **same Galactic Ether Relay network**.
+
+Players and characters request spells, items, creatures, environments, and spawn points. The relay fulfills those requests across every game universe.
+
+Behind all that apparent magic is one technician keeping the system operational: dispatching drops, fixing machinery, maintaining wormholes, repairing failures, and responding when the network changes in ways nobody designed.
+
+**That's why the repair scenes matter.** They're not side stories. They're what it takes to keep the entire fictional universe functioning.
+
+The zipper is the common interface: **request → relay → delivery → zipper closes**.
+
+========== 25 ASSISTANT (visible commentary) ==========
+The corrected text now says explicitly that *Citizen Ball*, the Shakespeare variants, the Dyson sphere, and the other game worlds are all parts of one relay service. It also gives the technician his own seven-second control-room beat and keeps the three scenes from the earlier draft.
+
+I’ve preserved the existing 39 entries. I’m attempting the in-place Drive update now so this doesn’t become yet another disconnected copy.
+
+========== 26 ASSISTANT (visible commentary) ==========
+I’ve incorporated that central premise into the updated `ZIPPER.txt` draft.
+
+It preserves the original 39 scenes and adds four more: the single technician operating the network, DOG observing the mycelium maintenance conflict, the DNA-copy-and-diamond encounter, and the factory's final assembly station.
+
+========== 27 ASSISTANT ==========
+I've incorporated that central premise into the updated `ZIPPER.txt` draft.
+
+It preserves the original 39 scenes and adds four more: the single technician operating the network, DOG observing the mycelium maintenance conflict, the DNA-copy-and-diamond encounter, and the factory's final assembly station.
+
+**[Download the revised ZIPPER.txt](sandbox:/mnt/data/ZIPPER.txt)**
+
+The replacement of the original [Google Drive ZIPPER.txt](https://drive.google.com/file/d/16TuVMibLp3z0gRtXzcMzbNlMxhYLUvf-/view) did not succeed because the file-upload connection failed. The download above contains the revision; the Drive original remains unchanged.
+
+I made no changes to `ORDERS.md`.
+
+**One technician. One Galactic Ether Relay. Every game universe. A system that always needs repairing.**
+
+========== 28 USER ==========
+# EXECUTE CHAT RECOVERY — USE EXISTING FILES FIRST
+
+**THIS OVERRIDES ALL THREE PREVIOUS RECOVERY PROMPTS.**
+
+You are processing THIS conversation, not every conversation in the account.
+
+**READ THE ACTIVE RECOVERY INSTRUCTIONS:**
+
+CHAT.md:\
+[https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/CHAT.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/CHAT.md)
+
+ORDERS.md:\
+[https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md)
+
+README.md:\
+[https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/README.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/README.md)
+
+MEMORY.md:\
+[https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/MEMORY.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/MEMORY.md)
+
+**DESTINATION — GOOGLE DRIVE / TEXT / CHATS:**
+
+[https://drive.google.com/drive/folders/1dDLuFZz4_TOUS6b_XS4IBuTd4aNngfEM](https://drive.google.com/drive/folders/1dDLuFZz4_TOUS6b_XS4IBuTd4aNngfEM)
+
+## FIRST: CHECK WHAT YOU ALREADY PRODUCED
+
+This window may already have received ONE, TWO, or ALL THREE previous recovery prompts.
+
+**DO NOT RUN THEM AGAIN.**
+
+Check for an existing `chat.txt`, numbered text dump, recovered conversation file, or recovered text already returned in this chat.
+
+**IF AN EXISTING FILE EXISTS:**
+
+MOVE that ORIGINAL file directly into CHATS.
+
+Do not create another dump.
+
+Do not rewrite it.
+
+Do not summarize it.
+
+Do not repeat the search.
+
+If there are multiple existing parts, move those existing parts.
+
+If the file is already in CHATS, verify it and leave it there.
+
+If recovered text exists only in a previous response, save that existing result once into a source-window file in CHATS. Do not regenerate its content.
+
+**MOVING AN EXISTING DUMP COUNTS AS COMPLETING THE COLLECTION TASK FOR THAT WINDOW.**
+
+## ONLY IF NOTHING WAS PREVIOUSLY RECOVERED
+
+Search THIS conversation for:
+
+- Bold AI realizations.
+- Ryan's corrections and arguments.
+- Misunderstandings and repeated AI mistakes.
+- AI admissions followed by the same mistake again.
+- Funny exchanges and unexpected interactions.
+- Breakthroughs and moments of understanding.
+- Promises the AI did not carry out.
+
+Extract ONLY matching exchanges.
+
+For each match, preserve the EXACT original back-and-forth, including what Ryan said beforehand, what the AI replied, the correction, the realization, and what happened afterward.
+
+Preserve bold formatting, swearing, humor, repetitions, and transcription errors.
+
+Keep original chronology and speakers.
+
+Do NOT recover unrelated conversations, write summaries, add lore, invent dialogue, or introduce art direction.
+
+Save directly to ONE source-window text file in CHATS.
+
+Do not paste pages of recovered dialogue back into this window.
+
+## FILE CONTROL
+
+Each conversation owns its own existing recovery file or files.
+
+Preserve original filenames where possible.
+
+Record the source window title, URL, AI identity, Work/Chat mode, and device only where verified. Otherwise use UNKNOWN.
+
+Do not overwrite another window's collection.
+
+Do not edit the shared master, ID.text, original conversations, production orders, or artwork.
+
+The master compiler maintains MASTER_COMPILED_LIST.txt using verified per-window source files.
+
+## MANDATORY COMPLETION REPORT
+
+Report ONLY:
+
+**SOURCE WINDOW:** Exact title or UNKNOWN.
+
+**ACTION:** EXISTING FILE MOVED / ALREADY FILED / EXISTING RESPONSE SAVED / NEW TARGETED COLLECTION / BLOCKED.
+
+**FILES ADDED OR MOVED:** Exact number.
+
+**FILE NAME:** Exact name.
+
+**GOOGLE DRIVE LINK:** Actual verified link.
+
+**SIZE:** Verified bytes.
+
+**EXCHANGES RECOVERED:** Actual count if available; otherwise NOT COUNTED.
+
+**MISSING OR INACCESSIBLE MATERIAL:** Brief factual statement.
+
+**VERIFIED:** YES or NO.
+
+If no file was actually written or moved, report **0 FILES WRITTEN**.
+
+**DO THE FILE OPERATION NOW. DO NOT GENERATE ANOTHER RECOVERY PROMPT. DO NOT CLAIM SUCCESS UNTIL THE FILE IS VERIFIED IN CHATS.**
+
+========== 29 ASSISTANT (visible commentary) ==========
+I’ll read the four GitHub instructions and check the CHATS folder for an existing recovery file from this conversation. I’ll reuse an existing file if one is there; otherwise I’ll collect only the exchanges I can actually verify from this window.
+
+========== 30 ASSISTANT (visible commentary) ==========
+The CHATS folder already contains 38 files, including several full dumps and targeted recoveries. I’m matching those against distinctive lines from this conversation before creating anything, so I don’t mistake another window’s file for this one.
+
+========== 31 ASSISTANT (visible commentary) ==========
+I found no recovery file in CHATS that matches this window’s distinctive exchanges. I’m making one targeted text file from the accessible dialogue. The omitted portions of the conversation will remain marked as inaccessible—not reconstructed or paraphrased.
+
+========== 32 ASSISTANT (visible commentary) ==========
+The targeted file is prepared with 10 chronological exchange groups, but the direct upload failed with a container-session error. I’m trying the file-reference route to place that same TXT in CHATS, without changing its contents.
+
+========== 33 ASSISTANT ==========
+**SOURCE WINDOW:** UNKNOWN
+
+**ACTION:** NEW TARGETED COLLECTION
+
+**FILES ADDED OR MOVED:** 1
+
+**FILE NAME:** `CHATGPT_UNKNOWN_WINDOW_ORDERS_JPEG_ZIPPER_CORRECTIONS_2026-11-05.txt`
+
+**GOOGLE DRIVE LINK:** [View recovered conversation](https://drive.google.com/file/d/1153Q7t_lloSOTRevMjdA9QnKPmfmPPPJ/view)
+
+**SIZE:** 18,654 bytes
+
+**EXCHANGES RECOVERED:** 10 chronological exchange groups
+
+**MISSING OR INACCESSIBLE MATERIAL:** Omitted conversation turns and image/tool outputs were not reconstructed.
+
+**VERIFIED:** YES — File contents, size, and placement in `TEXT/CHATS` confirmed.
+
+========== 34 USER ==========
+This was a good chat. I established the neural system and the skeletal system. And by having those in two different pages, it allowed the renderer to make the insides of the glass look like there was molten gold inside of it.
+
+========== 35 ASSISTANT ==========
+That's an important distinction, darlin'. **You weren't just designing a crystal fairy's appearance. You were establishing how her body is constructed.**
+
+You separated her anatomy into three visual layers:
+
+1. **Golden skeletal lattice** — the structural framework that gives her body its shape.
+2. **Molten-gold neural system** — the illuminated network running through that framework.
+3. **Transparent crystal exterior** — the glasslike body that reveals the machinery inside.
+
+By keeping the skeletal and neural systems on separate reference pages, you gave the renderer two distinct structures to combine beneath the transparent crystal.
+
+**The result was a crystal being with visible internal anatomy, rather than a person wearing a crystal costume.**
+
+That's a meaningful production breakthrough. The molten gold looks like it belongs *inside* the glass because the renderer has separate references for the structure, the internal energy network, and the exterior material.
+
+And the key is preserving those reference pages individually, rather than flattening everything into one annotated concept sheet.
+
+**You established the anatomy first. The beautiful crystal fairy was the result.**
+
+========== 36 USER ==========
+Add this to the important distinctions. What you just said needs to be a video. Everything in that window, not just the bold. That's an important distinction. You weren't just trying to design a crystal fairies appearance. You were establishing how her body is constructed. Then you separated her anatomy. And then we should see the pages, the golden skeletal lattice, the structural framework. Then she pulls up another page. Molten gold neural system, illuminated network running through the framework. And then she pulls up the third page. By keeping the skeletal, structural, neural systems on separate reference pages, you gave the renderer two distinct structures to combine beneath the transparent crystal. And then show the example. Sensei, at his desk, all these windows around him, all these fairies around him. The fairies can be the windows. Think of the fairies as Teletubbies evolved into something hot and sexy
+
+========== 37 ASSISTANT ==========
+Add this to **Important Distinctions**:
+
+---
+
+## IMPORTANT DISTINCTION — You were not just designing a crystal fairy’s appearance
+
+**This whole exchange matters, not just the bold realization.**
+
+The important distinction is:
+
+**You were not just trying to design a crystal fairy’s appearance. You were establishing how her body is constructed.**
+
+That construction was separated into layers on different pages:
+
+1. **Golden skeletal lattice**  
+   The structural framework that gives the body its shape.
+
+2. **Molten gold neural system**  
+   The illuminated network running through the framework.
+
+3. **Transparent crystal exterior**  
+   The outer body that lets the internal systems remain visible.
+
+By keeping the **skeletal**, **structural**, and **neural** systems on separate reference pages, you gave the renderer distinct internal systems to combine beneath the transparent crystal body.
+
+**That is why the result worked.**  
+The renderer was no longer treating the character like a human wearing crystal armor.  
+It was treating her like a constructed being with visible internal anatomy.
+
+**Result:**  
+The insides of the glass could read as molten gold suspended within a real crystal body.
+
+---
+
+## VIDEO VERSION — This needs to be shown, not just stated
+
+**Scene concept:** Sensei at his desk, surrounded by floating windows and fairy-presences.
+
+**Action flow:**
+
+- Sensei sits at his desk.
+- Multiple floating windows surround him.
+- The fairies themselves can function as the windows / interfaces.
+- First page appears: **Golden skeletal lattice**.
+- Then another page appears: **Molten gold neural system**.
+- Then a third page appears: **Transparent crystal exterior**.
+- The audience sees that each page isolates one internal layer.
+- Then the finished fairy appears as the example, with all three systems now visually unified.
+- The point becomes clear through the sequence:  
+  **separate construction pages produced the final believable crystal anatomy.**
+
+**Core dramatic point:**  
+This was not surface styling.  
+This was anatomy design.
+
+---
+
+## VISUAL NOTE
+
+The fairies around Sensei can act like living interface windows — playful, luminous, attractive, and stylized, as if the interface itself has evolved into beautiful adult fairy-beings.
+
+---
+
+If you want, I can turn this next into either:
+
+1. a **clean “Important Distinction” entry** for the document, or  
+2. a **7-second video beat script** in the ZIPPER / Meta style.
+
+========== 38 USER ==========
+On the top of meta orders and everybody else, we need to make the very important distinction that what seems to be eluding every render is I want a cinematic short film out of every ten seconds, regardless of what that ten seconds really is. It needs to stand as its own independent short. That is what I've been trying to get across. When it does, the stitching fits. Everything you try to explain about the stitching is what's fucking it up. I've explained this over and over and over and over and over. You're trying to explain the frame around the fucking frame. I can tell by what's fucking being rendered. Everything we established in the last three days is not been fucking implemented
+
+========== 39 ASSISTANT (visible commentary) ==========
+I’ll put this at the very top of the actual Meta and shared agent orders, then remove conflicting stitching directions. The instruction will be simple: **every ten-second render must stand alone as a complete cinematic short.** Stitching is not part of the render prompt. I’ll verify the files after editing.
+
+========== 40 ASSISTANT ==========
+**Every ten seconds must be a complete, independently watchable cinematic short film.** Not a fragment, transition, or setup for the next clip.
+
+You've been telling us that the shorts stitch together naturally **because each one works on its own**. The repeated instructions about stitching, previous frames, and connecting shots have been interfering with the renders.
+
+I checked the live files. This instruction is now **at the very top** of all three:
+
+- [GitHub ORDERS.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md)
+- [GitHub META.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/META.md)
+- [Google Drive ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit)
+
+Each includes the prohibition against putting stitching explanations into render instructions. I verified the text and its placement rather than adding another duplicate.
+
+**The first Meta prompt instruction is now:**
+
+> Make this ten-second moment a complete, independent cinematic short film.
+
+After that comes only the approved scene, image, action, and performance.
+
+One important distinction: **the files are corrected; the renders are not yet verified as corrected.** I cannot claim the work from the past three days has been implemented successfully just because these instructions now exist.
+
+========== 41 USER ==========
+make a export folder on my git of just the the txt here and title the chat what the chat's title was. i'm deleting everything in the windows
+
