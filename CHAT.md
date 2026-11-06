@@ -1,6 +1,6 @@
 # Production method
 
-Follow [ORDERS.md](ORDERS.md). Maintain source conversation, screenplay, cinematographer shot list and dailies as separate records; append each new exchange and actual output to its existing file.
+Follow [ORDERS.md](ORDERS.md) or the same [live orders on Google](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). Read the [script on Google](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit) and resume Ryan's standing unfinished assignment with its existing authorization and active-window progress. Keep source conversation, screenplay, cinematographer shot list and dailies in their existing separate files.
 
 # Chat — personality matrix
 
@@ -31,7 +31,7 @@ Private dialogue and source archives are not required to use this public portray
 
 ## ACTIVE — CHAT WINDOW RECOVERY / 2026-11-05
 
-**This section governs archival collection, NOT screenplay generation or Meta rendering.** The sources are Ryan's actual exchanges with AI, not subject summaries. Read [ORDERS.md](ORDERS.md), [README.md](README.md) and [MEMORY.md](MEMORY.md) for this same collection route.
+Use this section when Ryan requests chat recovery or archival collection. Reading CHAT.md during production follows the production method above; it does not launch a recovery task. The archive sources are Ryan's actual exchanges with AI, preserving original chronology and attribution.
 
 **One destination:** Google Drive `TEXT/CHATS` — https://drive.google.com/drive/folders/1dDLuFZz4_TOUS6b_XS4IBuTd4aNngfEM. One source-window's EXISTING text dump or collection file belongs in that folder, plus one master compiled index. The master is a verified index/compilation, not an excuse to re-extract already recovered text. Append new visible exchanges to the existing per-window record in chronological order; do not repeat the recovered prefix.
 
@@ -45,4 +45,4 @@ Private dialogue and source archives are not required to use this public portray
 
 **MODE / WINDOW / DEVICE:** Record ChatGPT Work vs Chat or other provider, actual window identity and device/input only if explicit or verified; otherwise UNKNOWN. The receiving chat's mode is not the source chat's mode. Keep Ryan and AI names; redact other private people's names as [BEEP] only in the archival copy, never rewrite the original at source.
 
-**ARCHIVAL PROTECTION:** Never edit existing production art/JPEG, video, performance scripts, shot lists or render orders while collecting. The completed 123-clip production remains locked; no Meta GO is implied.
+**ARCHIVAL PROTECTION:** Keep existing production art, footage, scripts, shot lists and render orders intact during a text-recovery assignment. Completed footage stays recorded as completed; ongoing production continues through the live orders.

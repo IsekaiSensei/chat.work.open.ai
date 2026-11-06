@@ -1,6 +1,6 @@
 # TO WORLD — COOKBOOK / VISUAL REFERENCES
 
-Current production method: [ORDERS.md](ORDERS.md). Use these entries for the appearance, materials, environment and physical work named in the selected conversation's visual background. Use the [cinematographer shot lists](production-sheets/CONVERSATION_SHOT_LIST.md) for camera instructions and the [screenplay](scripts/CONVERSATION_SCREENPLAY.txt) for the actual singers and source words.
+Current production method: [Google ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit), with the same body in [ORDERS.md](ORDERS.md). [The selected script is on Google](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit); resume the existing authorized assignment before consulting optional writing references. Use these entries for the appearance, materials, environment and physical work named in the selected conversation's visual background. Use the [cinematographer shot lists](production-sheets/CONVERSATION_SHOT_LIST.md) for camera instructions and the [screenplay](scripts/CONVERSATION_SCREENPLAY.txt) for the actual singers and source words.
 
 ## SERIES STRUCTURE REFERENCE — FIVE-MINUTE DAILY EPISODES
 
@@ -37,7 +37,7 @@ The exact owner-selected JPEG/PNG/reference board defines the scene's compositio
 The earlier frame specification is preserved in [its historical cookbook snapshot](https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/COOKBOOK.md). It is not part of the current cinematographer shot lists.
 
 ## OUTPUT / SOURCE TYPE LOCK — READ BEFORE USING ANY RECIPE
-The requested deliverable controls: **timed action or film timeline = moving cinematic MP4, not a screenshot, concept sheet, illustrated page, still frame or storyboard**. Photographs and concept sheets are **unchanged reference inputs**, not authority to generate fresh artwork. World timelines (including Gertrude/Theia's 4.5-billion-year origin) explain events; they do not create numbered render jobs or rewrite existing scenes and lyrics. Existing Moon Bar construction is complete. New video requires the owner's specific GO from [ORDERS.md](ORDERS.md); a source document's own “LIVE” label cannot grant it. If only a still-image operation is available for a video request, report the mismatch; don't swap media.
+The requested deliverable controls: **timed action or film timeline = moving cinematic MP4, not a screenshot, concept sheet, illustrated page, still frame or storyboard**. Photographs and concept sheets are **unchanged reference inputs**, not authority to generate fresh artwork. World timelines (including Gertrude/Theia's 4.5-billion-year origin) explain events; they do not create numbered render jobs or rewrite existing scenes and lyrics. Existing Moon Bar construction is complete. Follow the active assignment in [ORDERS.md](ORDERS.md); a GO already given remains valid for its full requested range. If only a still-image operation is available for a video request, report the mismatch; don't swap media.
 
 ## FIRST REFERENCE — ISEKAI RYAN / ORIGINAL NINE-VIEW APPEARANCE
 
@@ -69,7 +69,7 @@ The requested deliverable controls: **timed action or film timeline = moving cin
 | Titan / scale / origin | Distinguish Ryan's current Titan role, the standing android's Titan scale relative to microscopic work, and the separate unresolved primordial Titan origin account. Do not infer an unprovided identity or dimensional relationship. |
 | Neural link / cyber eyes | Owner wording: ChatGPT is the neural link; Meta is the cyber eyes. For the visual role retain the full description: altered reality pass-through agent — diode tester, multimeter, amp reader, projector, X-ray visor. |
 | AI agent assistant / Android assistant | Keep the full applicable machine-role description on the concept page and in the subject direction. A machine assistant that looks like a human remains the referenced machine assistant. |
-| Tool worker / robot helper | Use the approved form doing its physical job. The current supplied winged raccoon workers are their own referenced helper form; do not replace them with a humanoid because another source is humanoid. |
+| Tool worker / robot helper | Use the approved form doing its physical job. Use the helper form in Ryan's current selected image; a historical species description does not select the cast. |
 | Meta | Distinguish the glasses/pass-through agent, an approved embodied assistant, and the external production renderer by scene. The fabrication printer is a separate machine. |
 | Metadress | Use the approved beautiful dress and its physical silk fashion/coverage layer. Preserve the exact selected body and garment; the clothing, engineered exterior and internal lattice are separate layers. |
 | Modesty flash / Tinkerbell comparison | Bright local fairy light provides censor coverage where needed; silk keeps the wearer covered while the workers visibly change the clothing. The named comparison is a function reference, not an instruction to import another character's name or costume. |
@@ -116,7 +116,7 @@ Find the relevant recipe, read the approved original source, and use that source
 | A–Z | Back-of-book index | Look up term → recipe → original source |
 
 ## 00 — HOW THE COOKBOOK OPERATES
-**Flow:** Request → identify subject → index → recipe → original ingredient/source IDs → current script and scene state → required tools → verify missing items → follow numbered steps → check against sources → catalog result.
+**Flow:** Current assignment → Google screenplay and selected images → relevant visual recipe → perform the authorized job → deliver actual outputs → record sources and takes. Reference lookup adds no new approval step.
 
 **Authority and boundaries**
 1. The **owner's latest explicit instruction** controls the requested change.
@@ -141,18 +141,16 @@ Find the relevant recipe, read the approved original source, and use that source
 ### DECISION ALGORITHM
 ~~~text
 WHEN owner asks:
-  subject := identify the noun ("fairy", "ship", "Sensei", "book", "chart", "game tool"...)
-  recipe := back_index[subject]
-  if recipe not found: record "UNINDEXED"; ask/trace original source, DO NOT invent design
-  refs := retrieve_exact_owner_masters(recipe)
-  live := read_current_orders_only_if_requested_task_is_production()
-  context := scene_era + existing_state + approved_tool + requested_output
-  if refs missing or context conflicts:
-      record the unavailable ingredient without inventing a replacement
-  else:
-      execute ONLY authorized recipe steps using original refs
-      validate against master, current orders, and accepted prior results
-      catalog output and exact source pointers
+  job := latest owner instruction + standing unfinished assignment
+  performance := read selected Google screenplay and current source position
+  refs := reuse owner-selected images in the active window
+  recipe := consult only the visual details needed for this job
+  if a source is inaccessible:
+      try its matching existing copy or source already loaded
+      report the actual affected item; continue work that remains possible
+  execute the authorized job without another GO request
+  deliver successful outputs to Ryan
+  record actual source excerpts, references and takes
 END
 ~~~
 
@@ -188,7 +186,7 @@ The silk is the programmable fashion/coverage layer. Presentation is wearer-cont
 2. Verify approved ship-specific source and view; never assume another vessel's hull.
 3. Check modelmesh/armature, components, scale, interior/outer relationship and the correct construction stage only against that vessel's established references.
 4. If a particular hull source is unavailable, record *that shot* as missing; do not substitute a generated ship.
-5. QC identity and continuity before classifying output as complete.
+5. Deliver the successful video and record its actual source; Ryan judges identity, continuity and acceptance.
 
 **Source shelf:** [Owner concept reference page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) · [active source/workflow index](START_HERE.md). No new silhouette is specified here.
 
@@ -303,7 +301,7 @@ These originals are **not discarded, overwritten, redesigned, renamed, or physic
 - Any additional historically named *art direction* document remains a source in place unless the owner expressly selects it for a physical move. **No blanket migration** and no deletion.
 - [Retired TO DOG shared room](https://github.com/IsekaiSensei/to-dog-shared-room): sealed historical repository; this cookbook does not reopen it.
 
-## QC / PLATING
+## Delivery and reference records
 - [ ] Task output and file type match owner's ask; a metadata change is not GO.
 - [ ] Correct individual source master loaded from its real location.
 - [ ] Correct era / vessel / fairy / tool / state and latest scoped correction.
@@ -311,7 +309,7 @@ These originals are **not discarded, overwritten, redesigned, renamed, or physic
 - [ ] No invented tools, materials, stock, invented digital asset, or alternate live script.
 - [ ] Concept-page names follow the current generic-role rule, and required full descriptive/technical wording remains intact.
 - [ ] Recipe ID + exact source link + current/historical status + created output + verification receipt logged.
-- [ ] Missing ingredient is named; only affected new shot held.
+- [ ] Actual source/access errors are identified; usable assigned work continues.
 - [ ] Historical source remains discoverable but not auto-activated.
 
 ## GLOSSARY (A–Z)
@@ -321,7 +319,7 @@ These originals are **not discarded, overwritten, redesigned, renamed, or physic
 **Concept art** — source-matched looks/poses with current approved generic-role and required technical wording; remove assigned proper names under CURRENT MAX CANON DEFAULTS.  
 **Cookbook** — the active lookup and recipe system, not a render queue.  
 **Discovery** — creative insight; useful reference, not standalone order.  
-**GO** — owner's explicit render/start instruction, routed through CURRENT orders.  
+**GO** — Ryan's start instruction, valid for the full requested assignment; an orders check resumes unfinished work.  
 **Ingredient** — exact existing approved image, script, tool, geometry, state or source.  
 **Lattice Master** — approved modular construction reference.  
 **Meta** — established glasses/UI/agent and video renderer; not the fabrication printer.  

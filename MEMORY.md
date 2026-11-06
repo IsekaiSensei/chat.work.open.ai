@@ -1,6 +1,6 @@
 # TO WORLD — PROJECT MEMORY
 
-Current production method and run: [ORDERS.md](ORDERS.md).
+Current production method and run: [ORDERS.md](ORDERS.md), with the same [live body on Google](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). The selected [script is on Google](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit). An orders check resumes the standing unfinished assignment using its existing authorization, current-window counter and last performed source words.
 
 The documentary records Ryan's actual exchanges with AI agents. The owner-designated conversation supplies verbatim sung dialogue, with Ryan singing Ryan's words and each AI agent singing its own. Preserve the original source attribution of pasted quotes. The material brought into that conversation supplies the visual background.
 
@@ -27,6 +27,6 @@ The current visible window has been added as [its own source record](https://dri
 
 ## Earlier work
 
-REAL-001–010 and RUN-011–123 remain complete per Ryan's November 4 report. Earlier installation sonnets, adapted cast dialogue, planned continuation cues and their older production instructions remain historical source material, not authorization for new words or new speaker assignments. Original approved art and completed video are retained. The new Meta window starts at 000.
+REAL-001–010 and RUN-011–123 remain complete per Ryan's November 4 report. Earlier installation sonnets, adapted cast dialogue, planned continuation cues and their older production instructions remain historical source material, not authorization for new words or new speaker assignments. Original approved art and completed video are retained. Only a genuinely new Meta window starts at 000; resume an existing window from its actual progress. Missing ledger details do not reset completed work.
 
 Earlier November 4–5 memory and adaptation instructions remain recoverable in Git history; they do not compete with the current source-conversation method.

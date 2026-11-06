@@ -1,13 +1,5 @@
-# GROUND ZERO — RETIRED HANDOFF INDEX
+# GROUND ZERO — HISTORICAL HANDOFF INDEX
 
-**STATUS: HISTORICAL / QUARANTINED FOR NEW PRODUCTION (2026-11-04)**
+Current work follows [Google ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) and the [Google screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit). [GitHub orders](ORDERS.md) contain the same instructions. Resume Ryan's existing authorized assignment directly.
 
-The former PLUG ME IN stage production and its source master, reference register and continuity ledger are preserved as historical project records; they are not selected for any new rendering or automatically imported into the new pilot. Do not fetch or apply old instructions from this folder unless the owner explicitly chooses an exact source and an archival operator confirms access.
-
-**CURRENT START:** [META.md](META.md) → [ORDERS.md](ORDERS.md) → [bot archive cutover issue #7](https://github.com/IsekaiSensei/chat.work.open.ai/issues/7).
-
-**In-flight preservation exception:** If the previously started 228-clip Meta batch is still processing, do not interrupt it, change its reference PDF, relocate pinned source images, or restart it. The bots must classify it as a legacy-in-flight run and archive it only after checking completion and dependencies.
-
-**Privacy warning:** This file and repository remain publicly visible until actual access changes are verified. Naming the old folder an archive does not hide prior content or commit history.
-
-**No deletion and no new render GO.**
+[Original Ground Zero handoff](https://github.com/IsekaiSensei/chat.work.open.ai/blob/d12f802ae2600ef2fadf8fe5abd61a823382ec98/GROUND_ZERO.md) preserves the earlier production, source links and cutover record. Existing footage and in-flight renders keep their recorded identities and progress.

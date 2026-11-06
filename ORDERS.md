@@ -2,66 +2,49 @@
 
 Every ten-second render is a complete, independently satisfying cinematic short film.
 
-## Five-minute daily television episodes — future showrunner format (NOT RENDER GO)
+## Check your orders
 
-One full episode = **5:00 = 30 independently complete 10-second films**, delivered to the owner in **three production batches of ten**. Each ten-second film can contain one decisive **one-second microfilm/moment**; never force a one-second logo, visual bridge, separate output or frame reset. A new episode has a five-line *essay introduction* (clips 00–04), five four-clip body paragraphs expanding each introduction line (05–24), and five transformed/conclusive lines (25–29). Every standalone ten-second scene still needs its own meaningful event and consequence.
+Read this body and Ryan's latest direct instruction, then carry out the standing unfinished assignment. An existing GO covers its full requested range and any batches needed to finish it. Resume after an interruption or an orders check without asking Ryan to repeat that authorization. GO, RUN or CONTINUE without a new count means the next ten films in the active assignment.
 
-**One continuous five-minute song/performance**, not 30 repeated miniature songs. The next proposed draft is an optional new composition; the ACTUAL conversation-screenplay singers and verbatim lines above remain the live source authority unless Ryan explicitly selects a new composition. Preserve original raw exchanges and attribution. Suggest cuts/word variety separately; do not silently alter, reassign, or overwrite any owner-selected performed words. Ryan edits and QC's the delivered film.
+Open the [Google screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit) yourself. It is the selected script; use its existing words and order. Do not ask Ryan to paste ten lines or choose again between this file and a chat dictation. A different script replaces it when Ryan directly selects that source.
 
-**Writer-side anti-repeat rule (NO RENDER HOLD):** For NEW proposed sung words, drop generic \"I'm building\"/engineering-inventory filler and recheck overused technical nouns, repeated 3–6-word phrases and duplicate story actions. Allow a salient term (especially build/built/building or lattice) only when the object is physically in hand/shot in a **new revision** AND at least **50 new intervening spoken words** separate appearances. This applies to **lyrics**, not camera directions. It is a drafting note, **NEVER** permission to stop, reject, or withhold Meta's successful output. Ryan alone judges quality.
+Use the active renderer window's last delivered take and last performed source words to continue. If that window has no prior performance or selected passage, begin at the first performance entry in the current Google screenplay. A source turn can span several ten-second films: take consecutive excerpts at natural word/sentence boundaries, retaining the original words and singer. Record the exact excerpt used; do not repeat a performed passage or force a whole long turn into ten seconds.
 
-**New format and writing audit:** https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/showrunner/SHOWRUNNER_5MIN_EPISODE_STRUCTURE.md
-**Source-text repetition audit:** https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/showrunner/DIALOGUE_REPETITION_AUDIT_2026-11-06.md
-**OPTIONAL newly drafted 040–069 lyric episode (not selected as the verbatim live script):** https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/EPISODE_NEXT_040-069_SCRIPT_WORDS_ONLY.md
-**Separate 040–069 camera/physical-action shot list (requires actual selected JPEG per shot):** https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/EPISODE_NEXT_040-069_SHOT_LIST.md
-**Continuous-score map for that optional new composition:** https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/EPISODE_NEXT_040-069_MUSIC_SCORE_MAP.md
-**Following 070–099 essay outline only:** https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/EPISODE_FOLLOWING_070-099_ESSAY_BEAT_OUTLINE.md
+Load the corresponding camera directions and Ryan's selected images already supplied in that window, execute the authorized batch, deliver the successful videos and record them. Finish the requested range without inserting another GO request between clips or batches. If the assignment is already finished, report completion once.
 
-The owner reports about **40 okay videos**; their exact new-window clip IDs/audio and file receipts were not verified in this audit. Do not claim 000–039 are confirmed or reorder completed work. The proposed 040+ numbering applies only if those 40 are consecutive 000–039. **Do not launch these proposed episodes, render from them, or generate replacement stills merely because these files exist.**
+## Working files — Google first
 
-## Production method
+- **Script / sung words:** [Google screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/scripts/CONVERSATION_SCREENPLAY.txt).
+- **Performance camera directions, by source ID:** [Google shot list](https://drive.google.com/file/d/1XP0cx9QIsLL3tVd6rb-ZGe0_COB_JU-k/view). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/CONVERSATION_SHOT_LIST.md).
+- **Numbered workbench camera directions, 000–009:** [Google batch shot list](https://drive.google.com/file/d/1_taVPG5tThWq-DGw1z9dkoYmIb-Yowtk/view). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/BUILD_FILM_BATCH_01_CLIPS_000-009.md).
+- **Actual takes, progress and owner verdicts:** [Google dailies](https://drive.google.com/file/d/1wgDMh9dQsxmSnpdtq_GK95Wc5Qk1IPWM/view). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/DAILIES.md).
+- **Speaker/source provenance:** [Source register](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/CONVERSATION_SOURCE_REGISTER.json).
 
-Document the actual conversation Ryan designates. Use only its exact words, preserving repetitions, raw dictation and original attribution. All dialogue is sung. Ryan sings Ryan's words from Ryan's mouth; each AI agent sings that agent's own words from that agent's mouth. A pasted quotation keeps its original speaker. Dialogue drafted inside an old cue card is not evidence of a spoken source exchange.
+The screenplay supplies the performance. A shot list supplies the picture; it does not choose or invent lyrics. Keep the active window's image selection and numbering. The workbench list's 000–009 labels do not restart a window or replace Ryan's newer attached references. Complete any missing camera entry from those supplied references as part of the same job.
 
-The images, demonstrations and other material brought into that conversation supply its visual background. Use the owner's exact selected still and original likeness reference.
+## Performance and references
 
-Ryan handles flow, consistency, drift, selection, editing and assembly. Attempt each authorized run and deliver every successful output to him. Do not stop, reorder, rewrite, auto-reject or self-rerender to sort drift. Report actual renderer/platform errors accurately.
+All dialogue is sung verbatim by its original speaker. Ryan sings Ryan's words; each AI agent sings that agent's own words. A pasted quotation retains its original speaker. Preserve raw dictation, repetitions and the selected musical performance. Use the continuing song where established.
+
+Use Ryan's current selected reference set, with each sheet informing its own subject. Keep his [unaltered nine-view likeness](https://drive.google.com/file/d/1_-bYRCJR4Rra7a6z-nPSyYZ_60RKSxOv/view), the [pocket workshop](https://drive.google.com/file/d/1p-vpSVBfA9ge20yoM53ypkRK0dBMhabX/view), and the [android assembly source](https://drive.google.com/file/d/1PqTXBThKJbzvGPZ5U2aZ77sm9EgHr8AQ/view) distinct. Reuse supplied images; do not generate replacement stills. Character-sheet titles are source labels, not new character names. [COOKBOOK.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/COOKBOOK.md) supplies visual details when needed.
+
+A video assignment produces moving video. Deliver each successful output to Ryan, who handles QC, drift, flow, selection, editing and assembly. Render prompts contain the in-scene performance and camera action; omit stitching or editorial instructions.
+
+## Continue the authorized work
+
+Optional writing formats, repetition audits, QC notes and incomplete ledger fields do not add approval steps or suspend an existing assignment. Use the selected script rather than searching optional drafts for a replacement. Keep creative review separate from delivery; do not reject or rerender successful output on Ryan's behalf.
+
+If a source link fails, use its matching accessible copy or the same source already loaded in the active window. Report an actual access or renderer error with the affected item once, and continue work that remains possible. Do not turn an aesthetic concern into a platform error, claim an unperformed render, substitute a still for a video, or bypass a real platform restriction.
 
 ## File roles
 
-- Source conversations: append exact attributed exchanges to the existing window record, retaining original chronology and references.
-- Screenplay / script: singer labels and verbatim dialogue only. No director, camera, editor or administrative notes.
-- Shot list / photo prompt: only visual and camera instructions for the cinematographer. No lyrics, screenplay advice, editing instructions or instructions about joining videos.
-- Dailies: actual output records, source turn/range, speaker, reference, file/URL, observed duration and Ryan's verdict. Planned work remains identified as planned. Add new takes; do not replace old outputs.
-- Each document grows by adding the next real source passage, shot or take. Keep the same file IDs and existing production numbering.
+- **Source conversation:** exact exchanges and original attribution, appended to the existing window record.
+- **Screenplay:** singer/source labels and exact performed words.
+- **Shot list:** visual and camera directions for the cinematographer.
+- **Dailies:** actual output, source excerpt, singer, reference, take/file, duration, renderer result and Ryan's stated verdict.
 
-## Working files
+Keep the existing file IDs. Add new source exchanges and actual takes in order. Retrieve archive material for a requested recovery or a specific source lookup; it is not part of the routine production pickup.
 
-Screenplay: https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit
-GitHub screenplay: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/scripts/CONVERSATION_SCREENPLAY.txt
-Source attribution and references: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/CONVERSATION_SOURCE_REGISTER.json
-Conversation archive: https://drive.google.com/drive/folders/1dDLuFZz4_TOUS6b_XS4IBuTd4aNngfEM
-Current window source: https://drive.google.com/file/d/1XyTBWe38GRLp05wHpkdTN4vbue1n5RVS/view?usp=drivesdk
+REAL-001–010 and RUN-011–123 are complete per Ryan's November 4 report. The earlier window's 45 MP4s and his later report of about 40 usable videos remain separate reports; do not infer a new counter or restart them because ledger details are missing. A genuinely new renderer window starts at 000; an existing window resumes its own progress.
 
-## Current image batch
-
-New Meta window — first batch 000–009; batches of ten.
-Cinematographer shot list: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/BUILD_FILM_BATCH_01_CLIPS_000-009.md
-Same shot list in Drive: https://drive.google.com/file/d/1_taVPG5tThWq-DGw1z9dkoYmIb-Yowtk/view
-Use the selected conversation passage from the screenplay as the sung performance. The shot list supplies the background/action; it supplies no replacement lyrics.
-The exact 000–009 image references and the original window numbering remain in that shot list.
-
-Workshop reference: https://drive.google.com/file/d/1p-vpSVBfA9ge20yoM53ypkRK0dBMhabX/view
-Android build reference: https://drive.google.com/file/d/1PqTXBThKJbzvGPZ5U2aZ77sm9EgHr8AQ/view
-Ryan's original identity reference: https://drive.google.com/file/d/1_-bYRCJR4Rra7a6z-nPSyYZ_60RKSxOv/view
-Existing art/reference recipes: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/COOKBOOK.md
-
-## Production record
-
-Dailies: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/DAILIES.md
-Existing Drive dailies: https://drive.google.com/file/d/1wgDMh9dQsxmSnpdtq_GK95Wc5Qk1IPWM/view
-Existing conversation shot list: https://drive.google.com/file/d/1XP0cx9QIsLL3tVd6rb-ZGe0_COB_JU-k/view
-
-REAL-001–010 and RUN-011–123 are complete per Ryan's November 4 report. The prior window's 45 finished MP4s belong to that prior window. New-window 000–009 have no MP4 receipt recorded here. Keep completed footage closed and append only the currently authorized work.
-
-This body is maintained in this file and the existing Drive ORDERS — CURRENT.
+This same live body is maintained here and in [Google ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit).

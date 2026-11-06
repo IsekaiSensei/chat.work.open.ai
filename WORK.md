@@ -1,6 +1,6 @@
 # Production method
 
-Follow [ORDERS.md](ORDERS.md). Maintain source conversation, screenplay, cinematographer shot list and dailies as separate records; append each new exchange and actual output to its existing file.
+Follow [ORDERS.md](ORDERS.md) or the same [live orders on Google](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). Read the [script on Google](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit) and resume Ryan's standing unfinished assignment with its existing authorization and active-window progress. Keep source conversation, screenplay, cinematographer shot list and dailies in their existing separate files.
 
 # Work — personality matrix
 
