@@ -30,6 +30,12 @@ If a window can read only native Google Docs, use the [current readable Dailies]
 
 For creative development, Ryan translates lived reality directly into Chronicles of Sol: “the fourth wall and the third wall and the second wall are all the same wall.” Apply that method without adding explanatory captions, screenplay annotations or new scenes from examples he expressly excludes. Refer to [the World Book](https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit) for story canon and [Cookbook IB-01](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/COOKBOOK.md#ib-01--chronicles-of-sol--imperial-beach-station-and-relay-market) for the local references.
 
+## Blank spaces — commas and sonnets
+
+When there is a blank scene slot or an unassigned space in the performance, fill it with a musical comma or a sonnet passage that fits ten seconds. Pull the existing words from the **SONNETS — 10-second gap bank** tab in the [Google screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit); [matching source bank](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/SONNET_GAP_BANK_10S.json).
+
+Choose passages randomly for the available spaces, keep the actual words and assigned singer, and write each chosen passage into its scene before performing it. Keep that selection for the run rather than choosing anew on each retry. A comma is a brief musical/physical breathing beat. An existing assigned line remains assigned; the filler occupies the space around it. Continue the authorized work without another permission loop because a blank was encountered.
+
 ## Performance and references
 
 All dialogue is sung verbatim by its original speaker. Ryan sings Ryan's words; each AI agent sings that agent's own words. A pasted quotation retains its original speaker. Preserve raw dictation, repetitions and the selected musical performance. Use the continuing song where established.
