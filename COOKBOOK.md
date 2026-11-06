@@ -2,6 +2,12 @@
 
 Current production method: [ORDERS.md](ORDERS.md). Use these entries for the appearance, materials, environment and physical work named in the selected conversation's visual background. Use the [cinematographer shot lists](production-sheets/CONVERSATION_SHOT_LIST.md) for camera instructions and the [screenplay](scripts/CONVERSATION_SCREENPLAY.txt) for the actual singers and source words.
 
+## SERIES STRUCTURE REFERENCE — FIVE-MINUTE DAILY EPISODES
+
+The showrunner's [five-minute essay/teleplay structure](showrunner/SHOWRUNNER_5MIN_EPISODE_STRUCTURE.md) is **30 independent ten-second moving films per five-minute episode**, authored in three batches of ten; the decisive one-second microfilm is an event *within* a moving scene, not a forced extra frame. Five sung introduction claims expand through five four-clip body paragraphs and resolve through five transformed conclusion lines. Use [the spoken-text repetition audit](showrunner/DIALOGUE_REPETITION_AUDIT_2026-11-06.md) **only for new writer drafts**: avoid filler and avoid reusing conspicuous terms until at least fifty other words have been sung and a newly revised physical item justifies it. One complete evolving song across the five-minute episode, not 30 lyric restarts.
+
+**No screenplay overwrite:** The source conversation's verbatim singer/words remain authoritative under [ORDERS.md](ORDERS.md). The [new 040–069 sample composition](production-sheets/EPISODE_NEXT_040-069_SCRIPT_WORDS_ONLY.md) and [separate camera shot list](production-sheets/EPISODE_NEXT_040-069_SHOT_LIST.md) are proposals only, not a live render GO and not replacement dialogue. The owner alone QC's finished outputs. Reference recipes and writer-side scans do not preflight-hold or self-reject video.
+
 ## V-00 — OWNER-SELECTED VISUAL SOURCE
 
 The exact owner-selected JPEG/PNG/reference board defines the scene's composition, subject, setting, props and material appearance. Ryan's original identity photograph defines Ryan's likeness. The selected conversation's visual materials supply its background. Read source images as source images; use the cinematographer's shot list for the moving shot.
