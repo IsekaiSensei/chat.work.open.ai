@@ -4,6 +4,17 @@
 
 **FOLLOW THE POINTER TO ITS LIVE TARGET.** Read this current GitHub body before selecting work. Archived copies, revision history, and a “last full-text” snapshot cannot supply current assignments or revive a former GO. If the live target cannot be read, report that missing source; do not substitute an archived run.
 
+## NON-NEGOTIABLE ROUTING AND OUTPUT GATES — NOVEMBER 6, 2026
+**ONE AUTHORITY:** GitHub `ORDERS.md` selects work. Google Drive's `ORDERS — CURRENT` is a pointer to this file; Drive holds unaltered original artwork and source records and points back here. Do not follow a circular lookup: follow the Drive pointer ONCE to this live body, then source links for that job. If this body cannot be opened, report **LIVE ORDERS UNREADABLE — NO RUN SELECTED**; never promote a Drive search result, file title, archived handoff or AI-created draft to LIVE NEXT. Do not ask the owner to choose between obsolete A/B queues.
+
+**REJECTED FALSE GO:** [CAST OF ALL CREATION — EP01 START FROM ZERO 001–010](https://docs.google.com/document/d/1cA6ycy_rY8nYxpVJRhjO1JK29SPnruAxTy7HQty1mSI/edit) is **REJECTED / HISTORICAL**; its newly condensed pumpjack/Gertrude ten-clip dialogue is **NOT** current performance text. [WORLD1-101–164](https://docs.google.com/document/d/1V_c2cKZkBZyv6qNBUk8_mG3KCfqe08eo4jkxITVr83s/edit) and completed [WORLD1-001–010](https://docs.google.com/document/d/1wEby89BYRJN3ioSDoaFj5NkmcoFsra50uE_Z4pTJcZE/edit) are also historical, not automatic work.
+
+**TIMELINES ARE NOT RENDER QUEUES:** The [Gertrude/Theia ~4.5-billion-year canon chronology](canon/GERTRUDE_THEIA_4_5_BILLION_YEAR_ORIGIN_2026-11-05.md) and the existing-base origin screenplay are story/source material. Do not transform them into new clip lists, freeze frames, screenshots, contact sheets, storyboards, rewritten scenes or replacement lyrics. The **Moon Bar is an already completed permanent main base**: no new build, no reset, no rerender of accepted footage without an explicit new owner instruction.
+
+**REQUESTED MEDIUM WINS:** For an owner-selected cinematic timeline/shot, the deliverable is **moving, playable video (MP4)** with actual temporal action and approved audio. A still JPG/PNG, timeline poster, single screenshot, concept sheet, or text-only claim is **NOT** a completed render. If the video tool/source/authorization is unavailable, explicitly report the missing prerequisite; **never substitute an image**. Original JPGs remain input references, not new image-generation requests. Every approved 10-second MP4 stands independently as a cinematic short.
+
+**GO BOUNDARY:** A script package, checklist, timeline, archive, metadata cleanup or this edit is **not** a new render GO. Execute only the particular shot/run the owner has actually selected and authorized, with its original JPEGs, established setting, complete spoken/sung performance and music. No invented actors, lines, new bar, or new location.
+
 ## FIRST CREATIVE LAW — EVERY 10 SECONDS IS THE FILM
 Every ten-second render must be a complete, independently satisfying **cinematic short film**, regardless of subject. Film the approved event itself. **No stitching explanation, previous/next-clip bridges, frame-around-frame directions, forced intro/outro devices, or administrative narration in render prompts.** Each finished short stands alone; the owner handles assembly. Do not invent events to force a formula.
 
