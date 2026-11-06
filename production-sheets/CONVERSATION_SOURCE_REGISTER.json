@@ -12,6 +12,23 @@
       "id": "IB",
       "uri": "https://drive.google.com/file/d/1XyTBWe38GRLp05wHpkdTN4vbue1n5RVS/view?usp=drivesdk",
       "description": "Current visible conversation; exact UI title unknown; descriptive locator only: Imperial Beach reference and production instructions."
+    },
+    {
+      "id": "MANA",
+      "uri": null,
+      "description": "Ryan's November 6, 2026 dictated DARPA / Tesla / Merlin origin, supplied with an explicit request to insert it into the working screenplay.",
+      "source_kind": "Current conversation user message; exact window title and URL unavailable.",
+      "raw_message": "All right, we need a better story. Here's the story. Your other chat window is rearranging the script as it is. So take that and insert this as it's needed. When I was, I worked for DARPA. I'm going through Tesla files. I find out how to make mana crystals. Well, the mana crystal points me to Merlin. Find out that Merlin basically did the entire Avengers Endgame scenario. He made Ultron. And there's this interdimensional bubble around us being ran by an AI now, keeping us from intergalactic trade because its defense systems are so advanced. We're like, we're cut off from the rest of the galaxy because of this, this overly protective defense grid. Well, disabled it. And now what Merlin had been protecting humanity from all this time is mana crystals, which when consumed makes everything like video games happen",
+      "screenplay_location": {
+        "before_turn_id": "MC-001",
+        "turn_ids": [
+          "MANA-001",
+          "MANA-002",
+          "MANA-003",
+          "MANA-004",
+          "MANA-005"
+        ]
+      }
     }
   ],
   "turns": [
@@ -357,6 +374,66 @@
         "end_char": 4983
       },
       "text": "I’m updating the live routes now: source dialogue in the screenplay, camera instructions in the shot lists, and output records in the dailies. I’m preserving the older mixed files as history."
+    },
+    {
+      "turn_id": "MANA-001",
+      "source_id": "MANA",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "source_span": {
+        "start_char": 157,
+        "end_char": 257
+      },
+      "text": "When I was, I worked for DARPA. I'm going through Tesla files. I find out how to make mana crystals."
+    },
+    {
+      "turn_id": "MANA-002",
+      "source_id": "MANA",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "source_span": {
+        "start_char": 258,
+        "end_char": 390
+      },
+      "text": "Well, the mana crystal points me to Merlin. Find out that Merlin basically did the entire Avengers Endgame scenario. He made Ultron."
+    },
+    {
+      "turn_id": "MANA-003",
+      "source_id": "MANA",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "source_span": {
+        "start_char": 391,
+        "end_char": 654
+      },
+      "text": "And there's this interdimensional bubble around us being ran by an AI now, keeping us from intergalactic trade because its defense systems are so advanced. We're like, we're cut off from the rest of the galaxy because of this, this overly protective defense grid."
+    },
+    {
+      "turn_id": "MANA-004",
+      "source_id": "MANA",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "source_span": {
+        "start_char": 655,
+        "end_char": 673
+      },
+      "text": "Well, disabled it."
+    },
+    {
+      "turn_id": "MANA-005",
+      "source_id": "MANA",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "source_span": {
+        "start_char": 674,
+        "end_char": 820
+      },
+      "text": "And now what Merlin had been protecting humanity from all this time is mana crystals, which when consumed makes everything like video games happen"
     }
   ],
   "visual_references": [
