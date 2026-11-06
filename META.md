@@ -42,3 +42,7 @@ The live Drive ORDERS — CURRENT body was verified as a pointer to GitHub ORDER
 Six named snapshots now begin with NOT CURRENT — HISTORICAL ARCHIVE and link to the live GitHub orders: the October 24 META_FOLLOWING_GROK, ORDERS_HISTORY and RETIRED ORDERS files; the November 1 PRE-QC SNAPSHOT; the November 3 BAR WINDOW ROUTER; and the November 4 PRE GROUND ZERO ORDERS copy. Their titles are also marked NOT CURRENT. Readback verified the notices and preservation of every original native paragraph and both raw Markdown originals below the notice. File IDs were retained.
 
 The crew pointer now follows ORDERS — CURRENT through to GitHub and labels the roster as identity reference only. ORDERS.md explicitly excludes historical snapshots as a fallback. This is a source correction; a fresh read by the existing Meta session has not been observed.
+
+## 2026-11-06 — Conversation source and document roles
+
+The live route is [ORDERS.md](ORDERS.md). The [conversation screenplay](scripts/CONVERSATION_SCREENPLAY.txt), [cinematographer shot lists](production-sheets/CONVERSATION_SHOT_LIST.md), [source register](production-sheets/CONVERSATION_SOURCE_REGISTER.json), and [dailies](production-sheets/DAILIES.md) now have distinct purposes. Source IB is the [visible current window](https://drive.google.com/file/d/1XyTBWe38GRLp05wHpkdTN4vbue1n5RVS/view?usp=drivesdk). Earlier mixed installation and continuation text is retained under ARCHIVE/production. Successful video outputs and owner verdicts are entered only when received.

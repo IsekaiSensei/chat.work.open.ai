@@ -1,291 +1,41 @@
-HOW TO BUILD TO WORLD
-INDEPENDENT BEHIND-THE-SCENES / LEARN-IT-BY-DOING DOCUMENTARY
-SERIES SCREENPLAY + EPISODE 01 PRODUCTION MASTER — TEXT ONLY
-WORKING TITLE / DRAFT V1 — 2026-11-05
+HOW TO BUILD TO WORLD — SCREENPLAY — SUNG SOURCE DIALOGUE
 
-STATUS: DOCUMENTARY SCREENPLAY FOR REVIEW AND PRODUCTION BREAKDOWN. NOT META GO. NOTHING RENDERED OR SENT.
+DOC-E01-S01 — RYAN (SUNG)
+Whatever DeepSeek said was recommendations, the voices, the characters, it made up. Remove that and add mine. This, this, you made a fucking five minute robo talk fucking video? What the fuck?
 
-PREMISE
-Isekai Ryan is building TO WORLD while learning the standard tools, language, and manufacturing methods needed to build it. The documentary records that actual learning, including mistakes, arguments, corrections, successful tests and unfinished work. The audience learns because it sees Ryan encounter a specific problem, use an existing tool or reference to solve it, and carry the result into the next episode. The series is independent in its dailies and post-production but connected to TO WORLD by original, owner-approved sources. It is not the next episode of the fictional universe.
+DOC-E01-S02 — RYAN (SUNG)
+i want this a Independent How to do it Series. that's got it's own Daily's a wholely indepent but tied project. like the Behind the sceens Documenary to my universer. that's also a how to join me prompt. how to do this as well.   first off i didnt read this. i want you to make it a video series teaching me
 
-THE FILM'S DRAMATIC QUESTION
-Can the working system Ryan has already designed become an interoperable, verifiable, teachable production pipeline WITHOUT erasing his existing art, code, game logic, or way of telling stories?
+DOC-E01-S03 — RYAN (SUNG)
+civialtail folder parody
 
-GOVERNING INSTRUCTIONS / NO SUBSTITUTION
-• Use Ryan's exact words where source dialogue is provided. No synthetic narrator, actor impersonation, invented voice, generic teacher, replacement cast, borrowed game character, or DeepSeek-generated persona.
-• CHAT may appear only as the ACTUAL text of verified prior ChatGPT responses, with speaker correctly identified. No new dialogue may be attributed to CHAT, Ryan, META, WORK or another agent. Performers/voices must be expressly sourced and approved later.
-• Meta remains the render engine where authorized; ChatGPT provides structure and continuity. This document is not a render instruction and does not claim any current Meta output.
-• All approved visual identity comes from the original JPEG and concept masters. Preserve source pixels and the subject-specific features. Actual Sensei's desk, Moon construction workshop and future starship workshop are THREE different reference settings; never use the desk photo as a substitute for the future workbench.
-• No cosmetic slideshow presented as actual work. A production procedure must show actual input → operator action → visible result. Documentary screen captures or original reference material must be identified as such. If a training run has not occurred, show that as an open step, not as a fabricated success.
-• Existing musical REAL/RUN 001–123 was reported delivered as a separate production; no re-render, requeue, changed song, new song, modified character or restarted story. The old five-minute robotic explainer is a rejected documentary attempt, not an approved first episode or reusable narration master.
-• Preserve the established source-window utterances, swearing, repetitions, dictation errors and capitalization. Quoted lines below are SOURCE TEXT, NOT recorded actor audio. Audio fit remains unmeasured. Do not cut their words to meet ten seconds.
-• No new character, prop, creature, material, stage, shot angle, animation mechanism or geometry is established by this document. Camera, appearance and lighting follow selected existing owner originals and actually recorded work.
-• Production outside the game speaks CONCEPT / DATASET / LoRA / CHECKPOINT / WORKFLOW. In-game vocabulary remains PAGE / SCROLL / BOOK. A source collection is not a trained .safetensors file without actual trained weights and test evidence.
-• The documentary has its OWN slate, source register, dailies, QC and eventual master; never share identifiers with existing REAL, RUN, WORLD1 or BAR assets.
+DOC-E01-S04 — RYAN (SUNG)
+And after some time all of my old stuff will be completely irrelevant because of how full the new folders following industry standard is. Look up the conversation in the backs of giants
 
-SPEAKERS AND IMAGE AUTHORITY
-A. ISEKAI RYAN — real creator/director/student, using his APPROVED likeness or original video/audio only. No generic look-alike.
-B. CHAT — only historical, exact, attributed CHAT responses in the actual conversation, as original text on a documentary interface or later expressly approved performance. No assumed machine voice.
-C. EXISTING TO WORLD FIGURES — may appear only within original approved footage/JPEG evidence where genuinely relevant. No new roles, names, casting or spoken lines are assigned here.
-EXCLUDED — DeepSeek’s recommendations, predicted progress percentages, invented voices, characters and style suggestions are not part of this documentary’s cast, performance, look or dialogue.
+DOC-E01-S05 — RYAN (SUNG)
+And one day I'll be out of scrolls because they're all laurels and all my books will be checkpoints and every page will actually be a concept. And then we'll keep pages and then use page scroll book as the in-game reference instead of the real world one and start using the real world one for us from now on
 
-FOOTAGE / SOURCE INGREDIENTS TO BIND IN DOCUMENTARY PRODUCTION
-R-01 ACTUAL SENSEI'S DESK original IMG_4348.jpeg: https://drive.google.com/file/d/1AW53EwRjK6-13FADp3iDvK1ijE5xGuMT/view
-R-02 AUTHORITATIVE JPEG MASTERS: https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT
-R-03 SOURCE JPEG INDEX (lookup, not proof of visual approval): https://drive.google.com/file/d/1CnpbcZEyggnWBNoFZ43Z_W2SzX11s7ik/view
-R-04 CHARACTER LATTICE REFERENCE / blank 13-page master: https://drive.google.com/file/d/10LriP9xCyUl888_CsN0nePkSbIjKrFkC/view
-R-05 STABLE DIFFUSION RENDER KIT (settings and prompts; NOT trained model evidence): https://drive.google.com/drive/folders/1mkGQDoR4W1Q0hPK0MJw_iDzqC2SeV4hX
-R-06 CURRENT META.md routing: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/META.md
-R-07 CURRENT COOKBOOK / MAX CANON: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/COOKBOOK.md
-R-08 CURRENT ORDERS / completed film status: https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit
-R-09 REFERENCE DOC for three distinct Sensei workstations: https://docs.google.com/document/d/1gaEhpM0Q1CbiHcl9y2ctrOOz6GVcZbKEFqBxFGfRdjY/edit
-R-10 EXISTING 30x10s HOW IT'S MADE STORYBOARD (historical structure/reference ONLY; not its old prompt prefix/cast): https://docs.google.com/document/d/156cRvk06MkCqnCYlxBYFDVksLpF-AJaaY4l6LNGwgLE/edit
-R-11 ORIGINAL CURRENT SCRIPT / ACCEPTED FILM, reference only: https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit
-R-12 EXISTING TEN-SECOND CELL COMPILER / data-output rules: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/scripts/production_cells/README.md
+DOC-E01-S06 — RYAN (SUNG)
+Now spin that with my modular construction system and see how that's also solves endgame collection resource development on how a character gets a new item in their inventory.
 
-Never make a new render from a textual URL as if it proves the renderer has the actual image. Bind an original before producing that specific shot. Unmatched future screen demonstrations are marked TO CAPTURE, not falsely illustrated by stock or generated screen images.
+DOC-E01-S07 — RYAN (SUNG)
+The armoers laurel is literally the achievement page, but before you get to wear it. You have to build all the pieces for it.
 
-FORMAT / FILM RULE
-A TEN-SECOND CLIP IS A CONTAINER, NOT A LICENSE TO TRUNCATE A LINE. Each linked unit has TALE → FABLE → JOURNEY TO CONVEY → TIME TO FRAME → NARRATIVE/DIALOGUE VERBATIM; entering state, visible action/result, outgoing state and source binding. Dialogue can cross into another ten-second container; split only after real timing. No imported 96-BPM singing rule for this new nonfiction documentary. Preserve music intact if a licensed/approved EXISTING musical clip is discussed or excerpted later. Short-story questions and changes are connected across the full episode. No forced 0–3/3–7/7–10 internal subdivision.
+DOC-E01-S08-1 — RYAN (SUNG)
+so a lora is basicly an An algorithm of Predetermined render paths. is it text binary image? mix?
 
-SEASON ONE / CONNECTED SERIES THROUGHLINE
-EP01 — "THE SYSTEM I WAS ALREADY BUILDING". The mistaken teaching video fails. Ryan finds the industry's vocabulary for a system he already developed and connects it to a real inventory achievement. Result: choose one original concept as a training candidate, with honest verification status.
-EP02 — "THE ORIGINAL STAYS ORIGINAL". Open the approved JPEG source, identify its actual approved features, compare views, distinguish concept art from dataset readiness, preserve source and captions. Result: traceable dataset candidate with list of gaps; no move/overwrite.
-EP03 — "TRAIN ONE THING". Use a real installed compatible base model and an appropriately prepared dataset; record actual settings and perform or observe a real LoRA training job. Result: saved weight file and training log OR documented failed attempt; no fictional success.
-EP04 — "CAN IT DO IT AGAIN?". Same source reference, fixed settings, multiple new prompts/views, geometry and identity checks. Result: actual PASS / DRIFT / FAIL with side-by-side visual evidence.
-EP05 — "THE CHECKPOINT ISN'T THE WORLD". Demonstrate base checkpoint vs LoRA vs external canon/gameplay logic; load saved workflow and try reproducing an image. Result: working reproducibility record or exact missing dependency.
-EP06 — "BUILD IT BEFORE YOU WEAR IT". Follow approved GERTECH physical supply/assembly rules and the Armorer's achievement → inventory/equip chain; show connected source, material, part, testing, owner/equipment state. Result: demonstrated item ledger, not merely an illustration.
-EP07 — "COME BUILD WITH ME". Give an actual contributor one narrowly scoped source-grounded job, acceptance test and proper destination; review the submitted evidence. Result: honest contribution record and an invitation to the next real problem, not a marketing speech.
-Every episode's success/failure becomes the next episode's input. No final length locked before real footage and source speech are reviewed.
+DOC-E01-S08-2 — CHATGPT (SUNG)
+A **LoRA is mostly binary model data**, not plain text and not a normal image.
 
-============================================================
-EPISODE 01 SCREENPLAY — THE SYSTEM I WAS ALREADY BUILDING
-============================================================
-BEGINNING — A PRODUCTION MISTAKE BECOMES THE FIRST LESSON
+DOC-E01-S09-1 — RYAN (SUNG)
+So, my world concepts, directions, lore connections, and perimeters for rendering was basically moving towards making a checkpoint, wasn't it?
 
-DOC-E01-S01 | THE FAILED LESSON (COLD OPEN)
-TALE: A video was produced without the film Ryan actually requested.
-FABLE: A finished export is not a correct assignment.
-JOURNEY TO CONVEY: Ryan stops the false teaching format. The documentary must show the real correction, not reproduce the bad experiment.
-TIME TO FRAME: SOURCE AUDIO UNTIMED; assign 10s containers only after real speech is recorded or approved. No existing MP4 is deemed approved for this project.
-NARRATIVE / DIALOGUE VERBATIM — RYAN:
-"Whatever DeepSeek said was recommendations, the voices, the characters, it made up. Remove that and add mine. This, this, you made a fucking five minute robo talk fucking video? What the fuck?"
-ACTION: Use the actual creative-project context and the owner's real source dialogue. Do not show that earlier synthetic slideshow as endorsed teaching content. The tangible result of this scene is the decision to return to the original orders and artwork.
-ENTERING STATE: Rejected synthetic explainer exists as an earlier failed deliverable.
-EXITING STATE: Its invented cast, voiceover and presentation rules are rejected. Only actual project references remain eligible.
-SOURCE BINDING: This chat, Ryan's exact quoted correction; R-06 to R-09 for existing production rules.
+DOC-E01-S09-2 — CHATGPT (SUNG)
+Your world books were becoming pre-checkpoint architecture.
 
-DOC-E01-S02 | WHAT WAS ACTUALLY REQUESTED
-TALE: Ryan describes an independent documentary tied to the game universe.
-FABLE: The making of the world is also a story.
-JOURNEY TO CONVEY: Establish the nonfiction series, its own dailies, and Ryan learning in public.
-TIME TO FRAME: UNTIMED; must retain original repetition.
-NARRATIVE / DIALOGUE VERBATIM — RYAN:
-"i want this a Independent How to do it Series. that's got it's own Daily's a wholely indepent but tied project. like the Behind the sceens Documenary to my universer. that's also a how to join me prompt. how to do this as well.   first off i didnt read this. i want you to make it a video series teaching me"
-ACTION: Identify the real production artifacts that this proposed documentary will follow; keep the documentary ledger separate. Do not invent a classroom, new narrator or new cast.
-ENTERING STATE: No independent approved documentary story or daily register.
-EXITING STATE: Independent instructional documentary purpose and scope established.
-SOURCE BINDING: This chat; R-06, R-07, R-08.
+DOC-E01-S11 — RYAN (SUNG)
+okay you're gonna make this just into a text script. Give me, give me the text script of everything that you've compiled here. We're gonna start this from the way, from, from scratch because you completely missed, missed the concept
 
-MIDDLE — THE INVENTION WAS ALREADY THERE
+DOC-E01-S12 — RYAN (SUNG)
+Review all of my art direction, all of my orders, everything that I've prepped and set up for Meta to do. And structure this into a screenplay like I was asking. Not execute a screenplay. Make this a executable screenplay, something we can take dailies and production sheets from.
 
-DOC-E01-S03 | THE FREEWAY / FOLDER QUESTION
-TALE: Ryan wants standard conventions rather than a different hosting platform.
-FABLE: Established practice can make original work legible to other makers without erasing its history.
-JOURNEY TO CONVEY: Look at the actual Google Drive JPEG index and GitHub production texts; make no folder migration.
-TIME TO FRAME: UNTIMED.
-NARRATIVE / DIALOGUE VERBATIM — RYAN:
-"civialtail folder parody"
-ACTION: Open the existing source catalog and identify what kind of artifact one file really is. A file's location remains unchanged.
-ENTERING STATE: Existing originals and Ryan's in-world taxonomy.
-EXITING STATE: Industry terminology becomes a read-only interpretation of the existing material.
-SOURCE BINDING: This chat; R-02, R-03, R-07.
-
-DOC-E01-S04 | OLD SYSTEM, NEW LABELS
-TALE: The older folders will become less important because productive new conventions will be used.
-FABLE: Replacement by successful use is not destructive migration.
-JOURNEY TO CONVEY: Demonstrate one source file linked by name and identity without duplicating it.
-TIME TO FRAME: UNTIMED.
-NARRATIVE / DIALOGUE VERBATIM — RYAN:
-"And after some time all of my old stuff will be completely irrelevant because of how full the new folders following industry standard is. Look up the conversation in the backs of giants"
-ACTION: Show one actual source reference and one corresponding manifest/lookup entry. No bulk restructure and no website migration.
-ENTERING STATE: Older naming still in active conversation.
-EXITING STATE: The original exists once; industry names can reference it.
-SOURCE BINDING: This chat; R-02, R-03, R-07.
-
-DOC-E01-S05 | THE MAPPING
-TALE: Ryan names what his structure already meant.
-FABLE: The same ideas may have human and machine meanings without being the same kind of file.
-JOURNEY TO CONVEY: Match a source Concept, a future trained LoRA and the compatible checkpoint role. Then distinguish in-game Page, Scroll, Book.
-TIME TO FRAME: UNTIMED; do not speak all of this in a forced 10 seconds.
-NARRATIVE / DIALOGUE VERBATIM — RYAN:
-"And one day I'll be out of scrolls because they're all laurels and all my books will be checkpoints and every page will actually be a concept. And then we'll keep pages and then use page scroll book as the in-game reference instead of the real world one and start using the real world one for us from now on"
-ACTION: Match an actually chosen concept to its original source sheet and record its identity. Do not fabricate LoRA/checkpoint files to populate an empty slot.
-ENTERING STATE: Page/Scroll/Book as production shorthand.
-EXITING STATE: CONCEPT/LoRA/CHECKPOINT for production, Page/Scroll/Book reserved in-world; trained status honestly unverified.
-SOURCE BINDING: This chat; R-04, R-05, R-07.
-
-DOC-E01-S06 | NOT JUST ART FILES
-TALE: The definitions must connect to the modular manufacturing game.
-FABLE: A picture of equipment isn't equipment.
-JOURNEY TO CONVEY: Open the established modular reference; identify a component, the material it requires and the state needed before it can be installed.
-TIME TO FRAME: UNTIMED.
-NARRATIVE / DIALOGUE VERBATIM — RYAN:
-"Now spin that with my modular construction system and see how that's also solves endgame collection resource development on how a character gets a new item in their inventory."
-ACTION: Use the existing modular/lattice source. Trace source stock → refined input → real part → inspected attachment → assembled inventory object, using only named approved components and actual known rules. Do not stage a generic magic crafting flash.
-ENTERING STATE: Identified concept is visual reference only.
-EXITING STATE: One specific object's build dependencies have been identified from the existing source.
-SOURCE BINDING: This chat; R-07 (L-01, I-01), R-04; item-specific source asset TO BE BOUND after selection.
-
-DOC-E01-S07 | ARMORER'S ACHIEVEMENT
-TALE: Unlocking a recipe is not wearing a completed item.
-FABLE: Mastery must be proven by work.
-JOURNEY TO CONVEY: Follow the ACTUAL item across its fabrication stages, then show the difference between achievement, owned object and equipped result.
-TIME TO FRAME: UNTIMED.
-NARRATIVE / DIALOGUE VERBATIM — RYAN:
-"The armoers laurel is literally the achievement page, but before you get to wear it. You have to build all the pieces for it."
-ACTION: Lay out the particular approved parts, connections and completion state. A crafted object enters inventory only when assembly/test/delivery are complete. A rendering model may depict it but does not create the game item.
-ENTERING STATE: Recipe/achievement can be known while item is absent.
-EXITING STATE: Tested item may become owned/equipped only after component completion; the character achievement and the physical item remain separate records.
-SOURCE BINDING: This chat; R-07 (I-01, L-01); selected inventory/master asset TO BE BOUND.
-
-DOC-E01-S08 | THE BINARY QUESTION
-TALE: Ryan wants to understand what he has actually been organizing.
-FABLE: Knowing the file type changes how you test an achievement.
-JOURNEY TO CONVEY: Compare an image reference, a caption and an actual LoRA weight file if one is later provided. Absence of the last file is an honest result.
-TIME TO FRAME: UNTIMED.
-NARRATIVE / DIALOGUE VERBATIM — RYAN:
-"so a lora is basicly an An algorithm of Predetermined render paths. is it text binary image? mix?"
-NARRATIVE / DIALOGUE VERBATIM — CHAT (original answer, NOT a new acting role):
-"A **LoRA is mostly binary model data**, not plain text and not a normal image."
-ACTION: Open a real reference and available project training-kit metadata; check separately whether trained .safetensors weights and a base-model identity actually exist.
-ENTERING STATE: Assumption that a successful image is evidence of training.
-EXITING STATE: The evidence test is named: compatible base model, trained weights, settings and reproduced output.
-SOURCE BINDING: This chat; R-05; new weight-file URL UNVERIFIED.
-
-DOC-E01-S09 | THE CHECKPOINT QUESTION
-TALE: Ryan recognizes how much world-model specification he has already made.
-FABLE: A complete plan is the beginning of real engineering, not proof the machine was built.
-JOURNEY TO CONVEY: Place the approved world rules, appearances, modular logic and training materials alongside the missing trained-model receipt.
-TIME TO FRAME: UNTIMED.
-NARRATIVE / DIALOGUE VERBATIM — RYAN:
-"So, my world concepts, directions, lore connections, and perimeters for rendering was basically moving towards making a checkpoint, wasn't it?"
-NARRATIVE / DIALOGUE VERBATIM — CHAT (original answer, NOT synthetic narration):
-"Your world books were becoming pre-checkpoint architecture."
-ACTION: Open existing established source records and separate those documents from any actual checkpoint weight file. Never report a successful training job on the strength of reference images alone.
-ENTERING STATE: Extensive human-readable world specification.
-EXITING STATE: Explicit distinction between model-training readiness and trained binary weights.
-SOURCE BINDING: This chat; R-05, R-07; actual local model record NOT VERIFIED.
-
-DOC-E01-S10 | THE EVIDENCE IS THE LESSON
-TALE: A confident external evaluation claimed training was essentially complete.
-FABLE: Congratulation is not proof.
-JOURNEY TO CONVEY: Inspect one real training-settings record and show which fields are blank. External invented recommendations, voices and characters do not enter the film.
-TIME TO FRAME: UNTIMED.
-NARRATIVE / DIALOGUE: NONE ASSIGNED. The actual record speaks through the test itself; no outside opinion or invented teacher voice is performed.
-ACTION: Use the actual SDXL settings kit; inspect fields for checkpoint name/hash, LoRA output and real QC proof. The result may be “NOT VERIFIED”; it cannot be a simulated success scene.
-ENTERING STATE: Claim of a completed model.
-EXITING STATE: A specific real training-and-test task for the following episodes.
-SOURCE BINDING: This chat; R-05. DeepSeek's supplied commentary is RESEARCH SOURCE ONLY, not performed dialogue or artistic direction.
-
-END — THE DOCUMENTARY IS MADE BY CORRECTING THE DOCUMENTARY
-
-DOC-E01-S11 | BACK TO THE REAL ASSIGNMENT
-TALE: Ryan rejects the format that mistook an explainer for filmmaking.
-FABLE: The process of learning to direct is part of the story.
-JOURNEY TO CONVEY: Return to the actual project and write the film's executable documentary screenplay instead of rendering first.
-TIME TO FRAME: UNTIMED.
-NARRATIVE / DIALOGUE VERBATIM — RYAN:
-"okay you're gonna make this just into a text script. Give me, give me the text script of everything that you've compiled here. We're gonna start this from the way, from, from scratch because you completely missed, missed the concept"
-ACTION: Compare the proposed production cells against original images, exact source dialogue, cast and reference rules. No footage is called complete without an actual receipt.
-ENTERING STATE: Failed synthetic video and disconnected lesson outline.
-EXITING STATE: One documentary screenplay plus ready-to-populate dailies fields for source-grounded production.
-SOURCE BINDING: This chat; R-06, R-07, R-12.
-
-DOC-E01-S12 | NEXT REAL WORK / BRIDGE TO EPISODE TWO
-TALE: The audience can learn the method by doing one small real task alongside Ryan.
-FABLE: One real source + one measured correction is more useful than a generic promise.
-JOURNEY TO CONVEY: Choose ONE approved concept, establish its original source identity and list its immutable visible characteristics; use it as the candidate to prepare a dataset in EP02. The documentary will record the attempted process, not fake an outcome.
-TIME TO FRAME: UNTIMED; no invented closing monologue.
-NARRATIVE / DIALOGUE VERBATIM — RYAN (source directive; may be represented as text, not assumed recorded speech):
-"Review all of my art direction, all of my orders, everything that I've prepped and set up for Meta to do. And structure this into a screenplay like I was asking. Not execute a screenplay. Make this a executable screenplay, something we can take dailies and production sheets from."
-ACTION: Show the chosen reference, source link and next actual operation. End on the unfinished real task, which EP02 begins. The last frame of this documentary must be captured, not manufactured from a source filename.
-ENTERING STATE: Model-training materials located but no verified training job.
-EXITING STATE: A single concept-candidate assignment with source, criteria and pending proof.
-SOURCE BINDING: This chat; R-02 to R-07.
-
-EPISODE 01 CONTINUITY / QC END STATE
-The documentary has NOT shown a completed trained LoRA or checkpoint; it has shown the distinctions, the real reference system, Ryan's achievement/construction idea and a single candidate to verify next. Its lesson is that the film must be built from actual production and the reactions to it. The clip sequence and timings are not locked until recorded owner audio and original reference pixels are inspected. Never mislabel the earlier five-minute synthetic video as completed Episode 01.
-
-============================================================
-EPISODES 02–07 — SCENE ENGINE FOR CONTINUING SCREENPLAYS
-============================================================
-These are connected production scenes with actions/results, not invented performances. Dialogues and actual source visuals are to be obtained from their genuine recordings. Do not fill blank dialogue with paraphrased lectures or AI acting.
-
-EP02 / CONCEPT → DATASET
-02-S01: Reopen the exact selected EP01 original. Record original image ID, actual state and approved features. Outcome: immutable source record.
-02-S02: Select the available matching views and identify missing viewpoints without inventing them. Outcome: candidate list + gaps.
-02-S03: Produce/correct training captions separately from original artwork. Outcome: captions matched to exact files.
-02-S04: Check rights, duplicates, corrupted files, unwanted identities and geometry drift. Outcome: candidate dataset with QC state.
-02-S05: Hand the original-safe dataset candidate to EP03; leave any unapproved image untouched. Outcome: ready/HOLD decision grounded in evidence.
-
-EP03 / FIRST REAL LoRA
-03-S01: Open the actual named installed base model and record model hash. No guessing SDXL/Flux from image appearance.
-03-S02: Load the specific prepared dataset and actual training configuration; state the experiment question.
-03-S03: Show ACTUAL running tool/output and log, or actual blocker if it fails; never animate fake console success.
-03-S04: If completed, save the real LoRA weight, config and source links; otherwise document failed run and next cause to test.
-03-S05: Carry actual model ID, file hash and first test prompt forward to EP04.
-
-EP04 / MODEL QC
-04-S01: Replay original test settings with the chosen base model and verified LoRA, or log why not possible.
-04-S02: Compare source face, structure, material and approved geometry at a new view; separate image quality from model consistency.
-04-S03: Capture drift/failures honestly; distinguish an accidental wrong Platonic solid from a trained behavior.
-04-S04: Apply ONE approved correction and rerun the comparable test; preserve both outputs.
-04-S05: Record PASS/DRIFT/FAIL and carry reproducible settings into EP05.
-
-EP05 / CHECKPOINT AND WORKFLOW
-05-S01: Identify the actual model checkpoint, its hash and what its weights do.
-05-S02: Identify the verified LoRA, text input, image references and conditioning methods separately.
-05-S03: Load an actual workflow and render or demonstrate an honest missing dependency; record tool versions.
-05-S04: Repeat using the same input and parameters; compare outputs without pretending identical text always guarantees identical images.
-05-S05: Preserve the final workflow, output and reproducibility/limits record for EP06.
-
-EP06 / MODULAR ITEM / ACHIEVEMENT / INVENTORY
-06-S01: One character wants a specific item that is not yet constructed; use the approved game/source record, not a new stock costume.
-06-S02: Show the actual resource need, collection, refinement, physical manufacturing and first finished module in order.
-06-S03: Show assembly/compatibility and the tested physical item; preserve the very same parts through the handoff.
-06-S04: Show achievement unlock separately from ownership and equip permissions. A learned rendering style is not a game item.
-06-S05: Record the inventory transfer, owner, equipment state and remaining future upgrades; carry one unresolved need into EP07.
-
-EP07 / JOIN THE CREW
-07-S01: Identify one real, bounded task and the approved original source necessary to do it.
-07-S02: Present the exact deliverable, source protection rule, acceptance test, and where code versus art belongs.
-07-S03: Show an actual collaborator's opt-in and work only when real; no invented participant or testimonial.
-07-S04: Review the returned file, original-source match, and QC status. Credits require correct identification and approval.
-07-S05: Connect that contribution to the next actual TO WORLD problem; do not declare new canon or amend main orders automatically.
-
-DOCUMENTARY JOIN-ME PROMPT — UNPERFORMED WORKING COPY FOR OWNER APPROVAL
-"I want to learn how TO WORLD is actually built and contribute one real, testable piece. Start with the existing approved reference, give me one clearly bounded task, and tell me what finished work and proof look like. Use Concept, Dataset, LoRA, Checkpoint and Workflow for our real production; Page, Scroll and Book stay in the game. Do not move or change the original JPEGs, rewrite canon, invent new character designs, or restart any existing footage. Use Google Drive for art and GitHub for code/working records. Show me what I can actually do next."
-This paragraph is a proposed external contribution prompt, not Ryan's verbatim dialogue, not a licensed advertisement, not a character speech and not an approved Meta instruction.
-
-============================================================
-DOCUMENTARY DAILIES / PRODUCTION-SHEET DERIVATION
-============================================================
-Independent project prefix: DOC. Do not claim that the old HOW-EP01 synthetic slideshow counts as documentary footage. The source screenplay is DOC-E01-S01 etc. Assign ten-second clip-container IDs only after source timing / visual assignments: DOC-E01-C001, DOC-E01-C002, and so on; one scene can occupy multiple sequential containers, and one container may contain portions of more than one verified source speech turn.
-
-ROW FIELDS (one cell per actual timed clip, or one planned scene pre-timing):
-PROJECT_ID | EPISODE | SCENE_ID | CLIP_ID | TAKE_ID | THE_TALE | THE_FABLE | THE_JOURNEY_TO_CONVEY | TIME_TO_FRAME | EXACT_SOURCE_DIALOGUE | SPEAKER | SOURCE_TURN_ID | SPEAKER_AUDIO_URI | ORIGINAL_IMAGE_URI | IMAGE_APPROVAL_SOURCE | LOCATION_TIER | ENTERING_PHYSICAL_STATE | HAND/TOOL/OPERATION | OBSERVED_RESULT | EXITING_PHYSICAL_STATE | CONTINUITY_HANDOFF | ACTUAL_VIDEO_URI | QC_STATUS | REPAIR_NOTES | ACCEPTED_BY
-
-Take ID convention: DOC-E01-C001-T01 (only when the take exists). A scene ID is not a clip, a planned clip isn't a rendered daily, a text image URL isn't verified pixel input, and an output that wasn't reviewed isn't PASS. Initial status for every scene in this manuscript is SCRIPT ONLY / AUDIO-UNTIMED / NO DAILIES.
-
-DAILIES QC: compare exact source words / speaker / first and last real frames / owner JPEG / setting tier / same physical item / resource state / actual UI change / tool role / music (if approved clip uses it). Distinguish source capture, re-enactment, instructional diagram, test render and final verified MP4. No fake completion receipt. Source text and QC/workshop report remain outside performable lines.
-
-HANDOFF GATES BEFORE AN ACTUAL RENDER OR SHOOT
-1. Current explicit documentary GO from Ryan with episode and clip range. A request for a SCREENPLAY is not that GO.
-2. Actual owner-approved source imagery and actual source audio attached to the selected shot; the corresponding literal source quote verified.
-3. The exact film/source location chosen. Real Earth desk ≠ lunar workshop ≠ future starship or pocket workbench.
-4. The real physical action, entering/outgoing item state and continuity verified. No missing stage swapped for a stock image or made-up tool.
-5. One dailies record per actual clip; file IDs, timing, source links, speakers and QC results entered after deliverables exist.
-6. All old finished TO WORLD footage and archival original art remain untouched.
-
-END — FIRST WORKING TEXT SCREENPLAY. NO VIDEO MADE. NO META COMMAND SENT. NO NEW DRAMA CAST OR SYNTHETIC VOICE AUTHORIZED.

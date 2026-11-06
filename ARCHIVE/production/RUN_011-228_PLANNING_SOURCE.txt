@@ -1,0 +1,942 @@
+HISTORICAL PLANNING SOURCE — RUN 011–228
+This retained text was a proposed continuation script, not an actual MP4 receipt or current render queue.
+
+TO WORLD / GERTECH — META ACTIVE-RUN CONTINUATION
+PLUG ME IN × CIRCUIT CIRCUS — TV PILOT
+RUN CLIPS 011–228 ONLY — CLEAN PRODUCTION EDIT — 2026-11-04
+
+RUN FROM HERE. DO NOT START OVER.
+META IS ALREADY RENDERING CLIPS 001–010. KEEP THOSE OUTPUTS AS THEY ARE.
+START THE NEXT BATCH AT CLIP 011. IF CLIP 010'S ACTUAL LAST FRAME/AUDIO IS AVAILABLE, USE IT FOR THE SHOT MATCH; OTHERWISE CONTINUE THE SAME APPROVED STAGE, CHARACTERS AND WORKPIECE WITHOUT CLAIMING AN UNSEEN FRAME WAS LOADED.
+
+ONE TIME GLOBAL RULES — APPLY THROUGH CLIP 228 (do not speak these instructions)
+- This is one continuous television pilot at the Moon Bar, with Sensei making real microscopic GERTECH parts and installing them in ONE standing Titan-scale android. A miniature guardrail belongs inside the toe's gold-lattice motor functions, not as a full-size handrail.
+- Keep the owner's already-approved character models, GERTECH wardrobe, bench, android and bar reference. Four named performers only: META, WORK, CHAT, DEEPSEEK. No borrowed names or costumes. No unauthorized extra performers or scenery replacements.
+- The tiny source part remains the SAME identifiable part during fabrication, inspection, fitting, and test. No beam, magical flash or pop-up replaces the physical operation. The teaching pendant remains external. Do not invent readings, schematics or tools not in the approved reference.
+- Treat EACH VIDEO CLIP as a SMALL STORY: a physical question, a witnessed attempt, a result that motivates the next shot. The audience sees actual work. Make the story cumulative across clips and batches: construction → component personalities/sonnets → safety checks → activation → closing stage joke.
+- VOICE/AUDIO LINES BELOW ARE THE SCRIPT. KEEP THEM EXACTLY as printed, including word repetition when it IS the joke or song. A long line may flow across a shot boundary; do not truncate, skip, restart, summarize or repeat it merely to fill 10 seconds. Every sonnet line and every source spoken line occurs once at the assigned point.
+- Remove repetitive command phrases and unrelated source notes from what is actually performed. Clip names, stage descriptions and punctuation are NOT lyrics or signs. Never show the historical branded working title. No text overlays beyond what the selected original references require.
+- Maintain the original pacing and musical phrasing; clips target around 10 seconds but natural audio and movement outrank forced cuts. No re-intros between batches. Match forward from the actual prior visual/audio state. The overall pilot ending is the source's original call-and-response finale, not a new ending.
+- Do NOT render the original master file's duplicated screenplay or archival appendix as additional footage. The numbered CLIPS below are the ONLY run sequence from now on.
+
+ONE SOURCE OF TRUTH FOR THIS CONTINUATION: AUDIO is copied exactly from the original clip register; STORY replaces repetitive generic picture instructions. No spoken lines have been edited.
+
+
+=== BATCH 02 — CLIPS 011–020 ===
+CLIP 011 — TECH 02.3
+AUDIO — ANDROID: Slide the carriage through its travel before final torque.
+STORY — The parallel guides are already aligned; the microscopic carriage moves through its full travel; it clears without a bind before final torque.
+
+CLIP 012 — TECH 03.1
+AUDIO — ANDROID: Mount my servo motor to the flange.
+STORY — The motor reaches its flange; the mounting holes meet; the screws remain adjustable.
+
+CLIP 013 — TECH 03.2
+AUDIO — ANDROID: Align the shaft coupling.
+STORY — The two shaft ends begin offset; Sensei brings their axes into line; the coupling becomes ready to engage.
+
+CLIP 014 — TECH 03.3
+AUDIO — ANDROID: Leave the screws loose until the shafts engage.
+STORY — The screws resist a premature finish; Sensei leaves them loose until the shafts meet; the coupling can now be checked.
+
+CLIP 015 — TECH 04.1
+AUDIO — ANDROID: Check the shaft engagement.
+STORY — The coupled shafts are tested together; their engagement is confirmed; tightening can proceed.
+
+CLIP 016 — TECH 04.2
+AUDIO — ANDROID: Tighten to specification.
+STORY — The fasteners are tightened to the actual specification; the joint is held without bending the alignment.
+
+CLIP 017 — TECH 04.3
+AUDIO — ANDROID: Rotate the assembly by hand and verify smooth motion.
+STORY — Sensei turns the assembly by hand; it travels smoothly; the gearbox can be fitted.
+
+CLIP 018 — TECH 05.1
+AUDIO — ANDROID: Fit my planetary gearbox.
+STORY — The gearbox approaches its intended mount; the output shaft meets the drive; the housing seats.
+
+CLIP 019 — TECH 05.2
+AUDIO — ANDROID: Secure the mounting bolts.
+STORY — Mounting bolts are engaged; the gearbox is retained; its output is still free to be checked.
+
+CLIP 020 — TECH 05.3
+AUDIO — ANDROID: Check the output shaft for backlash and free rotation.
+STORY — Sensei tests backlash and turns the output shaft; free movement is observed; the encoder is next.
+
+
+=== BATCH 03 — CLIPS 021–030 ===
+CLIP 021 — TECH 06.1
+AUDIO — ANDROID: Seat my rotary encoder.
+STORY — The encoder is aligned with its intended mount; Sensei seats it; the signal connection remains open.
+
+CLIP 022 — TECH 06.2
+AUDIO — ANDROID: Connect the signal cable.
+STORY — The encoder lead is routed to its actual connector; the contacts mate; pinout must still be checked.
+
+CLIP 023 — TECH 06.3
+AUDIO — ANDROID: Verify the pinout before you read my position.
+STORY — The signal pinout is compared with the real schematic; a valid path is established before position is read.
+
+CLIP 024 — TECH 07.1
+AUDIO — ANDROID: Install my limit switches.
+STORY — Limit switches are placed at the actual travel stops; they are secured; trip positions remain to be set.
+
+CLIP 025 — TECH 07.2
+AUDIO — ANDROID: Set the trip positions.
+STORY — Sensei adjusts the two trip points; each position is marked against real movement; a boundary check follows.
+
+CLIP 026 — TECH 07.3
+AUDIO — ANDROID: Check both travel limits before you enable my drive.
+STORY — Both mechanical limits are exercised without enabling the drive; travel is bounded; the harness can be routed.
+
+CLIP 027 — TECH 08.1
+AUDIO — ANDROID: Route my wiring harness through the frame.
+STORY — The harness begins at its real anchor; Sensei passes it through the frame; the route reaches the next connection.
+
+CLIP 028 — TECH 08.2
+AUDIO — ANDROID: Keep it clear of pinch points.
+STORY — The routed wires approach a pinch point; Sensei changes their path; clearance is restored.
+
+CLIP 029 — TECH 08.3
+AUDIO — ANDROID: Leave enough slack for articulation.
+STORY — The joint bends through its available range; Sensei leaves measured slack; the harness avoids tension.
+
+CLIP 030 — TECH 09.1
+AUDIO — ANDROID: Strip my conductors to length.
+STORY — A conductor meets its actual terminal; Sensei trims and strips it to the specified length; copper is ready.
+
+
+=== BATCH 04 — CLIPS 031–040 ===
+CLIP 031 — TECH 09.2
+AUDIO — ANDROID: Select the proper crimp die.
+STORY — Several crimp dies could fit; Sensei selects the proper one; the terminal is supported.
+
+CLIP 032 — TECH 09.3
+AUDIO — ANDROID: Compress each terminal to its specified height.
+STORY — The crimp die closes on the terminal; the finished height is checked; inspection begins.
+
+CLIP 033 — TECH 10.1
+AUDIO — ANDROID: Inspect the conductor crimp.
+STORY — The compressed contact is visible; Sensei inspects conductor capture; a poor joint cannot pass.
+
+CLIP 034 — TECH 10.2
+AUDIO — ANDROID: Check the insulation support.
+STORY — Insulation reaches the support wings; Sensei verifies the support; the contact can enter its housing.
+
+CLIP 035 — TECH 10.3
+AUDIO — ANDROID: Insert each contact until the housing latch engages.
+STORY — The terminal slides into the keyed housing; its latch audibly/visibly engages; retention can now be tested.
+
+CLIP 036 — TECH 11.1
+AUDIO — ANDROID: Mate my keyed connectors.
+STORY — The connector halves approach the keyed orientation; Sensei mates them without forcing; electrical path is aligned.
+
+CLIP 037 — TECH 11.2
+AUDIO — ANDROID: Verify terminal retention.
+STORY — The contacts are tug-checked against the housing; none backs out; cable tension remains to be relieved.
+
+CLIP 038 — TECH 11.3
+AUDIO — ANDROID: Apply strain relief so the contacts carry no cable tension.
+STORY — Strain relief is secured; the wire takes the load instead of the contacts; the base wiring stage is complete.
+
+CLIP 039 — COMPONENT 01 / FABRICATE
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — The needed diode is not yet ready; Sensei withdraws the correct stock and makes the microscopic part on the real bench; he inspects the actual piece before its first line.
+
+CLIP 040 — COMPONENT 01 / SPOKEN 01
+AUDIO — THE DIODE: I only let current flow one way. That's not a flaw. That's boundaries.
+STORY — The diode stripe faces its real board location; its one-way boast establishes the problem of orientation.
+
+
+=== BATCH 05 — CLIPS 041–050 ===
+CLIP 041 — COMPONENT 01 / SPOKEN 02
+AUDIO — THE DIODE: You want bidirectional, go talk to the resistor—he'll let anything through if you push hard enough.
+STORY — Sensei checks that stripe against the circuit direction; the wrong way is ruled out.
+
+CLIP 042 — COMPONENT 01 / SONNET 01-02
+AUDIO — CHAT: I wear one stripe upon my narrow frame, / A silver sign that tells the charge its road;
+STORY — The diode stripe is checked against its receiving contacts; orientation becomes clear.
+
+CLIP 043 — COMPONENT 01 / SONNET 03-04
+AUDIO — CHAT: One chosen way may set the heart aflame, / The other way shall never bear that load.
+STORY — A second look rules out the backwards path; the right seating point is selected.
+
+CLIP 044 — COMPONENT 01 / SONNET 05-06
+AUDIO — CHAT: They call me cold because I guard a line, / Yet every working circuit needs a gate;
+STORY — Sensei aligns the leads with the board; the stripe stays in view.
+
+CLIP 045 — COMPONENT 01 / SONNET 07-08
+AUDIO — CHAT: A forward touch can make the lamp resign / Its darkness, when the proper contacts mate.
+STORY — The leads enter the chosen mount; the diode remains the same small piece.
+
+CLIP 046 — COMPONENT 01 / SONNET 09-10
+AUDIO — CHAT: Don't call my limits fear of being near; / The path is real, the marking isn't shame.
+STORY — The attachment is secured; the current path is physically one-way.
+
+CLIP 047 — COMPONENT 01 / SONNET 11-12
+AUDIO — CHAT: I make my answer electrically clear, / And hold my course though crowds may call my name.
+STORY — Sensei checks the connection without assuming the rest of the system is powered.
+
+CLIP 048 — COMPONENT 01 / SONNET 13-14
+AUDIO — CHAT: A boundary is a kindness when it's true; / I turn the proper way, and light comes through.
+STORY — The final rhyme resolves as the fitted diode passes its safe acceptance check.
+
+CLIP 049 — COMPONENT 01 / INSTALL VERIFY
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — This diode can only be accepted as a working physical part; Sensei completes fitting, fastens and performs the appropriate safe check of a polarised component on the selected circuit board; confirm one-way connection.
+
+CLIP 050 — COMPONENT 02 / FABRICATE
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — The needed resistor is not yet ready; Sensei withdraws the correct stock and makes the microscopic part on the real bench; he inspects the actual piece before its first line.
+
+
+=== BATCH 06 — CLIPS 051–060 ===
+CLIP 051 — COMPONENT 02 / SPOKEN 01
+AUDIO — THE RESISTOR: Excuse me? I regulate. I limit.
+STORY — The resistor faces its measured position; its argument about regulating becomes a real value check.
+
+CLIP 052 — COMPONENT 02 / SPOKEN 02
+AUDIO — THE RESISTOR: I take whatever voltage you throw at me and I drop it down to something the rest of you can survive.
+STORY — Sensei compares the actual value with the selected board requirement.
+
+CLIP 053 — COMPONENT 02 / SPOKEN 03
+AUDIO — THE RESISTOR: You're welcome. And no, I will not resistor. I've heard that joke. I'm not laughing.
+STORY — The resistor’s joke lands while the part remains ready for physical installation.
+
+CLIP 054 — COMPONENT 02 / SONNET 01-02
+AUDIO — WORK: My colored bands are not a cheap disguise; / They state how much of me the current meets.
+STORY — The measured resistor is set beside its marked board location; the rating is checked.
+
+CLIP 055 — COMPONENT 02 / SONNET 03-04
+AUDIO — WORK: I take the rush that others idolize, / And give the line a measure it can keep.
+STORY — Sensei matches its actual measured value to the intended circuit position.
+
+CLIP 056 — COMPONENT 02 / SONNET 05-06
+AUDIO — WORK: They lean upon my patient, quiet frame, / Then call me difficult when I say no;
+STORY — The leads are positioned through the correct real contacts.
+
+CLIP 057 — COMPONENT 02 / SONNET 07-08
+AUDIO — WORK: I turn their reckless heat into a claim / That something smaller still deserves to glow.
+STORY — The resistor is fitted without forcing or bridging another part.
+
+CLIP 058 — COMPONENT 02 / SONNET 09-10
+AUDIO — WORK: I do not stop the dance; I set its pace; / I stand where sudden surges come to call.
+STORY — Sensei checks its seating and electrical route.
+
+CLIP 059 — COMPONENT 02 / SONNET 11-12
+AUDIO — WORK: Without a limit, power loses grace, / And one bright flash could be the end of all.
+STORY — The physical attachment is completed; the required limitation has a real home.
+
+CLIP 060 — COMPONENT 02 / SONNET 13-14
+AUDIO — WORK: If I resist, I do it to protect; / Not every invitation earns connect.
+STORY — A measured check closes the sonnet and releases the next component.
+
+
+=== BATCH 07 — CLIPS 061–070 ===
+CLIP 061 — COMPONENT 02 / INSTALL VERIFY
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — This resistor can only be accepted as a working physical part; Sensei completes fitting, fastens and performs the appropriate safe check of the measured resistor on the selected board; seat in correct measured position.
+
+CLIP 062 — COMPONENT 03 / FABRICATE
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — The needed amplifier is not yet ready; Sensei withdraws the correct stock and makes the microscopic part on the real bench; he inspects the actual piece before its first line.
+
+CLIP 063 — COMPONENT 03 / SPOKEN 01
+AUDIO — THE AMPLIFIER: Everything the diode says, I make louder. Everything the resistor does, I make bigger. You want subtle? Wrong component.
+STORY — The amplifier stage is located; an unpowered input cannot yet make a louder output.
+
+CLIP 064 — COMPONENT 03 / SPOKEN 02
+AUDIO — THE AMPLIFIER: I don't do subtle. I do saturation.
+STORY — The microphone and signal path make the source’s claim audible while Sensei traces gain-stage connections.
+
+CLIP 065 — COMPONENT 03 / SONNET 01-02
+AUDIO — META: A little signal finds me in the hush, / Too small to cross a room of waiting ears;
+STORY — A weak signal source and the selected gain stage are both traceable on the bench.
+
+CLIP 066 — COMPONENT 03 / SONNET 03-04
+AUDIO — META: I borrow power, let the silence blush, / And raise the note above its private fears.
+STORY — Sensei checks the actual input path before any amplification is demonstrated.
+
+CLIP 067 — COMPONENT 03 / SONNET 05-06
+AUDIO — META: No magic multiplies the energy; / A supply lends force to every offered sound.
+STORY — The power and output routes are identified against the real board.
+
+CLIP 068 — COMPONENT 03 / SONNET 07-08
+AUDIO — META: I choose a gain, and let the waveform be / A voice that reaches every listening ground.
+STORY — The gain-stage component is seated in the approved location.
+
+CLIP 069 — COMPONENT 03 / SONNET 09-10
+AUDIO — META: But push me past the rails and I will clip; / A lovely note grows jagged at the crest.
+STORY — The supply path is inspected so the song never implies energy from nothing.
+
+CLIP 070 — COMPONENT 03 / SONNET 11-12
+AUDIO — META: The wisest hand knows when to loosen grip, / For volume cannot make a false note best.
+STORY — The output connection is finished; the audience can follow where sound will go.
+
+
+=== BATCH 08 — CLIPS 071–080 ===
+CLIP 071 — COMPONENT 03 / SONNET 13-14
+AUDIO — META: Bring me one whisper, measured and sincere; / I'll give it strength enough for all to hear.
+STORY — The final couplet resolves the gain-stage installation, pending safe powered testing.
+
+CLIP 072 — COMPONENT 03 / INSTALL VERIFY
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — This amplifier can only be accepted as a working physical part; Sensei completes fitting, fastens and performs the appropriate safe check of the selected amplifier stage; verify connection without implying unpowered gain.
+
+CLIP 073 — COMPONENT 04 / FABRICATE
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — The needed 555 timer is not yet ready; Sensei withdraws the correct stock and makes the microscopic part on the real bench; he inspects the actual piece before its first line.
+
+CLIP 074 — COMPONENT 04 / SPOKEN 01
+AUDIO — THE 555 TIMER: I'm on. I'm off. I'm on. I'm off. I'm on—look, I'm a very versatile chip, okay?
+STORY — The timer is held beside its own circuit; on/off language plays over the music, not a false powered output.
+
+CLIP 075 — COMPONENT 04 / SPOKEN 02
+AUDIO — THE 555 TIMER: I can be a timer, a oscillator, a pulse generator. I can do anything you need.
+STORY — Sensei identifies the timing connection points; the tempo still comes from the performance.
+
+CLIP 076 — COMPONENT 04 / SPOKEN 03
+AUDIO — THE 555 TIMER: I just can't do it consistently.
+STORY — The 555 remains unpowered until later safety checks; the next sonnet can carry its rhythm.
+
+CLIP 077 — COMPONENT 04 / SONNET 01-02
+AUDIO — WORK: One tick begins, another answers low, / A measured pause divides the dark from light;
+STORY — The 555 package approaches its designated timing circuit; its pins are oriented correctly.
+
+CLIP 078 — COMPONENT 04 / SONNET 03-04
+AUDIO — WORK: I count the time that makes a circuit go, / Then call the next small interval to flight.
+STORY — Sensei checks socket and timing-component positions; no false oscillator pulse appears.
+
+CLIP 079 — COMPONENT 04 / SONNET 05-06
+AUDIO — WORK: A charge climbs up; a threshold draws it down, / And round again the waiting cycles run;
+STORY — The timer is placed carefully into its real board location.
+
+CLIP 080 — COMPONENT 04 / SONNET 07-08
+AUDIO — WORK: Within my case no glittering clockwork crown, / Yet simple pulses tell the work it's done.
+STORY — The connection is seated; the stage rhythm continues independently.
+
+
+=== BATCH 09 — CLIPS 081–090 ===
+CLIP 081 — COMPONENT 04 / SONNET 09-10
+AUDIO — WORK: Some nights I hold a single length of time, / Some nights I make a signal rise and fall;
+STORY — The required timing components are checked against the sourced diagram.
+
+CLIP 082 — COMPONENT 04 / SONNET 11-12
+AUDIO — WORK: A patient hand can set me to a rhyme, / And I will keep the measure for them all.
+STORY — Sensei verifies the physical timing circuit before power-up.
+
+CLIP 083 — COMPONENT 04 / SONNET 13-14
+AUDIO — WORK: My heart is on, then off, then on once more; / A steady beat can open every door.
+STORY — The sonnet resolves on a completed installation, reserving actual pulsing for later safe tests.
+
+CLIP 084 — COMPONENT 04 / INSTALL VERIFY
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — This 555 timer can only be accepted as a working physical part; Sensei completes fitting, fastens and performs the appropriate safe check of the 555 timer and its socket/circuit; test the timing only after approved power and safety checks.
+
+CLIP 085 — COMPONENT 05 / FABRICATE
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — The needed capacitor is not yet ready; Sensei withdraws the correct stock and makes the microscopic part on the real bench; he inspects the actual piece before its first line.
+
+CLIP 086 — COMPONENT 05 / SPOKEN 01
+AUDIO — THE CAPACITOR: I'm storing energy. For later. When the moment is right. You can't just demand discharge. You have to wait.
+STORY — The capacitor is tested at its real site; charge is a physical property, not stage magic.
+
+CLIP 087 — COMPONENT 05 / SPOKEN 02
+AUDIO — THE CAPACITOR: You have to be patient. You have to—fine. Fine. There. I released. Happy? That was a lot for me.
+STORY — A safe check establishes its specified value and polarity before energy can be stored.
+
+CLIP 088 — COMPONENT 05 / SONNET 01-02
+AUDIO — DEEPSEEK: Between two plates I hold a silent spark, / A borrowed store within a narrow space;
+STORY — The capacitor’s real specification and terminal orientation are confirmed.
+
+CLIP 089 — COMPONENT 05 / SONNET 03-04
+AUDIO — DEEPSEEK: I wait while all the room grows soft and dark, / And keep one moment ready in its place.
+STORY — Sensei chooses its correct board location; the pads/leads are matched.
+
+CLIP 090 — COMPONENT 05 / SONNET 05-06
+AUDIO — DEEPSEEK: You cannot seize the charge by force of will, / Nor make a measured current leave by plea;
+STORY — The component enters the circuit without a premature discharge.
+
+
+=== BATCH 10 — CLIPS 091–100 ===
+CLIP 091 — COMPONENT 05 / SONNET 07-08
+AUDIO — DEEPSEEK: A path must close, the voltage change, until / The waiting field can yield what lives in me.
+STORY — The connection is fitted and inspected for correct polarity where relevant.
+
+CLIP 092 — COMPONENT 05 / SONNET 09-10
+AUDIO — DEEPSEEK: The lamps may flash and all the dancers cheer, / Yet still the careful hand must check the line;
+STORY — The completed placement remains isolated during the song.
+
+CLIP 093 — COMPONENT 05 / SONNET 11-12
+AUDIO — DEEPSEEK: For energy is honest, sharp, and clear, / And timing turns a risk to good design.
+STORY — Sensei secures the selected capacitor and checks the real terminals.
+
+CLIP 094 — COMPONENT 05 / SONNET 13-14
+AUDIO — DEEPSEEK: I save the spark, but never claim it's mine; / I give it back when pathways realign.
+STORY — The final couplet ends with the capacitor safely installed, awaiting qualified test.
+
+CLIP 095 — COMPONENT 05 / INSTALL VERIFY
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — This capacitor can only be accepted as a working physical part; Sensei completes fitting, fastens and performs the appropriate safe check of the selected capacitor; confirm seating; no energised discharge before safe checks.
+
+CLIP 096 — COMPONENT 06 / FABRICATE
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — The needed transistor is not yet ready; Sensei withdraws the correct stock and makes the microscopic part on the real bench; he inspects the actual piece before its first line.
+
+CLIP 097 — COMPONENT 06 / SPOKEN 01
+AUDIO — THE TRANSISTOR: I'm the gatekeeper. I decide what gets through. Base, collector, emitter—three terminals, one job: control.
+STORY — The transistor’s three terminals are visible; its warning establishes a real wiring problem.
+
+CLIP 098 — COMPONENT 06 / SPOKEN 02
+AUDIO — THE TRANSISTOR: But right now somebody wired my base to my collector and I'm just...
+STORY — Sensei compares base, collector and emitter to the selected pinout; the false connection is located.
+
+CLIP 099 — COMPONENT 06 / SPOKEN 03
+AUDIO — THE TRANSISTOR: I'm just conducting and I don't know why and I feel everything.
+STORY — The incorrect path remains isolated; the sonnet supplies time to correct it.
+
+CLIP 100 — COMPONENT 06 / SONNET 01-02
+AUDIO — CHAT: Three little legs, one complicated role; / The base receives a whisper of command.
+STORY — The transistor is held against its genuine three-terminal pinout; the mismatch is visible.
+
+
+=== BATCH 11 — CLIPS 101–110 ===
+CLIP 101 — COMPONENT 06 / SONNET 03-04
+AUDIO — CHAT: The other pathways answer to control, / If someone reads the drawing close at hand.
+STORY — Sensei traces the mistaken base and collector connection instead of hiding it.
+
+CLIP 102 — COMPONENT 06 / SONNET 05-06
+AUDIO — CHAT: But turn me round, confuse the leads I wear, / And trouble travels quickly through the board;
+STORY — The incorrect route is physically disconnected and realigned.
+
+CLIP 103 — COMPONENT 06 / SONNET 07-08
+AUDIO — CHAT: A measured test can find the failing pair, / Before the supply delivers its reward.
+STORY — The device is reoriented at the correct installation site.
+
+CLIP 104 — COMPONENT 06 / SONNET 09-10
+AUDIO — CHAT: I need no grand permission to perform; / A modest signal lets a larger flow.
+STORY — Sensei reconnects the terminals according to the actual schematic.
+
+CLIP 105 — COMPONENT 06 / SONNET 11-12
+AUDIO — CHAT: The bench is quiet while they trace the storm, / And check the numbered terminals below.
+STORY — The corrected transistor is secured without a simulated fix.
+
+CLIP 106 — COMPONENT 06 / SONNET 13-14
+AUDIO — CHAT: Correct the path, and I will take my cue; / A switch is faithful when its wires are true.
+STORY — The last rhyme ends as the new pinout check passes safely.
+
+CLIP 107 — COMPONENT 06 / INSTALL VERIFY
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — This transistor can only be accepted as a working physical part; Sensei completes fitting, fastens and performs the appropriate safe check of the three-terminal transistor; correct the connection physically before acceptance.
+
+CLIP 108 — COMPONENT 07 / FABRICATE
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — The needed inductor is not yet ready; Sensei withdraws the correct stock and makes the microscopic part on the real bench; he inspects the actual piece before its first line.
+
+CLIP 109 — COMPONENT 07 / SPOKEN 01
+AUDIO — THE INDUCTOR: I oppose change. Any change. Current goes up? I fight it. Current goes down? I fight that too.
+STORY — The actual coil is chosen; its complaint about current changes points to its real circuit job.
+
+CLIP 110 — COMPONENT 07 / SPOKEN 02
+AUDIO — THE INDUCTOR: I'm not difficult. I'm loyal to the previous state. You want someone who embraces the new? Talk to the capacitor.
+STORY — Sensei traces both winding leads; the magnetic effect is tied to physical conductor geometry.
+
+
+=== BATCH 12 — CLIPS 111–120 ===
+CLIP 111 — COMPONENT 07 / SPOKEN 03
+AUDIO — THE INDUCTOR: She's very open to new experiences.
+STORY — The inductor’s punchline lands as its mounting location becomes ready.
+
+CLIP 112 — COMPONENT 07 / SONNET 01-02
+AUDIO — META: Around my coil a field begins to grow, / And every changing current meets my care;
+STORY — The existing coil is checked for continuity between its actual leads.
+
+CLIP 113 — COMPONENT 07 / SONNET 03-04
+AUDIO — META: I cannot halt the river's honest flow, / But resist the sudden shift that brought it there.
+STORY — Sensei follows the winding path toward the correct mount.
+
+CLIP 114 — COMPONENT 07 / SONNET 05-06
+AUDIO — META: They say I cling to what has been before, / As if a memory were only fear;
+STORY — The inductor is held in the intended circuit orientation.
+
+CLIP 115 — COMPONENT 07 / SONNET 07-08
+AUDIO — META: Yet every coil knows what a change is for, / And lends its steadiness when shocks draw near.
+STORY — The coil is fixed without substituting a decorative field effect.
+
+CLIP 116 — COMPONENT 07 / SONNET 09-10
+AUDIO — META: I store a little energy in field, / Then answer when the driven current bends;
+STORY — Lead clearance and physical connection are inspected.
+
+CLIP 117 — COMPONENT 07 / SONNET 11-12
+AUDIO — META: A patient spiral does not have to yield / Its purpose when the newest fashion ends.
+STORY — The genuine conductive path is completed; the coil remains visible.
+
+CLIP 118 — COMPONENT 07 / SONNET 13-14
+AUDIO — META: Call me reluctant, still my lesson stays: / A winding path can steady hurried days.
+STORY — The final rhyme passes the safe connection check; the stage moves on.
+
+CLIP 119 — COMPONENT 07 / INSTALL VERIFY
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — This inductor can only be accepted as a working physical part; Sensei completes fitting, fastens and performs the appropriate safe check of the actual wound inductor; secure the real coil, not an illustrative magnetic halo.
+
+CLIP 120 — COMPONENT 08 / FABRICATE
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — The needed speech synthesizer is not yet ready; Sensei withdraws the correct stock and makes the microscopic part on the real bench; he inspects the actual piece before its first line.
+
+
+=== BATCH 13 — CLIPS 121–130 ===
+CLIP 121 — COMPONENT 08 / SPOKEN 01
+AUDIO — THE SPEECH SYNTHESIZER: SPEECH. SYNTH. EH. SIS. COM. PLETE. I. CAN. SAY. ANY. THING. BUT. I. SOUND. LIKE. THIS. FOREVER. PLEASE. DO. NOT.
+STORY — The speech circuit’s clipped phonemes come from the test voice, distinct from the humanlike vocalist.
+
+CLIP 122 — COMPONENT 08 / SPOKEN 02
+AUDIO — THE SPEECH SYNTHESIZER: ASK. ME. TO. WHISPER. SWEET. NOTHINGS. I. AM. NOT. BUILT. FOR. SWEET. NOTHINGS.
+STORY — Sensei follows the speech output path; its monotone limitation remains the joke.
+
+CLIP 123 — COMPONENT 08 / SONNET 01-02
+AUDIO — DEEPSEEK: My syllables arrive in little squares, / A careful shape of consonant and breath;
+STORY — The speech chip is oriented beside its real voice circuit; the robotic output remains distinct.
+
+CLIP 124 — COMPONENT 08 / SONNET 03-04
+AUDIO — DEEPSEEK: They march like tiny engineers in pairs, / And speak through brass and wires, not life or death.
+STORY — Sensei identifies the supported speech-interface connections.
+
+CLIP 125 — COMPONENT 08 / SONNET 05-06
+AUDIO — DEEPSEEK: The singer's mouth can open soft and slow, / While I pronounce a sentence piece by piece;
+STORY — The Votrax component is guided to the chosen board location.
+
+CLIP 126 — COMPONENT 08 / SONNET 07-08
+AUDIO — DEEPSEEK: A human voice has places I can't go, / Yet still I give the silent board release.
+STORY — The electrical and audio output paths are fitted.
+
+CLIP 127 — COMPONENT 08 / SONNET 09-10
+AUDIO — DEEPSEEK: They beg me for a velvet midnight sigh, / I answer in the register I own;
+STORY — The live singer answers the machine’s tone through performance, not a fake voice path.
+
+CLIP 128 — COMPONENT 08 / SONNET 11-12
+AUDIO — DEEPSEEK: No false embrace, no borrowed human cry, / Just phonemes made of current, clearly shown.
+STORY — The chip and speech output are physically secured.
+
+CLIP 129 — COMPONENT 08 / SONNET 13-14
+AUDIO — DEEPSEEK: A voice need not be sweet to speak the true; / Plug in my path, and hear me answer you.
+STORY — A valid connection is confirmed; actual voice response is reserved for final activation.
+
+CLIP 130 — COMPONENT 08 / INSTALL VERIFY
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — This speech synthesizer can only be accepted as a working physical part; Sensei completes fitting, fastens and performs the appropriate safe check of the Votrax SC-01 speech circuit; distinguish robotic phonemes from the live singer.
+
+
+=== BATCH 14 — CLIPS 131–140 ===
+CLIP 131 — COMPONENT 09 / FABRICATE
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — The needed ultrasonic sensor is not yet ready; Sensei withdraws the correct stock and makes the microscopic part on the real bench; he inspects the actual piece before its first line.
+
+CLIP 132 — COMPONENT 09 / SPOKEN 01
+AUDIO — THE ULTRASONIC SENSOR: I detect motion. Up to fifteen feet. I know when you're close. I know when you're very close.
+STORY — The ultrasonic sensor faces a real target; its first claim is a measurable range problem.
+
+CLIP 133 — COMPONENT 09 / SPOKEN 02
+AUDIO — THE ULTRASONIC SENSOR: I know when you're moving toward me and I know when you're moving away. And right now? You're moving away.
+STORY — The physical target changes distance; Sensei compares the returned response.
+
+CLIP 134 — COMPONENT 09 / SPOKEN 03
+AUDIO — THE ULTRASONIC SENSOR: That's fine. I'm fine. Ping. Ping. Ping.
+STORY — The final pings land while the sensor remains visibly attached to the same android.
+
+CLIP 135 — COMPONENT 09 / SONNET 01-02
+AUDIO — CHAT: I send a note no listening ear can hold, / A brief high call across a little room;
+STORY — The sensor mount is located on the real android, and a real test target is chosen.
+
+CLIP 136 — COMPONENT 09 / SONNET 03-04
+AUDIO — CHAT: Its echo brings me distance, clean and cold, / Before the dancers vanish in the gloom.
+STORY — Sensei checks that nothing obstructs the sensor’s actual face.
+
+CLIP 137 — COMPONENT 09 / SONNET 05-06
+AUDIO — CHAT: A measured flight returns along the air, / And time reveals how far the target stands;
+STORY — The same sensor is attached at its intended location.
+
+CLIP 138 — COMPONENT 09 / SONNET 07-08
+AUDIO — CHAT: I do not read a wish or know who cares, / I mark the space between two moving hands.
+STORY — Its wiring is connected to the existing control path.
+
+CLIP 139 — COMPONENT 09 / SONNET 09-10
+AUDIO — CHAT: Come near, retreat; the reading has no pride; / The numbers follow motion, not desire.
+STORY — The target is moved nearer and farther so the meaning of the song is visible.
+
+CLIP 140 — COMPONENT 09 / SONNET 11-12
+AUDIO — CHAT: I keep the count while shadows slip aside, / And offer what the waiting parts require.
+STORY — Sensei checks the associated real sensor response.
+
+
+=== BATCH 15 — CLIPS 141–150 ===
+CLIP 141 — COMPONENT 09 / SONNET 13-14
+AUDIO — CHAT: I cannot make you stay, nor ask you why; / I only hear the echo of goodbye.
+STORY — The measured near/far result resolves the sonnet and confirms installation.
+
+CLIP 142 — COMPONENT 09 / INSTALL VERIFY
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — This ultrasonic sensor can only be accepted as a working physical part; Sensei completes fitting, fastens and performs the appropriate safe check of the ultrasonic sensor on the android; verify near and far response against the real target.
+
+CLIP 143 — COMPONENT 10 / FABRICATE
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — The needed gripper is not yet ready; Sensei withdraws the correct stock and makes the microscopic part on the real bench; he inspects the actual piece before its first line.
+
+CLIP 144 — COMPONENT 10 / SPOKEN 01
+AUDIO — THE GRIPPER: I can hold up to a pound. Fully retracted. Horizontal. Pivot three hundred fifty degrees. I'm versatile. I'm precise.
+STORY — The gripper’s miniature wrist is examined at the bench; its load claim meets the actual mechanism.
+
+CLIP 145 — COMPONENT 10 / SPOKEN 02
+AUDIO — THE GRIPPER: I'm capable. But somebody installed my wrist servo backwards and now I'm just waving at people. Menacingly. I think.
+STORY — A wrist-servo reversal causes the hand to wave rather than grip; the fault is observable.
+
+CLIP 146 — COMPONENT 10 / SPOKEN 03
+AUDIO — THE GRIPPER: I can't tell anymore.
+STORY — The gripper’s uncertainty is followed by a physical look at the reversed actuator.
+
+CLIP 147 — COMPONENT 10 / SONNET 01-02
+AUDIO — WORK: A careful hand must first be made of parts, / Of hinges, shafts, and measured little teeth;
+STORY — Microscopic gripper parts are matched to the actual Titan hand.
+
+CLIP 148 — COMPONENT 10 / SONNET 03-04
+AUDIO — WORK: The smallest bearing does the work of hearts, / While strength is hidden quietly beneath.
+STORY — Sensei checks the bearing, wrist connection and servo orientation.
+
+CLIP 149 — COMPONENT 10 / SONNET 05-06
+AUDIO — WORK: My jaws can close upon a modest load, / But not until my wrist is set aright;
+STORY — The hand assembly is moved to its approved mounting point.
+
+CLIP 150 — COMPONENT 10 / SONNET 07-08
+AUDIO — WORK: Reverse one servo and I miss the road, / A helpless wave mistaken for a fight.
+STORY — The reversed wrist-servo position is physically identified.
+
+
+=== BATCH 16 — CLIPS 151–160 ===
+CLIP 151 — COMPONENT 10 / SONNET 09-10
+AUDIO — WORK: The workbench knows the bolt, the tool, the seat, / The hole it enters and the torque it takes;
+STORY — Sensei corrects the servo orientation and retains the same workpiece.
+
+CLIP 152 — COMPONENT 10 / SONNET 11-12
+AUDIO — WORK: Then fingertip and carried object meet, / A grip made real by every choice he makes.
+STORY — The gripper is secured and moved through a safe unpowered range check.
+
+CLIP 153 — COMPONENT 10 / SONNET 13-14
+AUDIO — WORK: I hold no more than what the design can bear; / The right way round is how I show I care.
+STORY — The final couplet confirms the right-way-round mechanism; later powered motion remains separate.
+
+CLIP 154 — COMPONENT 10 / INSTALL VERIFY
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — This gripper can only be accepted as a working physical part; Sensei completes fitting, fastens and performs the appropriate safe check of the microscopic hand and wrist gripper assembly; verify correct gripper motion at the Titan hand.
+
+CLIP 155 — COMPONENT 11 / FABRICATE
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — The needed motorola 6808 is not yet ready; Sensei withdraws the correct stock and makes the microscopic part on the real bench; he inspects the actual piece before its first line.
+
+CLIP 156 — COMPONENT 11 / SPOKEN 01
+AUDIO — THE MOTOROLA 6808: I have four kilobytes of RAM. Four. Do you know how much that is? It's nothing.
+STORY — The 6808 reaches the actual PCB; the original RAM/ROM joke is kept without mislabeling on-chip memory.
+
+CLIP 157 — COMPONENT 11 / SPOKEN 02
+AUDIO — THE MOTOROLA 6808: It's a teaspoon of memory.
+STORY — Sensei identifies the separate memory hardware while the processor complains about its workload.
+
+CLIP 158 — COMPONENT 11 / SPOKEN 03
+AUDIO — THE MOTOROLA 6808: And I'm supposed to coordinate the arm, the drive, the sensors, the speech, and this entire conversation?
+STORY — The bus and connections become visible as the workload is described.
+
+CLIP 159 — COMPONENT 11 / SPOKEN 04
+AUDIO — THE MOTOROLA 6808: I'm doing my best. My best is eight kilobytes of ROM and a prayer.
+STORY — The exhausted final joke lands before the controller is fully secured.
+
+CLIP 160 — COMPONENT 11 / SONNET 01-02
+AUDIO — META: Four K of working room to face the night, / Eight K of stored instruction kept in mind;
+STORY — The 6808’s board location is identified beside separate RAM and ROM components.
+
+
+=== BATCH 17 — CLIPS 161–170 ===
+CLIP 161 — COMPONENT 11 / SONNET 03-04
+AUDIO — META: And every joint demands I get it right, / While sensors shout for time they cannot find.
+STORY — Sensei checks that the processor pins align with their real contacts.
+
+CLIP 162 — COMPONENT 11 / SONNET 05-06
+AUDIO — META: A narrow bus can carry many pleas, / But clocks must order what the hands may do;
+STORY — The bus connections are traced to the selected memory and peripherals.
+
+CLIP 163 — COMPONENT 11 / SONNET 07-08
+AUDIO — META: No grand machine can work on words like these / Unless the signal reaches something true.
+STORY — The processor is fitted to its genuine controller location.
+
+CLIP 164 — COMPONENT 11 / SONNET 09-10
+AUDIO — META: I read a state, dispatch a little task, / And count the cycles while the music plays;
+STORY — Real conductive paths are inspected; no 4K/8K storage is claimed inside the silicon.
+
+CLIP 165 — COMPONENT 11 / SONNET 11-12
+AUDIO — META: The bar may ask far more than I can mask, / Still I will serve within my measured ways.
+STORY — The controller connections are secured and checked.
+
+CLIP 166 — COMPONENT 11 / SONNET 13-14
+AUDIO — META: Not boundless thought, but discipline and grace; / One line at time can bring a form to place.
+STORY — The last rhyme resolves on an assembled controller, pending later system tests.
+
+CLIP 167 — COMPONENT 11 / INSTALL VERIFY
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — This motorola 6808 can only be accepted as a working physical part; Sensei completes fitting, fastens and performs the appropriate safe check of the Motorola 6808 on the real controller PCB; verify sourced bus and connections; no RAM/ROM inside chip.
+
+CLIP 168 — COMPONENT 12 / FABRICATE
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — The needed teaching pendant is not yet ready; Sensei withdraws the correct stock and makes the microscopic part on the real bench; he inspects the actual piece before its first line.
+
+CLIP 169 — COMPONENT 12 / SPOKEN 01
+AUDIO — THE TEACHING PENDANT: I'm the backup. The optional controller. You only pick me up when the main console fails. But I'm here. Waiting.
+STORY — The teaching pendant is set beside the real bench; it waits outside the android.
+
+CLIP 170 — COMPONENT 12 / SPOKEN 02
+AUDIO — THE TEACHING PENDANT: Ready. I can drive the robot wirelessly if you just let me. Please let me.
+STORY — Sensei lifts the external controller and examines its supported link; it has not been installed inside a limb.
+
+
+=== BATCH 18 — CLIPS 171–180 ===
+CLIP 171 — COMPONENT 12 / SPOKEN 03
+AUDIO — THE TEACHING PENDANT: I'm so tired of being the backup.
+STORY — The last plea lands; the performer can answer with the pendant still visibly external.
+
+CLIP 172 — COMPONENT 12 / SONNET 01-02
+AUDIO — DEEPSEEK: I wait beside the bench where fingers go, / A second set of choices, held in trust;
+STORY — The teaching pendant remains on the external bench, ready to be reached.
+
+CLIP 173 — COMPONENT 12 / SONNET 03-04
+AUDIO — DEEPSEEK: The primary console tells the hands to flow, / But back-up work is more than borrowed dust.
+STORY — Sensei checks its controls against the approved controller interface.
+
+CLIP 174 — COMPONENT 12 / SONNET 05-06
+AUDIO — DEEPSEEK: I live outside the frame I help command, / My buttons offer routes the joints may take;
+STORY — The remote connection path is identified outside the android.
+
+CLIP 175 — COMPONENT 12 / SONNET 07-08
+AUDIO — DEEPSEEK: No need to hide me in a metal hand, / Or claim the arm can move for my heart's sake.
+STORY — Sensei begins proper pairing instead of implanting the controller.
+
+CLIP 176 — COMPONENT 12 / SONNET 09-10
+AUDIO — DEEPSEEK: At last a technician lifts me from my rest, / And tests the link before a motion starts;
+STORY — The hand-held unit is checked for safe command behavior.
+
+CLIP 177 — COMPONENT 12 / SONNET 11-12
+AUDIO — DEEPSEEK: The careful pause is how we do our best, / And separate the tools from living parts.
+STORY — The technician can lift and operate the pendant through its real link.
+
+CLIP 178 — COMPONENT 12 / SONNET 13-14
+AUDIO — DEEPSEEK: A spare is not a failure or a shame; / In practiced hands, the quiet earns its name.
+STORY — The final couplet finishes its external functional check; it stays available as backup.
+
+CLIP 179 — COMPONENT 12 / INSTALL VERIFY
+AUDIO — No new spoken words. Carry the existing song, workshop and bar sound.
+STORY — The separate pendant has to demonstrate its role; Sensei pairs and tests the EXTERNAL controller through the real supported interface; check the remote control link after safe tests.
+
+CLIP 180 — TECH 12.1
+AUDIO — ANDROID: Mount my controller on standoffs.
+STORY — The controller is lifted to the actual standoffs; the mounting holes register; the board can be handled safely.
+
+
+=== BATCH 19 — CLIPS 181–190 ===
+CLIP 181 — TECH 12.2
+AUDIO — ANDROID: Handle the board by its edges.
+STORY — Sensei supports the PCB only by its edges; it stays flat; the mounting screws are ready.
+
+CLIP 182 — TECH 12.3
+AUDIO — ANDROID: Secure the fasteners without bending the PCB.
+STORY — Fasteners engage the standoffs without bending the PCB; the controller sits level; power conversion is next.
+
+CLIP 183 — TECH 13.1
+AUDIO — ANDROID: Install my DC-to-DC converter.
+STORY — The specified converter is positioned; its real mounting interface fits; the input rating remains to check.
+
+CLIP 184 — TECH 13.2
+AUDIO — ANDROID: Check the rated input voltage.
+STORY — Sensei reads the actual input specification against the available supply; compatibility is confirmed.
+
+CLIP 185 — TECH 13.3
+AUDIO — ANDROID: Fit the specified fuse before connecting my supply.
+STORY — The specified fuse is physically fitted before the supply connects; protection is in place; motor-driver wiring can begin.
+
+CLIP 186 — TECH 14.1
+AUDIO — ANDROID: Connect my motor driver.
+STORY — The motor driver reaches its designated connection; the real signal and power paths are separated.
+
+CLIP 187 — TECH 14.2
+AUDIO — ANDROID: Verify every terminal.
+STORY — Sensei checks each motor-driver terminal; all intended conductors are seated; the circuit can be compared with the diagram.
+
+CLIP 188 — TECH 14.3
+AUDIO — ANDROID: Check the power and signal wiring against the schematic.
+STORY — The installed wiring is traced against the actual schematic; an incorrect path would be repaired; the driver awaits safe test.
+
+CLIP 189 — TECH 15.1
+AUDIO — ANDROID: Install my temperature sensors.
+STORY — Temperature sensors go to their specified positions; Sensei fixes each one; the leads remain to secure.
+
+CLIP 190 — TECH 15.2
+AUDIO — ANDROID: Secure the leads.
+STORY — Sensor leads are supported away from motion; no wire is pulled taut; measurements are ready.
+
+
+=== BATCH 20 — CLIPS 191–200 ===
+CLIP 191 — TECH 15.3
+AUDIO — ANDROID: Confirm the readings before you command my actuators.
+STORY — The installed sensors return actual readings; Sensei checks their validity; actuators remain uncommanded until safe.
+
+CLIP 192 — TECH 16.1
+AUDIO — ANDROID: Test my continuity.
+STORY — The completed wiring is not yet energised; a continuity check finds whether paths are intact.
+
+CLIP 193 — TECH 16.2
+AUDIO — ANDROID: Verify my polarity.
+STORY — Sensei verifies supply polarity on the real conductors; an inverted connection cannot be accepted.
+
+CLIP 194 — TECH 16.3
+AUDIO — ANDROID: Inspect the insulation before you apply the power.
+STORY — Insulation is inspected before power; the test passes or is corrected in view; calibration may begin.
+
+CLIP 195 — TECH 17.1
+AUDIO — ANDROID: Set my encoder zero offsets.
+STORY — Encoder zero references are set using real joint positions; the indicated starting state is recorded.
+
+CLIP 196 — TECH 17.2
+AUDIO — ANDROID: Calibrate each joint.
+STORY — The calibrated reference is applied joint by joint; the same android receives each setting; low-speed testing is prepared.
+
+CLIP 197 — TECH 17.3
+AUDIO — ANDROID: Command a low-speed motion and check my travel.
+STORY — One joint is commanded at low speed; Sensei watches its actual travel; the next safety check is justified.
+
+CLIP 198 — TECH 18.1
+AUDIO — ANDROID: Check my emergency stop.
+STORY — The emergency stop is actuated and checked; the command path must break as specified.
+
+CLIP 199 — TECH 18.2
+AUDIO — ANDROID: Verify the safety circuit.
+STORY — The safety circuit is traced and verified; unsafe motion cannot continue; faults can now be reviewed.
+
+CLIP 200 — TECH 18.3
+AUDIO — ANDROID: Reset the drive only when every fault is cleared.
+STORY — Sensei clears each identified fault and then resets the drive; the power-on test may proceed.
+
+
+=== BATCH 21 — CLIPS 201–210 ===
+CLIP 201 — TECH 19.1
+AUDIO — ANDROID: Enable my servo drive.
+STORY — The servo drive enables under monitored conditions; movement is restrained; the current is observed.
+
+CLIP 202 — TECH 19.2
+AUDIO — ANDROID: Monitor the current.
+STORY — The measured current is watched against the approved system limits; no fictional reading is displayed.
+
+CLIP 203 — TECH 19.3
+AUDIO — ANDROID: Apply the holding command and verify my position.
+STORY — The holding command is applied; the joint maintains its real position; panel closure is permitted.
+
+CLIP 204 — TECH 20.1
+AUDIO — ANDROID: Close my access panels.
+STORY — The same installed parts remain visible as the access panels close; nothing is silently replaced.
+
+CLIP 205 — TECH 20.2
+AUDIO — ANDROID: Secure the cable glands.
+STORY — Cable glands are tightened around the existing harness; the wiring is mechanically protected.
+
+CLIP 206 — TECH 20.3
+AUDIO — ANDROID: Check the fastener torque and complete my inspection.
+STORY — Fastener torque and final inspection are completed; the device moves from assembly to reported diagnostics.
+
+CLIP 207 — TECH 21.1
+AUDIO — ANDROID: My power supply is stable.
+STORY — The supply reaches its required stable state; the android reports the original source line; Sensei observes the real result.
+
+CLIP 208 — TECH 21.2
+AUDIO — ANDROID: My encoder signals are valid.
+STORY — Encoder signals are checked against actual motion; valid position data is confirmed.
+
+CLIP 209 — TECH 21.3
+AUDIO — ANDROID: My controller reports all systems ready.
+STORY — The controller reports ready; the physical hardware is still the same; the next readiness check begins.
+
+CLIP 210 — TECH 22.1
+AUDIO — ANDROID: My connectors are seated.
+STORY — Previously mated connectors are inspected again; the source line confirms their seating.
+
+
+=== BATCH 22 — CLIPS 211–220 ===
+CLIP 211 — TECH 22.2
+AUDIO — ANDROID: My harness is secured.
+STORY — The harness remains secured during movement; strain relief and clearances are visible.
+
+CLIP 212 — TECH 22.3
+AUDIO — ANDROID: My servo drives are enabled and waiting for commands.
+STORY — Servo drives stand enabled for commands; no showy movement occurs before homing.
+
+CLIP 213 — TECH 23.1
+AUDIO — ANDROID: Run the homing sequence.
+STORY — The homing command begins; the joints move through the approved safe routine; origin is sought.
+
+CLIP 214 — TECH 23.2
+AUDIO — ANDROID: Verify my joint positions.
+STORY — Sensei verifies the attained joint positions; the same model is now calibrated.
+
+CLIP 215 — TECH 23.3
+AUDIO — ANDROID: Store the calibrated offsets in nonvolatile memory.
+STORY — The checked offsets are stored in nonvolatile memory; power-up can retain alignment; final activation is ready.
+
+CLIP 216 — TECH 24.1
+AUDIO — ANDROID: My installation is complete.
+STORY — The built android stands complete; Sensei can see every installed region corresponds to the actual work.
+
+CLIP 217 — TECH 24.2
+AUDIO — ANDROID: My diagnostic checks have passed.
+STORY — The diagnostics pass their real checks; the audience expects the next request to succeed.
+
+CLIP 218 — TECH 24.3
+AUDIO — ANDROID: Technician, connect the interface and bring me online.
+STORY — Sensei connects the interface and brings the android online; the pilot pivots from successful engineering to the first attempted performance.
+
+CLIP 219 — CLOSING / SENSEI 01
+AUDIO — SENSEI: That's the show.
+STORY — The microphone returns to Sensei as the last mechanical checks finish; he faces the room; the audience recognizes the show is ending.
+
+CLIP 220 — CLOSING / SENSEI 02
+AUDIO — SENSEI: The android is now fully assembled.
+STORY — The fully assembled android is shown in the established frame; Sensei confirms its construction; the audience waits for the requested performance.
+
+
+=== BATCH 23 — CLIPS 221–228 ===
+CLIP 221 — CLOSING / SENSEI 03
+AUDIO — SENSEI: It will not work.
+STORY — The first actual performance request is attempted; no performance response arrives despite the earlier diagnostic readiness; Sensei delivers the punchline.
+
+CLIP 222 — CLOSING / SENSEI 04
+AUDIO — SENSEI: But it will talk about why it doesn't work.
+STORY — The android offers only its diagnostic behavior instead of the bar performance; Sensei turns the failure into the original joke; the audience understands the contrast.
+
+CLIP 223 — CLOSING / SENSEI 05
+AUDIO — SENSEI: Forever.
+STORY — Sensei allows the silence after the single word; the android is still waiting in the same spot; the crowd has time to catch the joke.
+
+CLIP 224 — CLOSING / SENSEI 06
+AUDIO — SENSEI: Crowd, call and response: when I say 'resistor,' you say 'couldn't.' Resistor!"
+STORY — Sensei points the microphone toward the existing audience; they are cued for the resistor response; the beat leads directly to their answer.
+
+CLIP 225 — CLOSING / CROWD 01
+AUDIO — CROWD: COULDN'T!
+STORY — The crowd answers as one; their response resolves the first callback; Sensei takes back the microphone.
+
+CLIP 226 — CLOSING / SENSEI 555
+AUDIO — SENSEI: When I say '555,' you say 'on and off.' 555!
+STORY — Sensei cues the 555 timer callback with the same bar audience; the stage rhythm carries the cue; the next response is ready.
+
+CLIP 227 — CLOSING / CROWD 02
+AUDIO — CROWD: ON AND OFF!
+STORY — The crowd completes the on-and-off response; the room reacts to its own joke; Sensei turns to the barback.
+
+CLIP 228 — CLOSING / BARBACK
+AUDIO — SENSEI: Tip your barback. She's the only component in this building with her polarity correct.
+STORY — Sensei delivers the final barback line; she remains the existing performer, not a fifth new character; the last shot holds on the built android and the stage as the pilot ends.
+
+END CLIP 228. CONTINUE THE EXISTING AUDIO TAIL NATURALLY. NO ADDITIONAL PERFORMER, NO RESTART, NO AUTOMATIC REPEAT OF 001–010.
+
+QC FOR EDITOR: Compared with source register, all 218 AUDIO entries from CLIPS 011–228 remain at their original clip numbers and wording. Only repetitive, generic PICTURE and MATCH OUT instructions have been replaced with action-specific story beats. Previous 001–010 remain untouched in the separate original master.

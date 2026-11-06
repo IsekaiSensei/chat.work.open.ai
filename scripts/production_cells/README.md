@@ -1,6 +1,6 @@
-# OWNER DIRECTIVE — PRODUCTION CONTENT ONLY (2026-11-04)
+# Production data tool
 
-**FIRST RULE — KEEP CHATGPT'S ADMINISTRATIVE COMMENTARY OUT OF PRODUCTION.** ORDERS contain only actionable run instructions and the approved script route. README describes actual project requirements. Scripts and Meta-facing cells contain only owner-approved visuals, dialogue, timing, music, actions, and continuity. Do **not** insert AI self-reporting, window/access caveats, verification disclaimers, "this edit is not a GO" commentary, apologies, status receipts, speculative canon, or audit narratives into orders, scripts, render prompts, concept directions, or performance notes. Store administrative records separately in AUDIT/RECEIPTS **when requested**; never feed them to the performer. If a required production source is genuinely missing, mark **only the affected item** with a short, concrete MISSING/HOLD reference, and do not invent replacements or block unrelated work. Preserve the owner's originals and selected run without reinterpreting them.
+Current production method: [ORDERS.md](../../ORDERS.md). The canonical [screenplay](../CONVERSATION_SCREENPLAY.txt) contains sung source dialogue; [shot lists](../../production-sheets/CONVERSATION_SHOT_LIST.md) carry camera instructions; [dailies](../../production-sheets/DAILIES.md) record actual outputs. This tool's timing/source flags describe data completeness and do not authorize production holds over drift or consistency. Source speakers remain the singers; do not assign a new performer identity.
 
 # TO WORLD — Production Cell Compiler (non-destructive)
 
@@ -15,8 +15,8 @@
 - `speaker_status: VERIFIED` requires a `speaker_source`; `status: VERIFIED` for a visual requires `approval_source`. These are **declared provenance**. The compiler does not independently read or authenticate that external source.
 - `silent_listener_ids: []` with `listener_status: UNVERIFIED` means **not provided**. If the source explicitly proves no one listens, set `listener_status: VERIFIED_NONE` and provide a source. Approved present-but-silent characters use `VERIFIED` and a source. Clips with unverified listener context are flagged; unrelated clips are unaffected.
 - All clip containers are `10,000 ms`; a ten-second container **does not guarantee spoken text fits**.
-- Never send `HOLD` cells or estimated timing as finished, verified-to-render clips without an actual owner clearance and source review.
-- No change to current ORDERS / live scripts or previously accepted footage.
+- Keep estimated timing and unresolved source metadata labeled as such; these labels are not Ryan's QC verdict or an instruction to stop an otherwise authorized run.
+- This data tool does not change the current source selection or completed footage.
 
 ## Input JSON fields
 
@@ -56,7 +56,7 @@ This is a **structural illustration only**, not a production source. The actual 
 python3 production_cell_compiler.py owner_input.json --mode draft --wps 2.5 --out review_only
 ```
 
-The operator must explicitly set WPS; the compiler never assumes one. This divides *verbatim* text at deterministic word boundaries in draft time windows. Punctuation, spaces, repetition and capitalization are retained character-for-character. Every cell is marked `HOLD` due to timing estimate. Do not mistake estimated fit for performance.
+The operator must explicitly set WPS; the compiler never assumes one. This divides *verbatim* text at deterministic word boundaries in draft time windows. Punctuation, spaces, repetition and capitalization are retained character-for-character. The tool marks timing estimates `HOLD` in its data output. This is a timing label, not an automated production veto; record actual delivered performance separately.
 
 ## Time-aligned mode (source-evidence declared, not cryptographically verified)
 

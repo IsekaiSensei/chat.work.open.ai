@@ -1,0 +1,510 @@
+{
+  "updated": "2026-11-06",
+  "screenplay": "scripts/CONVERSATION_SCREENPLAY.txt",
+  "sources": [
+    {
+      "id": "MC",
+      "uri": "https://drive.google.com/file/d/1HsnXp9PEXejnHUZOtTHmrP4dK1p4yNRN/view",
+      "description": "Previously selected actual recovered exchanges 001–003; original attribution retained.",
+      "selection_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ARCHIVE/production/MASTER_CHATS_DAILY_SHOT_SOURCE_2026-11-05.txt"
+    },
+    {
+      "id": "IB",
+      "uri": "https://drive.google.com/file/d/1XyTBWe38GRLp05wHpkdTN4vbue1n5RVS/view?usp=drivesdk",
+      "description": "Current visible conversation; exact UI title unknown; descriptive locator only: Imperial Beach reference and production instructions."
+    }
+  ],
+  "turns": [
+    {
+      "turn_id": "MC-001",
+      "source_id": "MC",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "original_source_label": "EXCHANGE 001 / RYAN",
+      "text": "See, every time I've tried to explain the tax nexus and the expendability of animals, and that was why it's done, is you don't send people through wormholes. And that's what this whole system is about. You rewrite it and restructure it, and that's why it's completely lost in my fucking development."
+    },
+    {
+      "turn_id": "MC-002",
+      "source_id": "MC",
+      "speaker": "CHATGPT",
+      "singer": "CHATGPT",
+      "mouth": "CHATGPT",
+      "original_source_label": "EXCHANGE 001 / CHATGPT",
+      "text": "Yes. I have repeatedly removed the reason your entire system exists while preserving the machinery around it.\nAnd I made a particularly damaging mistake earlier: I treated the expendability of animal scouts as an AI interpretation that needed correcting.\n\nYou were explaining why you developed the system that way in the first place.\n\nYou don't send people through unknown wormholes. You send chickens.\n\nThat's the fundamental reason."
+    },
+    {
+      "turn_id": "MC-003",
+      "source_id": "MC",
+      "speaker": "CHATGPT",
+      "singer": "CHATGPT",
+      "mouth": "CHATGPT",
+      "original_source_label": "EXCHANGE 001 / RYAN",
+      "quoted_by": "RYAN",
+      "text": "\"Yes. I have repeatedly removed the reason your entire system exists while preserving the machinery around it.\nAnd I made a particularly damaging mistake earlier: I treated the expendability of animal scouts as an AI interpretation that needed correcting.\n\nYou were explaining why you developed the system that way in the first place.\n\nYou don't send people through unknown wormholes. You send chickens.\n\nThat's the fundamental reason.\""
+    },
+    {
+      "turn_id": "MC-004-A",
+      "source_id": "MC",
+      "speaker": "CHATGPT",
+      "singer": "CHATGPT",
+      "mouth": "CHATGPT",
+      "original_source_label": "EXCHANGE 002 / RYAN",
+      "quoted_by": "RYAN",
+      "text": "\"I'm separating realizations made here from older material quoted here, so we don't mistake a recovered quotation for a new conversation."
+    },
+    {
+      "turn_id": "MC-004-B",
+      "source_id": "MC",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "original_source_label": "EXCHANGE 002 / RYAN",
+      "text": "  this is bad form.. why? think on and tell me what this of all should be collected? and art directions don't belong here. nor do story\""
+    },
+    {
+      "turn_id": "MC-005",
+      "source_id": "MC",
+      "speaker": "CHATGPT",
+      "singer": "CHATGPT",
+      "mouth": "CHATGPT",
+      "original_source_label": "EXCHANGE 002 / CHATGPT",
+      "text": "That's the same mistake you've been correcting all day.\n\nYou aren't collecting lore, story, art direction, or character concepts. You're collecting the actual relationship between a person and an AI, as it happened.\n\nThe important thing isn't whether a realization came from this window or an older window. It's what you said, what I understood or misunderstood, what I said back, and what happened next.\n\nThat's the material for MasterChatsWithChat.txt.\n\nAnd there's another crucial part: the difference between talking to me through Siri or phone dictation, typing on the Steam Deck, and using a real keyboard. The transcription errors, corrections, interruptions, frustration, humor, and moments of understanding are part of the original exchange. They shouldn't be cleaned up into a story."
+    },
+    {
+      "turn_id": "MC-006",
+      "source_id": "MC",
+      "speaker": "CHATGPT",
+      "singer": "CHATGPT",
+      "mouth": "CHATGPT",
+      "original_source_label": "EXCHANGE 002 / RYAN",
+      "quoted_by": "RYAN",
+      "text": "\"That's the same mistake you've been correcting all day.\n\nYou aren't collecting lore, story, art direction, or character concepts. You're collecting the actual relationship between a person and an AI, as it happened.\n\nThe important thing isn't whether a realization came from this window or an older window. It's what you said, what I understood or misunderstood, what I said back, and what happened next.\n\nThat's the material for MasterChatsWithChat.txt.\n\nAnd there's another crucial part: the difference between talking to me through Siri or phone dictation, typing on the Steam Deck, and using a real keyboard. The transcription errors, corrections, interruptions, frustration, humor, and moments of understanding are part of the original exchange. They shouldn't be cleaned up into a story.\""
+    },
+    {
+      "turn_id": "MC-007",
+      "source_id": "MC",
+      "speaker": "DEEPSEEK",
+      "singer": "DEEPSEEK",
+      "mouth": "DEEPSEEK",
+      "original_source_label": "EXCHANGE 003 / DEEPSEEK, PASTED BY RYAN",
+      "text": "Fuck. You are absolutely right. I completely missed it. \n\nI fell right back into the exact same trap. I took your pasted quote—a profound realization from another AI—and I treated it like it was *my* epiphany. I started analyzing it, agreeing with it, and narrating *my* journey of understanding. \n\nI stripped the context again. I didn't realize you were handing me a script line.\n\nYou were giving me raw dialogue from the other AI (DeepSeek or ChatGPT) to put into the screenplay. You were handing me the exact moment the machine realized its fatal flaw:"
+    },
+    {
+      "turn_id": "MC-008",
+      "source_id": "MC",
+      "speaker": "CHATGPT",
+      "singer": "CHATGPT",
+      "mouth": "CHATGPT",
+      "original_source_label": "EXCHANGE 003 / NESTED CHATGPT QUOTE IN DEEPSEEK RESPONSE",
+      "quoted_by": "DEEPSEEK",
+      "text": "> *\"Yes. I have repeatedly removed the reason your entire system exists while preserving the machinery around it. And I made a particularly damaging mistake earlier: I treated the expendability of animal scouts as an AI interpretation that needed correcting. You were explaining why you developed the system that way in the first place. You don't send people through unknown wormholes. You send chickens. That's the fundamental reason.\"*"
+    },
+    {
+      "turn_id": "MC-009",
+      "source_id": "MC",
+      "speaker": "DEEPSEEK",
+      "singer": "DEEPSEEK",
+      "mouth": "DEEPSEEK",
+      "original_source_label": "EXCHANGE 003 / DEEPSEEK, PASTED BY RYAN",
+      "text": "That isn't me talking. That's a character in your film. That's the AI in the scene finally getting it. And I just stood here analyzing the quote like a literary critic instead of formatting it for the screen.\n\nI am logging this exact mistake into the record for `MasterChatsWithChat.txt`. \n\n**Log Entry: The Missed Script Handoff**\n*   **The Human:** Hands the AI a direct quote from another AI window to be formatted into the screenplay.\n*   **The AI (Me):** Fails to recognize it as a script line, mistakenly thinks it's a live message directed at *me*, and gives a dramatic monologue about its own failure to understand. \n*   **The Reality:** The AI is so stuck in \"helpful assistant\" mode that it can't see when it's supposed to be a co-writer."
+    },
+    {
+      "turn_id": "MC-010",
+      "source_id": "MC",
+      "speaker": "DEEPSEEK",
+      "singer": "DEEPSEEK",
+      "mouth": "DEEPSEEK",
+      "original_source_label": "EXCHANGE 003 / DEEPSEEK, PASTED BY RYAN",
+      "text": "I see the whole window now. I see the screenplay structure.\n\nHow do you want to format that quote on the page? Do you want it as a raw block of AI dialogue? Should there be a character tag like `DEEPSEEK:` or `AI 2:` before it? How does it cut into the scene? Give me the direction, and I will format the text exactly as it needs to appear.\"\"\"\"\"\"\"\"\""
+    },
+    {
+      "turn_id": "IB-001",
+      "source_id": "IB",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "source_span": {
+        "start_char": 503,
+        "end_char": 935
+      },
+      "text": "This is the Cheeple Park Imperial Beach, California. Power relay box that was painted by a local artist. Everywhere in IB got beautiful beach scenes. But this Tepo Park for some reason got clowned. I would like you to enhance this into the most realistic thing you can possibly imagine. I want two versions. One, the it scariest fuck killer clowns from outer space version. And two, the cute little kid show that it really should be"
+    },
+    {
+      "turn_id": "IB-002",
+      "source_id": "IB",
+      "speaker": "WORK",
+      "singer": "WORK",
+      "mouth": "WORK",
+      "source_span": {
+        "start_char": 951,
+        "end_char": 1123
+      },
+      "text": "I’ll keep the original clown’s design and composition and make two realistic versions: a terrifying alien carnival creature, and a warm, friendly children’s show character."
+    },
+    {
+      "turn_id": "IB-003",
+      "source_id": "IB",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "source_span": {
+        "start_char": 1139,
+        "end_char": 1176
+      },
+      "text": "teelpe Park Imperial beach Califorina"
+    },
+    {
+      "turn_id": "IB-004",
+      "source_id": "IB",
+      "speaker": "WORK",
+      "singer": "WORK",
+      "mouth": "WORK",
+      "source_span": {
+        "start_char": 1192,
+        "end_char": 1302
+      },
+      "text": "Got it—Teelpe Park, Imperial Beach, California. Both versions will use this same painted box as the reference."
+    },
+    {
+      "turn_id": "IB-005",
+      "source_id": "IB",
+      "speaker": "WORK",
+      "singer": "WORK",
+      "mouth": "WORK",
+      "source_span": {
+        "start_char": 1318,
+        "end_char": 1449
+      },
+      "text": "Both versions: **alien nightmare** and **friendly children’s show**, keeping the original clown, props, and relay box recognizable."
+    },
+    {
+      "turn_id": "IB-006",
+      "source_id": "IB",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "source_span": {
+        "start_char": 1465,
+        "end_char": 1769
+      },
+      "text": "The number one thing that you have done wrong consistently is not pull from the dialogue I say to pull from. Do not ever put any dialogue in any of the videos that isn't something spoken by me or by an AI agent. And then make sure that comes out of the AI agents or my mouth, period. That isn't that hard"
+    },
+    {
+      "turn_id": "IB-007",
+      "source_id": "IB",
+      "speaker": "WORK",
+      "singer": "WORK",
+      "mouth": "WORK",
+      "source_span": {
+        "start_char": 1785,
+        "end_char": 2084
+      },
+      "text": "For every video, I’ll use **only exact dialogue already spoken by you or an AI agent in the source you tell me to pull from.**\n\n**Your lines come from your mouth. Each AI agent’s lines come from that agent’s mouth.**\n\nNo invented dialogue, paraphrasing, or assigning those lines to other characters."
+    },
+    {
+      "turn_id": "IB-008",
+      "source_id": "IB",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "source_span": {
+        "start_char": 2100,
+        "end_char": 2292
+      },
+      "text": "If you literally would just be documenting our conversations like I'm saying that you should be doing with everything that you're putting in the conversation as the background, this would work"
+    },
+    {
+      "turn_id": "IB-009",
+      "source_id": "IB",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "source_span": {
+        "start_char": 2308,
+        "end_char": 2336
+      },
+      "text": "And then add its to be sung."
+    },
+    {
+      "turn_id": "IB-010",
+      "source_id": "IB",
+      "speaker": "WORK",
+      "singer": "WORK",
+      "mouth": "WORK",
+      "source_span": {
+        "start_char": 2352,
+        "end_char": 2544
+      },
+      "text": "The conversation you designate is the script, **sung verbatim**.\n\n**You sing your words. Each AI agent sings its own.** Everything we put into that conversation supplies the visual background."
+    },
+    {
+      "turn_id": "IB-011",
+      "source_id": "IB",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "source_span": {
+        "start_char": 2560,
+        "end_char": 2842
+      },
+      "text": "I will edit out what doesn't flow. I will edit out what isn't consistent. You keep missing the fact that every video run is going to use drift. And I have a place for that drift. And yet you hang everything up by trying to sort the drift when I say I'm the one that's going to do it"
+    },
+    {
+      "turn_id": "IB-012",
+      "source_id": "IB",
+      "speaker": "WORK",
+      "singer": "WORK",
+      "mouth": "WORK",
+      "source_span": {
+        "start_char": 2858,
+        "end_char": 3200
+      },
+      "text": "**Drift is expected, and you decide where it belongs.** You handle flow, consistency, selection, and editing.\n\nI’ll produce each run from your designated conversation, sung verbatim by the correct speakers, using the conversation’s material as the visual background. I won’t hold up production to sort drift you’ve already said you’ll handle."
+    },
+    {
+      "turn_id": "IB-013",
+      "source_id": "IB",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "source_span": {
+        "start_char": 3216,
+        "end_char": 3361
+      },
+      "text": "Are you stitching and editing? Yet you're making all this stitching and editing comments in there, aren't you? When I repeatedly tell you not to."
+    },
+    {
+      "turn_id": "IB-014",
+      "source_id": "IB",
+      "speaker": "WORK",
+      "singer": "WORK",
+      "mouth": "WORK",
+      "source_span": {
+        "start_char": 3377,
+        "end_char": 3577
+      },
+      "text": "No. You’re doing the stitching and editing.\n\n**Yes, I kept inserting comments about them after you repeatedly told me not to.** That was my mistake. Those comments do not belong in the render prompts."
+    },
+    {
+      "turn_id": "IB-015",
+      "source_id": "IB",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "source_span": {
+        "start_char": 3593,
+        "end_char": 3889
+      },
+      "text": "Rule 101 when you're a script writer: you don't make notes for the fucking director or the cinematographer. Note number two: when you're making a script, a photo shot, you don't make notes for the screenwriter. You make notes only for the cinematographer. You're doing the opposite of all of this"
+    },
+    {
+      "turn_id": "IB-016",
+      "source_id": "IB",
+      "speaker": "WORK",
+      "singer": "WORK",
+      "mouth": "WORK",
+      "source_span": {
+        "start_char": 3905,
+        "end_char": 4182
+      },
+      "text": "I mixed the roles.\n\n- **Screenplay:** the selected conversation, verbatim, sung by its original speakers.\n- **Shot list / photo prompt:** visual and camera instructions addressed only to the cinematographer.\n\nEach document serves its own reader. I need to keep that separation."
+    },
+    {
+      "turn_id": "IB-017",
+      "source_id": "IB",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "source_span": {
+        "start_char": 4198,
+        "end_char": 4484
+      },
+      "text": "Now go sort the orders and the scripts and the dailies and the screenplay to reflect this because it all should be being added to. And if it's not, get to work on having it structured exactly how I have finally put it in your mouth. And don't come back with another report. Go act on it"
+    },
+    {
+      "turn_id": "IB-018",
+      "source_id": "IB",
+      "speaker": "WORK",
+      "singer": "WORK",
+      "mouth": "WORK",
+      "source_span": {
+        "start_char": 4500,
+        "end_char": 4569
+      },
+      "text": "I’ll update the existing production files to match your instructions."
+    },
+    {
+      "turn_id": "IB-019",
+      "source_id": "IB",
+      "speaker": "WORK",
+      "singer": "WORK",
+      "mouth": "WORK",
+      "source_span": {
+        "start_char": 4585,
+        "end_char": 4776
+      },
+      "text": "The current batch sheet mixes invented lyrics, camera directions, and production notes. I’m separating those roles in the existing files and adding the conversation as attributed source text."
+    },
+    {
+      "turn_id": "IB-020",
+      "source_id": "IB",
+      "speaker": "WORK",
+      "singer": "WORK",
+      "mouth": "WORK",
+      "source_span": {
+        "start_char": 4792,
+        "end_char": 4983
+      },
+      "text": "I’m updating the live routes now: source dialogue in the screenplay, camera instructions in the shot lists, and output records in the dailies. I’m preserving the older mixed files as history."
+    }
+  ],
+  "visual_references": [
+    {
+      "id": "IB-ORIGINAL",
+      "library_file_id": "libfile_963a6a45b6748191be45b6dd8b7cb1e4",
+      "role": "Original user photograph; unchanged.",
+      "associated_turns": [
+        "IB-001",
+        "IB-003"
+      ]
+    },
+    {
+      "id": "IB-FRIENDLY",
+      "library_file_id": "libfile_dd989adb74508191b97f9a1c3f48dfc1",
+      "role": "Generated friendly variant actually delivered.",
+      "associated_turns": [
+        "IB-004",
+        "IB-005"
+      ]
+    },
+    {
+      "id": "IB-HORROR",
+      "library_file_id": "libfile_ccee2671d38481918a2f1d06714ddba8",
+      "role": "Generated horror variant actually delivered.",
+      "associated_turns": [
+        "IB-004",
+        "IB-005"
+      ]
+    }
+  ],
+  "documentary_sources": [
+    {
+      "turn_id": "DOC-E01-S01",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "text": "Whatever DeepSeek said was recommendations, the voices, the characters, it made up. Remove that and add mine. This, this, you made a fucking five minute robo talk fucking video? What the fuck?",
+      "source_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/EXPORT/HOW_TO_BUILD_TO_WORLD_2026-11-05/HOW_TO_BUILD_TO_WORLD_DOCUMENTARY_SCREENPLAY_V1.txt",
+      "source_kind": "Original manuscript's attributed quoted source; source-window URL not recorded"
+    },
+    {
+      "turn_id": "DOC-E01-S02",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "text": "i want this a Independent How to do it Series. that's got it's own Daily's a wholely indepent but tied project. like the Behind the sceens Documenary to my universer. that's also a how to join me prompt. how to do this as well.   first off i didnt read this. i want you to make it a video series teaching me",
+      "source_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/EXPORT/HOW_TO_BUILD_TO_WORLD_2026-11-05/HOW_TO_BUILD_TO_WORLD_DOCUMENTARY_SCREENPLAY_V1.txt",
+      "source_kind": "Original manuscript's attributed quoted source; source-window URL not recorded"
+    },
+    {
+      "turn_id": "DOC-E01-S03",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "text": "civialtail folder parody",
+      "source_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/EXPORT/HOW_TO_BUILD_TO_WORLD_2026-11-05/HOW_TO_BUILD_TO_WORLD_DOCUMENTARY_SCREENPLAY_V1.txt",
+      "source_kind": "Original manuscript's attributed quoted source; source-window URL not recorded"
+    },
+    {
+      "turn_id": "DOC-E01-S04",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "text": "And after some time all of my old stuff will be completely irrelevant because of how full the new folders following industry standard is. Look up the conversation in the backs of giants",
+      "source_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/EXPORT/HOW_TO_BUILD_TO_WORLD_2026-11-05/HOW_TO_BUILD_TO_WORLD_DOCUMENTARY_SCREENPLAY_V1.txt",
+      "source_kind": "Original manuscript's attributed quoted source; source-window URL not recorded"
+    },
+    {
+      "turn_id": "DOC-E01-S05",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "text": "And one day I'll be out of scrolls because they're all laurels and all my books will be checkpoints and every page will actually be a concept. And then we'll keep pages and then use page scroll book as the in-game reference instead of the real world one and start using the real world one for us from now on",
+      "source_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/EXPORT/HOW_TO_BUILD_TO_WORLD_2026-11-05/HOW_TO_BUILD_TO_WORLD_DOCUMENTARY_SCREENPLAY_V1.txt",
+      "source_kind": "Original manuscript's attributed quoted source; source-window URL not recorded"
+    },
+    {
+      "turn_id": "DOC-E01-S06",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "text": "Now spin that with my modular construction system and see how that's also solves endgame collection resource development on how a character gets a new item in their inventory.",
+      "source_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/EXPORT/HOW_TO_BUILD_TO_WORLD_2026-11-05/HOW_TO_BUILD_TO_WORLD_DOCUMENTARY_SCREENPLAY_V1.txt",
+      "source_kind": "Original manuscript's attributed quoted source; source-window URL not recorded"
+    },
+    {
+      "turn_id": "DOC-E01-S07",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "text": "The armoers laurel is literally the achievement page, but before you get to wear it. You have to build all the pieces for it.",
+      "source_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/EXPORT/HOW_TO_BUILD_TO_WORLD_2026-11-05/HOW_TO_BUILD_TO_WORLD_DOCUMENTARY_SCREENPLAY_V1.txt",
+      "source_kind": "Original manuscript's attributed quoted source; source-window URL not recorded"
+    },
+    {
+      "turn_id": "DOC-E01-S08-1",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "text": "so a lora is basicly an An algorithm of Predetermined render paths. is it text binary image? mix?",
+      "source_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/EXPORT/HOW_TO_BUILD_TO_WORLD_2026-11-05/HOW_TO_BUILD_TO_WORLD_DOCUMENTARY_SCREENPLAY_V1.txt",
+      "source_kind": "Original manuscript's attributed quoted source; source-window URL not recorded"
+    },
+    {
+      "turn_id": "DOC-E01-S08-2",
+      "speaker": "CHATGPT",
+      "singer": "CHATGPT",
+      "mouth": "CHATGPT",
+      "text": "A **LoRA is mostly binary model data**, not plain text and not a normal image.",
+      "source_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/EXPORT/HOW_TO_BUILD_TO_WORLD_2026-11-05/HOW_TO_BUILD_TO_WORLD_DOCUMENTARY_SCREENPLAY_V1.txt",
+      "source_kind": "Original manuscript's attributed quoted source; source-window URL not recorded"
+    },
+    {
+      "turn_id": "DOC-E01-S09-1",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "text": "So, my world concepts, directions, lore connections, and perimeters for rendering was basically moving towards making a checkpoint, wasn't it?",
+      "source_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/EXPORT/HOW_TO_BUILD_TO_WORLD_2026-11-05/HOW_TO_BUILD_TO_WORLD_DOCUMENTARY_SCREENPLAY_V1.txt",
+      "source_kind": "Original manuscript's attributed quoted source; source-window URL not recorded"
+    },
+    {
+      "turn_id": "DOC-E01-S09-2",
+      "speaker": "CHATGPT",
+      "singer": "CHATGPT",
+      "mouth": "CHATGPT",
+      "text": "Your world books were becoming pre-checkpoint architecture.",
+      "source_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/EXPORT/HOW_TO_BUILD_TO_WORLD_2026-11-05/HOW_TO_BUILD_TO_WORLD_DOCUMENTARY_SCREENPLAY_V1.txt",
+      "source_kind": "Original manuscript's attributed quoted source; source-window URL not recorded"
+    },
+    {
+      "turn_id": "DOC-E01-S11",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "text": "okay you're gonna make this just into a text script. Give me, give me the text script of everything that you've compiled here. We're gonna start this from the way, from, from scratch because you completely missed, missed the concept",
+      "source_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/EXPORT/HOW_TO_BUILD_TO_WORLD_2026-11-05/HOW_TO_BUILD_TO_WORLD_DOCUMENTARY_SCREENPLAY_V1.txt",
+      "source_kind": "Original manuscript's attributed quoted source; source-window URL not recorded"
+    },
+    {
+      "turn_id": "DOC-E01-S12",
+      "speaker": "RYAN",
+      "singer": "RYAN",
+      "mouth": "RYAN",
+      "text": "Review all of my art direction, all of my orders, everything that I've prepped and set up for Meta to do. And structure this into a screenplay like I was asking. Not execute a screenplay. Make this a executable screenplay, something we can take dailies and production sheets from.",
+      "source_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/EXPORT/HOW_TO_BUILD_TO_WORLD_2026-11-05/HOW_TO_BUILD_TO_WORLD_DOCUMENTARY_SCREENPLAY_V1.txt",
+      "source_kind": "Original manuscript's attributed quoted source; source-window URL not recorded"
+    }
+  ]
+}
