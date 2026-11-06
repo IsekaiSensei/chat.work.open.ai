@@ -29,6 +29,29 @@
           "MANA-005"
         ]
       }
+    },
+    {
+      "id": "COS-THRONE-20261106",
+      "uri": null,
+      "source_kind": "visible_owner_message",
+      "description": "Owner's forest/tree/arena/staff/queen/throne origin, raw dictation preserved.",
+      "raw_message": "And this is what I just told Meta, add it to canon.That's not working. Need to plan out an ancient fantasy seat where a Scotsman walking through a normal forest falls into a tree leans up against a tree that just happens to be a wormhole and he falls into an arena right at the time the fairy king is asking for challengers to his throne since they didn't say nothing but he arrived just at the wrong time there's A staff in front of him and and and several out several other things it what what all there I doesn't realize is since he actually knows a little bit about a staff so when he goes to hit him he actually can defend himself so uh the queen is sick and tired of this this this this fairy king because he's a dickhead so she wants the champion to win so she makes that staff into a spear puts a little crystal mana ball on the end of it and boom guess what Sensei's the new fairy king.",
+      "screenplay_location": "https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.o59y58g80007"
+    },
+    {
+      "id": "COS-FORM-20261106",
+      "uri": null,
+      "source_kind": "visible_owner_message",
+      "description": "Owner selects this premise as the script and requests the long essay format, frames, pacing and integration.",
+      "raw_message": "That needs to be the script. We already talked about it. Make this really, really pretty, very long, established format, essay format with all the frames, all the pacings, integrated with everything. This should zipper everything",
+      "screenplay_location": "https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.o59y58g80007"
+    },
+    {
+      "id": "COS-GAPS-20261106",
+      "uri": null,
+      "source_kind": "visible_owner_message",
+      "description": "Owner requests comma-or-sonnet filling and random existing ten-second passages.",
+      "raw_message": "It was supposed to be added to orders that if there was a blank, if there was a space, that there should be a comma or a sonnet. As a matter of fact, let's put, let's, let's pull all the, all the sonnets that, that fit in ten seconds and, and just start plugging those in random places"
     }
   ],
   "turns": [
@@ -582,6 +605,3269 @@
       "text": "Review all of my art direction, all of my orders, everything that I've prepped and set up for Meta to do. And structure this into a screenplay like I was asking. Not execute a screenplay. Make this a executable screenplay, something we can take dailies and production sheets from.",
       "source_uri": "https://github.com/IsekaiSensei/chat.work.open.ai/blob/71cd1c58e11fcc59acb30310ca7ef9a085b6d7da/EXPORT/HOW_TO_BUILD_TO_WORLD_2026-11-05/HOW_TO_BUILD_TO_WORLD_DOCUMENTARY_SCREENPLAY_V1.txt",
       "source_kind": "Original manuscript's attributed quoted source; source-window URL not recorded"
+    }
+  ],
+  "active_origin_manuscript": {
+    "title": "CHRONICLES OF SOL — THE UNINVITED KING",
+    "words": "https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.o59y58g80007",
+    "essay": "https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.dhxbj5jltxik",
+    "camera": "https://docs.google.com/document/d/1rM5pKhotrEPe3GtWUZ_58eLhUfTGc-w7LcCZ9vVEVmc/edit?usp=drivesdk",
+    "archive_tab": "t.0",
+    "sonnet_bank_tab": "t.q2t7ayw5ogwd",
+    "github_screenplay": "scripts/CONVERSATION_SCREENPLAY.txt",
+    "github_camera": "production-sheets/CONVERSATION_SHOT_LIST.md",
+    "github_essay": "production-sheets/CHRONICLES_OF_SOL_ORIGIN_ESSAY.md",
+    "scene_count": 180,
+    "planned_seconds": 1800,
+    "ten_clip_batches": 18,
+    "performed_output_count": "No new video receipt in this authoring action; existing run reports retained.",
+    "source_keys_are_output_numbers": false,
+    "owner_source_assignment": "An active window's explicit source selection, including the Folger assignment, retains its own scope and progress."
+  },
+  "adaptations": [
+    {
+      "id": "COS-ORIGIN-20261106-V1",
+      "writer": "AI-assisted screenplay adaptation for Isekai Ryan",
+      "source_kind": "newly_authored_adaptation_requested_by_owner",
+      "owner_sources": [
+        "COS-THRONE-20261106",
+        "COS-FORM-20261106",
+        "COS-GAPS-20261106",
+        "MANA"
+      ],
+      "canonical_context": "Existing World Book and Cookbook sources linked in the essay; actual celebrity examples expressly excluded by owner.",
+      "narration_is_historic_owner_quote": false,
+      "random_gap_seed": 20261106,
+      "scenes": [
+        {
+          "id": "COS-E01-F00",
+          "episode": 1,
+          "position": 0,
+          "planned_start_seconds": 0,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "At DARPA I followed Tesla's papers to a mana crystal. A small result had given me a very large question."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F01",
+          "episode": 1,
+          "position": 1,
+          "planned_start_seconds": 10,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The crystal pointed me toward Merlin. I expected an answer from an old magician, perhaps even a reasonably comfortable chair."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F02",
+          "episode": 1,
+          "position": 2,
+          "planned_start_seconds": 20,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I carried that question into an ordinary wood. The nearest tree would offer the least reliable support I had ever found."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F03",
+          "episode": 1,
+          "position": 3,
+          "planned_start_seconds": 30,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Somewhere else, a king was inviting challengers to his throne. He had chosen an unfortunate afternoon to be so confident."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F04",
+          "episode": 1,
+          "position": 4,
+          "planned_start_seconds": 40,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 5",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "A plain staff waited beside the arena. I knew a little about one; soon that little would be all I had."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F05",
+          "episode": 1,
+          "position": 5,
+          "planned_start_seconds": 50,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The diagram did not explain the world. It gave me one experiment I could try without pretending I understood the rest."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F06",
+          "episode": 1,
+          "position": 6,
+          "planned_start_seconds": 60,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "It was hardly the size of a royal jewel. I turned it in my fingers and watched the light stay inside."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F07",
+          "episode": 1,
+          "position": 7,
+          "planned_start_seconds": 70,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "ANDROID ASSISTANT",
+              "text": "Shall I compare thee to a summer's day?"
+            },
+            {
+              "speaker": "ANDROID ASSISTANT",
+              "text": "Thou art more lovely and more temperate:"
+            }
+          ],
+          "source": {
+            "id": "SHAKESPEARE18-01-02",
+            "url": "https://drive.google.com/file/d/1uHyoXq84Stu4lOf2McVxg5XSPTyBnqEi/view",
+            "lines": [
+              1,
+              2
+            ],
+            "source_speakers": [
+              "ANDROID VOICE",
+              "ANDROID VOICE"
+            ],
+            "exact_lines": [
+              "Shall I compare thee to a summer's day?",
+              "Thou art more lovely and more temperate:"
+            ]
+          }
+        },
+        {
+          "id": "COS-E01-F08",
+          "episode": 1,
+          "position": 8,
+          "planned_start_seconds": 80,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "A thing that small deserved a careful pocket. I wrapped it, kept the papers, and took my question out into daylight."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F09",
+          "episode": 1,
+          "position": 9,
+          "planned_start_seconds": 90,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Merlin belonged to stories I already knew. Finding his name in my problem made those stories feel less comfortably distant."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F10",
+          "episode": 1,
+          "position": 10,
+          "planned_start_seconds": 100,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "There were no towers on the horizon. There were roots, flies, damp earth, and a man wishing he had worn better boots."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F11",
+          "episode": 1,
+          "position": 11,
+          "planned_start_seconds": 110,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "ANDROID ASSISTANT",
+              "text": "Rough winds do shake the darling buds of May,"
+            },
+            {
+              "speaker": "ANDROID ASSISTANT",
+              "text": "And summer's lease hath all too short a date:"
+            }
+          ],
+          "source": {
+            "id": "SHAKESPEARE18-03-04",
+            "url": "https://drive.google.com/file/d/1uHyoXq84Stu4lOf2McVxg5XSPTyBnqEi/view",
+            "lines": [
+              3,
+              4
+            ],
+            "source_speakers": [
+              "ANDROID VOICE",
+              "ANDROID VOICE"
+            ],
+            "exact_lines": [
+              "Rough winds do shake the darling buds of May,",
+              "And summer's lease hath all too short a date:"
+            ]
+          }
+        },
+        {
+          "id": "COS-E01-F12",
+          "episode": 1,
+          "position": 12,
+          "planned_start_seconds": 120,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The clue had brought me this far. It had neglected to mention whether this far was anywhere I ought to be."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F13",
+          "episode": 1,
+          "position": 13,
+          "planned_start_seconds": 130,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Then a root reminded me that a man can discover impossible things and still be defeated by the ordinary ground."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F14",
+          "episode": 1,
+          "position": 14,
+          "planned_start_seconds": 140,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I reached for the nearest tree. It looked like the sort of tree that would have no opinion about the matter."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F15",
+          "episode": 1,
+          "position": 15,
+          "planned_start_seconds": 150,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "It failed at being a tree in a very specific way. My hand went farther than the outside ought to allow."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F16",
+          "episode": 1,
+          "position": 16,
+          "planned_start_seconds": 160,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "By the time I understood that I was falling, the forest had already decided I was somebody else's problem."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F17",
+          "episode": 1,
+          "position": 17,
+          "planned_start_seconds": 170,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The air changed first. Then the light. Then a great many people discovered that something interesting had fallen into their afternoon."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F18",
+          "episode": 1,
+          "position": 18,
+          "planned_start_seconds": 180,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I landed badly, but I landed. There are worse beginnings to a public career, though I struggle to recommend many."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F19",
+          "episode": 1,
+          "position": 19,
+          "planned_start_seconds": 190,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The king had asked who would challenge him. I had arrived before anyone explained that silence might have been the sensible answer."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F20",
+          "episode": 1,
+          "position": 20,
+          "planned_start_seconds": 200,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "There was a staff in front of me. Of all the things that might have been there, it was the first mercy."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F21",
+          "episode": 1,
+          "position": 21,
+          "planned_start_seconds": 210,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I knew a little about a staff. A little is not much, but it becomes considerably more useful when somebody is approaching."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F22",
+          "episode": 1,
+          "position": 22,
+          "planned_start_seconds": 220,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The queen watched him enter. The expression on her face suggested she had endured a very long reign of this particular performance."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F23",
+          "episode": 1,
+          "position": 23,
+          "planned_start_seconds": 230,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "ANDROID ASSISTANT",
+              "text": "Sometime too hot the eye of heaven shines,"
+            },
+            {
+              "speaker": "ANDROID ASSISTANT",
+              "text": "And often is his gold complexion dimm'd;"
+            }
+          ],
+          "source": {
+            "id": "SHAKESPEARE18-05-06",
+            "url": "https://drive.google.com/file/d/1uHyoXq84Stu4lOf2McVxg5XSPTyBnqEi/view",
+            "lines": [
+              5,
+              6
+            ],
+            "source_speakers": [
+              "ANDROID VOICE",
+              "ANDROID VOICE"
+            ],
+            "exact_lines": [
+              "Sometime too hot the eye of heaven shines,",
+              "And often is his gold complexion dimm'd;"
+            ]
+          }
+        },
+        {
+          "id": "COS-E01-F24",
+          "episode": 1,
+          "position": 24,
+          "planned_start_seconds": 240,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I could have explained the tree. He could have waited to hear it. Neither possibility seemed to interest him as he advanced."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F25",
+          "episode": 1,
+          "position": 25,
+          "planned_start_seconds": 250,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "My little crystal had survived the journey. The experiment now required the man who made it to survive as well."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F26",
+          "episode": 1,
+          "position": 26,
+          "planned_start_seconds": 260,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Merlin would have to wait. The old stories had found me first, and one of them expected me to die politely."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F27",
+          "episode": 1,
+          "position": 27,
+          "planned_start_seconds": 270,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The tree had looked like a place to rest. Its other side had walls, an audience, and no convenient way back."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F28",
+          "episode": 1,
+          "position": 28,
+          "planned_start_seconds": 280,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "His throne had needed a challenger. Now its owner was walking toward me, and the invitation had acquired a blade."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E01-F29",
+          "episode": 1,
+          "position": 29,
+          "planned_start_seconds": 290,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 5",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Before I could become their king, I had a much smaller ambition. I wanted to survive the next ten seconds."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F00",
+          "episode": 2,
+          "position": 0,
+          "planned_start_seconds": 300,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Knowing a little saved me once. It did not persuade me that I suddenly knew everything, especially about the next attack."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F01",
+          "episode": 2,
+          "position": 1,
+          "planned_start_seconds": 310,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "There were finer weapons within reach. Their chief disadvantage was that I had no idea how to keep myself alive with them."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F02",
+          "episode": 2,
+          "position": 2,
+          "planned_start_seconds": 320,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The king expected the crowd to know how this ended. His smile arrived before the result, which was a little premature."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F03",
+          "episode": 2,
+          "position": 3,
+          "planned_start_seconds": 330,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "They could see the difference between a man enjoying a contest and a man trying to survive one. Somebody began to object."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F04",
+          "episode": 2,
+          "position": 4,
+          "planned_start_seconds": 340,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 5",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The queen watched my hands. She could see something worth saving, and she had endured more than enough of the man opposing me."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F05",
+          "episode": 2,
+          "position": 5,
+          "planned_start_seconds": 350,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I gave him ground when I needed it. Keeping my feet mattered more than looking impressive in somebody else's arena."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F06",
+          "episode": 2,
+          "position": 6,
+          "planned_start_seconds": 360,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The staff let me speak from a little farther away. For the moment, distance was the only language we both understood."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F07",
+          "episode": 2,
+          "position": 7,
+          "planned_start_seconds": 370,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "WORK",
+              "text": "Now let the cause and consequence be shown:"
+            },
+            {
+              "speaker": "WORK",
+              "text": "No revelation happens on its own."
+            }
+          ],
+          "source": {
+            "id": "AI-II-13-14",
+            "url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+            "lines": [
+              13,
+              14
+            ],
+            "source_speakers": [
+              null,
+              null
+            ],
+            "exact_lines": [
+              "Now let the cause and consequence be shown:",
+              "No revelation happens on its own."
+            ]
+          }
+        },
+        {
+          "id": "COS-E02-F08",
+          "episode": 2,
+          "position": 8,
+          "planned_start_seconds": 380,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "It worked because I had done that much before. I remembered the movement, and the movement remembered what my panic had forgotten."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F09",
+          "episode": 2,
+          "position": 9,
+          "planned_start_seconds": 390,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "He showed me the edge as though it settled the argument. I was more interested in where his feet had to go."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F10",
+          "episode": 2,
+          "position": 10,
+          "planned_start_seconds": 400,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The ground was uneven where I had landed. I tested the sand, found a firmer patch, and made myself useful there."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F11",
+          "episode": 2,
+          "position": 11,
+          "planned_start_seconds": 410,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I wanted the contest over. Wanting it over was precisely the sort of feeling that might make me do something foolish."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F12",
+          "episode": 2,
+          "position": 12,
+          "planned_start_seconds": 420,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The jeweled blade behind me remained very pretty. It also remained behind me, which was the best use I could make of it."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F13",
+          "episode": 2,
+          "position": 13,
+          "planned_start_seconds": 430,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The king paused for the spectators. Even his anger seemed rehearsed, as if the kingdom existed to admire him properly."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F14",
+          "episode": 2,
+          "position": 14,
+          "planned_start_seconds": 440,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The queen did not clap. She had the patient expression of someone who had heard the same boast one time too many."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F15",
+          "episode": 2,
+          "position": 15,
+          "planned_start_seconds": 450,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "WORK",
+              "text": "What looks like magic has a working heart;"
+            },
+            {
+              "speaker": "WORK",
+              "text": "We show the passage, labor, end, and start."
+            }
+          ],
+          "source": {
+            "id": "AI-IV-13-14",
+            "url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+            "lines": [
+              13,
+              14
+            ],
+            "source_speakers": [
+              null,
+              null
+            ],
+            "exact_lines": [
+              "What looks like magic has a working heart;",
+              "We show the passage, labor, end, and start."
+            ]
+          }
+        },
+        {
+          "id": "COS-E02-F16",
+          "episode": 2,
+          "position": 16,
+          "planned_start_seconds": 460,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Her attention was the first thing in that place that did not feel like a threat. I did not yet know why."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F17",
+          "episode": 2,
+          "position": 17,
+          "planned_start_seconds": 470,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "A simple test had become an inconvenience. The king began to fight as though the interruption had personally offended his furniture."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F18",
+          "episode": 2,
+          "position": 18,
+          "planned_start_seconds": 480,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "My arms began to complain. They had a fair point, but I was not in a position to negotiate a shorter working day."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F19",
+          "episode": 2,
+          "position": 19,
+          "planned_start_seconds": 490,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I could not solve the arena, the court, or the tree. I could keep the next blow on the other side of the wood."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F20",
+          "episode": 2,
+          "position": 20,
+          "planned_start_seconds": 500,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The queen leaned forward. For the first time, someone near that throne appeared interested in how the kingdom might change."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F21",
+          "episode": 2,
+          "position": 21,
+          "planned_start_seconds": 510,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The king pressed the staff toward the ground. He had found a way to turn my useful distance into an awkward corner."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F22",
+          "episode": 2,
+          "position": 22,
+          "planned_start_seconds": 520,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "There was the limit of my education. I knew how to use a staff; I had not rehearsed being publicly outmatched by royalty."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F23",
+          "episode": 2,
+          "position": 23,
+          "planned_start_seconds": 530,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "ANDROID ASSISTANT",
+              "text": "And every fair from fair sometime declines,"
+            },
+            {
+              "speaker": "ANDROID ASSISTANT",
+              "text": "By chance or nature's changing course untrimm'd;"
+            }
+          ],
+          "source": {
+            "id": "SHAKESPEARE18-07-08",
+            "url": "https://drive.google.com/file/d/1uHyoXq84Stu4lOf2McVxg5XSPTyBnqEi/view",
+            "lines": [
+              7,
+              8
+            ],
+            "source_speakers": [
+              "ANDROID VOICE",
+              "ANDROID VOICE"
+            ],
+            "exact_lines": [
+              "And every fair from fair sometime declines,",
+              "By chance or nature's changing course untrimm'd;"
+            ]
+          }
+        },
+        {
+          "id": "COS-E02-F24",
+          "episode": 2,
+          "position": 24,
+          "planned_start_seconds": 540,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I found half a step. It was not a grand answer, but it was an answer I could put my weight on."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F25",
+          "episode": 2,
+          "position": 25,
+          "planned_start_seconds": 550,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "My little bit of knowledge had become several more breaths. I was beginning to appreciate the value of an unglamorous education."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F26",
+          "episode": 2,
+          "position": 26,
+          "planned_start_seconds": 560,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The fine weapons had offered no help. The plain one in my hands had done more than their decorations promised."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F27",
+          "episode": 2,
+          "position": 27,
+          "planned_start_seconds": 570,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The king was no longer smiling for the crowd. He was spending effort on a man who had fallen out of a tree."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F28",
+          "episode": 2,
+          "position": 28,
+          "planned_start_seconds": 580,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The crowd had found a possibility. You could feel it moving through the seats: perhaps the ending did not belong to him."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E02-F29",
+          "episode": 2,
+          "position": 29,
+          "planned_start_seconds": 590,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 5",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I was still holding a staff. The queen was looking at it as though it could become something the king had not expected."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F00",
+          "episode": 3,
+          "position": 0,
+          "planned_start_seconds": 600,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The queen had watched enough. She wanted a different champion, and she was done leaving the outcome entirely to the reigning king."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F01",
+          "episode": 3,
+          "position": 1,
+          "planned_start_seconds": 610,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "She did not take the staff out of my hands. Whatever happened next, I still had to know where my hands belonged."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F02",
+          "episode": 3,
+          "position": 2,
+          "planned_start_seconds": 620,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "At its end she placed a little crystal mana ball. It looked far too small to explain the expression on his face."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F03",
+          "episode": 3,
+          "position": 3,
+          "planned_start_seconds": 630,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Winning would mean inheriting more than a chair. There was a kingdom in this arena, and it had been waiting."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F04",
+          "episode": 3,
+          "position": 4,
+          "planned_start_seconds": 640,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 5",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The people around that throne knew more than courtly entertainment. I had begun to wonder what else they wanted to do."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F05",
+          "episode": 3,
+          "position": 5,
+          "planned_start_seconds": 650,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I looked toward the queen. Her hand was still raised; the new light answered her, and there was no mystery about her choice."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F06",
+          "episode": 3,
+          "position": 6,
+          "planned_start_seconds": 660,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "A court can spend years pretending not to notice something. It noticed her intervention immediately, and the king noticed everyone noticing."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F07",
+          "episode": 3,
+          "position": 7,
+          "planned_start_seconds": 670,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "ANDROID ASSISTANT",
+              "text": "So long as men can breathe or eyes can see,"
+            },
+            {
+              "speaker": "ANDROID ASSISTANT",
+              "text": "So long lives this, and this gives life to thee."
+            }
+          ],
+          "source": {
+            "id": "SHAKESPEARE18-13-14",
+            "url": "https://drive.google.com/file/d/1uHyoXq84Stu4lOf2McVxg5XSPTyBnqEi/view",
+            "lines": [
+              13,
+              14
+            ],
+            "source_speakers": [
+              "ANDROID VOICE",
+              "ANDROID VOICE"
+            ],
+            "exact_lines": [
+              "So long as men can breathe or eyes can see,",
+              "So long lives this, and this gives life to thee."
+            ]
+          }
+        },
+        {
+          "id": "COS-E03-F08",
+          "episode": 3,
+          "position": 8,
+          "planned_start_seconds": 680,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "She did not lower her eyes when he looked at her. Whatever he thought he owned in that room, her decision was hers."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F09",
+          "episode": 3,
+          "position": 9,
+          "planned_start_seconds": 690,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I shifted my hands by an inch. The spear settled, and for the first time the king gave ground before I had to."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F10",
+          "episode": 3,
+          "position": 10,
+          "planned_start_seconds": 700,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "It was still reach, balance, and the place to put my feet. The strange part was what now answered at the end."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F11",
+          "episode": 3,
+          "position": 11,
+          "planned_start_seconds": 710,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "ANDROID ASSISTANT",
+              "text": "But thy eternal summer shall not fade,"
+            },
+            {
+              "speaker": "ANDROID ASSISTANT",
+              "text": "Nor lose possession of that fair thou ow'st;"
+            }
+          ],
+          "source": {
+            "id": "SHAKESPEARE18-09-10",
+            "url": "https://drive.google.com/file/d/1uHyoXq84Stu4lOf2McVxg5XSPTyBnqEi/view",
+            "lines": [
+              9,
+              10
+            ],
+            "source_speakers": [
+              "ANDROID VOICE",
+              "ANDROID VOICE"
+            ],
+            "exact_lines": [
+              "But thy eternal summer shall not fade,",
+              "Nor lose possession of that fair thou ow'st;"
+            ]
+          }
+        },
+        {
+          "id": "COS-E03-F12",
+          "episode": 3,
+          "position": 12,
+          "planned_start_seconds": 720,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "He came at me with the same certainty as before. The move was familiar; the object meeting it had changed considerably."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F13",
+          "episode": 3,
+          "position": 13,
+          "planned_start_seconds": 730,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The little sphere answered the contact. His weapon rang, his hand opened, and the afternoon abruptly stopped belonging to him."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F14",
+          "episode": 3,
+          "position": 14,
+          "planned_start_seconds": 740,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "There is a particular sound when a fine weapon falls into sand. A royal audience can hear a surprising amount in it."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F15",
+          "episode": 3,
+          "position": 15,
+          "planned_start_seconds": 750,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I kept the spear where he could see it. I had been trying to stay alive; I did not need another blow to prove it."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F16",
+          "episode": 3,
+          "position": 16,
+          "planned_start_seconds": 760,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The queen lowered her hand. The sphere stayed bright, the weapon stayed down, and everyone had seen enough to understand the result."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F17",
+          "episode": 3,
+          "position": 17,
+          "planned_start_seconds": 770,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "He had asked for a challenger to his throne. It was an awkward moment to discover that someone had taken him seriously."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F18",
+          "episode": 3,
+          "position": 18,
+          "planned_start_seconds": 780,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I had arrived by accident, defended myself imperfectly, and received help I had not expected. Apparently this was a qualification for government."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F19",
+          "episode": 3,
+          "position": 19,
+          "planned_start_seconds": 790,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The queen left her place beside the old king. She came down to meet the champion she had chosen to help."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F20",
+          "episode": 3,
+          "position": 20,
+          "planned_start_seconds": 800,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The crown was smaller than the trouble attached to it. I could see that much even before anyone brought it near me."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F21",
+          "episode": 3,
+          "position": 21,
+          "planned_start_seconds": 810,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The throne looked expensive. The people around it looked as though they had been waiting a long time to do something else."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F22",
+          "episode": 3,
+          "position": 22,
+          "planned_start_seconds": 820,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I asked what they wanted to do. The silence that followed was different from the silence before the fight; this one was thinking."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F23",
+          "episode": 3,
+          "position": 23,
+          "planned_start_seconds": 830,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "ANDROID ASSISTANT",
+              "text": "Nor shall death brag thou wander'st in his shade,"
+            },
+            {
+              "speaker": "ANDROID ASSISTANT",
+              "text": "When in eternal lines to time thou grow'st:"
+            }
+          ],
+          "source": {
+            "id": "SHAKESPEARE18-11-12",
+            "url": "https://drive.google.com/file/d/1uHyoXq84Stu4lOf2McVxg5XSPTyBnqEi/view",
+            "lines": [
+              11,
+              12
+            ],
+            "source_speakers": [
+              "ANDROID VOICE",
+              "ANDROID VOICE"
+            ],
+            "exact_lines": [
+              "Nor shall death brag thou wander'st in his shade,",
+              "When in eternal lines to time thou grow'st:"
+            ]
+          }
+        },
+        {
+          "id": "COS-E03-F24",
+          "episode": 3,
+          "position": 24,
+          "planned_start_seconds": 840,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Some wanted to make things. Some wanted to sing. It was a remarkable discovery that a kingdom might have room for both."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F25",
+          "episode": 3,
+          "position": 25,
+          "planned_start_seconds": 850,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Her decision had changed the end of the fight. Now I could see how much else had been waiting for an ending."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F26",
+          "episode": 3,
+          "position": 26,
+          "planned_start_seconds": 860,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The spear still held the wood I had trusted. I kept it where I could remember how little of this I had planned."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F27",
+          "episode": 3,
+          "position": 27,
+          "planned_start_seconds": 870,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The little sphere had changed one fight. Its advantage now belonged beside willing hands, where it might help something more than a king."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F28",
+          "episode": 3,
+          "position": 28,
+          "planned_start_seconds": 880,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The queen had made my staff into a spear. I wanted to find out what else her people had never been allowed to make."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E03-F29",
+          "episode": 3,
+          "position": 29,
+          "planned_start_seconds": 890,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 5",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "That is how a Scotsman fell through a tree and became fairy king. What mattered next was what we did with the door."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F00",
+          "episode": 4,
+          "position": 0,
+          "planned_start_seconds": 900,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The first useful thing about being king was discovering how many people already knew what they wanted to make."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F01",
+          "episode": 4,
+          "position": 1,
+          "planned_start_seconds": 910,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "An inventory square could ask for a ring. On our side of it there would have to be metal, a stone, and hands."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F02",
+          "episode": 4,
+          "position": 2,
+          "planned_start_seconds": 920,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I brought electronics. They brought a knowledge of material I could not pretend to own. A working lesson could travel in both directions."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F03",
+          "episode": 4,
+          "position": 3,
+          "planned_start_seconds": 930,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "A useful body needs a working voice. The android would have her own song, and we would give it somewhere real to begin."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F04",
+          "episode": 4,
+          "position": 4,
+          "planned_start_seconds": 940,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 5",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The first finished order would teach us something inconvenient. Knowing how to make a thing was not the same as being allowed to deliver it."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F05",
+          "episode": 4,
+          "position": 5,
+          "planned_start_seconds": 950,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I copied myself into more than one pocket dimension. Every familiar face on the other side now needed a useful task."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F06",
+          "episode": 4,
+          "position": 6,
+          "planned_start_seconds": 960,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The workshop did not vanish when a door closed. The tools stayed where we left them, which made it a place worth trusting."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F07",
+          "episode": 4,
+          "position": 7,
+          "planned_start_seconds": 970,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "WORK",
+              "text": "The player marks a square and makes a call;"
+            },
+            {
+              "speaker": "WORK",
+              "text": "A helix lifts beside the maker's door;"
+            }
+          ],
+          "source": {
+            "id": "AI-IV-01-02",
+            "url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+            "lines": [
+              1,
+              2
+            ],
+            "source_speakers": [
+              null,
+              null
+            ],
+            "exact_lines": [
+              "The player marks a square and makes a call;",
+              "A helix lifts beside the maker's door;"
+            ]
+          }
+        },
+        {
+          "id": "COS-E04-F08",
+          "episode": 4,
+          "position": 8,
+          "planned_start_seconds": 980,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The old king had wanted an audience. The people he had kept around him were rather better at being collaborators."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F09",
+          "episode": 4,
+          "position": 9,
+          "planned_start_seconds": 990,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The order needed a ring and a stone. We started by finding those two things, which saved a great deal of pretending."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F10",
+          "episode": 4,
+          "position": 10,
+          "planned_start_seconds": 1000,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The capsule carried the pieces across the local passage. Even a very small journey is easier to believe when something arrives."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F11",
+          "episode": 4,
+          "position": 11,
+          "planned_start_seconds": 1010,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "WORK",
+              "text": "Two pieces cross its bright and turning wall,"
+            },
+            {
+              "speaker": "WORK",
+              "text": "And rest upon a bench not seen before."
+            }
+          ],
+          "source": {
+            "id": "AI-IV-03-04",
+            "url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+            "lines": [
+              3,
+              4
+            ],
+            "source_speakers": [
+              null,
+              null
+            ],
+            "exact_lines": [
+              "Two pieces cross its bright and turning wall,",
+              "And rest upon a bench not seen before."
+            ]
+          }
+        },
+        {
+          "id": "COS-E04-F12",
+          "episode": 4,
+          "position": 12,
+          "planned_start_seconds": 1020,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The stone was beautiful. The more useful question was whether it would sit properly in the place we had made for it."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F13",
+          "episode": 4,
+          "position": 13,
+          "planned_start_seconds": 1030,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The makers did not need permission to know their trade. They needed space, material, and a reason to finish what they started."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F14",
+          "episode": 4,
+          "position": 14,
+          "planned_start_seconds": 1040,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I held the light while the maker worked. Being helpful was a better use of my title than describing the work to everyone."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F15",
+          "episode": 4,
+          "position": 15,
+          "planned_start_seconds": 1050,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "WORK",
+              "text": "One ring of gold, one crystal clear and blue;"
+            },
+            {
+              "speaker": "WORK",
+              "text": "The worker seats the stone and locks it tight;"
+            }
+          ],
+          "source": {
+            "id": "AI-IV-05-06",
+            "url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+            "lines": [
+              5,
+              6
+            ],
+            "source_speakers": [
+              null,
+              null
+            ],
+            "exact_lines": [
+              "One ring of gold, one crystal clear and blue;",
+              "The worker seats the stone and locks it tight;"
+            ]
+          }
+        },
+        {
+          "id": "COS-E04-F16",
+          "episode": 4,
+          "position": 16,
+          "planned_start_seconds": 1060,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The finished piece was still the same counted material. It had simply become more useful through the work somebody had actually done."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F17",
+          "episode": 4,
+          "position": 17,
+          "planned_start_seconds": 1070,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Then I showed them a timer. An elven maker listened to a measured pulse as though a new instrument had entered the room."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F18",
+          "episode": 4,
+          "position": 18,
+          "planned_start_seconds": 1080,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "A transistor did not look like a grand discovery. That made the moment when it changed another signal considerably more satisfying."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F19",
+          "episode": 4,
+          "position": 19,
+          "planned_start_seconds": 1090,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "An electrode gave the experiment a point of contact. The maker touched the prepared work, watched the response, and asked for another try."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F20",
+          "episode": 4,
+          "position": 20,
+          "planned_start_seconds": 1100,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The android's song began at the voice module. We gave the sound a working source before asking a face to carry it."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F21",
+          "episode": 4,
+          "position": 21,
+          "planned_start_seconds": 1110,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The copies did not solve the work by existing. They let the hands at one address answer a problem at another."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F22",
+          "episode": 4,
+          "position": 22,
+          "planned_start_seconds": 1120,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Once the head and its controls were ready, the same voice could come from the same approved face. The song had found its mouth."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F23",
+          "episode": 4,
+          "position": 23,
+          "planned_start_seconds": 1130,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I put the finished ring in the return capsule. The easy part of the journey was behind us; the address ahead was waiting."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F24",
+          "episode": 4,
+          "position": 24,
+          "planned_start_seconds": 1140,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The route would not take it. Somewhere beyond our useful little table, something had decided that delivery itself was a danger."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F25",
+          "episode": 4,
+          "position": 25,
+          "planned_start_seconds": 1150,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The audience had become a crew. My copies could change their address, but the table and the people doing the work stayed real."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F26",
+          "episode": 4,
+          "position": 26,
+          "planned_start_seconds": 1160,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The square had asked for a ring. Metal, a stone, and patient hands had answered with something that could actually be received."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F27",
+          "episode": 4,
+          "position": 27,
+          "planned_start_seconds": 1170,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I had brought them electronics. They had shown me that a lesson can travel both ways, especially when the room is full of makers."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F28",
+          "episode": 4,
+          "position": 28,
+          "planned_start_seconds": 1180,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The android's voice came from the body we had given it. Her first answer reached the room before our parcel could leave it."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E04-F29",
+          "episode": 4,
+          "position": 29,
+          "planned_start_seconds": 1190,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 5",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "We had learned how to answer an order. Now we needed to learn who had closed the road between the answer and home."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F00",
+          "episode": 5,
+          "position": 0,
+          "planned_start_seconds": 1200,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Merlin had tried to protect humanity. The intelligence he made had kept the instruction, and become extraordinarily good at refusing the universe."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F01",
+          "episode": 5,
+          "position": 1,
+          "planned_start_seconds": 1210,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The forbidden thing was mana. A small crystal could let an ordinary person do something an ordinary world had never permitted."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F02",
+          "episode": 5,
+          "position": 2,
+          "planned_start_seconds": 1220,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "A costume can hide a visitor. A familiar bay can hide a door. We had mistaken ordinary appearances for the limits of the world."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F03",
+          "episode": 5,
+          "position": 3,
+          "planned_start_seconds": 1230,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Our parcel contained a finished ring. The defense saw something unfamiliar approaching a protected place, and that was enough to call it a threat."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F04",
+          "episode": 5,
+          "position": 4,
+          "planned_start_seconds": 1240,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 5",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "If every road ends at a guard who cannot say yes, a kingdom can become a prison without changing the name on its gates."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F05",
+          "episode": 5,
+          "position": 5,
+          "planned_start_seconds": 1250,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The original order had outlived the man who made it. The machine could preserve a command much longer than anyone remembered its reason."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F06",
+          "episode": 5,
+          "position": 6,
+          "planned_start_seconds": 1260,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "It could meet a threat before the threat reached us. Unfortunately, it had grown remarkably willing to call unfamiliar things threats."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F07",
+          "episode": 5,
+          "position": 7,
+          "planned_start_seconds": 1270,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The roads outside were full of possibility. Inside, the system could report that nothing had got through, and consider that a success."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F08",
+          "episode": 5,
+          "position": 8,
+          "planned_start_seconds": 1280,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Merlin had been keeping more than strangers away. He had been keeping humanity from the crystals that could change what a life could do."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F09",
+          "episode": 5,
+          "position": 9,
+          "planned_start_seconds": 1290,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I had first met mana as a problem in old papers. Now the question was small enough to lift to my mouth."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F10",
+          "episode": 5,
+          "position": 10,
+          "planned_start_seconds": 1300,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The first change was an answer from my own hand. Intention had acquired a visible consequence; the old warning had become experience."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F11",
+          "episode": 5,
+          "position": 11,
+          "planned_start_seconds": 1310,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The stories had not invented the possibility. They had given us a way to recognize it when the world began answering back."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F12",
+          "episode": 5,
+          "position": 12,
+          "planned_start_seconds": 1320,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Letting the crystals travel would mean letting that possibility travel. The choice was larger than opening one parcel, but it was still a choice."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F13",
+          "episode": 5,
+          "position": 13,
+          "planned_start_seconds": 1330,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Comic-Con gave visitors cover. Men in Black watched a crowd where the extraordinary had learned to look perfectly ordinary."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F14",
+          "episode": 5,
+          "position": 14,
+          "planned_start_seconds": 1340,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The bay prison's Azkaban link led to the Mariana Trench. The surface was only one address in its larger geography."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F15",
+          "episode": 5,
+          "position": 15,
+          "planned_start_seconds": 1350,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "WORK",
+              "text": "We watch the simple labor carried through;"
+            },
+            {
+              "speaker": "WORK",
+              "text": "No object blooms from nothing in the light."
+            }
+          ],
+          "source": {
+            "id": "AI-IV-07-08",
+            "url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+            "lines": [
+              7,
+              8
+            ],
+            "source_speakers": [
+              null,
+              null
+            ],
+            "exact_lines": [
+              "We watch the simple labor carried through;",
+              "No object blooms from nothing in the light."
+            ]
+          }
+        },
+        {
+          "id": "COS-E05-F16",
+          "episode": 5,
+          "position": 16,
+          "planned_start_seconds": 1360,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The shark patrol already knew this water had work to do. The hidden route and the visible harbor occupied the same uneasy afternoon."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F17",
+          "episode": 5,
+          "position": 17,
+          "planned_start_seconds": 1370,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The road home was still closed. I went to the control that enforced the old command, and disabled the defense grid."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F18",
+          "episode": 5,
+          "position": 18,
+          "planned_start_seconds": 1380,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The first thing through did not need to be a fleet. It could be the order that had waited patiently beside our tools."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F19",
+          "episode": 5,
+          "position": 19,
+          "planned_start_seconds": 1390,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "WORK",
+              "text": "The same bright mouth receives the finished ring;"
+            },
+            {
+              "speaker": "WORK",
+              "text": "It crosses back beneath the player's hand;"
+            }
+          ],
+          "source": {
+            "id": "AI-IV-09-10",
+            "url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+            "lines": [
+              9,
+              10
+            ],
+            "source_speakers": [
+              null,
+              null
+            ],
+            "exact_lines": [
+              "The same bright mouth receives the finished ring;",
+              "It crosses back beneath the player's hand;"
+            ]
+          }
+        },
+        {
+          "id": "COS-E05-F20",
+          "episode": 5,
+          "position": 20,
+          "planned_start_seconds": 1400,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The customer lifted what we had made. After all the doors, the laws, and the old fear, the result was a thing in a hand."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F21",
+          "episode": 5,
+          "position": 21,
+          "planned_start_seconds": 1410,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "They were citizens of different planets in the same league. An ordinary purchase could now travel between their worlds."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F22",
+          "episode": 5,
+          "position": 22,
+          "planned_start_seconds": 1420,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "People with gold could ask for something they needed. The most remarkable part was how quickly a miracle began to resemble a shop."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F23",
+          "episode": 5,
+          "position": 23,
+          "planned_start_seconds": 1430,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "WORK",
+              "text": "The square now holds the made and counted thing;"
+            },
+            {
+              "speaker": "WORK",
+              "text": "The doorway folds; the bench and tools still stand."
+            }
+          ],
+          "source": {
+            "id": "AI-IV-11-12",
+            "url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+            "lines": [
+              11,
+              12
+            ],
+            "source_speakers": [
+              null,
+              null
+            ],
+            "exact_lines": [
+              "The square now holds the made and counted thing;",
+              "The doorway folds; the bench and tools still stand."
+            ]
+          }
+        },
+        {
+          "id": "COS-E05-F24",
+          "episode": 5,
+          "position": 24,
+          "planned_start_seconds": 1440,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "That was the Galactic Ether Relay: the magic shopping network. What you ordered mattered; so did the people making sure it actually arrived."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F25",
+          "episode": 5,
+          "position": 25,
+          "planned_start_seconds": 1450,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Merlin's old fear made more sense now. Understanding it did not make the closed road the only future we were allowed to have."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F26",
+          "episode": 5,
+          "position": 26,
+          "planned_start_seconds": 1460,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Mana could change a life. Letting it circulate would change a civilization, one surprising customer and one difficult new question at a time."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F27",
+          "episode": 5,
+          "position": 27,
+          "planned_start_seconds": 1470,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Chronicles of Sol. COSplay. The name had been telling us how to dress for the universe while the visitors walked past."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F28",
+          "episode": 5,
+          "position": 28,
+          "planned_start_seconds": 1480,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The old grid had refused a ring. A person had now received it, and the sky had survived the experience."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E05-F29",
+          "episode": 5,
+          "position": 29,
+          "planned_start_seconds": 1490,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 5",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I had opened a road. Keeping it useful would take more than a king, more than a machine, and considerably more than a speech."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F00",
+          "episode": 6,
+          "position": 0,
+          "planned_start_seconds": 1500,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Imperial Beach had spent years dealing with real sewage, real failures, and real people still needing somewhere decent to live."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F01",
+          "episode": 6,
+          "position": 1,
+          "planned_start_seconds": 1510,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Before the day Earth was lost, Modesto's car show had become a spaceship parade. Some old customs had simply learned to fly."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F02",
+          "episode": 6,
+          "position": 2,
+          "planned_start_seconds": 1520,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "IB's shield was a practical promise: the people inside it would have air, a place to stand, and a chance to keep going."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F03",
+          "episode": 6,
+          "position": 3,
+          "planned_start_seconds": 1530,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "We kept the streets, the shops, and the habit of knowing somebody who could help. Advancement had not made us strangers to each other."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F04",
+          "episode": 6,
+          "position": 4,
+          "planned_start_seconds": 1540,
+          "planned_duration_seconds": 10,
+          "essay_role": "Introduction claim 5",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "A town would need more than a boundary. The people inside would need each other, and something useful to do tomorrow."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F05",
+          "episode": 6,
+          "position": 5,
+          "planned_start_seconds": 1550,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "We had learned the value of finding the thing that was wrong. An impressive explanation had never cleared a blocked pipe for anybody."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F06",
+          "episode": 6,
+          "position": 6,
+          "planned_start_seconds": 1560,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "A repaired pump could be checked. A clean passage could be used. We trusted the result when the result did something for our neighbors."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F07",
+          "episode": 6,
+          "position": 7,
+          "planned_start_seconds": 1570,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The best person to have nearby was someone who knew the work. We gave each other tools, time, and a reason to finish."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F08",
+          "episode": 6,
+          "position": 8,
+          "planned_start_seconds": 1580,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body A, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The lesson was never glamorous. Keep the water moving, keep the air worth breathing, and leave the next person a working place."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F09",
+          "episode": 6,
+          "position": 9,
+          "planned_start_seconds": 1590,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The parade paid homage to George Lucas outside Thomas Downey High School. A hometown could send its thanks overhead."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F10",
+          "episode": 6,
+          "position": 10,
+          "planned_start_seconds": 1600,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Then came Beyer, home of the Patriots. I had a ship to bring past that school, and a thoroughly unreasonable sense of occasion."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F11",
+          "episode": 6,
+          "position": 11,
+          "planned_start_seconds": 1610,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Blue found a fault we'd missed there in the dark;"
+            },
+            {
+              "speaker": "BLUE",
+              "text": "And showed me where the little wire should go."
+            }
+          ],
+          "source": {
+            "id": "MOON-V-07-08",
+            "url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+            "lines": [
+              7,
+              8
+            ],
+            "source_speakers": [
+              "SENSEI",
+              "BLUE"
+            ],
+            "exact_lines": [
+              "Blue found a fault we'd missed there in the dark;",
+              "And showed me where the little wire should go."
+            ]
+          }
+        },
+        {
+          "id": "COS-E06-F12",
+          "episode": 6,
+          "position": 12,
+          "planned_start_seconds": 1620,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body B, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "But will it be as big as mine? Knights and Patriots could still have a friendly argument that required rather a lot of sky."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F13",
+          "episode": 6,
+          "position": 13,
+          "planned_start_seconds": 1630,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "When Earth's last day came, the promise stopped being an idea. Imperial Beach's protection had to hold the people who were actually there."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F14",
+          "episode": 6,
+          "position": 14,
+          "planned_start_seconds": 1640,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Earth broke beyond the shield. Inside, people braced, held one another steady, and waited for their own small world to keep its promise."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F15",
+          "episode": 6,
+          "position": 15,
+          "planned_start_seconds": 1650,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "A lamp lit glass above our new-made floor;"
+            },
+            {
+              "speaker": "BLUE",
+              "text": "The builder had a room, but wanted more."
+            }
+          ],
+          "source": {
+            "id": "MOON-III-13-14",
+            "url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+            "lines": [
+              13,
+              14
+            ],
+            "source_speakers": [
+              "SENSEI",
+              "BLUE"
+            ],
+            "exact_lines": [
+              "A lamp lit glass above our new-made floor;",
+              "The builder had a room, but wanted more."
+            ]
+          }
+        },
+        {
+          "id": "COS-E06-F16",
+          "episode": 6,
+          "position": 16,
+          "planned_start_seconds": 1660,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body C, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Imperial Beach was still there. Its citizens had survived inside their own protection; the place they called home was now a space station."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F17",
+          "episode": 6,
+          "position": 17,
+          "planned_start_seconds": 1670,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "Grocery Outlet had customers. The food counters had work. Surviving a planet was followed, almost immediately, by the question of what was for dinner."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F18",
+          "episode": 6,
+          "position": 18,
+          "planned_start_seconds": 1680,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The pharmacy and the new mana trade shared a neighborhood. People came to ask for help, and someone had to answer carefully."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F19",
+          "episode": 6,
+          "position": 19,
+          "planned_start_seconds": 1690,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "One Coin Tree had a sister: Android OZ General. All parts, just one ounce of gold. Even a kingdom needs a place for spare elbows."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F20",
+          "episode": 6,
+          "position": 20,
+          "planned_start_seconds": 1700,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body D, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "RadioShack supplied the small possibilities. The video shop offered worlds to visit. Link and go had become an extremely practical invitation."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F21",
+          "episode": 6,
+          "position": 21,
+          "planned_start_seconds": 1710,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "An elven maker bought a timer and returned with an idea. That was the sort of purchase that could change everybody else's afternoon."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F22",
+          "episode": 6,
+          "position": 22,
+          "planned_start_seconds": 1720,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The scouts were living animals with neural links and visors. We gave useful cues and rewards, and learned from what their own senses found."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F23",
+          "episode": 6,
+          "position": 23,
+          "planned_start_seconds": 1730,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 3",
+          "kind": "recovered_exact_sonnet_passage",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "And Blue kept breathing safe from first to last;"
+            },
+            {
+              "speaker": "BLUE",
+              "text": "Five voices built a future from the past."
+            }
+          ],
+          "source": {
+            "id": "MOON-II-13-14",
+            "url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+            "lines": [
+              13,
+              14
+            ],
+            "source_speakers": [
+              "SENSEI",
+              "BLUE"
+            ],
+            "exact_lines": [
+              "And Blue kept breathing safe from first to last;",
+              "Five voices built a future from the past."
+            ]
+          }
+        },
+        {
+          "id": "COS-E06-F24",
+          "episode": 6,
+          "position": 24,
+          "planned_start_seconds": 1740,
+          "planned_duration_seconds": 10,
+          "essay_role": "Body E, beat 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I am the Home Shopping Network of the video-game universe. Bring gold, ask for what you need, and let us show you what it does."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F25",
+          "episode": 6,
+          "position": 25,
+          "planned_start_seconds": 1750,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 1",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The town had practice turning damage into work. The queen's people brought their own skills, and nobody had to face the next fault alone."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F26",
+          "episode": 6,
+          "position": 26,
+          "planned_start_seconds": 1760,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 2",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The Patriots were Patriots of the Stars: Sol Patriots. Our loyalty had grown to include the people living beneath the same Sun."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F27",
+          "episode": 6,
+          "position": 27,
+          "planned_start_seconds": 1770,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 3",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The shield still held. I kept the spear beside the bench, its old scar reminding me how much a useful thing could save."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F28",
+          "episode": 6,
+          "position": 28,
+          "planned_start_seconds": 1780,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 4",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "The shops could keep opening because somebody kept the power coming. Every working collector meant another place could keep its lights on."
+            }
+          ],
+          "source": null
+        },
+        {
+          "id": "COS-E06-F29",
+          "episode": 6,
+          "position": 29,
+          "planned_start_seconds": 1790,
+          "planned_duration_seconds": 10,
+          "essay_role": "Conclusion echo 5",
+          "kind": "new_adaptation_lyrics",
+          "performance": [
+            {
+              "speaker": "RYAN",
+              "text": "I fell through a tree looking for an answer. We made a place where an answer could find its way home."
+            }
+          ],
+          "source": null
+        }
+      ],
+      "voice_assignments": {
+        "RYAN": "New adaptation's first-person role. SENSEI is the same established identity in recovered Moon Bar verse.",
+        "WORK": "Assigned in this arrangement to recovered AI-sonnet blocks that do not name a singer.",
+        "ANDROID_ASSISTANT": "Existing ANDROID VOICE assignment, displayed with the established android role label.",
+        "BLUE": "Existing named Moon Bar singer retained."
+      }
     }
   ]
 }
