@@ -138,9 +138,9 @@ Find the relevant recipe, read the approved original source, and use that source
 - **Do not substitute**: explicit prohibited inventions.
 - **QC and provenance**: compare original vs result, record source IDs and any unresolved gap.
 
-### DECISION ALGORITHM
+### Cinematic production pickup
 ~~~text
-WHEN owner asks:
+WHEN owner requests cinematic production or says "check your orders":
   job := latest owner instruction + standing unfinished assignment
   performance := read selected Google screenplay and current source position
   refs := reuse owner-selected images in the active window
