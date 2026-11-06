@@ -1,3 +1,9 @@
+# OWNER FIRST — EVERY TEN SECONDS IS ITS OWN CINEMATIC SHORT FILM (2026-11-05)
+
+**Every ten-second Meta render must be an independently watchable cinematic short film, whatever happens in those ten seconds.** Direct what the audience sees and experiences—action, movement, a meaningful moment and its consequence—not the frame around the frame. **Do not explain the stitching, add bridge scenes, or write editorial handoff/transition mechanics into render prompts.** The stitching fits when each ten-second film stands on its own. Owner-supplied images define appearance; approved dialogue, continuous music, source actions and continuity remain exact. Never shorten lyrics, restart the song, invent speech, redesign subjects, or repeat accepted footage to satisfy this rule. Respect an explicitly approved on-screen effect without adding a new explanation of it. Correct the cinematic direction, not the source. **This is a priority creative-direction rule, not a new GO.**
+
+---
+
 # TO WORLD — COOKBOOK.md
 
 ## DONUT LAW — WORLD BOOK CANON / 2026-11-04
