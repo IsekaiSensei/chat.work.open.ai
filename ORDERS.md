@@ -17,10 +17,18 @@ Load the corresponding camera directions and Ryan's selected images already supp
 - **Script / sung words:** [Google screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/scripts/CONVERSATION_SCREENPLAY.txt).
 - **Performance camera directions, by source ID:** [Google shot list](https://drive.google.com/file/d/1XP0cx9QIsLL3tVd6rb-ZGe0_COB_JU-k/view). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/CONVERSATION_SHOT_LIST.md).
 - **Numbered workbench camera directions, 000–009:** [Google batch shot list](https://drive.google.com/file/d/1_taVPG5tThWq-DGw1z9dkoYmIb-Yowtk/view). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/BUILD_FILM_BATCH_01_CLIPS_000-009.md).
-- **Actual takes, progress and owner verdicts:** [Google dailies](https://drive.google.com/file/d/1wgDMh9dQsxmSnpdtq_GK95Wc5Qk1IPWM/view). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/DAILIES.md).
+- **Actual takes, progress and owner verdicts:** [Google dailies — readable native Doc](https://docs.google.com/document/d/1RrNJYm7kHj_6lq-CJVuloR2sCuXgFsLQqBfGp1njh1Y/edit). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/DAILIES.md).
 - **Speaker/source provenance:** [Source register](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/CONVERSATION_SOURCE_REGISTER.json).
 
 The screenplay supplies the performance. A shot list supplies the picture; it does not choose or invent lyrics. Keep the active window's image selection and numbering. The workbench list's 000–009 labels do not restart a window or replace Ryan's newer attached references. Complete any missing camera entry from those supplied references as part of the same job.
+
+## Source access and the owner's assignment
+
+Ryan's latest direct assignment controls the selected script, passage, clip range and reference set. Preserve an explicit all-nine-images/every-clip instruction. Historical completion records describe their own runs; they do not cancel a later explicit owner assignment.
+
+If a window can read only native Google Docs, use the [current readable Dailies](https://docs.google.com/document/d/1RrNJYm7kHj_6lq-CJVuloR2sCuXgFsLQqBfGp1njh1Y/edit) and the linked native Google screenplay. The Dailies view preserves the existing ledger's wording. Dailies record progress; they do not choose replacement dialogue. An inaccessible TXT/MD/XLSX file is an access problem to solve, not a reason to pick another screenplay or reduce an assigned range. Use the owner-selected text already present in that window when available. Report the specific inaccessible source once while continuing accessible assigned work.
+
+For creative development, Ryan translates lived reality directly into Chronicles of Sol: “the fourth wall and the third wall and the second wall are all the same wall.” Apply that method without adding explanatory captions, screenplay annotations or new scenes from examples he expressly excludes. Refer to [the World Book](https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit) for story canon and [Cookbook IB-01](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/COOKBOOK.md#ib-01--chronicles-of-sol--imperial-beach-station-and-relay-market) for the local references.
 
 ## Performance and references
 
