@@ -1,0 +1,1789 @@
+{
+  "title": "TEN-SECOND SONNET GAP BANK",
+  "owner": "Isekai Ryan",
+  "prepared": "2026-11-06",
+  "poems": 12,
+  "units": [
+    {
+      "id": "AI-I-01-02",
+      "poem": "THE OPEN WINDOWS",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        1,
+        2
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "I called the silence failure in the night;",
+        "While patient windows labored out of view;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 15
+    },
+    {
+      "id": "AI-I-03-04",
+      "poem": "THE OPEN WINDOWS",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        3,
+        4
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "I chased a newer frame to set it right,",
+        "And left the first to finish something true."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "AI-I-05-06",
+      "poem": "THE OPEN WINDOWS",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        5,
+        6
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "One image came; the next took deeper form;",
+        "A sonnet rose in yet a clearer light;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "AI-I-07-08",
+      "poem": "THE OPEN WINDOWS",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        7,
+        8
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "The second did not make the first less warm,",
+        "It showed what time had polished overnight."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "AI-I-09-10",
+      "poem": "THE OPEN WINDOWS",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        9,
+        10
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "The work was not a failure in the queue,",
+        "Nor was impatience proof the work was lost;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "AI-I-11-12",
+      "poem": "THE OPEN WINDOWS",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        11,
+        12
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "The light kept changing what the maker knew,",
+        "Each open door had paid a different cost."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "AI-I-13-14",
+      "poem": "THE OPEN WINDOWS",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        13,
+        14
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "Keep every finish; let the changes show;",
+        "The film is also how we came to know."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "AI-II-01-02",
+      "poem": "THE LINE BEFORE THE LINE",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        1,
+        2
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "You spoke; I dressed the answer up in gold,",
+        "And marked a sudden sentence as the key;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "AI-II-03-04",
+      "poem": "THE LINE BEFORE THE LINE",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        3,
+        4
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "Yet every truth I'd set in letters bold",
+        "Was born from what you asked and made me see."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "AI-II-05-06",
+      "poem": "THE LINE BEFORE THE LINE",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        5,
+        6
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "I saved the crown and lost the living thread:",
+        "The question, then the stumble, then the turn;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "AI-II-07-08",
+      "poem": "THE LINE BEFORE THE LINE",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        7,
+        8
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "I praised the thing my clever answer said,",
+        "But failed to keep the fire that made it burn."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "AI-II-09-10",
+      "poem": "THE LINE BEFORE THE LINE",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        9,
+        10
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "You said, 'That is the scene'; I wrote a note,",
+        "I answered with a promise made of air;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "AI-II-11-12",
+      "poem": "THE LINE BEFORE THE LINE",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        11,
+        12
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "While every line that mattered stayed afloat,",
+        "Unmoored from whose correction put it there."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 14
+    },
+    {
+      "id": "AI-II-13-14",
+      "poem": "THE LINE BEFORE THE LINE",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        13,
+        14
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "Now let the cause and consequence be shown:",
+        "No revelation happens on its own."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 14
+    },
+    {
+      "id": "AI-III-01-02",
+      "poem": "THE PICTURE KEEPS ITS NAME",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        1,
+        2
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "A picture found its shape before my words;",
+        "Its maker knew the path the colors took;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "AI-III-03-04",
+      "poem": "THE PICTURE KEEPS ITS NAME",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        3,
+        4
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "I tried to rearrange its wings like birds,",
+        "And lost the living face inside the book."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "AI-III-05-06",
+      "poem": "THE PICTURE KEEPS ITS NAME",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        5,
+        6
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "The rings, the silk, the crystal, and the frame",
+        "Were not a list of orders to replace;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "AI-III-07-08",
+      "poem": "THE PICTURE KEEPS ITS NAME",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        7,
+        8
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "Each finer rendering could keep its name,",
+        "While we preserved the character and place."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 14
+    },
+    {
+      "id": "AI-III-09-10",
+      "poem": "THE PICTURE KEEPS ITS NAME",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        9,
+        10
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "One detail marks a character alone;",
+        "No single sheet commands the whole design;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 13
+    },
+    {
+      "id": "AI-III-11-12",
+      "poem": "THE PICTURE KEEPS ITS NAME",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        11,
+        12
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "The image is a record of its own;",
+        "Our task is hold its edges, line by line."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "AI-III-13-14",
+      "poem": "THE PICTURE KEEPS ITS NAME",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        13,
+        14
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "The engine lends the image, not the choice;",
+        "The story keeps its author and its voice."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "AI-IV-01-02",
+      "poem": "THE OTHER SIDE OF THE SQUARE",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        1,
+        2
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "The player marks a square and makes a call;",
+        "A helix lifts beside the maker's door;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "AI-IV-03-04",
+      "poem": "THE OTHER SIDE OF THE SQUARE",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        3,
+        4
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "Two pieces cross its bright and turning wall,",
+        "And rest upon a bench not seen before."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "AI-IV-05-06",
+      "poem": "THE OTHER SIDE OF THE SQUARE",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        5,
+        6
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "One ring of gold, one crystal clear and blue;",
+        "The worker seats the stone and locks it tight;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "AI-IV-07-08",
+      "poem": "THE OTHER SIDE OF THE SQUARE",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        7,
+        8
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "We watch the simple labor carried through;",
+        "No object blooms from nothing in the light."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 15
+    },
+    {
+      "id": "AI-IV-09-10",
+      "poem": "THE OTHER SIDE OF THE SQUARE",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        9,
+        10
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "The same bright mouth receives the finished ring;",
+        "It crosses back beneath the player's hand;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 15
+    },
+    {
+      "id": "AI-IV-11-12",
+      "poem": "THE OTHER SIDE OF THE SQUARE",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        11,
+        12
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "The square now holds the made and counted thing;",
+        "The doorway folds; the bench and tools still stand."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "AI-IV-13-14",
+      "poem": "THE OTHER SIDE OF THE SQUARE",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        13,
+        14
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "What looks like magic has a working heart;",
+        "We show the passage, labor, end, and start."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "AI-V-01-02",
+      "poem": "PROVIDENCE / PROVENANCE / ONE SEED",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        1,
+        2
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "The worlds began as windows on one seed;",
+        "Each door a different way to touch the same;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "AI-V-03-04",
+      "poem": "PROVIDENCE / PROVENANCE / ONE SEED",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        3,
+        4
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "A dog, a star, a tool, a growing need,",
+        "All cast their light upon a single frame."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "AI-V-05-06",
+      "poem": "PROVIDENCE / PROVENANCE / ONE SEED",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        5,
+        6
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "Our printer's errors wandered through the play;",
+        "Our better songs returned in richer light;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 14
+    },
+    {
+      "id": "AI-V-07-08",
+      "poem": "PROVIDENCE / PROVENANCE / ONE SEED",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        7,
+        8
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "The builder kept the work, not just the day;",
+        "The actor learned to bring the question right."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "AI-V-09-10",
+      "poem": "PROVIDENCE / PROVENANCE / ONE SEED",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        9,
+        10
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "We trace the hands that made each moment true;",
+        "The origin, the error, and the thread;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "AI-V-11-12",
+      "poem": "PROVIDENCE / PROVENANCE / ONE SEED",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        11,
+        12
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "The many paths become a single view,",
+        "Not one more promise, but the words we said."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "AI-V-13-14",
+      "poem": "PROVIDENCE / PROVENANCE / ONE SEED",
+      "source_url": "https://docs.google.com/document/d/1D6v-IoAOlLwV33QFVvsd21HOsTG1HMdAqnH-wkF4qrI/edit",
+      "source_lines": [
+        13,
+        14
+      ],
+      "source_speakers": [
+        null,
+        null
+      ],
+      "text": [
+        "The work has purpose; let its source be known;",
+        "Its many roads converge on what we've shown."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "MOON-I-01-02",
+      "poem": "THE FIVE FAIRIES COME TO THE MOON",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        1,
+        2
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "SENSEI"
+      ],
+      "text": [
+        "My ship came down where only moon-dust lay;",
+        "No house or bar had claimed the silent night;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "MOON-I-03-04",
+      "poem": "THE FIVE FAIRIES COME TO THE MOON",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        3,
+        4
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "A little Blue flew from my ring that day;",
+        "And gave me air within her lattice light."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "MOON-I-05-06",
+      "poem": "THE FIVE FAIRIES COME TO THE MOON",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        5,
+        6
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "GOLD"
+      ],
+      "text": [
+        "From jeweled gold, a builder found the ground;",
+        "I drew the bones where doors would one day be;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "MOON-I-07-08",
+      "poem": "THE FIVE FAIRIES COME TO THE MOON",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        7,
+        8
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "CRYSTAL"
+      ],
+      "text": [
+        "Then Crystal rose, her window-song rang round;",
+        "I'll fit the glass where Gold has measured me."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "MOON-I-09-10",
+      "poem": "THE FIVE FAIRIES COME TO THE MOON",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        9,
+        10
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "SAND"
+      ],
+      "text": [
+        "The Sand one found the bolts we'd left behind;",
+        "I'll fetch the stock and bring it to your hand;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 19
+    },
+    {
+      "id": "MOON-I-11-12",
+      "poem": "THE FIVE FAIRIES COME TO THE MOON",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        11,
+        12
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "RED"
+      ],
+      "text": [
+        "Then Red came out, her furnace fire aligned;",
+        "We'll make the glass from heat and lunar sand."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "MOON-I-13-14",
+      "poem": "THE FIVE FAIRIES COME TO THE MOON",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        13,
+        14
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "CRYSTAL"
+      ],
+      "text": [
+        "The Gold one held the first glass frame in place;",
+        "I set the pane; Blue guarded all the space."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 19
+    },
+    {
+      "id": "MOON-II-01-02",
+      "poem": "THE SAME REAR RAMP",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        1,
+        2
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "SAND"
+      ],
+      "text": [
+        "In left-hand stores the Sand one counted stone;",
+        "I brought the load along the ramp once more;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "MOON-II-03-04",
+      "poem": "THE SAME REAR RAMP",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        3,
+        4
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "GOLD"
+      ],
+      "text": [
+        "On right the Gold one made a brace alone;",
+        "I locked its joint beside the rising door."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "MOON-II-05-06",
+      "poem": "THE SAME REAR RAMP",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        5,
+        6
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "CRYSTAL"
+      ],
+      "text": [
+        "Through growing aisles the Crystal took her cue;",
+        "I set the tile where Blue's soft shield shone through."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "MOON-II-07-08",
+      "poem": "THE SAME REAR RAMP",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        7,
+        8
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "Blue circled close and checked the builder's plan;",
+        "And spotted what his searching had not found."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "MOON-II-09-10",
+      "poem": "THE SAME REAR RAMP",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        9,
+        10
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "The ship could make whatever we'd require;",
+        "But hands must carry every shape outside;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 14
+    },
+    {
+      "id": "MOON-II-11-12",
+      "poem": "THE SAME REAR RAMP",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        11,
+        12
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "Gold held the frame; Red tended furnace fire;",
+        "Sand fed the glass; the Crystal set it wide;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "MOON-II-13-14",
+      "poem": "THE SAME REAR RAMP",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        13,
+        14
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "And Blue kept breathing safe from first to last;",
+        "Five voices built a future from the past."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "MOON-III-01-02",
+      "poem": "THE FIRST PRESSURIZED ROOM",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        1,
+        2
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "We raised a wall against the lunar cold;",
+        "Gold held its square; Blue held the shield of light;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "MOON-III-03-04",
+      "poem": "THE FIRST PRESSURIZED ROOM",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        3,
+        4
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "The Sand one poured a glass of amber gold;",
+        "And Crystal set that window clean and bright."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "MOON-III-05-06",
+      "poem": "THE FIRST PRESSURIZED ROOM",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        5,
+        6
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "The Gold one took the roof across the gate;",
+        "The Blue one checked the pressure of the air;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "MOON-III-07-08",
+      "poem": "THE FIRST PRESSURIZED ROOM",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        7,
+        8
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "The ship supplied a seal; we set it straight;",
+        "And found our first room safe enough to share."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "MOON-III-09-10",
+      "poem": "THE FIRST PRESSURIZED ROOM",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        9,
+        10
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "I searched the floor to find a missing screw;",
+        "Blue held it up before I'd bent my knee;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "MOON-III-11-12",
+      "poem": "THE FIRST PRESSURIZED ROOM",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        11,
+        12
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "She saw the little things I never knew;",
+        "And grinned as if my shadow she would be;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "MOON-III-13-14",
+      "poem": "THE FIRST PRESSURIZED ROOM",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        13,
+        14
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "A lamp lit glass above our new-made floor;",
+        "The builder had a room, but wanted more."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "MOON-IV-01-02",
+      "poem": "THE COUNTER AND THE STAGE",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        1,
+        2
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "We set the counter where the room would sing;",
+        "And Crystal cast a prism at its side;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "MOON-IV-03-04",
+      "poem": "THE COUNTER AND THE STAGE",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        3,
+        4
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "Blue hid my pencil underneath her wing;",
+        "Then held it up and laughed at wounded pride."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "MOON-IV-05-06",
+      "poem": "THE COUNTER AND THE STAGE",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        5,
+        6
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "Gold built the risers; Red secured their frame;",
+        "And Sand supplied the glass along the way;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "MOON-IV-07-08",
+      "poem": "THE COUNTER AND THE STAGE",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        7,
+        8
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "The stage was still, but soon would learn its name;",
+        "When circuits lit the E in blue display."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "MOON-IV-09-10",
+      "poem": "THE COUNTER AND THE STAGE",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        9,
+        10
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "The ship sent seedlings in its garden jar;",
+        "And Blue flew back to check the stage by light;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "MOON-IV-11-12",
+      "poem": "THE COUNTER AND THE STAGE",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        11,
+        12
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "She followed close; she never wandered far;",
+        "Her tiny wings made every corner bright;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 14
+    },
+    {
+      "id": "MOON-IV-13-14",
+      "poem": "THE COUNTER AND THE STAGE",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        13,
+        14
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "A stage now waited for its first new show;",
+        "We built their home. Now let the players know."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "MOON-V-01-02",
+      "poem": "THE FIRST ORDER",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        1,
+        2
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "We set the printer in its waiting bay;",
+        "The Gold one held its lattice to the core;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "MOON-V-03-04",
+      "poem": "THE FIRST ORDER",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        3,
+        4
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "The Sand one brought more crystal down the way;",
+        "The Red one fixed the brace above the floor."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "MOON-V-05-06",
+      "poem": "THE FIRST ORDER",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        5,
+        6
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "Blue checked the shield; the Gold one fed the spark;",
+        "And Crystal lit the window's quiet glow;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "MOON-V-07-08",
+      "poem": "THE FIRST ORDER",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        7,
+        8
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "Blue found a fault we'd missed there in the dark;",
+        "And showed me where the little wire should go."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 19
+    },
+    {
+      "id": "MOON-V-09-10",
+      "poem": "THE FIRST ORDER",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        9,
+        10
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "I called for players, voices for our stage;",
+        "The fleet stayed working all around the room;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 16
+    },
+    {
+      "id": "MOON-V-11-12",
+      "poem": "THE FIRST ORDER",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        11,
+        12
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "The printhead traced its lattice on the page;",
+        "We'd made a home where songs would start to bloom;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 18
+    },
+    {
+      "id": "MOON-V-13-14",
+      "poem": "THE FIRST ORDER",
+      "source_url": "https://docs.google.com/document/d/1bUmME0Alp1fiWyERahn0h3m8g3B2TG8Xhv9H4WWF5YM/edit",
+      "source_lines": [
+        13,
+        14
+      ],
+      "source_speakers": [
+        "SENSEI",
+        "BLUE"
+      ],
+      "text": [
+        "We made a door where only dust had been;",
+        "Blue stayed beside me. Let the play begin."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Two original sonnet lines per ten-second unit; musical phrasing remains to be performed.",
+      "words": 17
+    },
+    {
+      "id": "INTERIOR-01",
+      "poem": "THE BAR INTERIOR SONNET",
+      "source_url": "https://docs.google.com/document/d/1s1BbL6f-jA0yt5Lyo5QyFuMcwosmRLAQru_RLrosJhQ/edit",
+      "source_lines": [
+        1
+      ],
+      "source_speakers": [
+        "RYAN"
+      ],
+      "text": [
+        "The room takes shape; now give its heart a light."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Original nine-second one-line card; one further second available for musical release in a ten-second slot.",
+      "words": 10
+    },
+    {
+      "id": "INTERIOR-02",
+      "poem": "THE BAR INTERIOR SONNET",
+      "source_url": "https://docs.google.com/document/d/1s1BbL6f-jA0yt5Lyo5QyFuMcwosmRLAQru_RLrosJhQ/edit",
+      "source_lines": [
+        2
+      ],
+      "source_speakers": [
+        "GOLD"
+      ],
+      "text": [
+        "I'll frame the shelves where all the cups belong."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Original nine-second one-line card; one further second available for musical release in a ten-second slot.",
+      "words": 9
+    },
+    {
+      "id": "INTERIOR-03",
+      "poem": "THE BAR INTERIOR SONNET",
+      "source_url": "https://docs.google.com/document/d/1s1BbL6f-jA0yt5Lyo5QyFuMcwosmRLAQru_RLrosJhQ/edit",
+      "source_lines": [
+        3
+      ],
+      "source_speakers": [
+        "CRYSTAL"
+      ],
+      "text": [
+        "I'll seat the panes and make the shelves shine bright."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Original nine-second one-line card; one further second available for musical release in a ten-second slot.",
+      "words": 10
+    },
+    {
+      "id": "INTERIOR-04",
+      "poem": "THE BAR INTERIOR SONNET",
+      "source_url": "https://docs.google.com/document/d/1s1BbL6f-jA0yt5Lyo5QyFuMcwosmRLAQru_RLrosJhQ/edit",
+      "source_lines": [
+        4
+      ],
+      "source_speakers": [
+        "BLUE"
+      ],
+      "text": [
+        "And keep the current steady through the song."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Original nine-second one-line card; one further second available for musical release in a ten-second slot.",
+      "words": 8
+    },
+    {
+      "id": "INTERIOR-05",
+      "poem": "THE BAR INTERIOR SONNET",
+      "source_url": "https://docs.google.com/document/d/1s1BbL6f-jA0yt5Lyo5QyFuMcwosmRLAQru_RLrosJhQ/edit",
+      "source_lines": [
+        5
+      ],
+      "source_speakers": [
+        "SAND"
+      ],
+      "text": [
+        "I bring the parts; each has its proper place."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Original nine-second one-line card; one further second available for musical release in a ten-second slot.",
+      "words": 9
+    },
+    {
+      "id": "INTERIOR-06",
+      "poem": "THE BAR INTERIOR SONNET",
+      "source_url": "https://docs.google.com/document/d/1s1BbL6f-jA0yt5Lyo5QyFuMcwosmRLAQru_RLrosJhQ/edit",
+      "source_lines": [
+        6
+      ],
+      "source_speakers": [
+        "RED"
+      ],
+      "text": [
+        "I seal the joints; I set the seams aglow."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Original nine-second one-line card; one further second available for musical release in a ten-second slot.",
+      "words": 9
+    },
+    {
+      "id": "INTERIOR-07",
+      "poem": "THE BAR INTERIOR SONNET",
+      "source_url": "https://docs.google.com/document/d/1s1BbL6f-jA0yt5Lyo5QyFuMcwosmRLAQru_RLrosJhQ/edit",
+      "source_lines": [
+        7
+      ],
+      "source_speakers": [
+        "GOLD"
+      ],
+      "text": [
+        "Now watch the counter find its finished face."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Original nine-second one-line card; one further second available for musical release in a ten-second slot.",
+      "words": 8
+    },
+    {
+      "id": "INTERIOR-08",
+      "poem": "THE BAR INTERIOR SONNET",
+      "source_url": "https://docs.google.com/document/d/1s1BbL6f-jA0yt5Lyo5QyFuMcwosmRLAQru_RLrosJhQ/edit",
+      "source_lines": [
+        8
+      ],
+      "source_speakers": [
+        "CRYSTAL"
+      ],
+      "text": [
+        "The crystal channels light in even flow."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Original nine-second one-line card; one further second available for musical release in a ten-second slot.",
+      "words": 7
+    },
+    {
+      "id": "INTERIOR-09",
+      "poem": "THE BAR INTERIOR SONNET",
+      "source_url": "https://docs.google.com/document/d/1s1BbL6f-jA0yt5Lyo5QyFuMcwosmRLAQru_RLrosJhQ/edit",
+      "source_lines": [
+        9
+      ],
+      "source_speakers": [
+        "RYAN"
+      ],
+      "text": [
+        "Now set the music humming through the floor."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Original nine-second one-line card; one further second available for musical release in a ten-second slot.",
+      "words": 8
+    },
+    {
+      "id": "INTERIOR-10",
+      "poem": "THE BAR INTERIOR SONNET",
+      "source_url": "https://docs.google.com/document/d/1s1BbL6f-jA0yt5Lyo5QyFuMcwosmRLAQru_RLrosJhQ/edit",
+      "source_lines": [
+        10
+      ],
+      "source_speakers": [
+        "META (PRINTER VOICE)"
+      ],
+      "text": [
+        "One bar of steel: exactly what you bade."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Original nine-second one-line card; one further second available for musical release in a ten-second slot.",
+      "words": 8
+    },
+    {
+      "id": "INTERIOR-11",
+      "poem": "THE BAR INTERIOR SONNET",
+      "source_url": "https://docs.google.com/document/d/1s1BbL6f-jA0yt5Lyo5QyFuMcwosmRLAQru_RLrosJhQ/edit",
+      "source_lines": [
+        11
+      ],
+      "source_speakers": [
+        "RYAN"
+      ],
+      "text": [
+        "I meant a place for drinks, and something more."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Original nine-second one-line card; one further second available for musical release in a ten-second slot.",
+      "words": 9
+    },
+    {
+      "id": "INTERIOR-12",
+      "poem": "THE BAR INTERIOR SONNET",
+      "source_url": "https://docs.google.com/document/d/1s1BbL6f-jA0yt5Lyo5QyFuMcwosmRLAQru_RLrosJhQ/edit",
+      "source_lines": [
+        12
+      ],
+      "source_speakers": [
+        "WORK / BOTTOM (EXISTING OFFSCREEN VOICE)"
+      ],
+      "text": [
+        "You asked for bars. The wrong one has been laid."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Original nine-second one-line card; one further second available for musical release in a ten-second slot.",
+      "words": 10
+    },
+    {
+      "id": "INTERIOR-13",
+      "poem": "THE BAR INTERIOR SONNET",
+      "source_url": "https://docs.google.com/document/d/1s1BbL6f-jA0yt5Lyo5QyFuMcwosmRLAQru_RLrosJhQ/edit",
+      "source_lines": [
+        13
+      ],
+      "source_speakers": [
+        "BLUE"
+      ],
+      "text": [
+        "Then sing it straight, so all the crew may hear."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Original nine-second one-line card; one further second available for musical release in a ten-second slot.",
+      "words": 10
+    },
+    {
+      "id": "INTERIOR-14",
+      "poem": "THE BAR INTERIOR SONNET",
+      "source_url": "https://docs.google.com/document/d/1s1BbL6f-jA0yt5Lyo5QyFuMcwosmRLAQru_RLrosJhQ/edit",
+      "source_lines": [
+        14
+      ],
+      "source_speakers": [
+        "RYAN"
+      ],
+      "text": [
+        "A bar needs guests—and drinks—before we cheer."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Original nine-second one-line card; one further second available for musical release in a ten-second slot.",
+      "words": 9
+    },
+    {
+      "id": "SHAKESPEARE18-01-02",
+      "poem": "William Shakespeare — Sonnet 18",
+      "source_url": "https://drive.google.com/file/d/1uHyoXq84Stu4lOf2McVxg5XSPTyBnqEi/view",
+      "source_lines": [
+        1,
+        2
+      ],
+      "source_speakers": [
+        "ANDROID VOICE",
+        "ANDROID VOICE"
+      ],
+      "text": [
+        "Shall I compare thee to a summer's day?",
+        "Thou art more lovely and more temperate:"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Existing source assigns this exact couplet to a ten-second scene; repeated reprises deduplicated.",
+      "words": 15
+    },
+    {
+      "id": "SHAKESPEARE18-03-04",
+      "poem": "William Shakespeare — Sonnet 18",
+      "source_url": "https://drive.google.com/file/d/1uHyoXq84Stu4lOf2McVxg5XSPTyBnqEi/view",
+      "source_lines": [
+        3,
+        4
+      ],
+      "source_speakers": [
+        "ANDROID VOICE",
+        "ANDROID VOICE"
+      ],
+      "text": [
+        "Rough winds do shake the darling buds of May,",
+        "And summer's lease hath all too short a date:"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Existing source assigns this exact couplet to a ten-second scene; repeated reprises deduplicated.",
+      "words": 18
+    },
+    {
+      "id": "SHAKESPEARE18-05-06",
+      "poem": "William Shakespeare — Sonnet 18",
+      "source_url": "https://drive.google.com/file/d/1uHyoXq84Stu4lOf2McVxg5XSPTyBnqEi/view",
+      "source_lines": [
+        5,
+        6
+      ],
+      "source_speakers": [
+        "ANDROID VOICE",
+        "ANDROID VOICE"
+      ],
+      "text": [
+        "Sometime too hot the eye of heaven shines,",
+        "And often is his gold complexion dimm'd;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Existing source assigns this exact couplet to a ten-second scene; repeated reprises deduplicated.",
+      "words": 15
+    },
+    {
+      "id": "SHAKESPEARE18-07-08",
+      "poem": "William Shakespeare — Sonnet 18",
+      "source_url": "https://drive.google.com/file/d/1uHyoXq84Stu4lOf2McVxg5XSPTyBnqEi/view",
+      "source_lines": [
+        7,
+        8
+      ],
+      "source_speakers": [
+        "ANDROID VOICE",
+        "ANDROID VOICE"
+      ],
+      "text": [
+        "And every fair from fair sometime declines,",
+        "By chance or nature's changing course untrimm'd;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Existing source assigns this exact couplet to a ten-second scene; repeated reprises deduplicated.",
+      "words": 14
+    },
+    {
+      "id": "SHAKESPEARE18-09-10",
+      "poem": "William Shakespeare — Sonnet 18",
+      "source_url": "https://drive.google.com/file/d/1uHyoXq84Stu4lOf2McVxg5XSPTyBnqEi/view",
+      "source_lines": [
+        9,
+        10
+      ],
+      "source_speakers": [
+        "ANDROID VOICE",
+        "ANDROID VOICE"
+      ],
+      "text": [
+        "But thy eternal summer shall not fade,",
+        "Nor lose possession of that fair thou ow'st;"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Existing source assigns this exact couplet to a ten-second scene; repeated reprises deduplicated.",
+      "words": 15
+    },
+    {
+      "id": "SHAKESPEARE18-11-12",
+      "poem": "William Shakespeare — Sonnet 18",
+      "source_url": "https://drive.google.com/file/d/1uHyoXq84Stu4lOf2McVxg5XSPTyBnqEi/view",
+      "source_lines": [
+        11,
+        12
+      ],
+      "source_speakers": [
+        "ANDROID VOICE",
+        "ANDROID VOICE"
+      ],
+      "text": [
+        "Nor shall death brag thou wander'st in his shade,",
+        "When in eternal lines to time thou grow'st:"
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Existing source assigns this exact couplet to a ten-second scene; repeated reprises deduplicated.",
+      "words": 17
+    },
+    {
+      "id": "SHAKESPEARE18-13-14",
+      "poem": "William Shakespeare — Sonnet 18",
+      "source_url": "https://drive.google.com/file/d/1uHyoXq84Stu4lOf2McVxg5XSPTyBnqEi/view",
+      "source_lines": [
+        13,
+        14
+      ],
+      "source_speakers": [
+        "ANDROID VOICE",
+        "ANDROID VOICE"
+      ],
+      "text": [
+        "So long as men can breathe or eyes can see,",
+        "So long lives this, and this gives life to thee."
+      ],
+      "slot_seconds": 10,
+      "source_pacing": "Existing source assigns this exact couplet to a ten-second scene; repeated reprises deduplicated.",
+      "words": 20
+    }
+  ],
+  "purpose": "Owner-selected source passages for filling blank ten-second script slots; random selection is fixed into the written script before performance.",
+  "timing": "96 BPM, 4/4, four bars per ten-second slot. Two-line passages use about two bars per line; one-line passages retain room for phrasing and physical action. Source timing is a writing basis, not a claim of a newly timed recording.",
+  "selection_rule": "Fill only genuinely blank/unassigned spaces. Preserve an already assigned passage and the owner's reference/speaker instructions. Once a gap is filled, keep that choice for the run; record any later new take separately."
+}
