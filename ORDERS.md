@@ -1,5 +1,8 @@
 # TO WORLD / GERTECH — CURRENT ORDERS
 
+OWNER QC EXCLUSIVELY — NO ASSISTANT PRODUCTION HOLD
+Ryan alone judges rendered quality. The assistant/Meta should attempt every expressly authorized clip and present the successful MP4 for Ryan's QC, whether good, flawed, face-drifted, workshop-drifted, or otherwise imperfect. Preflight art references and checklists inform generation; they never authorize withholding, auto-rejection, blocking, or redrawing the user's still. No assistant-created SET QC HOLD, PASS-FIRST, or self-approval gate. If an independent platform safety/infrastructure service returns an error, it cannot be bypassed: report the exact error; it is not Ryan's QC verdict and not evidence that the content failed Ryan's quality criteria. No retries or new output beyond the user's actual GO.
+
 Every ten-second render must stand alone as a complete cinematic short film. Direct the event itself with its approved action, dialogue and music. Keep stitching instructions out of the render prompt.
 
 NEW META WINDOW — BUILD FILM — START AT CLIP 000, NOT 046
@@ -14,7 +17,7 @@ https://drive.google.com/file/d/1p-vpSVBfA9ge20yoM53ypkRK0dBMhabX/view
 And the assigned android build reference is:
 https://drive.google.com/file/d/1PqTXBThKJbzvGPZ5U2aZ77sm9EgHr8AQ/view
 
-For each 000–009 input, compare its architecture to the exact workshop master BEFORE attempting moving video. If the room differs, mark SET QC HOLD and obtain a user-approved corrected source image, do not silently invent a workshop or generate a replacement image. Supplied JPEGs are unaltered visual input; scenes only become rendered when actual moving MP4 receipts are observed. The FIRST VIDEO of each NEW META WINDOW is numbered 000. Do not restart or alter prior completed footage.
+USE THE EXACT OWNER-SUPPLIED STILL AS VISUAL INPUT AND ATTEMPT THE OWNER-AUTHORIZED MOVING VIDEO. The workshop master describes the intended set; it is NOT a pre-render approval gate. Do NOT impose SET QC HOLD, auto-reject frames, request a replacement reference, or stop generation because an assistant suspects a mismatch. Deliver every successful output to Ryan, including imperfect results: RYAN ALONE does quality control, accepts, rejects, or decides to rerender. On a tool/platform failure, report the actual error and that no output was received; preserve the source and instructions without changing the prompt or inventing a QC verdict. The FIRST VIDEO of each NEW META WINDOW is numbered 000. Do not restart or alter prior completed footage.
 
 SOURCE IMAGE LOCK — USER-SUPPLIED STILL FIRST; NEVER AUTO-USE THE LAST VIDEO
 When the owner supplies or selects a still/JPEG/PNG/reference board for the current scene, that exact image is the VISUAL SCAFFOLD for the new moving MP4. Preserve its selected setting, real Ryan likeness (using the canonical original photo for identity), visor/glasses, approved helpers, physical table, materials, object positions and art direction. Animate the actual scene; do not make a screenshot/video-pan of the reference image.
