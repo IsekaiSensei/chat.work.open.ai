@@ -1,6 +1,6 @@
 # TO WORLD — PROJECT MEMORY
 
-Current production method and run: [ORDERS.md](ORDERS.md), with the same [live body on Google](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). The selected [script is on Google](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit). An orders check resumes the standing unfinished assignment using its existing authorization, current-window counter and last performed source words.
+Current production method and run: [ORDERS.md](ORDERS.md), with the same [live body on Google](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). The currently selected [Midsummer Act I master is on Google](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc/edit); its 20 linked batch Docs contain the verbatim assigned Shakespeare words and per-clip camera field. The separate [Uninvited King screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit) does not replace the current assignment. An orders check resumes the standing unfinished assignment using its existing authorization, current-window counter and last performed source words.
 
 The documentary records Ryan's actual exchanges with AI agents. The owner-designated conversation supplies verbatim sung dialogue, with Ryan singing Ryan's words and each AI agent singing its own. Preserve the original source attribution of pasted quotes. The material brought into that conversation supplies the visual background.
 
