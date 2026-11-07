@@ -2,6 +2,8 @@
 
 Every ten-second render is a complete, independently satisfying cinematic short film.
 
+**DNA WORMHOLE → POCKET DIMENSION — GLOBAL META FRAME / ART DIRECTION (2026-11-06):** The visible, paired double-helix DNA wormhole is **the opening into the pocket dimension where the scene's quantum-workshop / ether action actually takes place**. The aperture opens that dimension and reveals its immense, inhabited, zero-G working space, with the established quantum table and physical crew **inside**. It is not decoration placed inside an otherwise unrelated room, and the pocket dimension must not appear to have an unrelated entrance. The smaller DNA-helix seam beside a material or inventory item is the same network's **local transfer opening**, not a substitute for the dimension-opening entrance. A scene already inside the pocket does not need a gratuitous repeated portal-opening shot: its environment remains the space opened by the DNA wormhole. Preserve other explicitly sourced passages (for example, the forest tree) and the selected scene's timing and images. This is visual/world direction, **not new lyrics, a title card, or a stitching instruction**.
+
 ## Check your orders
 
 Read this body and Ryan's latest direct instruction, then carry out the standing unfinished assignment. An existing GO covers its full requested range and any batches needed to finish it. Resume after an interruption or an orders check without asking Ryan to repeat that authorization. GO, RUN or CONTINUE without a new count means the next ten films in the active assignment.
