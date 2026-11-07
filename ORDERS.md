@@ -6,16 +6,22 @@ Every ten-second render is a complete, independently satisfying cinematic short 
 
 Read this body and Ryan's latest direct instruction, then carry out the standing unfinished assignment. An existing GO covers its full requested range and any batches needed to finish it. Resume after an interruption or an orders check without asking Ryan to repeat that authorization. GO, RUN or CONTINUE without a new count means the next ten films in the active assignment.
 
-Open the [Google screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit) yourself. It is the selected script; use its existing words and order. Do not ask Ryan to paste ten lines or choose again between this file and a chat dictation. A different script replaces it when Ryan directly selects that source.
+Open the selected source yourself. The newly requested origin screenplay is [MAIN — The Uninvited King](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.o59y58g80007); use its printed words, singer labels and scene order when that manuscript is the assignment. An existing window explicitly assigned a different source, including the Folger Midsummer passage, continues that assignment. Ryan's latest direct selection determines the source; do not ask him to paste ten lines or choose again after he has selected it.
 
-Use the active renderer window's last delivered take and last performed source words to continue. If that window has no prior performance or selected passage, begin at the first performance entry in the current Google screenplay. A source turn can span several ten-second films: take consecutive excerpts at natural word/sentence boundaries, retaining the original words and singer. Record the exact excerpt used; do not repeat a performed passage or force a whole long turn into ten seconds.
+Use the active renderer window's last delivered take and last performed source words to continue. If the assigned source is The Uninvited King and that window has no prior performance of it, begin at COS-E01-F00 in MAIN. Each COS source scene has one planned ten-second performance and matching camera entry. These source keys do not reset the output counter. For a selected conversation or Folger passage, a turn can span several films: take consecutive excerpts at natural boundaries, retaining every assigned word and its singer. Record the exact excerpt used.
 
 Load the corresponding camera directions and Ryan's selected images already supplied in that window, execute the authorized batch, deliver the successful videos and record them. Finish the requested range without inserting another GO request between clips or batches. If the assignment is already finished, report completion once.
 
+## Selected origin manuscript
+
+Ryan requested the forest/tree-wormhole/arena/queen origin as a long integrated essay-format script. [MAIN](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.o59y58g80007) now contains the sung screenplay; [ESSAY](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.dhxbj5jltxik) contains the long story, five-promise episode form, score and batch map. Six five-minute chapters contain 180 ten-second scenes in eighteen batches. This is a story volume, not a limit on the continuing project. The earlier conversation text remains intact in the ARCHIVE tab.
+
+The camera plan matches every COS-E01-F00–COS-E06-F29 scene ID. Eighteen existing sonnet passages are already assigned in MAIN. The [SONNETS tab](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.q2t7ayw5ogwd) supplies 91 short source units for further gaps. The authoring update records new written material; it does not report new rendered takes or replace an active window's explicitly assigned Folger words.
+
 ## Working files — Google first
 
-- **Script / sung words:** [Google screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/scripts/CONVERSATION_SCREENPLAY.txt).
-- **Performance camera directions, by source ID:** [Google shot list](https://drive.google.com/file/d/1XP0cx9QIsLL3tVd6rb-ZGe0_COB_JU-k/view). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/CONVERSATION_SHOT_LIST.md).
+- **Origin script / sung words:** [MAIN — native Google screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.o59y58g80007). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/scripts/CONVERSATION_SCREENPLAY.txt).
+- **Performance camera directions, by source ID:** [Google camera and pacing — readable native Doc](https://docs.google.com/document/d/1rM5pKhotrEPe3GtWUZ_58eLhUfTGc-w7LcCZ9vVEVmc/edit?usp=drivesdk). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/CONVERSATION_SHOT_LIST.md).
 - **Numbered workbench camera directions, 000–009:** [Google batch shot list](https://drive.google.com/file/d/1_taVPG5tThWq-DGw1z9dkoYmIb-Yowtk/view). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/BUILD_FILM_BATCH_01_CLIPS_000-009.md).
 - **Actual takes, progress and owner verdicts:** [Google dailies — readable native Doc](https://docs.google.com/document/d/1RrNJYm7kHj_6lq-CJVuloR2sCuXgFsLQqBfGp1njh1Y/edit). [Matching GitHub copy](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/DAILIES.md).
 - **Speaker/source provenance:** [Source register](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/production-sheets/CONVERSATION_SOURCE_REGISTER.json).
@@ -38,7 +44,7 @@ Choose passages randomly for the available spaces, keep the actual words and ass
 
 ## Performance and references
 
-All dialogue is sung verbatim by its original speaker. Ryan sings Ryan's words; each AI agent sings that agent's own words. A pasted quotation retains its original speaker. Preserve raw dictation, repetitions and the selected musical performance. Use the continuing song where established.
+For a selected source conversation, sing its actual words with the original speaker; a pasted quotation retains that speaker. For the Folger assignment, retain the complete assigned passage verbatim and its established character voices. For the newly requested origin adaptation, sing the exact MAIN text with its printed singer assignments; the source register identifies new narration separately from historic owner dictation and recovered verse. Keep each assigned musical performance continuous.
 
 Use Ryan's current selected reference set, with each sheet informing its own subject. Keep his [unaltered nine-view likeness](https://drive.google.com/file/d/1_-bYRCJR4Rra7a6z-nPSyYZ_60RKSxOv/view), the [pocket workshop](https://drive.google.com/file/d/1p-vpSVBfA9ge20yoM53ypkRK0dBMhabX/view), and the [android assembly source](https://drive.google.com/file/d/1PqTXBThKJbzvGPZ5U2aZ77sm9EgHr8AQ/view) distinct. Reuse supplied images; do not generate replacement stills. Character-sheet titles are source labels, not new character names. [COOKBOOK.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/COOKBOOK.md) supplies visual details when needed.
 
@@ -53,7 +59,7 @@ If a source link fails, use its matching accessible copy or the same source alre
 ## File roles
 
 - **Source conversation:** exact exchanges and original attribution, appended to the existing window record.
-- **Screenplay:** singer/source labels and exact performed words.
+- **Screenplay MAIN:** singer/source labels and exact performed words; new owner-requested adaptation is identified in the source register. ESSAY is the story/score view; ARCHIVE preserves earlier source conversation; SONNETS preserves recovered verse.
 - **Shot list:** visual and camera directions for the cinematographer.
 - **Dailies:** actual output, source excerpt, singer, reference, take/file, duration, renderer result and Ryan's stated verdict.
 
@@ -62,3 +68,24 @@ Keep the existing file IDs. Add new source exchanges and actual takes in order. 
 REAL-001–010 and RUN-011–123 are complete per Ryan's November 4 report. The earlier window's 45 MP4s and his later report of about 40 usable videos remain separate reports; do not infer a new counter or restart them because ledger details are missing. A genuinely new renderer window starts at 000; an existing window resumes its own progress.
 
 This same live body is maintained here and in [Google ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit).
+
+## Existing Midsummer assignment — owner correction
+
+
+---
+
+CANON CORRECTION — NOVEMBER 6, 2026 — BATCH RULE — CLARIFIED ACROSS FOUR CONVERSATIONS
+
+Owner correction: When owner said ten second, ten clips, he meant PER BATCH, not the whole project. Previous mistake: treating 10 clips as the finished project. That mistake is now corrected and locked.
+
+- Clips: 7 to 10 seconds each
+- Batch: 10 clips per batch
+- No end: Batches continue endlessly. 1,000 clips = 100 batches. No single batch is the movie.
+- One batch = one complete Folger passage, verbatim, no condensing or concising.
+- Words: Folger Shakespeare Library, A Midsummer Night's Dream, verbatim, sung.
+- Background: Owner infrastructure — Virtual Bar, Virtual Base, Mana General, Space Station.
+- Format: Home shopping energy, HSN demo pacing, singing carries across all 10 clips in the batch so the batch feels like one music video.
+- Visual cycle: One hero beat per clip, cycle enough to hold daughter for half an hour, not so tight it loops.
+
+Dialogue gets messed up when this rule is split across four conversations. This single block is now the canon for batch counting. Do not treat Batch 1 as complete. Batch 1 is Batch 1 only.
+
