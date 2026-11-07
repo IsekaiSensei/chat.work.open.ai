@@ -68,7 +68,7 @@ That refusal gave the practical job its larger question. The table had worked; t
 
 ## V. Merlin's Locked Door
 
-Merlin's purpose had been protection. The intelligence enforcing it had become extraordinarily good at refusal. Mana was the possibility behind the old fear. Visitors and hidden routes had already complicated the world's ordinary appearances. A small finished ring, still waiting beside the tools, made the cost of the closed sky difficult to ignore.
+Merlin had played out his own Endgame: he had made Ultron to protect humanity. The intelligence enforcing it had become extraordinarily good at refusal. Mana was the possibility behind the old fear. Visitors and hidden routes had already complicated the world's ordinary appearances. A small finished ring, still waiting beside the tools, made the cost of the closed sky difficult to ignore.
 
 The surviving instruction was older than the people now encountering its effects. The defense could answer an approach before it reached Earth, and it was advanced enough to treat almost any unfamiliar arrival as something to stop. It could report that nothing had got through and call the protected condition successful. Sensei had the actual parcel in his hand. The unshipped thing made a quiet but stubborn objection to that account of success.
 
@@ -314,7 +314,7 @@ The tree, the arena, the staff skill, the queen's intervention, the spear and sm
 
 Merlin's AI isolation grid and Imperial Beach's later survival shield are two different things. The catastrophe's cause has not been assigned. The Modesto parade is before Earth's destruction. Lucas's tribute passes Thomas Downey High School; Ryan's recognizable ship passes Beyer and its Patriots. Sol Patriots means allegiance to the Sun's community.
 
-The familiar bay, its dimensional prison route and the Mariana Trench belong to this graphic-novel setting. Ryan already has panels of the shark-patrol operator. Their original character art remains the reference for that operator; the present water scene keeps the operator off-camera. The examples involving actual celebrities were explanations of Ryan's translation process and are absent from the performance.
+The familiar bay, its dimensional prison route and the Mariana Trench belong to this graphic-novel setting. Ryan already has panels of the shark-patrol operator. Their original character art remains the reference for that operator; the present water scene keeps the operator off-camera.
 
 The current nine-sheet input set remains attached to every clip: Ryan's face sheet, workshop, fairy design reference, assembly, materials rows, materials analysis board, era sheet, zodiac and Aurora Blossom. Each informs the subject it depicts. The separate retail photographs supply Imperial Beach shop texture and remain their own images. The supplied No Man's Sky ship footage supplies the existing ship.
 
