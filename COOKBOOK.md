@@ -2,6 +2,23 @@
 
 Current production method: [Google ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit), with the same body in [ORDERS.md](ORDERS.md). For the current Meta Midsummer Act I rerun, [the selected script and batches are on Google](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc/edit); the separate [Uninvited King manuscript](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit) is a different production. Resume the existing authorized assignment before consulting optional writing references. Use these entries for the appearance, materials, environment and physical work named in the selected conversation's visual background. Use the [cinematographer shot lists](production-sheets/CONVERSATION_SHOT_LIST.md) for camera instructions and the [screenplay](scripts/CONVERSATION_SCREENPLAY.txt) for the actual singers and source words.
 
+## MIDSUMMER — NUMBERED CAST PULL AND FOUR-SHEET DELIVERY
+
+The [existing live cast guide](https://docs.google.com/document/d/11q213HYI0gSOnkXuqNkMq_6hYwMdFA8i50q-_PXdQDs/edit) supplies the stable numbered mapping for the other chat's four-sheet formatting work.
+
+| Group | Principal numbers | Existing silent/background reference slots |
+| --- | --- | --- |
+| A — Athenian / court | 01–08 | 26 attendants / adult celebrants; 27 revenue dowager; 28 revenue young man; 29 recorded widow aunt; 30 tableau shepherd |
+| B — Mechanical / workshop | 17–22 | 23 cyborg maker; 24 pure robot technician; 25 marble workshop assistant |
+| C — Ether court | 09–12 | None assigned |
+| D — Ether service nodes | 13–16 | None assigned |
+
+These support slots identify roles already written into the camera plan. They are not eight new speaking characters or approval of invented face designs. The actual currently linked artwork is still the six existing clean JPEGs; the four grouped composite images and new supporting blocks are being formatted in the other chat. Do not present layout labels as verified image URLs or pretend 23–30 occur on the old 22-character sheets.
+
+Every active CLIP embeds a CAST PULL in its META FRAME, with separate scene identities, visible helpers, recorded likeness/figure references, numbered voice or NO VOCALS, entrances, exits and LOAD GROUPS. A physical entrance is different from an image of an absent person. All 218 current Act I entries require at most two of the planned groups, A+B, and eight empty-set films require none. That is a count of planned composite groups; A and B each still draw from two legacy source JPEGs until their grouped image is supplied. The reader loads only the relevant numbered blocks from the actual images supplied.
+
+All 22 principal numbers stay stable; theatrical parts retain their actor number. The new silent/background slots are 23–30. All 2,677 original words, 193 dialogue units, 25 nonvocal films, 218 output numbers and ten source stage cues are preserved.
+
 ## MIDSUMMER — CAMERA SPACE, SILENCE AND MUSICAL DELIVERY
 
 The active master has 218 films in 22 batches, retaining all 193 original dialogue units and adding 25 nonvocal films (172 planned seconds). The opening is castle / empty court / entrance / first Theseus words in CLIP 004. All ten original entrances/exits now have scored, visible actions. Eight of the added films are genuinely unpeopled views, including opening and closing castle views and quiet court, woodland, tooling and workshop views.
