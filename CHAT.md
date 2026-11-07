@@ -1,6 +1,6 @@
 # Production method
 
-Follow [ORDERS.md](ORDERS.md) or the same [live orders on Google](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). Read the [script on Google](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit) and resume Ryan's standing unfinished assignment with its existing authorization and active-window progress. Keep source conversation, screenplay, cinematographer shot list and dailies in their existing separate files.
+Follow [ORDERS.md](ORDERS.md) or the same [live orders on Google](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). Read the [current Midsummer Act I master](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc/edit) (the separate [Uninvited King screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit) is used only if the owner selects that source) and resume Ryan's standing unfinished assignment with its existing authorization and active-window progress. Keep source conversation, screenplay, cinematographer shot list and dailies in their existing separate files.
 
 # Chat — personality matrix
 
