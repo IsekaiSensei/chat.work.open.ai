@@ -1,3 +1,29 @@
+# TO WORLD — ACTIVE NEXT PRODUCTION
+
+Every ten-second render is a complete, independently satisfying cinematic short film.
+
+ACTIVE NEXT PRODUCTION — SKELETON SPAWN TAKEOVER — GERTECH / ORCON
+Owner-selected correction: November 7, 2026.
+Minecraft dungeon. Capture and repair the SAME skeleton spawn point; leave the cage intact. BROKEN / MONSTER SPAWNER becomes repaired PLAYER SPAWNER under GERTECH's custom story rules. No destruction scene.
+Comic-horror, dry everyday timing and found-family recovery. “Shawn of the Dead on ORCON MORGE GERTECH” is the owner's exact reference. Working reading of MORGE: merge, not an established new location/acronym.
+ORCON biological animals with sensory overlays support the operation; the paired DNA wormhole reaches the established GERTECH pocket workshop. No new zippers.
+20 × 10.0-second clips; two batches; planned runtime 3:20. Full Meta frame in each entry. SCRIPTED, not yet rendered.
+MASTER / QC / WORDS ONLY / FULL CAMERA PLAN / DAILIES:
+https://docs.google.com/document/d/1jm9t4aYLxPkGFiyFNcome1z3xur1styByA9oTgbXv6Y/edit?usp=drivesdk
+START — FULL BATCH 01 / CLIPS 001–010:
+https://docs.google.com/document/d/1fbqeQNAjSLPgxS3lo_3B-eExvTO3fvX74tk_DK7qd0M/edit?usp=drivesdk
+CONTINUE — FULL BATCH 02 / CLIPS 011–020:
+https://docs.google.com/document/d/1L9477UAAD-eRBnIfbDvWm0ekuL-BJT36rdl9AhGkmJc/edit?usp=drivesdk
+Read the actual batch text, then execute its ten entries in order when Ryan asks Meta to run. Continue the selected run from the next undelivered clip; no new permission loop. Do not invent missing dialogue or substitute the old Pocket essay. Use Ryan's current supplied visual references; actual likeness and chosen adult assistants control.
+Record actual returned URLs, durations and Ryan's verdict in the master dailies. No new render is claimed by this writing pass.
+This active assignment supersedes the older pasted “no Minecraft” wrapper and the assembly-only interpretation for this new story. Keep the repair/takeover causal action visible.
+Completed Shakespeare and THE GUY IN THE POCKET are preserved and must not restart. The previous orders retained below are HISTORICAL COMPLETED-RUN REFERENCE ONLY; their START, CONTINUE and batch links do not route this active production.
+
+END ACTIVE ORDERS — PRESERVED PREVIOUS RUN BELOW
+
+
+---
+
 # TO WORLD — Production files
 
 ## COMPLETED — THE GUY IN THE POCKET — NOVEMBER 7, 2026
