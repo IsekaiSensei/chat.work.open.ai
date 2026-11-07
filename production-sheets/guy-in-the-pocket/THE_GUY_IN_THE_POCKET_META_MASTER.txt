@@ -34,15 +34,15 @@ Select the relevant pictured setting/character/prop within that current set. Do 
 Preserve any existing zipper detail only where it is already present in the selected source or existing owner footage. Its mention in the narration is never a command to draw a new zipper.
 
 BATCH INDEX
-BATCH 01 / CLIPS 001–010: https://drive.google.com/file/d/1sdrqF-YwgwzXdglOjFItd-AXqZ66Gkou/view?usp=drivesdk
-BATCH 02 / CLIPS 011–020: https://drive.google.com/file/d/1kQQiBndyhpWMHs-vgrHYZNeTScnF9Uu7/view?usp=drivesdk
-BATCH 03 / CLIPS 021–030: https://drive.google.com/file/d/1EEnDwJSfCJxFM8E4JP3ecRGGm0SFBuXu/view?usp=drivesdk
-BATCH 04 / CLIPS 031–040: https://drive.google.com/file/d/1_W0OMeWqg9MipegoILWeQXaNN-9mqdKd/view?usp=drivesdk
-BATCH 05 / CLIPS 041–050: https://drive.google.com/file/d/13QLAV1Q2iGmLLhfD0lnxbCDaUT3sKu1W/view?usp=drivesdk
-BATCH 06 / CLIPS 051–060: https://drive.google.com/file/d/1dgBEZ4uLUrNfZK38Z-D1E3jRzrjF_E4x/view?usp=drivesdk
-BATCH 07 / CLIPS 061–070: https://drive.google.com/file/d/1eLDn3cz3rzDYcyeHVdVYVLhDAHpQQW5v/view?usp=drivesdk
-BATCH 08 / CLIPS 071–080: https://drive.google.com/file/d/1bFuBVjQbulpIas4pjzo-hV91mewu1U57/view?usp=drivesdk
-BATCH 09 / CLIPS 081–090: https://drive.google.com/file/d/1lLRzmFqMVitYmPV84I4oyIUwq7BLZp0b/view?usp=drivesdk
+BATCH 01 / CLIPS 001–010: https://docs.google.com/document/d/19MDLH24wd1VrJGFK4J5UV1SaYf5GgyayO27jCoBeN2k/edit?usp=drivesdk
+BATCH 02 / CLIPS 011–020: https://docs.google.com/document/d/1ufHksNok4DRrcXydCo75Hdp_LYH2pnv0gpvGF9ONI1M/edit?usp=drivesdk
+BATCH 03 / CLIPS 021–030: https://docs.google.com/document/d/1YQk5HTmXT8R7tbQbpkB0xcH0fXHYU3ZjH5BEjUp3SmE/edit?usp=drivesdk
+BATCH 04 / CLIPS 031–040: https://docs.google.com/document/d/1njkvV9SXpmrkEGBcTN2426PAGU5jklV3etkVMNbmBZ0/edit?usp=drivesdk
+BATCH 05 / CLIPS 041–050: https://docs.google.com/document/d/1CyJ1vZIFbh1j7dhvInT35xDU1V04mrFAOOguMYkCE64/edit?usp=drivesdk
+BATCH 06 / CLIPS 051–060: https://docs.google.com/document/d/1rz0e_X10GSD2ycbvg3vyyG-UgoAP32frc4vAz33hSBw/edit?usp=drivesdk
+BATCH 07 / CLIPS 061–070: https://docs.google.com/document/d/1Soa82zWgdAUWIH6kvyR0ChC4edouzvmmS4saGbFMgS8/edit?usp=drivesdk
+BATCH 08 / CLIPS 071–080: https://docs.google.com/document/d/1QH3Z9FC-Ye4_SluSMEiKYr0OIUD6zvgUi20-nek7yJk/edit?usp=drivesdk
+BATCH 09 / CLIPS 081–090: https://docs.google.com/document/d/1UIII8m5XDLnvJQqhDEAr7trgRY5S9p1SRCSC0n90AOs/edit?usp=drivesdk
 
 ALL NINETY COMPLETE META FRAMES
 

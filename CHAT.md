@@ -4,7 +4,7 @@
 
 **The Guy in the Pocket** is the active production: 90 exact ten-second films / nine batches / planned 15:00. Ryan's 1,185-word pasted essay is spoken verbatim. Six films are intentionally nonvocal. Use his current supplied standard reference pages 01–10 and actual likeness; page numbers are not the old Shakespeare actor numbers.
 
-[Complete Meta-frame master](https://drive.google.com/file/d/1X29j1Pa8WO-2GdxhwajVt2TJ-M9reuTH/view?usp=drivesdk) · [Start batch 01](https://drive.google.com/file/d/1sdrqF-YwgwzXdglOjFItd-AXqZ66Gkou/view?usp=drivesdk) · [Words-only screenplay](https://drive.google.com/file/d/1KC9A6wk-b6rh9i34w3_GT984XqALRnZ3/view?usp=drivesdk) · [New dailies](https://drive.google.com/file/d/1Ma9qYyebEj5EWNZJhpXpuhvKAg9p3v4o/view?usp=drivesdk) · [Live orders](ORDERS.md).
+[Complete Meta-frame master](https://docs.google.com/document/d/1DrvETnKuvO67uXGSfVno6ZuehudHW7uotCfULfaMoSg/edit?usp=drivesdk) · [Start batch 01](https://docs.google.com/document/d/19MDLH24wd1VrJGFK4J5UV1SaYf5GgyayO27jCoBeN2k/edit?usp=drivesdk) · [Words-only screenplay](https://docs.google.com/document/d/1jSYrgaHrGtFlr4VFtEuszMEWoGEnp8qsJjhkrJ9sYMM/edit?usp=drivesdk) · [New dailies](https://docs.google.com/document/d/1OfpSnazeND8ioM5QqQ5sdt9lueE3goEx9whz9ETv4D0/edit?usp=drivesdk) · [Live orders](ORDERS.md).
 
 Shakespeare is complete for Ryan's current production, by his declaration. Preserve every script, clip, take, image and daily. Later acts remain available if Ryan returns to them; do not restart the completed run on an orders check. [Preserved prior routing](ARCHIVE/production/PRE_GUY_IN_THE_POCKET_2026-11-07/ORDERS.md) · [Preservation record](https://drive.google.com/file/d/1UipLs6KKcIlEk47u5yk4_8cyReH--4FY/view?usp=drivesdk).
 

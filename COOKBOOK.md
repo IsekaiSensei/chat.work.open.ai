@@ -4,7 +4,7 @@
 
 **The Guy in the Pocket** is the active production: 90 exact ten-second films / nine batches / planned 15:00. Ryan's 1,185-word pasted essay is spoken verbatim. Six films are intentionally nonvocal. Use his current supplied standard reference pages 01–10 and actual likeness; page numbers are not the old Shakespeare actor numbers.
 
-[Complete Meta-frame master](https://drive.google.com/file/d/1X29j1Pa8WO-2GdxhwajVt2TJ-M9reuTH/view?usp=drivesdk) · [Start batch 01](https://drive.google.com/file/d/1sdrqF-YwgwzXdglOjFItd-AXqZ66Gkou/view?usp=drivesdk) · [Words-only screenplay](https://drive.google.com/file/d/1KC9A6wk-b6rh9i34w3_GT984XqALRnZ3/view?usp=drivesdk) · [New dailies](https://drive.google.com/file/d/1Ma9qYyebEj5EWNZJhpXpuhvKAg9p3v4o/view?usp=drivesdk) · [Live orders](ORDERS.md).
+[Complete Meta-frame master](https://docs.google.com/document/d/1DrvETnKuvO67uXGSfVno6ZuehudHW7uotCfULfaMoSg/edit?usp=drivesdk) · [Start batch 01](https://docs.google.com/document/d/19MDLH24wd1VrJGFK4J5UV1SaYf5GgyayO27jCoBeN2k/edit?usp=drivesdk) · [Words-only screenplay](https://docs.google.com/document/d/1jSYrgaHrGtFlr4VFtEuszMEWoGEnp8qsJjhkrJ9sYMM/edit?usp=drivesdk) · [New dailies](https://docs.google.com/document/d/1OfpSnazeND8ioM5QqQ5sdt9lueE3goEx9whz9ETv4D0/edit?usp=drivesdk) · [Live orders](ORDERS.md).
 
 Shakespeare is complete for Ryan's current production, by his declaration. Preserve every script, clip, take, image and daily. Later acts remain available if Ryan returns to them; do not restart the completed run on an orders check. [Preserved prior routing](ARCHIVE/production/PRE_GUY_IN_THE_POCKET_2026-11-07/ORDERS.md) · [Preservation record](https://drive.google.com/file/d/1UipLs6KKcIlEk47u5yk4_8cyReH--4FY/view?usp=drivesdk).
 
@@ -243,7 +243,7 @@ The requested deliverable controls: **timed action or film timeline = moving cin
 ## METADRESS — FIRST LOOKUP
 **Metadress** is the Stellar Cuddlers' physical silk evening gown with a cape skirt: elegant clothing in the owner's future world. The **silk is the programmable coverage and fashion layer**. The wearer controls its presentation; consent-first behavior and opaque fail-safe remain part of the established concept. Meta glasses are its sensing/viewing interface. Use the original approved character and costume image, not a redesigned outfit. **Detailed garment reference: F-01 / Metadress.**
 
-**META ORDERS → METADRESS REFERENCE:** [Drive ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) → the selected exact scene and dialogue → [F-01 — Metadress](#f-01--fairy--stellar-cuddler--crystal) → [owner-approved dress description in Drive META.md](https://drive.google.com/file/d/1qXcWXZlaKfRL3dy-GPNYEy365M6DHBIV/view) → [original Stellar Cuddler/character costume references](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit). When an ordered Meta shot includes a Metadress, render the already-approved dress and character from their actual original images. If the ordered shot does not feature a Metadress, do not introduce one. The selected script controls who appears and what happens; this recipe controls the established garment's appearance.
+**META ORDERS → METADRESS REFERENCE:** [Drive ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) → the selected exact scene and dialogue → [F-01 — Metadress](#f-01--fairy--stellar-cuddler--crystal) → [owner-approved dress description in Drive META.md](https://docs.google.com/document/d/1OzzJ0H9La-ClPxxkkSnkbhp6oJ7a7Cn0BbxHLXlKg7I/edit?usp=drivesdk) → [original Stellar Cuddler/character costume references](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit). When an ordered Meta shot includes a Metadress, render the already-approved dress and character from their actual original images. If the ordered shot does not feature a Metadress, do not introduce one. The selected script controls who appears and what happens; this recipe controls the established garment's appearance.
 
 **Owner:** Isekai Ryan · **Function:** art-direction lookup, production recipes, index, glossary and source-control *routing* · **Date:** 2026-11-03
 
@@ -330,11 +330,11 @@ The silk is the programmable fashion/coverage layer. Presentation is wearer-cont
 
 **For Meta visuals:** describe the **beautiful dress** and use the owner's original approved character and costume image. Do not insert explanations of reveal mechanics, attraction logic, or other invented pretext into prompts. Do not change the existing dress, silhouette, character, or wardrobe.
 
-**Original wording/source:** [Drive META.md — Metadress garment link](https://drive.google.com/file/d/1qXcWXZlaKfRL3dy-GPNYEy365M6DHBIV/view).
+**Original wording/source:** [Drive META.md — Metadress garment link](https://docs.google.com/document/d/1OzzJ0H9La-ClPxxkkSnkbhp6oJ7a7Cn0BbxHLXlKg7I/edit?usp=drivesdk).
 
 **Use in Meta orders:** For a selected scene containing a Stellar Cuddler wearing her Metadress, follow [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) for the actual clip, dialogue and action; use **this Metadress recipe** and the owner's original character/costume image for the appearance. Keep the approved silk gown and cape skirt; do not substitute generic clothing, add reveal-mechanic narration, or dress characters who are not wearing it in the original scene.
 
-**Preserved source shelf:** [Existing approved concept references](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) · [Drive META.md (MAX canon and Cuddler settings)](https://drive.google.com/file/d/1qXcWXZlaKfRL3dy-GPNYEy365M6DHBIV/view) · [Fairy Lattice source notes](https://docs.google.com/document/d/1hAI_6miFJINH3jjcafc8XbOEz8OBrBj6Gbu4crFv74I/edit). These are *ingredients*, not newly executable orders.
+**Preserved source shelf:** [Existing approved concept references](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) · [Drive META.md (MAX canon and Cuddler settings)](https://docs.google.com/document/d/1OzzJ0H9La-ClPxxkkSnkbhp6oJ7a7Cn0BbxHLXlKg7I/edit?usp=drivesdk) · [Fairy Lattice source notes](https://docs.google.com/document/d/1hAI_6miFJINH3jjcafc8XbOEz8OBrBj6Gbu4crFv74I/edit). These are *ingredients*, not newly executable orders.
 
 ## S-01 — SHIP / VESSEL
 **Ingredients:** exact owner approved vessel master (not generic ship art), approved hull/armor/lattice sheet, correct scene tier, script and progress state.
@@ -349,7 +349,7 @@ The silk is the programmable fashion/coverage layer. Presentation is wearer-cont
 **Source shelf:** [Owner concept reference page](https://docs.google.com/document/d/1_GxSdJ7zLNwHSvgiPUPAyAxfzHq6EYdeIdlqBZVN_p8/edit) · [active source/workflow index](START_HERE.md). No new silhouette is specified here.
 
 ## P-01 — SENSEI / DESK / GLASSES / META
-**Ingredients:** Sensei's specific approved original image; top-locked MAX glasses pictures; [What's at Sensei's Desk and 3-workstation matrix](https://docs.google.com/document/d/1gaEhpM0Q1CbiHcl9y2ctrOOz6GVcZbKEFqBxFGfRdjY/edit); [Drive META.md](https://drive.google.com/file/d/1qXcWXZlaKfRL3dy-GPNYEy365M6DHBIV/view); applicable scene state.
+**Ingredients:** Sensei's specific approved original image; top-locked MAX glasses pictures; [What's at Sensei's Desk and 3-workstation matrix](https://docs.google.com/document/d/1gaEhpM0Q1CbiHcl9y2ctrOOz6GVcZbKEFqBxFGfRdjY/edit); [Drive META.md](https://docs.google.com/document/d/1OzzJ0H9La-ClPxxkkSnkbhp6oJ7a7Cn0BbxHLXlKg7I/edit?usp=drivesdk); applicable scene state.
 
 **Recipe:**
 1. Select **real desk**, **lunar GERTECH workshop**, or **future starship workshop**; do not mix time/location prop references.
@@ -442,8 +442,8 @@ Historical source material:
 | --- | --- | --- |
 | Owner original stills | [JPEG MASTER](https://drive.google.com/drive/folders/1wZLgBCGOoOL-r5bW4xJ95fyCS4F50ULT) | Canonical appearance; untouched |
 | Owner still names | [JPEG index](https://drive.google.com/file/d/1CnpbcZEyggnWBNoFZ43Z_W2SzX11s7ik/view) | Lookup only |
-| Owner Meta/canon corrections | [Existing Drive META.md](https://drive.google.com/file/d/1qXcWXZlaKfRL3dy-GPNYEy365M6DHBIV/view) | Preserved source; no GO |
-| Metadress for Meta-rendered Stellar Cuddler scenes | [Drive ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) → [F-01 Metadress](#f-01--fairy--stellar-cuddler--crystal) → [approved dress source](https://drive.google.com/file/d/1qXcWXZlaKfRL3dy-GPNYEy365M6DHBIV/view) | Scene-specific garment reference; original image controls |
+| Owner Meta/canon corrections | [Existing Drive META.md](https://docs.google.com/document/d/1OzzJ0H9La-ClPxxkkSnkbhp6oJ7a7Cn0BbxHLXlKg7I/edit?usp=drivesdk) | Preserved source; no GO |
+| Metadress for Meta-rendered Stellar Cuddler scenes | [Drive ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) → [F-01 Metadress](#f-01--fairy--stellar-cuddler--crystal) → [approved dress source](https://docs.google.com/document/d/1OzzJ0H9La-ClPxxkkSnkbhp6oJ7a7Cn0BbxHLXlKg7I/edit?usp=drivesdk) | Scene-specific garment reference; original image controls |
 | Current video and action | [ORDERS.md](ORDERS.md) → [Drive CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) | Sole live script routing |
 | Sensei equipment and images | [Three-profile/desk map](https://docs.google.com/document/d/1gaEhpM0Q1CbiHcl9y2ctrOOz6GVcZbKEFqBxFGfRdjY/edit) | Exact source lookups |
 | Current game standards | [TO WORLD universal game repo](https://github.com/IsekaiSensei/to-world-open-crew) | Game standards only |

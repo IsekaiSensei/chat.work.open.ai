@@ -1773,20 +1773,23 @@
     }
   ],
   "published_links": {
-    "batch_01": "https://drive.google.com/file/d/1sdrqF-YwgwzXdglOjFItd-AXqZ66Gkou/view?usp=drivesdk",
-    "batch_02": "https://drive.google.com/file/d/1kQQiBndyhpWMHs-vgrHYZNeTScnF9Uu7/view?usp=drivesdk",
-    "batch_03": "https://drive.google.com/file/d/1EEnDwJSfCJxFM8E4JP3ecRGGm0SFBuXu/view?usp=drivesdk",
-    "batch_04": "https://drive.google.com/file/d/1_W0OMeWqg9MipegoILWeQXaNN-9mqdKd/view?usp=drivesdk",
-    "batch_05": "https://drive.google.com/file/d/13QLAV1Q2iGmLLhfD0lnxbCDaUT3sKu1W/view?usp=drivesdk",
-    "batch_06": "https://drive.google.com/file/d/1dgBEZ4uLUrNfZK38Z-D1E3jRzrjF_E4x/view?usp=drivesdk",
-    "batch_07": "https://drive.google.com/file/d/1eLDn3cz3rzDYcyeHVdVYVLhDAHpQQW5v/view?usp=drivesdk",
-    "batch_08": "https://drive.google.com/file/d/1bFuBVjQbulpIas4pjzo-hV91mewu1U57/view?usp=drivesdk",
-    "batch_09": "https://drive.google.com/file/d/1lLRzmFqMVitYmPV84I4oyIUwq7BLZp0b/view?usp=drivesdk",
-    "narration": "https://drive.google.com/file/d/10zF79mMX-xQtDdLo-Jtx7vQwoOEm1NHU/view?usp=drivesdk",
-    "screenplay": "https://drive.google.com/file/d/1KC9A6wk-b6rh9i34w3_GT984XqALRnZ3/view?usp=drivesdk",
-    "dailies": "https://drive.google.com/file/d/1Ma9qYyebEj5EWNZJhpXpuhvKAg9p3v4o/view?usp=drivesdk",
+    "batch_01": "https://docs.google.com/document/d/19MDLH24wd1VrJGFK4J5UV1SaYf5GgyayO27jCoBeN2k/edit?usp=drivesdk",
+    "batch_02": "https://docs.google.com/document/d/1ufHksNok4DRrcXydCo75Hdp_LYH2pnv0gpvGF9ONI1M/edit?usp=drivesdk",
+    "batch_03": "https://docs.google.com/document/d/1YQk5HTmXT8R7tbQbpkB0xcH0fXHYU3ZjH5BEjUp3SmE/edit?usp=drivesdk",
+    "batch_04": "https://docs.google.com/document/d/1njkvV9SXpmrkEGBcTN2426PAGU5jklV3etkVMNbmBZ0/edit?usp=drivesdk",
+    "batch_05": "https://docs.google.com/document/d/1CyJ1vZIFbh1j7dhvInT35xDU1V04mrFAOOguMYkCE64/edit?usp=drivesdk",
+    "batch_06": "https://docs.google.com/document/d/1rz0e_X10GSD2ycbvg3vyyG-UgoAP32frc4vAz33hSBw/edit?usp=drivesdk",
+    "batch_07": "https://docs.google.com/document/d/1Soa82zWgdAUWIH6kvyR0ChC4edouzvmmS4saGbFMgS8/edit?usp=drivesdk",
+    "batch_08": "https://docs.google.com/document/d/1QH3Z9FC-Ye4_SluSMEiKYr0OIUD6zvgUi20-nek7yJk/edit?usp=drivesdk",
+    "batch_09": "https://docs.google.com/document/d/1UIII8m5XDLnvJQqhDEAr7trgRY5S9p1SRCSC0n90AOs/edit?usp=drivesdk",
+    "narration": "https://docs.google.com/document/d/175O4OqY9gqmeXzRsvWG3tg3p796QYHEkmODCp0CjI3o/edit?usp=drivesdk",
+    "screenplay": "https://docs.google.com/document/d/1jSYrgaHrGtFlr4VFtEuszMEWoGEnp8qsJjhkrJ9sYMM/edit?usp=drivesdk",
+    "dailies": "https://docs.google.com/document/d/1OfpSnazeND8ioM5QqQ5sdt9lueE3goEx9whz9ETv4D0/edit?usp=drivesdk",
     "preserved_google_orders": "https://drive.google.com/file/d/1kTMfKrzhIC1_FJ3Up56QTRjWhn5P_HmE/view?usp=drivesdk",
     "preservation": "https://drive.google.com/file/d/1UipLs6KKcIlEk47u5yk4_8cyReH--4FY/view?usp=drivesdk",
-    "master": "https://drive.google.com/file/d/1X29j1Pa8WO-2GdxhwajVt2TJ-M9reuTH/view?usp=drivesdk"
-  }
+    "master": "https://docs.google.com/document/d/1DrvETnKuvO67uXGSfVno6ZuehudHW7uotCfULfaMoSg/edit?usp=drivesdk",
+    "meta": "https://docs.google.com/document/d/1OzzJ0H9La-ClPxxkkSnkbhp6oJ7a7Cn0BbxHLXlKg7I/edit?usp=drivesdk",
+    "essay": "https://docs.google.com/document/d/1sfCBk8-Fx47kbL_dsXmDkiwwH2zpyAin0ApruYr8LPQ/edit?usp=drivesdk"
+  },
+  "active_text_format": "Native Google Docs; raw uploads are retained originals, not active Meta reading targets."
 }

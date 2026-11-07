@@ -11,10 +11,10 @@ Start with BATCH_01_CLIPS_001-010.txt. Each batch contains the complete standard
 Use Ryan's current supplied standard visual pages 01–10. The REFERENCE fields name the pictured subjects to use; they do not invent a new numeric page mapping or reuse Shakespeare actor numbers.
 Only the narration is spoken. The source title/link, separator and final filing note are retained in source/OWNER_QUOTED_SOURCE.txt and are not performed.
 
-Online master: https://drive.google.com/file/d/1X29j1Pa8WO-2GdxhwajVt2TJ-M9reuTH/view?usp=drivesdk
-Start batch 01: https://drive.google.com/file/d/1sdrqF-YwgwzXdglOjFItd-AXqZ66Gkou/view?usp=drivesdk
-Words-only screenplay: https://drive.google.com/file/d/1KC9A6wk-b6rh9i34w3_GT984XqALRnZ3/view?usp=drivesdk
-Current dailies: https://drive.google.com/file/d/1Ma9qYyebEj5EWNZJhpXpuhvKAg9p3v4o/view?usp=drivesdk
+Online master: https://docs.google.com/document/d/1DrvETnKuvO67uXGSfVno6ZuehudHW7uotCfULfaMoSg/edit?usp=drivesdk
+Start batch 01: https://docs.google.com/document/d/19MDLH24wd1VrJGFK4J5UV1SaYf5GgyayO27jCoBeN2k/edit?usp=drivesdk
+Words-only screenplay: https://docs.google.com/document/d/1jSYrgaHrGtFlr4VFtEuszMEWoGEnp8qsJjhkrJ9sYMM/edit?usp=drivesdk
+Current dailies: https://docs.google.com/document/d/1OfpSnazeND8ioM5QqQ5sdt9lueE3goEx9whz9ETv4D0/edit?usp=drivesdk
 
 Files:
 - THE_GUY_IN_THE_POCKET_META_MASTER.txt — production contract, reference rules, all 90 full Meta frames, and nine-batch index.

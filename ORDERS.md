@@ -6,16 +6,21 @@ Every ten-second render is a complete, independently satisfying cinematic short 
 
 Owner selection: November 7, 2026. Ryan has completed the current Shakespeare production and is changing direction entirely to this essay short. This owner selection supersedes the previous Midsummer rerun and origin-manuscript routing.
 
+All active reading files below are native Google Docs. Uploaded TXT/MD originals remain preserved source copies; use these readable Docs for this production.
+
+META — NATIVE VISUAL REFERENCE CARD:
+https://docs.google.com/document/d/1OzzJ0H9La-ClPxxkkSnkbhp6oJ7a7Cn0BbxHLXlKg7I/edit?usp=drivesdk
+
 MASTER — all words, standard META FRAME entries and batch index:
-https://drive.google.com/file/d/1X29j1Pa8WO-2GdxhwajVt2TJ-M9reuTH/view?usp=drivesdk
+https://docs.google.com/document/d/1DrvETnKuvO67uXGSfVno6ZuehudHW7uotCfULfaMoSg/edit?usp=drivesdk
 START — BATCH 01 / CLIPS 001–010:
-https://drive.google.com/file/d/1sdrqF-YwgwzXdglOjFItd-AXqZ66Gkou/view?usp=drivesdk
+https://docs.google.com/document/d/19MDLH24wd1VrJGFK4J5UV1SaYf5GgyayO27jCoBeN2k/edit?usp=drivesdk
 WORDS ONLY — exact narrated screenplay:
-https://drive.google.com/file/d/1KC9A6wk-b6rh9i34w3_GT984XqALRnZ3/view?usp=drivesdk
+https://docs.google.com/document/d/1jSYrgaHrGtFlr4VFtEuszMEWoGEnp8qsJjhkrJ9sYMM/edit?usp=drivesdk
 SOURCE NARRATION — Ryan's pasted essay body, verbatim:
-https://drive.google.com/file/d/10zF79mMX-xQtDdLo-Jtx7vQwoOEm1NHU/view?usp=drivesdk
+https://docs.google.com/document/d/175O4OqY9gqmeXzRsvWG3tg3p796QYHEkmODCp0CjI3o/edit?usp=drivesdk
 NEW DAILIES — actual returned clips and Ryan's verdict:
-https://drive.google.com/file/d/1Ma9qYyebEj5EWNZJhpXpuhvKAg9p3v4o/view?usp=drivesdk
+https://docs.google.com/document/d/1OfpSnazeND8ioM5QqQ5sdt9lueE3goEx9whz9ETv4D0/edit?usp=drivesdk
 
 ## Exact production scope
 
@@ -45,15 +50,15 @@ NO NEW ZIPPERS. Existing zipper imagery stays only as the owner's literal pocket
 
 ## Batches and continuation
 
-BATCH 01 / CLIPS 001–010: https://drive.google.com/file/d/1sdrqF-YwgwzXdglOjFItd-AXqZ66Gkou/view?usp=drivesdk
-BATCH 02 / CLIPS 011–020: https://drive.google.com/file/d/1kQQiBndyhpWMHs-vgrHYZNeTScnF9Uu7/view?usp=drivesdk
-BATCH 03 / CLIPS 021–030: https://drive.google.com/file/d/1EEnDwJSfCJxFM8E4JP3ecRGGm0SFBuXu/view?usp=drivesdk
-BATCH 04 / CLIPS 031–040: https://drive.google.com/file/d/1_W0OMeWqg9MipegoILWeQXaNN-9mqdKd/view?usp=drivesdk
-BATCH 05 / CLIPS 041–050: https://drive.google.com/file/d/13QLAV1Q2iGmLLhfD0lnxbCDaUT3sKu1W/view?usp=drivesdk
-BATCH 06 / CLIPS 051–060: https://drive.google.com/file/d/1dgBEZ4uLUrNfZK38Z-D1E3jRzrjF_E4x/view?usp=drivesdk
-BATCH 07 / CLIPS 061–070: https://drive.google.com/file/d/1eLDn3cz3rzDYcyeHVdVYVLhDAHpQQW5v/view?usp=drivesdk
-BATCH 08 / CLIPS 071–080: https://drive.google.com/file/d/1bFuBVjQbulpIas4pjzo-hV91mewu1U57/view?usp=drivesdk
-BATCH 09 / CLIPS 081–090: https://drive.google.com/file/d/1lLRzmFqMVitYmPV84I4oyIUwq7BLZp0b/view?usp=drivesdk
+BATCH 01 / CLIPS 001–010: https://docs.google.com/document/d/19MDLH24wd1VrJGFK4J5UV1SaYf5GgyayO27jCoBeN2k/edit?usp=drivesdk
+BATCH 02 / CLIPS 011–020: https://docs.google.com/document/d/1ufHksNok4DRrcXydCo75Hdp_LYH2pnv0gpvGF9ONI1M/edit?usp=drivesdk
+BATCH 03 / CLIPS 021–030: https://docs.google.com/document/d/1YQk5HTmXT8R7tbQbpkB0xcH0fXHYU3ZjH5BEjUp3SmE/edit?usp=drivesdk
+BATCH 04 / CLIPS 031–040: https://docs.google.com/document/d/1njkvV9SXpmrkEGBcTN2426PAGU5jklV3etkVMNbmBZ0/edit?usp=drivesdk
+BATCH 05 / CLIPS 041–050: https://docs.google.com/document/d/1CyJ1vZIFbh1j7dhvInT35xDU1V04mrFAOOguMYkCE64/edit?usp=drivesdk
+BATCH 06 / CLIPS 051–060: https://docs.google.com/document/d/1rz0e_X10GSD2ycbvg3vyyG-UgoAP32frc4vAz33hSBw/edit?usp=drivesdk
+BATCH 07 / CLIPS 061–070: https://docs.google.com/document/d/1Soa82zWgdAUWIH6kvyR0ChC4edouzvmmS4saGbFMgS8/edit?usp=drivesdk
+BATCH 08 / CLIPS 071–080: https://docs.google.com/document/d/1QH3Z9FC-Ye4_SluSMEiKYr0OIUD6zvgUi20-nek7yJk/edit?usp=drivesdk
+BATCH 09 / CLIPS 081–090: https://docs.google.com/document/d/1UIII8m5XDLnvJQqhDEAr7trgRY5S9p1SRCSC0n90AOs/edit?usp=drivesdk
 
 Read the complete selected batch and perform its ten consecutive entries. Follow its NEXT BATCH link in the existing authorized range. “Check your orders,” GO, RUN or CONTINUE resumes the next undelivered clip of this current short; it does not restart Shakespeare, choose a different source, reset the counter or require Ryan to approve each clip again. If this complete short is already delivered, report completion once.
 
@@ -73,3 +78,4 @@ Exact prior GitHub control files:
 https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ARCHIVE/production/PRE_GUY_IN_THE_POCKET_2026-11-07/ORDERS.md
 
 The completed Shakespeare work is a retained project, not the next unfinished assignment.
+

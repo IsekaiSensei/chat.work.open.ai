@@ -4,7 +4,7 @@
 
 Ryan reports enough Shakespeare footage for his edit and closes that current production. Preserve all original takes, scripts, artwork, prior verdicts and source records below. Further acts are a possible future owner selection, not an automatic continuation.
 
-The active short is [The Guy in the Pocket](https://drive.google.com/file/d/1X29j1Pa8WO-2GdxhwajVt2TJ-M9reuTH/view?usp=drivesdk), ninety ten-second films in nine batches. [Its separate new dailies](https://drive.google.com/file/d/1Ma9qYyebEj5EWNZJhpXpuhvKAg9p3v4o/view?usp=drivesdk) / [repository ledger](guy-in-the-pocket/DAILIES.md) begin SCRIPTED with no new rendered video claimed. Record actual returned links and durations there. Do not inherit the old Shakespeare counter.
+The active short is [The Guy in the Pocket](https://docs.google.com/document/d/1DrvETnKuvO67uXGSfVno6ZuehudHW7uotCfULfaMoSg/edit?usp=drivesdk), ninety ten-second films in nine batches. [Its separate new dailies](https://docs.google.com/document/d/1OfpSnazeND8ioM5QqQ5sdt9lueE3goEx9whz9ETv4D0/edit?usp=drivesdk) / [repository ledger](guy-in-the-pocket/DAILIES.md) begin SCRIPTED with no new rendered video claimed. Record actual returned links and durations there. Do not inherit the old Shakespeare counter.
 
 ## Historical previous dailies — retained unchanged below
 
