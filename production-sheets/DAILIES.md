@@ -39,7 +39,7 @@ Owner report retained independently of clip-number reconciliation. Missing IDs o
 
 ## 2026-11-06 — The Uninvited King: script and camera plan received
 
-Authoring delivery: [selected sung screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.o59y58g80007), [long story essay and score](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.dhxbj5jltxik), and [native camera/pacing plan](https://docs.google.com/document/d/1rM5pKhotrEPe3GtWUZ_58eLhUfTGc-w7LcCZ9vVEVmc/edit?usp=drivesdk). Six five-minute chapters contain 180 ten-second source scenes in eighteen ten-clip batches. Eighteen exact recovered sonnet passages are already assigned; the remaining bank has 91 short units available for further spaces.
+Authoring delivery: [selected sung screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.o59y58g80007), [long story essay and score](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit?tab=t.dhxbj5jltxik), and [native camera/pacing plan](https://docs.google.com/document/d/1rM5pKhotrEPe3GtWUZ_58eLhUfTGc-w7LcCZ9vVEVmc/edit?usp=drivesdk). Six five-minute chapters contain 180 ten-second source scenes in eighteen ten-clip batches. Eighteen exact recovered sonnet passages are already assigned; the bank contains 91 short units in total for further spaces.
 
 | Episode | Source scene range | Planned volume clock | Planned batches |
 | --- | --- | --- | --- |
