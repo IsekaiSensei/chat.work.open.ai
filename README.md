@@ -1,13 +1,21 @@
 # TO WORLD — ACTIVE NEXT PRODUCTION
 
+Canon: [MORGUE — evolved cybernetic world](MORGUE_WORLD.md). Production opening: [nonvocal building entrance at the start of each ten-clip run](META_PROVEN_WORKFLOW.md).
+
 Every ten-second render is a complete, independently satisfying cinematic short film.
 
-ACTIVE NEXT PRODUCTION — SKELETON SPAWN TAKEOVER — GERTECH / ORCON
+ACTIVE NEXT PRODUCTION — SKELETON SPAWN TAKEOVER — MORGUE / ORCON / GERTECH
 Owner-selected correction: November 7, 2026.
 Minecraft dungeon. Capture and repair the SAME skeleton spawn point; leave the cage intact. BROKEN / MONSTER SPAWNER becomes repaired PLAYER SPAWNER under GERTECH's custom story rules. No destruction scene.
-Comic-horror, dry everyday timing and found-family recovery. “Shawn of the Dead on ORCON MORGE GERTECH” is the owner's exact reference. Working reading of MORGE: merge, not an established new location/acronym.
+Comic-horror, dry everyday timing and found-family recovery. “Shawn of the Dead on ORCON MORGE GERTECH” is the owner's exact reference. MORGUE is the established evolved cybernetic world: humanity no longer exists there in its former human form. Ryan and the humanoid workshop crew are cybernetic. Reclamation and refitting must be physically visible. The assistant's MORGE-as-merge reading was incorrect and is withdrawn. The historical full acronym expansion remains unrecovered; use MORGUE without inventing it.
 ORCON biological animals with sensory overlays support the operation; the paired DNA wormhole reaches the established GERTECH pocket workshop. No new zippers.
 20 × 10.0-second clips; two batches; planned runtime 3:20. Full Meta frame in each entry. SCRIPTED, not yet rendered.
+OPENING RULE — EVERY TEN-CLIP PRODUCTION RUN
+The first film of each ten-clip run is a complete 10.0-second, nonvocal building-entrance scene: establish the actual story building, show the approach or entry, and land on a readable physical result. No spoken dialogue, narration, singing, humming or lyrics; instrumental music and environmental sounds may remain. This is an in-world scene, not a title card or reference-sheet slideshow.
+Keep continuous clip numbering across the production. For this two-run production, CLIP 001 opens at the Minecraft dungeon building and CLIP 011 opens at the Morgue workshop building. Subsequent ten-clip runs follow the same first-film rule. The paired DNA mechanism still opens the pocket dimension; a physical building entrance remains legible within that dimension.
+Keep additional nonvocal beats where useful. The six nonvocal films in the completed Pocket production were appreciated; six is not imposed as a quota for future productions. Completed footage is preserved.
+Owner source, November 7: “6 intentional nonvocal was nice i want you to add the first each run to be a building entrance nonvocal.”
+
 MASTER / QC / WORDS ONLY / FULL CAMERA PLAN / DAILIES:
 https://docs.google.com/document/d/1jm9t4aYLxPkGFiyFNcome1z3xur1styByA9oTgbXv6Y/edit?usp=drivesdk
 START — FULL BATCH 01 / CLIPS 001–010:

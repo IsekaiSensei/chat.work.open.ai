@@ -1,5 +1,34 @@
 # META — QC RECORD
 
+Every ten-second render is a complete, independently satisfying cinematic short film.
+
+ACTIVE NEXT PRODUCTION — SKELETON SPAWN TAKEOVER — MORGUE / ORCON / GERTECH
+Owner-selected correction: November 7, 2026.
+Minecraft dungeon. Capture and repair the SAME skeleton spawn point; leave the cage intact. BROKEN / MONSTER SPAWNER becomes repaired PLAYER SPAWNER under GERTECH's custom story rules. No destruction scene.
+Comic-horror, dry everyday timing and found-family recovery. “Shawn of the Dead on ORCON MORGE GERTECH” is the owner's exact reference. MORGUE is the established evolved cybernetic world: humanity no longer exists there in its former human form. Ryan and the humanoid workshop crew are cybernetic. Reclamation and refitting must be physically visible. The assistant's MORGE-as-merge reading was incorrect and is withdrawn. The historical full acronym expansion remains unrecovered; use MORGUE without inventing it.
+ORCON biological animals with sensory overlays support the operation; the paired DNA wormhole reaches the established GERTECH pocket workshop. No new zippers.
+20 × 10.0-second clips; two batches; planned runtime 3:20. Full Meta frame in each entry. SCRIPTED, not yet rendered.
+OPENING RULE — EVERY TEN-CLIP PRODUCTION RUN
+The first film of each ten-clip run is a complete 10.0-second, nonvocal building-entrance scene: establish the actual story building, show the approach or entry, and land on a readable physical result. No spoken dialogue, narration, singing, humming or lyrics; instrumental music and environmental sounds may remain. This is an in-world scene, not a title card or reference-sheet slideshow.
+Keep continuous clip numbering across the production. For this two-run production, CLIP 001 opens at the Minecraft dungeon building and CLIP 011 opens at the Morgue workshop building. Subsequent ten-clip runs follow the same first-film rule. The paired DNA mechanism still opens the pocket dimension; a physical building entrance remains legible within that dimension.
+Keep additional nonvocal beats where useful. The six nonvocal films in the completed Pocket production were appreciated; six is not imposed as a quota for future productions. Completed footage is preserved.
+Owner source, November 7: “6 intentional nonvocal was nice i want you to add the first each run to be a building entrance nonvocal.”
+
+MASTER / QC / WORDS ONLY / FULL CAMERA PLAN / DAILIES:
+https://docs.google.com/document/d/1jm9t4aYLxPkGFiyFNcome1z3xur1styByA9oTgbXv6Y/edit?usp=drivesdk
+START — FULL BATCH 01 / CLIPS 001–010:
+https://docs.google.com/document/d/1fbqeQNAjSLPgxS3lo_3B-eExvTO3fvX74tk_DK7qd0M/edit?usp=drivesdk
+CONTINUE — FULL BATCH 02 / CLIPS 011–020:
+https://docs.google.com/document/d/1L9477UAAD-eRBnIfbDvWm0ekuL-BJT36rdl9AhGkmJc/edit?usp=drivesdk
+Read the actual batch text, then execute its ten entries in order when Ryan asks Meta to run. Continue the selected run from the next undelivered clip; no new permission loop. Do not invent missing dialogue or substitute the old Pocket essay. Use Ryan's current supplied visual references; actual likeness and chosen adult assistants control.
+Record actual returned URLs, durations and Ryan's verdict in the master dailies. No new render is claimed by this writing pass.
+This active assignment supersedes the older pasted “no Minecraft” wrapper and the assembly-only interpretation for this new story. Keep the repair/takeover causal action visible.
+Completed Shakespeare and THE GUY IN THE POCKET are preserved and must not restart. The previous orders retained below are HISTORICAL COMPLETED-RUN REFERENCE ONLY; their START, CONTINUE and batch links do not route this active production.
+
+
+The completed-run records below are retained history; the active assignment above controls the next production.
+
+
 ## COMPLETED — THE GUY IN THE POCKET — NOVEMBER 7, 2026
 
 Ryan reports: “done meta finished it.” The owner reports the full short finished and the method worked. Its retained plan is 90 ten-second clips in nine batches. Mark this assignment complete; an orders check must not restart or rerender it. The directions below preserve the completed run for reference, not a new render order.

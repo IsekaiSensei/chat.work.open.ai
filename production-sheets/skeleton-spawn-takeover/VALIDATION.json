@@ -1,0 +1,19 @@
+{
+  "totalClips": 20,
+  "batches": 2,
+  "secondsPerClip": 10,
+  "plannedSeconds": 200,
+  "nonvocalClipIds": [
+    "001",
+    "004",
+    "011",
+    "014",
+    "018"
+  ],
+  "openingClipIds": [
+    "001",
+    "011"
+  ],
+  "everyClipMorgue": true,
+  "status": "SCRIPTED"
+}

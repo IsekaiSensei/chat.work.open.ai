@@ -1,5 +1,12 @@
 # TO WORLD — PROJECT MEMORY
 
+## Owner corrections — November 7, 2026
+
+MORGUE is the established evolved cybernetic world. Humanity no longer exists there in its former human form; Ryan and the human-shaped workshop crew are cybernetic. MORG / MORGE in dictation refers to this established setting. The previous assistant guess that it meant “merge” is withdrawn. See [MORGUE_WORLD.md](MORGUE_WORLD.md) for exact owner wording and the unresolved full acronym expansion.
+
+Each ten-clip production run opens with a 10.0-second nonvocal building-entrance film. For the current run these are clips 001 and 011. Later nonvocal films remain useful; the previous six are not a future quota. See [the saved production method](META_PROVEN_WORKFLOW.md). Completed footage is preserved.
+
+
 ## COMPLETED — THE GUY IN THE POCKET — NOVEMBER 7, 2026
 
 Ryan reports: “done meta finished it.” The owner reports the full short finished and the method worked. Its retained plan is 90 ten-second clips in nine batches. Mark this assignment complete; an orders check must not restart or rerender it. The directions below preserve the completed run for reference, not a new render order.

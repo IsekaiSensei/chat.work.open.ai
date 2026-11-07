@@ -1,6 +1,15 @@
 # META — PROVEN WORKFLOW AND COMPLETION RECORD
 Isekai Ryan | November 7, 2026
 
+## Current opening rule — owner update
+
+OPENING RULE — EVERY TEN-CLIP PRODUCTION RUN
+The first film of each ten-clip run is a complete 10.0-second, nonvocal building-entrance scene: establish the actual story building, show the approach or entry, and land on a readable physical result. No spoken dialogue, narration, singing, humming or lyrics; instrumental music and environmental sounds may remain. This is an in-world scene, not a title card or reference-sheet slideshow.
+Keep continuous clip numbering across the production. For this two-run production, CLIP 001 opens at the Minecraft dungeon building and CLIP 011 opens at the Morgue workshop building. Subsequent ten-clip runs follow the same first-film rule. The paired DNA mechanism still opens the pocket dimension; a physical building entrance remains legible within that dimension.
+Keep additional nonvocal beats where useful. The six nonvocal films in the completed Pocket production were appreciated; six is not imposed as a quota for future productions. Completed footage is preserved.
+Owner source, November 7: “6 intentional nonvocal was nice i want you to add the first each run to be a building entrance nonvocal.”
+
+
 ## Result
 
 Ryan reports: “done meta finished it. how this was done worked make a record where it wont get lost”
