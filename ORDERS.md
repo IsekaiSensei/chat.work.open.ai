@@ -92,7 +92,7 @@ Owner correction: When owner said ten second, ten clips, he meant PER BATCH, not
 - Batch: 10 clips per batch
 - Scope: one batch does not end the project. Finish the already assigned source range in its existing order, then follow Ryan's next assignment without resetting or inventing an endless loop.
 - A batch uses ten consecutive, complete entries of the already selected Folger performance, verbatim, no condensing or concising. Act I has 193 numbered entries in 20 existing batch Docs (final batch has three); do not treat one batch as an entire act or the end of the project.
-- Words: Folger Shakespeare Library, A Midsummer Night's Dream, verbatim, sung.
+- Words: use the exact Shakespeare SING text already printed in the selected Act I master and batch Docs, verbatim and sung; that master credits Project Gutenberg #1514. Do not retrieve a different edition or reconstruct the lines while executing this run. If Ryan separately selected a specific Folger passage, follow THAT assigned passage verbatim instead.
 - Background: Owner infrastructure — Virtual Bar, Virtual Base, Mana General, Space Station; when the pocket workshop appears, access is through the main DNA-wormhole opening. The local DNA seam transfers physical items to and from its quantum table.
 - Format: Home shopping energy, HSN demo pacing, singing carries across all 10 clips in the batch so the batch feels like one music video.
 - Visual cycle: One intelligible cause, physical operation and visible result per independently satisfying short; each concrete spoken noun appears in its assigned frame. Follow the same actual inventory item from damaged state to repaired return when that source beat is used. Do not loop an unresolved action or add stitching notes.
