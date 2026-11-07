@@ -8,6 +8,10 @@ Screenplay/script = singer labels and exact source dialogue. Shot list/photo pro
 
 Ryan decides what flows, what is consistent, what to retain and where drift belongs. Add the authorized work and deliver outputs. The assistant does not impose quality holds, automatic rejection or self-directed rerenders.
 
+## Current Midsummer conflict — Ryan's November 6 direction
+
+Athenians are cyborgs; the Mechanical workers are pure robots; the marble mana people are constructs fabricated by the machines, which the cyborg makers constructed. Both man and machine are constructs. The dramatic dispute is whether origin or making gives one person ownership of another. The active complete Act I master, all twenty batch Docs and the existing cast reference carry this in every entry's camera action while retaining the complete Shakespeare SING words and speakers. [Material mapping and scene interpretation](COOKBOOK.md#midsummer--three-societies-and-the-makers-claim).
+
 ## Persistent files
 
 - [Live orders](ORDERS.md) and the [existing Drive orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit).

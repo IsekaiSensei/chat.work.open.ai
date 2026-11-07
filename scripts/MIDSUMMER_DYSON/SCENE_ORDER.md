@@ -2,10 +2,10 @@
 ## Script order / scene index
 
 Creator: Isekai Ryan
-Status: **working adaptation**; story drafts do not approve character concept images.
+Status: **earlier modern-dialogue development draft**. Current render source: [complete Shakespeare Act I master and its twenty batches](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc/edit). The current [three-society conflict](../../COOKBOOK.md#midsummer--three-societies-and-the-makers-claim) is staged in those active camera fields; these earlier rewritten speeches are not their SING source.
 Source play: William Shakespeare, *A Midsummer Night's Dream* (public-domain dramatic structure). Readable reference: https://www.folger.edu/explore/shakespeares-works/a-midsummer-nights-dream/read/
 
-**The active dramatic script lives here, not in ORDERS.md.** Write each scene as one continuous dramatic unit; later derive 10-clip render batches from the selected, locked performance. No fixed scene duration or clip count is assigned by this index.
+The scene files below preserve the earlier development adaptation. Follow the selected native master/batches for the active performance.
 
 ## Society / faction law
 Public origin labels inside the Dyson sphere:
@@ -15,7 +15,7 @@ Public origin labels inside the Dyson sphere:
 - **BORN / MADE BY NATURE** — organically born people, commonly augmented for station life.
 - **REGENERATED** — reconstructed from earlier life, retained memory, or a recovered seed.
 
-These are *social claims*, not proof of a person's worth. Prejudice and law misuse them. The story challenges that ranking. Athenians appear as varied cyborgs; fairy characters are living translucent crystal-and-gold beings; the mechanicals are clearly old-school working robots. Casting labels in drafts guide the conflict, **not** the selection of final visual assets. The owner selects FIRST MODEL after art review.
+These are *social claims*, not proof of a person's worth. Prejudice and law misuse them. The story challenges that ranking. Athenians appear as varied cyborgs; the ether-court characters are now marble mana people, fabricated by machines and marble throughout; the mechanicals are clearly old-school working robots. Casting labels in drafts guide the conflict, **not** the selection of final visual assets. The owner selects FIRST MODEL after art review.
 
 ## Adaptation sequence
 
