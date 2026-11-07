@@ -1,3 +1,11 @@
+# SPAWN WORLD — THE ELONGATED MAN — CURRENT OPENING
+
+The owner-defined opening is DARPA workbench and coil → branching Ryan copies → slow block-form transformation → lightning arrival in Minecraft → intact spawner → mana pour → companion. [Read the complete opening essay and source notes](https://docs.google.com/document/d/1XWV9ZyO2Iw8Tacy9LJHDheSNw5ke83JpwjErxliNqQY/edit?usp=drivesdk).
+
+The latest story and corrected CLIP 003 are routed through [current orders](ORDERS.md). The earlier twenty-clip scene study was planned at 3:20; it is not the length or complete screenplay of this expanded opening. The previous combat-led interpretation is superseded. [Current story source record](SPAWN_WORLD_OPENING.md).
+
+The prior files and completed-run records follow for preservation.
+
 # TO WORLD — ACTIVE NEXT PRODUCTION
 
 Canon: [MORGUE — evolved cybernetic world](MORGUE_WORLD.md). Production opening: [nonvocal building entrance at the start of each ten-clip run](META_PROVEN_WORKFLOW.md).
