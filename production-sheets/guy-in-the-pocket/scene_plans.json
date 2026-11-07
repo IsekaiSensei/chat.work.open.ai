@@ -327,9 +327,9 @@
       "HANDS",
       "TELLER_HANDS"
     ],
-    "reference_subject": "service boundary; customer side; teller side",
-    "action": "Keep the customer position in the near foreground and the teller's hands beyond the partition. The teller completes a simple token check and returns the capsule while remaining behind the counter. The customer receives it without either person crossing the boundary.",
-    "camera": "Locked profile; use distance and the clear partition to explain separate locations."
+    "reference_subject": "service counter; capsule; parked car and customer window",
+    "action": "Keep the customer's parked car and its open side window visible beside the same service counter; show the customer only as the established gloved hands at the window. Beyond the partition, the teller's gloved hands complete the token check and return the capsule while remaining at the counter. The capsule reaches the car window; the teller never enters the vehicle. Use an unbranded car as the literal analogy prop, with no new customer face.",
+    "camera": "Locked profile including car window, capsule guide and the separate teller position."
   },
   {
     "speech_id": 32,
