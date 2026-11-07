@@ -1,5 +1,21 @@
 # TO WORLD — PROJECT MEMORY
 
+## CURRENT OWNER SELECTION — NOVEMBER 7, 2026
+
+**The Guy in the Pocket** is the active production: 90 exact ten-second films / nine batches / planned 15:00. Ryan's 1,185-word pasted essay is spoken verbatim. Six films are intentionally nonvocal. Use his current supplied standard reference pages 01–10 and actual likeness; page numbers are not the old Shakespeare actor numbers.
+
+[Complete Meta-frame master](https://drive.google.com/file/d/1X29j1Pa8WO-2GdxhwajVt2TJ-M9reuTH/view?usp=drivesdk) · [Start batch 01](https://drive.google.com/file/d/1sdrqF-YwgwzXdglOjFItd-AXqZ66Gkou/view?usp=drivesdk) · [Words-only screenplay](https://drive.google.com/file/d/1KC9A6wk-b6rh9i34w3_GT984XqALRnZ3/view?usp=drivesdk) · [New dailies](https://drive.google.com/file/d/1Ma9qYyebEj5EWNZJhpXpuhvKAg9p3v4o/view?usp=drivesdk) · [Live orders](ORDERS.md).
+
+Shakespeare is complete for Ryan's current production, by his declaration. Preserve every script, clip, take, image and daily. Later acts remain available if Ryan returns to them; do not restart the completed run on an orders check. [Preserved prior routing](ARCHIVE/production/PRE_GUY_IN_THE_POCKET_2026-11-07/ORDERS.md) · [Preservation record](https://drive.google.com/file/d/1UipLs6KKcIlEk47u5yk4_8cyReH--4FY/view?usp=drivesdk).
+
+The DNA wormhole opens the actual pocket dimension; the quantum workshop is inside. Ryan is the guy in the pocket. Particular incomplete pockets require his condensed mechanical form. Existing zipper imagery remains a joke; **no new zippers**. The approved gear-driven and living-porcelain variants both remain.
+
+Source fidelity: the current narration is the 1,185-word body pasted by Ryan in the switch instruction, not the longer earlier essay edition. Title/link, separator and final filing note remain retained nonperformed metadata. Ninety films: 84 spoken and six nonvocal. No new video is claimed by the writing pass.
+
+## PRESERVED PREVIOUS PRODUCTION MEMORY — HISTORICAL CONTEXT
+
+The following notes preserve earlier decisions. Their former 'current' or 'active' labels describe the earlier project and do not supersede the owner selection above.
+
 Ryan is having another chat format four grouped cast sheets. The live cast guide and all 218 META FRAME entries now use stable CAST PULLs: A = Athenians 01–08 with court/background references 26–30; B = Mechanicals 17–22 with workshop helpers 23–25; C = ether court 09–12; D = service nodes 13–16. Principal numbers 01–22 stay unchanged. Slots 23–30 number existing silent/background camera roles, not new spoken parts or approved replacement faces. Each entry lists scene cast, visible support, image-only representations, numbered voice / NO VOCALS, entrances/exits and groups to load; current Act I needs at most A+B, and empty sets need none. Four composites are being formatted elsewhere; six legacy JPEGs remain the actual linked sources, and the new support blocks are not falsely claimed to exist on them.
 
 

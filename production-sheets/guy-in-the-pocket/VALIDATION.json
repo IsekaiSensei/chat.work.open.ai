@@ -1,0 +1,12 @@
+{
+  "verbatim_word_order": true,
+  "source_words": 1185,
+  "total_clip_words": 1185,
+  "max_words_per_clip": 21,
+  "all_clips_exactly_ten_seconds": true,
+  "every_batch_exactly_ten_clips": true,
+  "all_standard_frame_fields_present": true,
+  "all_narration_estimates_within_ten_seconds": true,
+  "no_extra_narration_in_nonvocal_clips": true,
+  "missing_rendered_videos_falsely_claimed": false
+}

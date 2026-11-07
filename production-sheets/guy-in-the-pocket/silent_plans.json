@@ -1,0 +1,58 @@
+[
+  {
+    "after_speech": 0,
+    "title": "The receiving place waits",
+    "world": "POCKET",
+    "cast": [],
+    "reference_subject": "pocket quantum workbench; existing empty receiving bay",
+    "action": "In a genuinely unoccupied view of the established receiving bay, the table lamp settles over an empty work mat and one local receiving cradle becomes ready. Keep the real gold-lattice/crystal interior and the closed main DNA access boundary readable. No person, robot, portrait performance or voice is visible or audible.",
+    "camera": "A slow ten-second architectural push from the receiving boundary to the prepared mat."
+  },
+  {
+    "after_speech": 13,
+    "title": "A small opening and a large place",
+    "world": "PLAYER",
+    "cast": [],
+    "reference_subject": "ordinary bag; main DNA access; source workshop architecture",
+    "action": "The ordinary source-matched bag rests at its already-open access. Through the established DNA aperture, reveal the deep, presently unoccupied receiving-bay composition inside the pocket dimension. The outside bag remains small while the inner bench light comes to rest. No new opening mechanism or zipper is created.",
+    "camera": "A patient low-angle depth reveal, finishing with both scales composed."
+  },
+  {
+    "after_speech": 36,
+    "title": "The room remains",
+    "world": "POCKET",
+    "cast": [],
+    "reference_subject": "persistent quantum workbench; unoccupied part of the receiving bay",
+    "action": "Frame an unoccupied section of the same quantum receiving table after its local transfer has closed. Its stored tools, waiting cradle, light and material trays remain in place. A tethered loose tool slowly settles into its magnetic stand. Keep workers outside this composition rather than making them disappear.",
+    "camera": "A quiet locked-off ten-second observation of the preserved working space."
+  },
+  {
+    "after_speech": 41,
+    "title": "A repaired tool leaves with its owner",
+    "world": "PLAYER",
+    "cast": [
+      "HANDS"
+    ],
+    "reference_subject": "restored T1; source-matched adventure-side threshold",
+    "action": "The player checks that the restored triangular-notched T1 is secured at the belt and walks fully across the existing adventure-side threshold. Let the departure finish, then hold the vacated service position. The tool stays repaired and leaves with the same owner.",
+    "camera": "Medium-low follow to the real doorway; settle after the complete exit."
+  },
+  {
+    "after_speech": 58,
+    "title": "The edge of a pocket",
+    "world": "LIMITED",
+    "cast": [],
+    "reference_subject": "limited pocket; existing bounded storage lattice",
+    "action": "With no inhabitants in this shot, move across the source-matched storage lattice to its visible structural boundary. A small delivered carrier settles in a finite cradle inside that limit. Hold the boundary and the functional contents together; do not invent a whole universe being destroyed.",
+    "camera": "A gentle lateral architectural reveal ending at the coherent physical edge."
+  },
+  {
+    "after_speech": 80,
+    "title": "The way in",
+    "world": "POCKET",
+    "cast": [],
+    "reference_subject": "main DNA aperture; true pocket receiving interior",
+    "action": "An unoccupied view through the established main paired DNA aperture reveals the existing quantum receiving bay and prepared work mat inside the pocket dimension. The aperture remains the access to that actual space. A readiness light comes on at the local receiving cradle; introduce no zipper, new doorway or new narration.",
+    "camera": "Slow movement along the aperture's edge, resolving into clear interior depth."
+  }
+]

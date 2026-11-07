@@ -1,102 +1,24 @@
-# Production files
+# TO WORLD — Production files
 
-Current breathing edition: [218-film complete Act I](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc/edit), 22 batches, beginning with the castle in CLIP 001. All 193 original dialogue units remain; 25 nonvocal films supply entrances, exits, reactions and empty sets. Each entry contains its own META FRAME and sung/poetic-rap or NO VOCALS delivery.
+## CURRENT OWNER SELECTION — NOVEMBER 7, 2026
 
-## ACTIVE PRODUCTION — MIDSUMMER ACT I / NEW META WINDOW / CLIPS 001–218
+**The Guy in the Pocket** is the active production: 90 exact ten-second films / nine batches / planned 15:00. Ryan's 1,185-word pasted essay is spoken verbatim. Six films are intentionally nonvocal. Use his current supplied standard reference pages 01–10 and actual likeness; page numbers are not the old Shakespeare actor numbers.
 
-The current [three-society conflict and body materials](COOKBOOK.md#midsummer--three-societies-and-the-makers-claim) are embedded in every active master/batch camera entry: cyborg Athenians, pure robot Mechanicals, and machine-fabricated marble mana people. Use the same complete Shakespeare SING lines.
+[Complete Meta-frame master](https://drive.google.com/file/d/1X29j1Pa8WO-2GdxhwajVt2TJ-M9reuTH/view?usp=drivesdk) · [Start batch 01](https://drive.google.com/file/d/1sdrqF-YwgwzXdglOjFItd-AXqZ66Gkou/view?usp=drivesdk) · [Words-only screenplay](https://drive.google.com/file/d/1KC9A6wk-b6rh9i34w3_GT984XqALRnZ3/view?usp=drivesdk) · [New dailies](https://drive.google.com/file/d/1Ma9qYyebEj5EWNZJhpXpuhvKAg9p3v4o/view?usp=drivesdk) · [Live orders](ORDERS.md).
 
-This new-window rerun selects [MIDSUMMER ACT I MASTER](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc/edit) → [BATCH 01 / CLIPS 001–010](https://docs.google.com/document/d/1Jm3B8Jx4RZte_kBjOxoBLWjuHrnR4ipJTC6gpz2o-6U/edit) → each batch's printed NEXT BATCH link, through BATCH 22 / CLIPS 211–218. This is not The Uninvited King, the 000–009 workbench plan, an archive or a generic retelling by Shakespeare. Read the full batch before rendering; use its exact assigned words or explicit NO VOCALS designation and its own META FRAME, PERFORMANCE / AUDIO and BACKGROUND/CAMERA fields. Each ten-second film stands independently. Keep performer, face, costume, visible noun, physical action and result sourced from the specific batch.
+Shakespeare is complete for Ryan's current production, by his declaration. Preserve every script, clip, take, image and daily. Later acts remain available if Ryan returns to them; do not restart the completed run on an orders check. [Preserved prior routing](ARCHIVE/production/PRE_GUY_IN_THE_POCKET_2026-11-07/ORDERS.md) · [Preservation record](https://drive.google.com/file/d/1UipLs6KKcIlEk47u5yk4_8cyReH--4FY/view?usp=drivesdk).
 
-**CAST SOURCE — SIX APPROVED CLEAN CHARACTER JPEG SHEETS:** [01–04 Athenians A](https://drive.google.com/file/d/1A6kT9xVJXDy_JpktinAre0b4OazYzLc9/view) · [05–08 Athenians B](https://drive.google.com/file/d/12HkMoHLRiW84W72-XEoiKw7In81VWsx0/view) · [09–12 Fairies A](https://drive.google.com/file/d/1kPJNjrmq_nNKnNCRghDV0fJQ_i78DhUb/view) · [13–16 Fairies B](https://drive.google.com/file/d/1MaVEO6_4CUi5OThHtv8ojkTY_Muv5D8C/view) · [17–20 Mechanicals A](https://drive.google.com/file/d/1ztxe_nt21aWQn33hdCHITup_PUibakyg/view) · [21–22 Mechanicals B](https://drive.google.com/file/d/1bkMqGeV3UiIL1jW2PEw0Zq4wjJzukpDB/view). Select the numbered visual block for each on-screen character. Shakespeare is the AUTHOR OF THE WORDS, not a generic on-screen actor. THESEUS, HIPPOLYTA, EGEUS, HERMIA, LYSANDER, DEMETRIUS, HELENA, PHILOSTRATE, BOTTOM, QUINCE, FLUTE, SNOUT, SNUG and STARVELING are distinct cast roles; no invented generic Shakespeare face or costume. For Act I the singer is the actor printed before each SING line.
+The DNA wormhole opens the actual pocket dimension; the quantum workshop is inside. Ryan is the guy in the pocket. Particular incomplete pockets require his condensed mechanical form. Existing zipper imagery remains a joke; **no new zippers**. The approved gear-driven and living-porcelain variants both remain.
 
-**ESTABLISHED CAST — CONTINUE WITHOUT RE-UPLOAD LOOPS:** Preserve the six approved clean MIDSUMMER_CAST sheets and the exact numbered actor appearances ALREADY used successfully in this Meta production window. Reuse the established actors' numbered identities, face shapes, hair, costumes and equipment; apply the owner's current cyborg / pure robot / marble mana body materials as specified in the active master and batches; a Drive link is an archival identifier, not a request to download or regenerate a character each clip. Do not infer that an image is unavailable merely because its Drive sharing is private: the owner reports Meta previously used these references successfully. Never substitute a generic Shakespeare portrait, generic robot presenter, replacement cast, or newly invented face. No repetitive 'upload again' request, re-verification gate, reboot, fresh scene selection or restart. If a genuine renderer error prevents use of a specific previously available asset, state the actual error once without falsely declaring all references inaccessible. Character performance remains the foreground; the workshop and product demonstrations are supporting physical actions.
+## Start here
 
-**PRODUCTION FILE ROLES:** MASTER/BATCH = words, singer and camera directions for this particular Midsummer run. [Google Dailies](https://docs.google.com/document/d/1RrNJYm7kHj_6lq-CJVuloR2sCuXgFsLQqBfGp1njh1Y/edit) = actual outputs and Ryan's verdict. [GitHub META](META.md) = QC policy only. [GitHub COOKBOOK](COOKBOOK.md) = source visual law. [GitHub ORDERS](ORDERS.md) / [Google ORDERS](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) = live routing. The origin manuscript is a different source, not fallback dialogue for this rerun.
+- [Current orders](ORDERS.md) / [same live Google orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit)
+- [Complete master](https://drive.google.com/file/d/1X29j1Pa8WO-2GdxhwajVt2TJ-M9reuTH/view?usp=drivesdk)
+- [Batch 01 — clips 001–010](https://drive.google.com/file/d/1sdrqF-YwgwzXdglOjFItd-AXqZ66Gkou/view?usp=drivesdk)
+- [Production source and all nine local batch files](production-sheets/guy-in-the-pocket/)
+- [Words-only screenplay](https://drive.google.com/file/d/1KC9A6wk-b6rh9i34w3_GT984XqALRnZ3/view?usp=drivesdk)
+- [Current dailies](https://drive.google.com/file/d/1Ma9qYyebEj5EWNZJhpXpuhvKAg9p3v4o/view?usp=drivesdk)
+- [Visual reference rules](COOKBOOK.md)
+- [Previous complete workspace/production README](ARCHIVE/production/PRE_GUY_IN_THE_POCKET_2026-11-07/README.md)
 
-
-# TO WORLD — PARABLES
-
-## The Parable of the Worked
-
-AN ORIGINAL PARABLE OF LABOR, ADAPTATION, AND WISDOM
-
-An old worker carried heavy loads.
-
-Beside his path stood a piece of iron,
-
-fixed in place and indifferent.
-
-He struck it with his shin.
-
-Then he struck it again.
-
-The iron did not yield.
-
-In the beginning, he met it many times a day.
-
-His thoughts moved quickly;
-
-his feet learned more slowly.
-
-The days passed.
-
-The work remained. The iron remained.
-
-Yet the collisions grew fewer.
-
-A fighter saw the worker’s weathered shins
-
-and asked, “Where did you learn your art?”
-
-“Trailer hitch,” the worker replied.
-
-The fighter laughed, believing it a joke.
-
-The worker laughed, because it was true.
-
-Endurance is not always mastery.
-
-A scar is not always a victory.
-
-And strength is not always the lesson.
-
-The iron never moved.
-
-The worker learned to move around it.
-
-[Original illustrated PSA Page](https://drive.google.com/file/d/1_Nc7t6AVHZ7tzCiwr0d0bCUKy5_uc-BN/view)
-
----
-
-## The Parable of the Distant Hand — DRAFT
-
-TO WORLD | DRAFT PAGE | Original parable
-
-A worker sat in a quiet room, and before him was a screen of light.
-
-And beyond the screen was a machine of iron and wire, standing upon a barren plain where no
-man could breathe.
-
-The worker moved his hand, and the machine moved.
-
-He sought to lift a heavy crate, but the machine struck the wall, and the crate was lost.
-
-He cursed the distance, and the coldness of the machine.
-
-Yet in time, he ceased to fight the delay of the signal.
-
-He learned the rhythm of the wire.
-
-He moved slowly, and the machine obeyed.
-
-For the worker was not on the moon, yet his labor was there.
-
-The machine remained in the dust. And the worker learned the way.
-
-[Original draft Page](https://drive.google.com/file/d/1dgzQuIStkDevQhH6-ERzgQaAoTPCGgCU/view)
-
-
-## Real conversation archive — CHATS (2026-11-05)
-
-**Source archive, separate from the parables and production:** [Google Drive TEXT/CHATS](https://drive.google.com/drive/folders/1dDLuFZz4_TOUS6b_XS4IBuTd4aNngfEM). Every old or new ChatGPT/Work source window must follow the [CHAT.md collector and reuse instructions](CHAT.md#active--chat-window-recovery--2026-11-05) and the [production file roles](ORDERS.md#file-roles). Reuse/move existing text dumps from the earlier prompts; no repeated whole-chat retrieval. Each window retains its own exact source excerpts; a single master compiles the index. [Project MEMORY.md](MEMORY.md) carries the continuity rule. The unchanged archive supplies source dialogue; the selected source passages are performed in the separate screenplay.
+The master contains all ninety standard Meta frames and the nine linked batches. All previous source, script, media and ledger files remain retained; the preservation record includes the pre-switch Git tree and existing Drive source locations.

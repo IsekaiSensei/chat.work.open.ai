@@ -1,6 +1,20 @@
 # TO WORLD — COOKBOOK / VISUAL REFERENCES
 
-Current production method: [Google ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit), with the same body in [ORDERS.md](ORDERS.md). For the current Meta Midsummer Act I rerun, [the selected script and batches are on Google](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc/edit); the separate [Uninvited King manuscript](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit) is a different production. Resume the existing authorized assignment before consulting optional writing references. Use these entries for the appearance, materials, environment and physical work named in the selected conversation's visual background. Use the [cinematographer shot lists](production-sheets/CONVERSATION_SHOT_LIST.md) for camera instructions and the [screenplay](scripts/CONVERSATION_SCREENPLAY.txt) for the actual singers and source words.
+## CURRENT OWNER SELECTION — NOVEMBER 7, 2026
+
+**The Guy in the Pocket** is the active production: 90 exact ten-second films / nine batches / planned 15:00. Ryan's 1,185-word pasted essay is spoken verbatim. Six films are intentionally nonvocal. Use his current supplied standard reference pages 01–10 and actual likeness; page numbers are not the old Shakespeare actor numbers.
+
+[Complete Meta-frame master](https://drive.google.com/file/d/1X29j1Pa8WO-2GdxhwajVt2TJ-M9reuTH/view?usp=drivesdk) · [Start batch 01](https://drive.google.com/file/d/1sdrqF-YwgwzXdglOjFItd-AXqZ66Gkou/view?usp=drivesdk) · [Words-only screenplay](https://drive.google.com/file/d/1KC9A6wk-b6rh9i34w3_GT984XqALRnZ3/view?usp=drivesdk) · [New dailies](https://drive.google.com/file/d/1Ma9qYyebEj5EWNZJhpXpuhvKAg9p3v4o/view?usp=drivesdk) · [Live orders](ORDERS.md).
+
+Shakespeare is complete for Ryan's current production, by his declaration. Preserve every script, clip, take, image and daily. Later acts remain available if Ryan returns to them; do not restart the completed run on an orders check. [Preserved prior routing](ARCHIVE/production/PRE_GUY_IN_THE_POCKET_2026-11-07/ORDERS.md) · [Preservation record](https://drive.google.com/file/d/1UipLs6KKcIlEk47u5yk4_8cyReH--4FY/view?usp=drivesdk).
+
+The DNA wormhole opens the actual pocket dimension; the quantum workshop is inside. Ryan is the guy in the pocket. Particular incomplete pockets require his condensed mechanical form. Existing zipper imagery remains a joke; **no new zippers**. The approved gear-driven and living-porcelain variants both remain.
+
+## CURRENT STANDARD REFERENCE PAGES 01–10
+
+Use the ten pages supplied by Ryan to Meta for this production. Preserve the actual face/angle row, source characters, source world geometry and task-specific materials. Each new clip names the pictured subject to use without inventing a numeric subject map. The source-matched brunette's porcelain version is bright white glazed ceramic, gold inlay and living blue mana; its repair is growth with gold withdrawing after the ceramic closes. The gear-driven version remains available in its own shots.
+
+The older mappings below remain feature-specific historical references for their own projects. Their slot or cast numbers do not redefine the current standard pages 01–10. Completed Shakespeare cast instructions apply when reviewing or deliberately returning to Shakespeare, not to the essay narration.
 
 ## MIDSUMMER — NUMBERED CAST PULL AND FOUR-SHEET DELIVERY
 

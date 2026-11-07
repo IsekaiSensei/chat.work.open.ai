@@ -1,15 +1,19 @@
 # META — QC RECORD
 
-The active source is the 218-film breathing edition. Verify delivery against its per-clip sung/recitative/poetic-rap or NO VOCALS designation. A planned empty set or silent entrance/exit/reaction is a completed assigned film, not a missing vocal or a reason to add a sonnet. CLIP 001 is the castle; the first original sung words are in CLIP 004. This writing update does not report any new rendered take.
+## CURRENT OWNER SELECTION — NOVEMBER 7, 2026
 
-**ACTIVE META SOURCE: MIDSUMMER ACT I.** [Live orders](ORDERS.md) · [Google orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) · [218-film Act I master](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc/edit) · [Batch 01](https://docs.google.com/document/d/1Jm3B8Jx4RZte_kBjOxoBLWjuHrnR4ipJTC6gpz2o-6U/edit) · [Current readable dailies](https://docs.google.com/document/d/1RrNJYm7kHj_6lq-CJVuloR2sCuXgFsLQqBfGp1njh1Y/edit) · [Cast and art directions](COOKBOOK.md). The Uninvited King is a separate screenplay, not fallback Shakespeare dialogue.
+**The Guy in the Pocket** is the active production: 90 exact ten-second films / nine batches / planned 15:00. Ryan's 1,185-word pasted essay is spoken verbatim. Six films are intentionally nonvocal. Use his current supplied standard reference pages 01–10 and actual likeness; page numbers are not the old Shakespeare actor numbers.
 
-Use the owner's current [cyborg / pure robot / marble mana interpretation](COOKBOOK.md#midsummer--three-societies-and-the-makers-claim) in the existing numbered cast. The conflict is in the active camera actions; it does not supply replacement Shakespeare dialogue.
+[Complete Meta-frame master](https://drive.google.com/file/d/1X29j1Pa8WO-2GdxhwajVt2TJ-M9reuTH/view?usp=drivesdk) · [Start batch 01](https://drive.google.com/file/d/1sdrqF-YwgwzXdglOjFItd-AXqZ66Gkou/view?usp=drivesdk) · [Words-only screenplay](https://drive.google.com/file/d/1KC9A6wk-b6rh9i34w3_GT984XqALRnZ3/view?usp=drivesdk) · [New dailies](https://drive.google.com/file/d/1Ma9qYyebEj5EWNZJhpXpuhvKAg9p3v4o/view?usp=drivesdk) · [Live orders](ORDERS.md).
 
-**CAST REFERENCE QC:** A named Shakespeare character must keep the already established approved MIDSUMMER_CAST numbered actor face and costume, not a generic portrait of playwright Shakespeare. The owner reports that Meta previously read and successfully used these same original image references. Do NOT label those established assets inaccessible from their Drive sharing metadata, demand new uploads each clip, or silently substitute a generic performer or robot presenter. Record an actual error only if verified in the renderer. QC does not insert a new approval or test loop.
+Shakespeare is complete for Ryan's current production, by his declaration. Preserve every script, clip, take, image and daily. Later acts remain available if Ryan returns to them; do not restart the completed run on an orders check. [Preserved prior routing](ARCHIVE/production/PRE_GUY_IN_THE_POCKET_2026-11-07/ORDERS.md) · [Preservation record](https://drive.google.com/file/d/1UipLs6KKcIlEk47u5yk4_8cyReH--4FY/view?usp=drivesdk).
 
-An orders check follows the live instructions and resumes Ryan's standing unfinished assignment with its existing authorization. QC records supply observations after delivery; they do not select a new script, add a confirmation step or pause the assignment.
+The DNA wormhole opens the actual pocket dimension; the quantum workshop is inside. Ryan is the guy in the pocket. Particular incomplete pockets require his condensed mechanical form. Existing zipper imagery remains a joke; **no new zippers**. The approved gear-driven and living-porcelain variants both remain.
 
-Deliver successful rendered outputs to Ryan. He decides acceptance, drift, flow and editing. Record actual platform errors accurately and retain every actual take in the [current readable dailies on Google](https://docs.google.com/document/d/1RrNJYm7kHj_6lq-CJVuloR2sCuXgFsLQqBfGp1njh1Y/edit).
+## QC for this essay short
 
-[Visual references](COOKBOOK.md) supply appearance and physical-world details. [Earlier QC records](https://github.com/IsekaiSensei/chat.work.open.ai/blob/d12f802ae2600ef2fadf8fe5abd61a823382ec98/META.md) retain their original successes, failures, source links and corrections as history.
+Compare actual returned clips with the current master and assigned source excerpt. Check verbatim word order, exact ten-second output, Ryan's supplied likeness, named physical nouns, the same tool's identity, visible repair and return, the real pocket location, and the prohibition on new zippers. Check NO VOCALS entries as intentional films. Timing estimates are not measured rendered results.
+
+Record actual outcomes and platform errors without inventing an asset-access failure or a new approval gate. Ryan chooses acceptance, drift, assembly and final edits. This authoring update reports no new rendered take.
+
+Earlier QC records, including all Shakespeare source links and verdicts, remain preserved unchanged in [the prior META record](ARCHIVE/production/PRE_GUY_IN_THE_POCKET_2026-11-07/META.md) and their original linked dailies. The current [Google visual reference card](https://drive.google.com/file/d/1qXcWXZlaKfRL3dy-GPNYEy365M6DHBIV/view) supplies the same active routing and world references.

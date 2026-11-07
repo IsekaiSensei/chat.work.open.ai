@@ -1,5 +1,13 @@
 # TO WORLD — DAILIES
 
+## November 7, 2026 — Shakespeare completed by owner; essay short selected
+
+Ryan reports enough Shakespeare footage for his edit and closes that current production. Preserve all original takes, scripts, artwork, prior verdicts and source records below. Further acts are a possible future owner selection, not an automatic continuation.
+
+The active short is [The Guy in the Pocket](https://drive.google.com/file/d/1X29j1Pa8WO-2GdxhwajVt2TJ-M9reuTH/view?usp=drivesdk), ninety ten-second films in nine batches. [Its separate new dailies](https://drive.google.com/file/d/1Ma9qYyebEj5EWNZJhpXpuhvKAg9p3v4o/view?usp=drivesdk) / [repository ledger](guy-in-the-pocket/DAILIES.md) begin SCRIPTED with no new rendered video claimed. Record actual returned links and durations there. Do not inherit the old Shakespeare counter.
+
+## Historical previous dailies — retained unchanged below
+
 ## 2026-11-06 — OWNER QC OVERRIDE: ENTIRE META ATTEMPT REJECTED; NEW WINDOW FULL RERUN
 
 Ryan now reports the entire previous Shakespeare/Midsummer attempt drifted and failed, superseding earlier provisional descriptions of clips as “okay” for that attempt. The OLD window's output is not accepted as the active sequence. Preserve previous reports and any actual files as historical QC records, but do not recycle those takes, inherit their progress counter, or infer that any new-window render has occurred.
