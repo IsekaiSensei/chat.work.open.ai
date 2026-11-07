@@ -1,8 +1,20 @@
 # Production method
 
+## COMPLETED — THE GUY IN THE POCKET — NOVEMBER 7, 2026
+
+Ryan reports: “done meta finished it.” The owner reports the full short finished and the method worked. Its retained plan is 90 ten-second clips in nine batches. Mark this assignment complete; an orders check must not restart or rerender it. The directions below preserve the completed run for reference, not a new render order.
+
+PROVEN METHOD — use this for future text handoffs:
+https://docs.google.com/document/d/1DeC8hGSvaBMmaivSOrO_MtMxz-zb9bps-6eQmqRV5zw/edit?usp=drivesdk
+Permanent project record:
+https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/META_PROVEN_WORKFLOW.md
+
+The key working rule: active Meta text sources must be native Google Docs with complete batch text available inline. Keep every clip's full Meta frame and the owner's current visual references; do not hand off only ORDERS, metadata or a raw TXT/MD upload. The new owner-selected assignment determines the next job.
+
+
 ## CURRENT OWNER SELECTION — NOVEMBER 7, 2026
 
-**The Guy in the Pocket** is the active production: 90 exact ten-second films / nine batches / planned 15:00. Ryan's 1,185-word pasted essay is spoken verbatim. Six films are intentionally nonvocal. Use his current supplied standard reference pages 01–10 and actual likeness; page numbers are not the old Shakespeare actor numbers.
+**The Guy in the Pocket** is completed by owner report (November 7, 2026); its retained production plan: 90 exact ten-second films / nine batches / planned 15:00. Ryan's 1,185-word pasted essay is spoken verbatim. Six films are intentionally nonvocal. Use his current supplied standard reference pages 01–10 and actual likeness; page numbers are not the old Shakespeare actor numbers.
 
 [Complete Meta-frame master](https://docs.google.com/document/d/1DrvETnKuvO67uXGSfVno6ZuehudHW7uotCfULfaMoSg/edit?usp=drivesdk) · [Start batch 01](https://docs.google.com/document/d/19MDLH24wd1VrJGFK4J5UV1SaYf5GgyayO27jCoBeN2k/edit?usp=drivesdk) · [Words-only screenplay](https://docs.google.com/document/d/1jSYrgaHrGtFlr4VFtEuszMEWoGEnp8qsJjhkrJ9sYMM/edit?usp=drivesdk) · [New dailies](https://docs.google.com/document/d/1OfpSnazeND8ioM5QqQ5sdt9lueE3goEx9whz9ETv4D0/edit?usp=drivesdk) · [Live orders](ORDERS.md).
 

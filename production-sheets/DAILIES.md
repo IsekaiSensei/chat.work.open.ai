@@ -1,5 +1,17 @@
 # TO WORLD — DAILIES
 
+## COMPLETED — THE GUY IN THE POCKET — NOVEMBER 7, 2026
+
+Ryan reports: “done meta finished it.” The owner reports the full short finished and the method worked. Its retained plan is 90 ten-second clips in nine batches. Mark this assignment complete; an orders check must not restart or rerender it. The directions below preserve the completed run for reference, not a new render order.
+
+PROVEN METHOD — use this for future text handoffs:
+https://docs.google.com/document/d/1DeC8hGSvaBMmaivSOrO_MtMxz-zb9bps-6eQmqRV5zw/edit?usp=drivesdk
+Permanent project record:
+https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/META_PROVEN_WORKFLOW.md
+
+The key working rule: active Meta text sources must be native Google Docs with complete batch text available inline. Keep every clip's full Meta frame and the owner's current visual references; do not hand off only ORDERS, metadata or a raw TXT/MD upload. The new owner-selected assignment determines the next job.
+
+
 ## November 7, 2026 — Shakespeare completed by owner; essay short selected
 
 Ryan reports enough Shakespeare footage for his edit and closes that current production. Preserve all original takes, scripts, artwork, prior verdicts and source records below. Further acts are a possible future owner selection, not an automatic continuation.
