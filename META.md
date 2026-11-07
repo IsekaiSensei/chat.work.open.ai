@@ -1,6 +1,8 @@
 # META — QC RECORD
 
-**ACTIVE META SOURCE: MIDSUMMER ACT I.** [Live orders](ORDERS.md) · [Google orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) · [193-clip Act I master](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc/edit) · [Batch 01](https://docs.google.com/document/d/1Jm3B8Jx4RZte_kBjOxoBLWjuHrnR4ipJTC6gpz2o-6U/edit) · [Current readable dailies](https://docs.google.com/document/d/1RrNJYm7kHj_6lq-CJVuloR2sCuXgFsLQqBfGp1njh1Y/edit) · [Cast and art directions](COOKBOOK.md). The Uninvited King is a separate screenplay, not fallback Shakespeare dialogue.
+The active source is the 218-film breathing edition. Verify delivery against its per-clip sung/recitative/poetic-rap or NO VOCALS designation. A planned empty set or silent entrance/exit/reaction is a completed assigned film, not a missing vocal or a reason to add a sonnet. CLIP 001 is the castle; the first original sung words are in CLIP 004. This writing update does not report any new rendered take.
+
+**ACTIVE META SOURCE: MIDSUMMER ACT I.** [Live orders](ORDERS.md) · [Google orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) · [218-film Act I master](https://docs.google.com/document/d/1jauzJXquc-sX7v-vAqOf4oIafjk-KXSUuLWC6jdkiWc/edit) · [Batch 01](https://docs.google.com/document/d/1Jm3B8Jx4RZte_kBjOxoBLWjuHrnR4ipJTC6gpz2o-6U/edit) · [Current readable dailies](https://docs.google.com/document/d/1RrNJYm7kHj_6lq-CJVuloR2sCuXgFsLQqBfGp1njh1Y/edit) · [Cast and art directions](COOKBOOK.md). The Uninvited King is a separate screenplay, not fallback Shakespeare dialogue.
 
 Use the owner's current [cyborg / pure robot / marble mana interpretation](COOKBOOK.md#midsummer--three-societies-and-the-makers-claim) in the existing numbered cast. The conflict is in the active camera actions; it does not supply replacement Shakespeare dialogue.
 
