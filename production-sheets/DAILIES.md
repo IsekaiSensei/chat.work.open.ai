@@ -1,5 +1,11 @@
 # TO WORLD — DAILIES
 
+## 2026-11-06 — OWNER QC OVERRIDE: ENTIRE META ATTEMPT REJECTED; NEW WINDOW FULL RERUN
+
+Ryan now reports the entire previous Shakespeare/Midsummer attempt drifted and failed, superseding earlier provisional descriptions of clips as “okay” for that attempt. The OLD window's output is not accepted as the active sequence. Preserve previous reports and any actual files as historical QC records, but do not recycle those takes, inherit their progress counter, or infer that any new-window render has occurred.
+
+A COMPLETE fresh Shakespeare Act I rerun is being initiated by Ryan in a wholly NEW Meta window: START CLIP 001 / BATCH 01; proceed in original sequence through CLIP 193 / BATCH 20 (three clips in final batch). Use the verbatim existing SING dialogue and assigned speakers, the visible spoken nouns, actual object/hand correspondence, full broken-inventory-item → local DNA helix → pocket-dimension quantum table → mechanical repair → same restored item rises back → receipt and inventory update, and independent cinematic action/payoff in each short. Dailies for this rerun begin EMPTY until actual successful outputs arrive. This is an owner verdict and instruction, not a claim that any renders have been performed.
+
 ## 2026-11-06 — Owner report: 40 okay videos, dialogue repetition
 
 The owner reports **40 okay rendered videos** that could have been stronger if the sung dialogue had not repeated from scene to scene. No exact clip IDs, file URLs, audio transcriptions, or unambiguous window mapping accompanied that report. **Do not assume these 40 are new-window clips 000–039**, silently recalculate a counter, restart completed work, reject the work, or alter their accepted performances. Record their exact IDs/takes only when supplied or verified. The owner alone performs QC.
