@@ -1,3 +1,10 @@
+# CURRENT UNIVERSE STORY ORDER — NOVEMBER 8, 2026
+THE ELONGATED MAN FIRST. A normal Ryan drives north on I-5 into San Diego toward Coronado Bridge; at the early bend a fictional flat concrete floor drops his car into an underwater road tube and SECRET BAY AQUA FACILITY. Its interior strongly resembles the later GERTECH pocket workshop. This PRECEDES the DARPA/coil copy machine, branching versions of Ryan, Minecraft arrival and all later workshop stories. The owner-reported completed Elongated Man film stays preserved. The new San Diego Bay prologue is unrendered additional story material.
+THE MAN WHO ORDERED A VOLTMETER is LATER IN STORY CHRONOLOGY, not a new first episode; preserve 90 clip source plan, do not launch rerun. The old Skeleton Spawn Takeover 'ACTIVE NEXT PRODUCTION' header below is historical and NOT an order to start from this story reorder. 
+Prologue: https://docs.google.com/document/d/1XWV9ZyO2Iw8Tacy9LJHDheSNw5ke83JpwjErxliNqQY/edit
+For the actual first film, ordinary I-5 DRIVE is nonvocal instead of an opening building entry; after the drive, the separate Bay Aqua facility entrance can be shown. All other first-film building entrance conventions for their own runs remain.
+
+---
 # META — QC RECORD
 
 Every ten-second render is a complete, independently satisfying cinematic short film.
