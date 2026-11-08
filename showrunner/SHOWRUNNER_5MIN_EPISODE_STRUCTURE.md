@@ -1,3 +1,9 @@
+# ARCHIVED 2026-11-06 SHOWRUNNER MODEL — NOT AN ACTIVE CLIP QUOTA
+
+This document is the prior illustrative five-minute/30×10-second story template; it is **not** a rule for new productions. Current TO DOG production uses 15-minute coherent setting windows, three five-minute sections, five one-minute beats per section, and **variable 5–15-second shots**. The 30 clips per five minutes and ten scenes per batch below are arithmetic examples/old plan specifications, not required counts. Retain old episode scripts and records untouched. See [current ORDERS](../ORDERS.md).
+
+---
+
 # TO WORLD / GERTECH — DAILY FIVE-MINUTE TV FORMAT (NEW WRITING RULE)
 
 **PRODUCTION LEVEL:** showrunner / story architecture. **This document is not a Meta render GO.** Owner-reported 40 usable videos stay completed and untouched; no assistant QC gate. This format applies to newly written material, never retroactively overwrites an accepted performance.
