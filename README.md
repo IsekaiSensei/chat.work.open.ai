@@ -1,3 +1,15 @@
+# CURRENT PRODUCTION — COMPLETED BY OWNER
+
+COMPLETED — SPAWN WORLD / THE ELONGATED MAN — ANIMATE RESTART
+Owner completion report, November 7, 2026: “run done whats on the back burner?”
+The current run is COMPLETE by Ryan's report. His latest production direction was to restart this opening from the beginning in Animate and remove Minecraft styling. Preserve the finished run and all previous versions, references, scripts and takes.
+No final clip count, measured runtime or returned video receipts were supplied with this completion report; do not invent them or turn earlier planning estimates into measurements.
+An orders check must not restart or continue this completed assignment. All START, NEXT CLIP, batch and continuation directions below are retained historical production records. They do not queue another render. Shakespeare, The Guy in the Pocket and the completed Plug Me In production also remain completed work.
+The next task has not been selected by the backlog question.
+
+
+Previous production records follow.
+
 # SPAWN WORLD — THE ELONGATED MAN — CURRENT OPENING
 
 The owner-defined opening is DARPA workbench and coil → branching Ryan copies → slow block-form transformation → lightning arrival in Minecraft → intact spawner → mana pour → companion. [Read the complete opening essay and source notes](https://docs.google.com/document/d/1XWV9ZyO2Iw8Tacy9LJHDheSNw5ke83JpwjErxliNqQY/edit?usp=drivesdk).
