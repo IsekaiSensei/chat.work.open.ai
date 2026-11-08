@@ -1,3 +1,12 @@
+# AUDIT / QC REVIEW — 2026-11-08
+
+Full Google Drive + GitHub structure, current projects, and QC notes for Chat and Meta:
+[AUDIT_QC_REVIEW_2026-11-08.txt](AUDIT_QC_REVIEW_2026-11-08.txt)
+
+Native Google Docs remain authoritative for Meta text reads. See ORDERS.md for live production method.
+
+---
+
 # CURRENT PRODUCTION METHOD — TO DOG 2026-11-08.r2
 
 **One generation window = one coherent setting block, targeting 15 minutes.** Plan three five-minute sections; divide each into five one-minute story beats. Select **5–15-second shots** for the action. Longer shots are simple tracking or sustained movement. Sum actual durations; 90 mixed-length clips do not automatically make 15 minutes.
@@ -134,5 +143,6 @@ The DNA wormhole opens the actual pocket dimension; the quantum workshop is insi
 - [Current dailies](https://docs.google.com/document/d/1OfpSnazeND8ioM5QqQ5sdt9lueE3goEx9whz9ETv4D0/edit?usp=drivesdk)
 - [Visual reference rules](COOKBOOK.md)
 - [Previous complete workspace/production README](ARCHIVE/production/PRE_GUY_IN_THE_POCKET_2026-11-07/README.md)
+- [Full Drive + GitHub Audit / QC](AUDIT_QC_REVIEW_2026-11-08.txt)
 
 The master contains all ninety standard Meta frames and the nine linked batches. All previous source, script, media and ledger files remain retained; the preservation record includes the pre-switch Git tree and existing Drive source locations.
