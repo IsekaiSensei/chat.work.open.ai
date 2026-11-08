@@ -1,10 +1,16 @@
+# CURRENT OVERRIDE — 2026-11-08.r2 (READ BEFORE OLDER 10-SECOND NOTES)
+
+No fixed 90-clip/15-minute template, 10.0-second clip quota, ten-clip batch rule, or compulsory first-of-ten nonvocal building entrance. Current owner production: one coherent 15-minute setting window; 3×5-minute sections; each 5×1-minute story beats; **individual 5–15-second shots**, with actual durations summed. Every shot has a meaningful self-contained physical/visual event and no stitching directions. Historical examples below remain historical and must never reassert the old format. Current owner has also retired old-video transcript recovery. See [ORDERS](ORDERS.md) and [R2 method](canon/TO_DOG_PRODUCTION_15_MINUTE_SETTING_BLOCKS_2026-11-08_R2.md).
+
+---
+
 # TO WORLD — PROJECT MEMORY
 
 ## Owner corrections — November 7, 2026
 
 MORGUE is the established evolved cybernetic world. Humanity no longer exists there in its former human form; Ryan and the human-shaped workshop crew are cybernetic. MORG / MORGE in dictation refers to this established setting. The previous assistant guess that it meant “merge” is withdrawn. See [MORGUE_WORLD.md](MORGUE_WORLD.md) for exact owner wording and the unresolved full acronym expansion.
 
-Each ten-clip production run opens with a 10.0-second nonvocal building-entrance film. For the current run these are clips 001 and 011. Later nonvocal films remain useful; the previous six are not a future quota. See [the saved production method](META_PROVEN_WORKFLOW.md). Completed footage is preserved.
+HISTORICAL 2026-11-07 only: a particular ten-clip run opened with a 10.0-second nonvocal building-entrance film (clips 001 and 011). This is NOT current policy. Later nonvocal films remain useful; the previous six are not a future quota. See [the saved production method](META_PROVEN_WORKFLOW.md). Completed footage is preserved.
 
 
 ## COMPLETED — THE GUY IN THE POCKET — NOVEMBER 7, 2026
