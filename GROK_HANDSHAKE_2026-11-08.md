@@ -1,3 +1,8 @@
+# CAR PHOTOS / HIGH-MILEAGE SOURCE UPDATE — 2026-11-08
+Actual owner vehicle is BLACK SATURN ASTRA XE FIVE-DOOR with 310,000 miles and still running perfectly per owner, European Opel Astra lineage. Earlier 'make ambiguous' note is OBSOLETE as actual identity; long-distance resemblance can remain visually ambiguous. Year 2008 was conditional and must not be assumed. Do not copy real license plate. Use images rather than invented stock vehicle to audit existing video; protect original file IDs. META QC merged lived-in ordinary car + I-5 first driving + concealed slab + Aqua tube, rejected parked-car film 001, extra personal props and invented screenplay dialogue. Dialogue/video archive still active P0, no rerender or bulk move authorized.
+
+---
+
 # NOV 8 OPENING-CAR LOCK FOR GROK
 Black FIVE-DOOR ASTRA hatchback — Opel OR Saturn from far away, badge deliberately unresolved. Use this as content/visual tagging, do not assign a definite make/model year. Same ordinary car appears on I-5, around the bridge approach bend, on the descending concrete slab and through under-bay tunnel to the Secret Bay Aqua Facility. Do not restart film, move clips without verified access or invent original source media; archive-task directions below remain.
 
