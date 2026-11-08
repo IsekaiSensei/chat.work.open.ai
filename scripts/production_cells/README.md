@@ -1,3 +1,9 @@
+# LEGACY-ONLY — FIXED TEN-SECOND CELL COMPILER
+
+This tool is a historical data compiler with hardcoded `CLIP_MS = 10_000`. It does **not** support the owner's current flexible-duration 5–15-second production and MUST NOT be the default generator for new work. The 90-clip format was never intended to be a universal rule. Existing outputs and source material remain valid records. CLI now requires an explicit `--legacy-fixed-10s` flag for intentional old-plan regeneration. No new variable-duration compiler is claimed to exist here; use the current production plan in [ORDERS](../../ORDERS.md) instead. No action is authorized by reading this file.
+
+---
+
 # Production data tool
 
 Current production method: [ORDERS.md](../../ORDERS.md). The canonical [screenplay](../CONVERSATION_SCREENPLAY.txt) contains sung source dialogue; [shot lists](../../production-sheets/CONVERSATION_SHOT_LIST.md) carry camera instructions; [dailies](../../production-sheets/DAILIES.md) record actual outputs. This tool's timing/source flags describe data completeness and do not authorize production holds over drift or consistency. Source speakers remain the singers; do not assign a new performer identity.
@@ -53,7 +59,7 @@ This is a **structural illustration only**, not a production source. The actual 
 ## Estimated draft (never render-verified)
 
 ```bash
-python3 production_cell_compiler.py owner_input.json --mode draft --wps 2.5 --out review_only
+python3 production_cell_compiler.py --legacy-fixed-10s owner_input.json --mode draft --wps 2.5 --out review_only
 ```
 
 The operator must explicitly set WPS; the compiler never assumes one. This divides *verbatim* text at deterministic word boundaries in draft time windows. Punctuation, spaces, repetition and capitalization are retained character-for-character. The tool marks timing estimates `HOLD` in its data output. This is a timing label, not an automated production veto; record actual delivered performance separately.
@@ -77,7 +83,7 @@ For each speaking turn, add `timed_units` covering the full `turn.text` sequenti
 Offsets refer to Python Unicode string positions, not bytes. The units must cover every character without gaps, and actual time codes must refer to one consistent **absolute** film timeline. Use only with real evidence; values shown are schema illustrations, **not a claim about a real clip**.
 
 ```bash
-python3 production_cell_compiler.py owner_input.json --mode timed --out checked_cells
+python3 production_cell_compiler.py --legacy-fixed-10s owner_input.json --mode timed --out checked_cells
 ```
 
 If a timing unit crosses a ten-second boundary, the affected clip is `HOLD` and the program does **not** pretend to know a valid split inside the unit. Add an approved subdivision from actual audio/owner cues instead. Other clips continue. Passing the timing source through does not authenticate the sound or prove a render is ready.
@@ -99,7 +105,7 @@ The script checks **exact character preservation** and declared structure; it do
 The compiler's default preservation proof only establishes that it reassembled the provided JSON's dialogue without loss. It **cannot prove the JSON itself was copied faithfully**. To establish that, export the actual authorized source dialogue to a UTF-8 text file, and add a `source_span` to each turn: `{"start_char": 123, "end_char": 180}`. The indices must select that turn's exact text in the source file (Python Unicode characters, starting at zero). Run:
 
 ```bash
-python3 production_cell_compiler.py owner_input.json --source-text original.txt --mode draft --wps 2.5 --out review_only
+python3 production_cell_compiler.py --legacy-fixed-10s owner_input.json --source-text original.txt --mode draft --wps 2.5 --out review_only
 ```
 
 If even one original character differs, execution stops **without writing outputs**. The source text file is read-only, and this proof still does not authenticate the source file's own authority.
