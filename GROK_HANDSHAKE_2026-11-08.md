@@ -1,3 +1,8 @@
+# NOV 8 OPENING-CAR LOCK FOR GROK
+Black FIVE-DOOR ASTRA hatchback — Opel OR Saturn from far away, badge deliberately unresolved. Use this as content/visual tagging, do not assign a definite make/model year. Same ordinary car appears on I-5, around the bridge approach bend, on the descending concrete slab and through under-bay tunnel to the Secret Bay Aqua Facility. Do not restart film, move clips without verified access or invent original source media; archive-task directions below remain.
+
+---
+
 # UPDATE — NOVEMBER 8, 2026 — SAN DIEGO BAY / ELONGATED MAN OPENING
 The user's new story hierarchy OVERRIDES older film-first references below: ordinary man drives NORTH I-5 to Coronado Bridge; visually establish real five lanes and reversible median; the secret entrance is a separate fictional CONCRETE FLOOR DOOR dropping the car near the FIRST BEND (not a drawbridge), followed by hidden underwater road tube and SECRET BAY AQUA FACILITY. The lab is the interior look precursor/mirror of GERTECH's pocket workshop; no wormhole yet. Then coil/DARPA Elongated Man duplication. Voltmeter is a LATER chapter, its 90 prepared clips preserved. Dialogue-video archive remains P0, with actual content-based classification; not old assignment restart. No automated render or source move requested from this order.
 
