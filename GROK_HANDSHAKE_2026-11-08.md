@@ -1,3 +1,9 @@
+# GROK BOT POINTER — 2026-11-08 STORY WORLD / OORT & BOOK REALITY
+Read the new World Book and Sensei's Desk notes: Pagemaster + NeverEnding Story + Xena magic scroll, genuine in-world mythic histories and Neo Rome, John von Neumann replicating industry/Oort limitations. Find real source videos/documents and compare, but NEVER invent transcripts or treat World Book hypothetical times as footage. The user has also defined shared underbay Coronado layered facility, small cars' NASA-associated rocket launch/unfolding sequence, and alternate Corvette/whirlpool sequence. Genre franchises are unlicensed fanfiction for publication; original MORGUE stays named as-is. In-story world inhabitants have moral agency; prior human abuse of living rock, lava, fairies/pixies is story history. Return source-backed audit receipts, no old task restart.
+Source: https://docs.google.com/document/d/1gaEhpM0Q1CbiHcl9y2ctrOOz6GVcZbKEFqBxFGfRdjY/edit
+
+---
+
 # CAR PHOTOS / HIGH-MILEAGE SOURCE UPDATE — 2026-11-08
 Actual owner vehicle is BLACK SATURN ASTRA XE FIVE-DOOR with 310,000 miles and still running perfectly per owner, European Opel Astra lineage. Earlier 'make ambiguous' note is OBSOLETE as actual identity; long-distance resemblance can remain visually ambiguous. Year 2008 was conditional and must not be assumed. Do not copy real license plate. Use images rather than invented stock vehicle to audit existing video; protect original file IDs. META QC merged lived-in ordinary car + I-5 first driving + concealed slab + Aqua tube, rejected parked-car film 001, extra personal props and invented screenplay dialogue. Dialogue/video archive still active P0, no rerender or bulk move authorized.
 
