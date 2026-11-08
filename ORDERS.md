@@ -1,3 +1,10 @@
+## NOVEMBER 8, 2026 — GROK BOTS: FRESH ONE-TIME HANDSHAKE / MEDIA DIALOGUE ARCHIVE
+Ryan has separately invited the returning Grok bots to audit the new Voltmeter Meta handoff and organize Google Drive movies by ACTUAL SPOKEN/SUNG DIALOGUE. This is task-scoped assistance, NOT permission to restart old render assignments or revive the sealed shared-room project. FIRST reuse the existing October 29 transcription archive (466 source videos accounted for, unreviewed ASR), do a three-video media/transcription pilot, extend a stable Drive-ID/timecoded dialogue index, and only move originals after permission and public-access checks.
+Full fresh Grok handshake and task prompts: https://docs.google.com/document/d/1qNwzrelwZCq0T5QoUvq-1F3PRevHzqYzKSHsWsxtmHM/edit
+GitHub mirror: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/GROK_HANDSHAKE_2026-11-08.md
+Original spoken-dialogue archive: https://drive.google.com/file/d/1NcQZG9OI0gY_I9vdKbybWpDkhs6ER1b8/view
+This pointer DOES NOT order a Meta render, file move without checked access, public publication, Git merge, or destruction. Bot acknowledgment and actual work are still unverified.
+
 # ACTIVE OWNER SELECTION — THE MAN WHO ORDERED A VOLTMETER — NOVEMBER 7, 2026
 
 STATUS: ACTIVE / PRODUCTION HANDOFF READY; 90 ten-second films SCRIPTED, ZERO NEW RENDERS VERIFIED. Owner's "LIVE — GERTECH POCKET WORKSHOP" explicitly selects this screenplay. The previous "next project not yet selected" statement below is historical and is superseded for routing. All completed Shakespeare, The Guy in the Pocket, Plug Me In and Spawn World productions remain completed and untouched.
