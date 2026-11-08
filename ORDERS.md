@@ -1,3 +1,37 @@
+# ACTIVE OWNER SELECTION — THE MAN WHO ORDERED A VOLTMETER — NOVEMBER 7, 2026
+
+STATUS: ACTIVE / PRODUCTION HANDOFF READY; 90 ten-second films SCRIPTED, ZERO NEW RENDERS VERIFIED. Owner's "LIVE — GERTECH POCKET WORKSHOP" explicitly selects this screenplay. The previous "next project not yet selected" statement below is historical and is superseded for routing. All completed Shakespeare, The Guy in the Pocket, Plug Me In and Spawn World productions remain completed and untouched.
+
+DO NOT ROLEPLAY. "You're Ryan; I'm everyone else; your line, go" was the FAILED chat-mode response. The task is to MAKE MOVING CINEMATIC SHORT FILMS, not speak as the character in a live chat, run a fake 15-minute timer, quote the first line and ask the owner for another line, re-summarize the script, or produce concept sheets in place of films.
+
+OWNER-SELECTED SCREENPLAY — EXACT WORDS / NO REWRITE:
+https://docs.google.com/document/d/1hkzaVbbsU1ttAZDqILRT4ZGxhrpidxJkwDx71CEv7Is/edit
+
+NATIVE GOOGLE DOCS — READ THESE COMPLETE INLINE CONTENT SOURCES:
+MASTER (90 full film frame entries): https://docs.google.com/document/d/1UaiwUNu0zxM28L-Ixyf0WwRlc7dOf_ff8_gTvz9-c94/edit
+START — BATCH 01, CLIPS 001–010: https://docs.google.com/document/d/1CtoOGPkX-OmkQblpS3GnNTtCKdzx8BkSC8QwjxgpXZQ/edit
+BATCH 02, CLIPS 011–020: https://docs.google.com/document/d/19HRCB6BEYfPdi_kETHha-LmfhchIQ5w5pFYLQpXzo6M/edit
+BATCH 03, CLIPS 021–030: https://docs.google.com/document/d/1eRY86ueu3ygSUG8Rkx9Z7AfDjGvsmKUBE7SeATkMlbs/edit
+BATCH 04, CLIPS 031–040: https://docs.google.com/document/d/1ZQBz1iHITiJd-3YtvLpfDBT1Xx7HdsPgfUsJsC_tHyc/edit
+BATCH 05, CLIPS 041–050: https://docs.google.com/document/d/1SUVSgUU3-iY2oBtLxVyJgayYZPAUORSOjYft9gFiGUA/edit
+BATCH 06, CLIPS 051–060: https://docs.google.com/document/d/1TLL5kqZUi22eXmRcm-XtfdVs1rcvT6CqejoCizWjXsk/edit
+BATCH 07, CLIPS 061–070, ORIGINAL FULL SONG VISUALS: https://docs.google.com/document/d/1ax6c-E6FB3ezxlhQ_CcgucqK3OudIeEp20q-Chqsa3k/edit
+BATCH 08, CLIPS 071–080: https://docs.google.com/document/d/1Q0gIDzur7-DBW9tgvEDAcK-4Y1sIr6aqOi5y3wO_7k8/edit
+BATCH 09, CLIPS 081–090: https://docs.google.com/document/d/1MsPZgTLFU6_QC6QAonLl1Sx02IyzcA-ShRdzEan9GWs/edit
+VISUAL REF TEXT CARD (not pixels): https://docs.google.com/document/d/1cQDGYpnSxUi03XaTn3s8qn1Omm6E_lhG6wjSjjyBRGM/edit
+DAILIES / ONLY ACTUAL RENDER RECEIPTS: https://docs.google.com/document/d/1iufzH330p8jAZ4xdRJikMRRyXcsNbus4vAsR36ansYU/edit
+
+OPERATION: Run exact CLIP 001–010 as ten cinematic moving films, 10.0 seconds each; continue from the next undelivered clip using each native Batch NEXT BATCH link through CLIP 090. No repeated permission/GO requests, no reset. The FIRST film of EVERY 10-film batch is NONVOCAL physical building entrance; others contain only their assigned original dialogue. Every individual 10s film is a self-contained cinematic short, with a visible object, handling and physical consequence. Spoken noun must be in frame. Do not add editing/stitching/continuity-bridge chatter; owner assembles. Keep screenplay words separate from camera notes and dailies.
+
+WORLD: Use the owner-provided, already loaded image originals: actual Ryan likeness, same gold/crystal quantum workshop and assembly reference shots, Blue, same physical lantern, and script's Volt, Amp, Kevin and archive historical figures. The paired DNA double helix OPENS ACCESS TO the actual pocket dimension and handles the item; no zipper. No invented face/person identity locks based on a generated sheet. Historical scientists are reconstructions in-world, not assertions that deceased people literally visit.
+
+SONG: "The Work Behind the Flash" is an ORIGINAL complete song. No 10-second song fragments as standalone songs, no mid-verse ending or fade. Use one complete authorized song master from start to natural ending when actually available, and generate contiguous visual footage to it; if the audio master is not available, produce clean VISUAL PLATES rather than invent a continuous soundtrack or substitute copyrighted "Chemical Worker's Song" / "Process Man". The scene's workers use the music as human coordination, quartz clock for electronics, cryogenic pump for cooling.
+
+RENDERING HONESTY: Prepared Docs are NOT generated videos. If a chat interface has no actual video-render capability, do NOT roleplay or claim a film was made. State that it cannot invoke Meta video and give the exact active source link. No imaginary service timer. Dailies must contain real returned clip URLs, measured durations and Ryan's actual verdict, never invented receipts.
+
+END CURRENT ASSIGNMENT. ALL PRIOR ORDER TEXT RETAINED AS HISTORY BELOW.
+---
+
 COMPLETED — SPAWN WORLD / THE ELONGATED MAN — ANIMATE RESTART
 Owner completion report, November 7, 2026: “run done whats on the back burner?”
 The current run is COMPLETE by Ryan's report. His latest production direction was to restart this opening from the beginning in Animate and remove Minecraft styling. Preserve the finished run and all previous versions, references, scripts and takes.
