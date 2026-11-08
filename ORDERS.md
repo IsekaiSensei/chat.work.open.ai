@@ -1,3 +1,8 @@
+WORLD BIBLE CANON UPDATE — ROSEBUD SLEDERS / ROSEBURGE BRIDGE — 2026-11-08 (READ-ONLY)
+Fairy ROSE flowers called ROSE BUDS hatch the living wormworldhole SNAILS (“Rosebud sleders”). Their SHELL winds stored wormhole mass, and high-speed rolling/skating UNWINDS it as protected SLIME TRAIL into a DNA-HELIX “ROSEBURGE BRIDGE” (owner's exact wording, spelling not normalized). A FLINT/STEEL TAIL sparks by physically GRINDING against an abrasive SANDPAPER-LIKE ROAD at speed; this is a cinematic reference to spark-making skate tails, NOT authorization for dangerous freeway skating. Earlier vintage flint-spinner toys remain a complementary rotation/friction visual reference. As the shell reserve runs out, the creature slows and trail is depleted. SALT causes a new shell, not death, in this fictional species. Rat and cockroach biological field combat medics use protected origin-return routes; the separate GERTECH ore-to-body fabrication and repaired Player Spawner remain distinct. Exact energy/recharge/bridge physics are OPEN for owner's later design.
+Canonical native Google World Book: https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit
+This is canon reference, NOT a new film GO or a 10-second compression instruction.
+
 Every new 5–15-second shot is a complete cinematic unit with a readable action, observation or result.
 
 # CURRENT PRODUCTION METHOD — TO DOG 2026-11-08.r2
