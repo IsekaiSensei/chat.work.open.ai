@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Non-destructive TO WORLD 10-second dialogue-to-reference cell compiler.
+"""LEGACY-ONLY: Non-destructive TO WORLD 10-second dialogue-to-reference cell compiler.
+
+This is a historical fixed-10-second source-preserving tool, NOT the active
+5–15-second TO DOG production planner. New work must not use it automatically.
+Run it only with explicit --legacy-fixed-10s selection for an archived production.
 
 Reads owner-provided JSON. Produces cells.csv, cells.json, verification.json.
 Never edits inputs, never renders, never loads image bytes, never invents dialogue.
@@ -350,6 +354,7 @@ def write_outputs(cells, report, directory):
 
 def main(argv=None):
     parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--legacy-fixed-10s", action="store_true", help="Explicitly opt in to the archived 10-second cell format. Never select for new flexible-duration production.")
     parser.add_argument("input",help="Owner-source JSON (untouched)")
     parser.add_argument("--mode",choices=sorted(ALLOWED_MODES),required=True,
                         help="draft requires explicitly chosen WPS; timed requires evidence-aligned units")
@@ -358,6 +363,8 @@ def main(argv=None):
     parser.add_argument("--source-text",default=None,
                         help="Real original UTF-8 transcript. If supplied, require exact source_span offsets for every turn.")
     args=parser.parse_args(argv)
+    if not args.legacy_fixed_10s:
+        parser.error("LEGACY-ONLY: this compiler hardcodes 10,000 ms cells. New production uses owner-selected 5–15-second shots. Use --legacy-fixed-10s only to intentionally regenerate an archived fixed-duration plan.")
     if args.mode!="draft" and args.wps is not None:
         parser.error("--wps is only valid in draft mode")
     try:
