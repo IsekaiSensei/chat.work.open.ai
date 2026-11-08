@@ -1,3 +1,19 @@
+# CURRENT PRODUCTION METHOD — TO DOG 2026-11-08.r2
+
+**One generation window = one coherent setting block, targeting 15 minutes.** Plan three five-minute sections; divide each into five one-minute story beats. Select **5–15-second shots** for the action. Longer shots are simple tracking or sustained movement. Sum actual durations; 90 mixed-length clips do not automatically make 15 minutes.
+
+**Shared film/game asset:** build the forest as one real 3D level. Render film backgrounds from that same level and use selected transparent PNG character animation, depth layers and parallax. The game uses the same terrain, routes and landmarks.
+
+**Stop the existing-video transcript-recovery task.** Ryan does not want effort spent reconstructing the old generated footage. Transcript reading remains a capability for future material. Older archive P0 instructions and fixed ten-second packaging below are superseded for new work. Do not auto-continue an older render assignment from these retained records.
+
+[Full production method, timing example and exact owner source](canon/TO_DOG_PRODUCTION_15_MINUTE_SETTING_BLOCKS_2026-11-08_R2.md) · [World Book](https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit)
+
+The realistic solar-winged android / Dragon power station / digging-rabbit concept continues. Existing story chronology and source records remain available; this version changes the production method and priority.
+
+---
+
+## Earlier versions and task records
+
 # GROK BOT POINTER — 2026-11-08 STORY WORLD / OORT & BOOK REALITY
 Read the new World Book and Sensei's Desk notes: Pagemaster + NeverEnding Story + Xena magic scroll, genuine in-world mythic histories and Neo Rome, John von Neumann replicating industry/Oort limitations. Find real source videos/documents and compare, but NEVER invent transcripts or treat World Book hypothetical times as footage. The user has also defined shared underbay Coronado layered facility, small cars' NASA-associated rocket launch/unfolding sequence, and alternate Corvette/whirlpool sequence. Genre franchises are unlicensed fanfiction for publication; original MORGUE stays named as-is. In-story world inhabitants have moral agency; prior human abuse of living rock, lava, fairies/pixies is story history. Return source-backed audit receipts, no old task restart.
 Source: https://docs.google.com/document/d/1gaEhpM0Q1CbiHcl9y2ctrOOz6GVcZbKEFqBxFGfRdjY/edit
