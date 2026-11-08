@@ -50,6 +50,11 @@ On “READ YOUR ORDERS, META,” read the ACTUAL current native Google document 
 END CURRENT META ACCESS / QC GATE.
 
 
+### World Bible story reference — GERTECH “Friends” sad short (2026-11-08)
+Read the existing World Book section “GERTECH SHORT FILM — FRIENDS — THE PRINTER'S SAD LITERAL ANSWER.” The owner has selected a PRINTER LITERALISM STORY, not a new render assignment. The machine interprets a man's request for friends as sitcom *Friends* and makes six distinct androids: three female cast analogues and male sandwich-maker/bone-digger/IT-joker analogues. **ENDING:** all six become friends with ONE ANOTHER and laugh on a couch inside the “Friends Coffee Shop,” while the man is visibly alone at a coffee table in the same room. No reunion, no seventh friend, no merged faces. This is a deliberately SAD visual punchline. Stage it cinematically only when assigned in a separate film task under current flexible r2 production rules. Native Google Docs for Meta-readable text and dailies, real image references required.
+Canonical text: https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit
+
+
 ---
 
 ## Earlier versions and task records
