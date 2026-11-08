@@ -3,7 +3,7 @@ For current STORY WORLD canon follow https://docs.google.com/document/d/1wiIjBtD
 
 # Production method
 
-Follow [ORDERS.md](ORDERS.md) or the same [live orders on Google](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). Read the [script on Google](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit) and resume Ryan's standing unfinished assignment with its existing authorization and active-window progress. Keep source conversation, screenplay, cinematographer shot list and dailies in their existing separate files.
+Follow [ORDERS.md](ORDERS.md) or the same [live orders on Google](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). Read the [script on Google](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit) for the currently owner-selected assignment ONLY; do not resume any older standing assignment from an archived script or clip plan. For new work apply 2026-11-08.r2 flexible 5–15-second shot timing, not ten-second/90-clip packaging. Keep source conversation, screenplay, cinematographer shot list and dailies in their existing separate files.
 
 # Work — personality matrix
 
