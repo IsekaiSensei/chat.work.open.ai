@@ -1,3 +1,17 @@
+Every ten-second render is a complete, independently satisfying cinematic short film.
+
+# TO DOG — WORLD VERSION 2026-11-08.r1 — REALISTIC ANDROID FLEET
+
+Owner-selected canon: **solar-winged adult metal android riding the metal Dragon power station; Dragon beams to an exposed mine receiver; cables power the underground rabbit digging team.** Preserve the established sci-fi fantasy visuals and make the collection, docking, storage, beaming, receiving and useful work physical.
+
+[Current version, QC, sources and preserved Grok text](canon/TO_DOG_WORLD_VERSION_2026-11-08_R1.md) · [World Book](https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit)
+
+TO DOG's solar-system power/data backbone comes first. This local working architecture does not depend on a Dyson sphere, interstellar probe or closed self-replicating industry. The scout/factory/Gaia material is retained as a later extension. Company schedules and a 10–100 year expansion horizon are proposals; relays do not erase beam losses or send power through rock. One-ton-to-Earth mass growth is about 72.3 ideal doublings, not 40–60; no takeover deadline follows.
+
+This new dated version preserves earlier sources, the San Diego opening and completed productions. It changes canon/design routing, not the selected Meta render queue.
+
+---
+
 # STORY WORLD / PAGE MASTER / VON NEUMANN / OORT — 2026-11-08
 CURRENT OWNER FICTIONAL-UNIVERSE RULE: All “stories” are actual events somewhere within persistent STORY WORLD; public genre labels, myth, anime styling and virtual-world interpretation can be lossy records of those in-world realities. Do NOT assert actual Earth media franchises or mythic peoples are proven factual in our external world. A library/page can present an inspectable persistent realm (Pagemaster / NeverEnding Story comparison); Gabrielle's scroll in Xena S3E10 demonstrates literal-minded executable writing; ancient Mesopotamian Tablet(s) of Destinies, Egyptian Thoth writing and Greek Moirai are separate thematic parallels, not one identical historical document. Keep owner asset-production distinction Page=Concept, Scroll=LoRA, Book=Checkpoint.
 NEO ROME: exploratory Abacus-derived cybernetic Roman/Greek civilization, Saturn original and Jupiter successor as in prior side-story; inhabitants are real to their simulated/virtual world, not illusionary toys. Human/merfolk, rock/lava, fairy/pixie populations must be treated as sentient; historical exploitation of living matter is a central moral fault. Do not mine living stone as a dumb resource.

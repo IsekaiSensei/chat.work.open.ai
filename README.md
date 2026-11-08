@@ -1,3 +1,15 @@
+# TO DOG — WORLD VERSION 2026-11-08.r1 — REALISTIC ANDROID FLEET
+
+Owner-selected canon: **solar-winged adult metal android riding the metal Dragon power station; Dragon beams to an exposed mine receiver; cables power the underground rabbit digging team.** Preserve the established sci-fi fantasy visuals and make the collection, docking, storage, beaming, receiving and useful work physical.
+
+[Current version, QC, sources and preserved Grok text](canon/TO_DOG_WORLD_VERSION_2026-11-08_R1.md) · [World Book](https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit)
+
+TO DOG's solar-system power/data backbone comes first. This local working architecture does not depend on a Dyson sphere, interstellar probe or closed self-replicating industry. The scout/factory/Gaia material is retained as a later extension. Company schedules and a 10–100 year expansion horizon are proposals; relays do not erase beam losses or send power through rock. One-ton-to-Earth mass growth is about 72.3 ideal doublings, not 40–60; no takeover deadline follows.
+
+This new dated version preserves earlier sources, the San Diego opening and completed productions. It changes canon/design routing, not the selected Meta render queue.
+
+---
+
 # STORY ORDER UPDATE — NOVEMBER 8, 2026 — THE ELONGATED MAN / SAN DIEGO BAY COMES FIRST
 
 **Current owner order:** TO WORLD begins with an ordinary Ryan driving NORTH ON I-5 into San Diego, approaching the five-lane Coronado Bridge (real reversible center lane, moveable concrete barrier). Before the road climbs, around a bend, an ordinary CONCRETE ROAD FLOOR/SLAB DESCENDS WITH HIS CAR. Traffic behind cannot see the drop. This leads to a fictional underwater ROAD TUBE and SECRET BAY AQUA FACILITY beneath San Diego Bay. That real-world-style aquatics lab has an interior eerily similar to the GERTECH pocket workshop (visual echo, no established literal identity). The earlier DARPA/coil copying story and Elongated Man branching follow, with the old completed footage preserved.
