@@ -1,3 +1,8 @@
+# OPENING VEHICLE CONTINUITY — BLACK FIVE-DOOR ASTRA / NOVEMBER 8, 2026
+Owner-specified exact shape: ordinary **BLACK FIVE-DOOR ASTRA HATCHBACK**, either **Opel Astra or Saturn Astra**, badge unreadable at distance and intentionally unresolved. Four passenger doors and a rear hatch. Show the SAME car northbound on I-5 approaching the Coronado Bridge, vanishing around its curve, descending with the concrete road-slab, then in the under-bay tube and Secret Bay Aqua Facility. Do not substitute a sedan, SUV, branded closeup, random year, plate, or fantastical car; no new render GO. Story still begins with the normal San Diego drive; *Voltmeter* remains a later chapter. Full original prologue: https://docs.google.com/document/d/1XWV9ZyO2Iw8Tacy9LJHDheSNw5ke83JpwjErxliNqQY/edit
+
+---
+
 # STORY ORDER UPDATE — NOVEMBER 8, 2026 — THE ELONGATED MAN / SAN DIEGO BAY COMES FIRST
 
 **Current owner order:** TO WORLD begins with an ordinary Ryan driving NORTH ON I-5 into San Diego, approaching the five-lane Coronado Bridge (real reversible center lane, moveable concrete barrier). Before the road climbs, around a bend, an ordinary CONCRETE ROAD FLOOR/SLAB DESCENDS WITH HIS CAR. Traffic behind cannot see the drop. This leads to a fictional underwater ROAD TUBE and SECRET BAY AQUA FACILITY beneath San Diego Bay. That real-world-style aquatics lab has an interior eerily similar to the GERTECH pocket workshop (visual echo, no established literal identity). The earlier DARPA/coil copying story and Elongated Man branching follow, with the old completed footage preserved.
