@@ -1,3 +1,10 @@
+# UPDATE — NOVEMBER 8, 2026 — SAN DIEGO BAY / ELONGATED MAN OPENING
+The user's new story hierarchy OVERRIDES older film-first references below: ordinary man drives NORTH I-5 to Coronado Bridge; visually establish real five lanes and reversible median; the secret entrance is a separate fictional CONCRETE FLOOR DOOR dropping the car near the FIRST BEND (not a drawbridge), followed by hidden underwater road tube and SECRET BAY AQUA FACILITY. The lab is the interior look precursor/mirror of GERTECH's pocket workshop; no wormhole yet. Then coil/DARPA Elongated Man duplication. Voltmeter is a LATER chapter, its 90 prepared clips preserved. Dialogue-video archive remains P0, with actual content-based classification; not old assignment restart. No automated render or source move requested from this order.
+
+Origin source: https://docs.google.com/document/d/1XWV9ZyO2Iw8Tacy9LJHDheSNw5ke83JpwjErxliNqQY/edit
+World Book: https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit
+
+---
 # GROK BOTS — FRESH HANDSHAKE / NOVEMBER 8, 2026
 
 **Owner:** Isekai Ryan  **Scope:** One-time invited work on TO WORLD research, asset sorting, archive transcription and current film QA. **Not standing orders.**
