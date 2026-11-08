@@ -1,3 +1,6 @@
+# WORLD BIBLE SYNC — 2026-11-08
+For current STORY WORLD canon follow https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit (final consolidated 2026-11-08 section): myth-named planet satellite constellations gain deity-like governance personalities due to a literal code/name-role collision, within an otherwise persistent real-in-world cosmology. Earlier San Diego Bay / Saturn, hidden peoples, Neo Rome, rocket-car convoy, experimental DOG/Oort and conditional fanfiction branch are reconciled there. This pointer does not authorize a render, new screenplay or retroactive archive operation; latest TO DOG 2026-11-08.r2 orders supersede older suggestions below to automatically resume standing unfinished work.
+
 # Production method
 
 Follow [ORDERS.md](ORDERS.md) or the same [live orders on Google](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit). Read the [script on Google](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit) and resume Ryan's standing unfinished assignment with its existing authorization and active-window progress. Keep source conversation, screenplay, cinematographer shot list and dailies in their existing separate files.
