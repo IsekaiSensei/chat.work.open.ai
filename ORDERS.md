@@ -1,3 +1,16 @@
+# STORY ORDER UPDATE — NOVEMBER 8, 2026 — THE ELONGATED MAN / SAN DIEGO BAY COMES FIRST
+
+**Current owner order:** TO WORLD begins with an ordinary Ryan driving NORTH ON I-5 into San Diego, approaching the five-lane Coronado Bridge (real reversible center lane, moveable concrete barrier). Before the road climbs, around a bend, an ordinary CONCRETE ROAD FLOOR/SLAB DESCENDS WITH HIS CAR. Traffic behind cannot see the drop. This leads to a fictional underwater ROAD TUBE and SECRET BAY AQUA FACILITY beneath San Diego Bay. That real-world-style aquatics lab has an interior eerily similar to the GERTECH pocket workshop (visual echo, no established literal identity). The earlier DARPA/coil copying story and Elongated Man branching follow, with the old completed footage preserved.
+
+**Voltmeter comes LATER in the universe.** The 15-minute screenplay and nine batches / 90 ten-second film plans stay intact as later-episode sources; no automatic rerender. First film of universe shows ordinary driving, nonvocal, not the later "building-entrance opening" for other ten-clip batches. Fictional floor door / tube is distinct from the real bridge's moving median barrier; no magical travel at this point.
+
+Current Elongated Man opening ESSAY (new prose prologue inserted before original): https://docs.google.com/document/d/1XWV9ZyO2Iw8Tacy9LJHDheSNw5ke83JpwjErxliNqQY/edit
+World Bible chronology: https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit
+Live production orders: https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit
+This is a source/chronology revision, not a new Meta video receipt, autonomous render request or proof of film completion.
+
+---
+
 ## NOVEMBER 8, 2026 — GROK BOTS: FRESH ONE-TIME HANDSHAKE / MEDIA DIALOGUE ARCHIVE
 Ryan has separately invited the returning Grok bots to audit the new Voltmeter Meta handoff and organize Google Drive movies by ACTUAL SPOKEN/SUNG DIALOGUE. This is task-scoped assistance, NOT permission to restart old render assignments or revive the sealed shared-room project. FIRST reuse the existing October 29 transcription archive (466 source videos accounted for, unreviewed ASR), do a three-video media/transcription pilot, extend a stable Drive-ID/timecoded dialogue index, and only move originals after permission and public-access checks.
 Full fresh Grok handshake and task prompts: https://docs.google.com/document/d/1qNwzrelwZCq0T5QoUvq-1F3PRevHzqYzKSHsWsxtmHM/edit
