@@ -1,3 +1,9 @@
+# HISTORICAL TEN-SECOND INSTALLATION SESSION — NOT AN ACTIVE UNIVERSAL QUOTA
+
+All exact source dialogue/installation requirements below remain useful for this specific planned musical. **Its 10-second references do not require future film shots to last 10 seconds or be arranged in 90 clips.** Choose 5–15-second units by actual performance and action under current [ORDERS](../ORDERS.md). Never break continuous music to fill a clip count. Prior film-specific durations remain historically preserved.
+
+---
+
 # THE DIALOGUE IS THE REALIZATION — SUNG WHILE THE PART IS INSTALLED
 
 Each ten-second short has the already-spoken misunderstanding, the owner's correction, the assistant's bold realization, and real part fabrication/installation. The conversation is the script and the song. The technician's assembly action is the action of the same short; do not replace either one with a new explanatory narrator or new lyrics. The clips are linked views of ONE continuous stage play; dialogue/music remains uncut across boundaries.
