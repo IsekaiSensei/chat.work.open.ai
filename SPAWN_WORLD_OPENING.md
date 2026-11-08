@@ -1,3 +1,9 @@
+# CURRENT CHRONOLOGY / FLEXIBLE DURATION OVERRIDE — 2026-11-08
+
+The actual STORY WORLD universe opening is the I-5 San Diego drive in Ryan's black Saturn Astra XE, the concealed Coronado bridge-approach concrete-roadway descent, and Secret Bay Aqua facility; the DARPA/coil scene follows. The old Minecraft/Animate ten-second segment notes below belong to specific historical takes, not a new fixed timing rule or first-of-ten building entrance. Current TO DOG shots are selected 5–15 seconds, with a coherent 15-minute setting block and no compulsory count. Source essay remains intact; do not automatically rerender existing footage. See [current ORDERS](ORDERS.md).
+
+---
+
 # SPAWN WORLD — THE ELONGATED MAN — OPENING SOURCE
 
 Every ten-second render is a complete, independently satisfying cinematic short film.
