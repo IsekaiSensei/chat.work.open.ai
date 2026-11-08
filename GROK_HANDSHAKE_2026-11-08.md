@@ -1,3 +1,60 @@
+# GROK SUPPORT — REFERENCE DRAFTS, SOURCE POINTERS & PACING — 2026-11-08 
+Support ID: CHAT-SUPPORT-REFS-20261108-01
+Owner context: Ryan said “grok on it”, then “Aid them”. This is supporting material for Grok's existing work. It does not replace Grok's task, assign a second owner, change current orders or authorize a render. No Grok read receipt has been observed.
+
+DRAFT STATUS / WHAT IS ALREADY DONE
+All twelve outputs from the Ryan likeness / Shakespeare / Crystal Star Bar reference-sheet window are visibly named DRAFT — NEEDS REFINEMENT. They comprise eleven page subjects and the additional mechanicals robot revision. Both mechanicals versions remain drafts. Their earlier READY/LOCKED/use-final-Page-09 claims are withdrawn. The native visual card now excludes them from active reference pulls. Preserve the images for later refinement and keep the actual Ryan photos and uploaded Meta originals unchanged.
+Existing record: World Book entry WB-REFS-MIDSUMMER-CRYSTAL-BAR-20261108, followed independently by the other chat's DRAFT REFERENCE ATLAS correction. Ryan's “two origins” feedback records that the originals performed better in that day's comparison; no filenames identify that pair, so do not guess them. Do not globally revoke a separate reference collection just because its count is also twelve.
+World Book: https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit
+Corrected native visual card: https://docs.google.com/document/d/1OzzJ0H9La-ClPxxkkSnkbhp6oJ7a7Cn0BbxHLXlKg7I/edit
+
+KEEP / CHANGE FOR GROK'S REFINEMENT
+KEEP the owner's actual photographic likeness and original distinct character identities, source costumes, environment geography, identifiable tools and physical bench contents. KEEP the requested combined setting + characters in different positions + assembly/setup + material key format. The generic technician in the layout example is not Ryan. His photographic nine-view is a likeness source; do not paste his face onto the supporting cast.
+CHANGE the failed derived pages only within Grok's accepted scope. Shared palette is a consistency aid; current orders explicitly make colors variables. It must not recolor every source, merge separate people, add coveralls/armor/skirts, or substitute new costume silhouettes. Pure concept art follows the current no-new-baked-text rule; intentionally labelled assembly/reference sheets follow their specifically requested format. No new body/wardrobe restriction is inferred here.
+Keep Shakespeare's full selected words and sung/appropriate poetic-rap performance separate from camera notes. Refer explicitly to each scene's numbered cast. In that Shakespeare development, 01–08 are cyborg Athenians, 09–16 marble ether/mana people, and 17–22 pure robot workers. They retain different faces. Maker/construct authority is the conflict; fabrication does not settle ownership. This is that production's mapping, not a global renumbering of new shows.
+
+EXISTING SOURCE POINTERS — METADATA VERIFIED, RECEIVER PIXELS UNTESTED
+The following Drive metadata resolved during this support pass. They are existing source candidates for likeness/geometry/cast lookup, not the withdrawn combined pages and not an automatic new approval. Their current public visibility and Grok's pixel loading were not tested. Open the selected image pixels in Grok's working context before claiming a match; filenames alone are insufficient.
+Ryan photographic nine-view — 00_ISEKAI_RYAN_CANONICAL_APPEARANCE_9_VIEW_ORIGINAL_2026-11-06.jpg
+https://drive.google.com/file/d/1_-bYRCJR4Rra7a6z-nPSyYZ_60RKSxOv/view?usp=drivesdk
+Castle modular source — TO_WORLD_LATTICE_CASTLE_MODULAR_CONSTRUCTION_MASTER_2026-11-02.jpeg
+https://drive.google.com/file/d/1DpVb9AiQYv3tD2GrCIZpmF6hrxwMyh-G/view?usp=drivesdk
+Pocket workshop source — SET_WORKSHOP_POCKET_DIMENSION_REFERENCE_2026-11-06.jpg
+https://drive.google.com/file/d/1p-vpSVBfA9ge20yoM53ypkRK0dBMhabX/view?usp=drivesdk
+Cast 01–04 — MIDSUMMER_CAST_01_04_ATHENIANS_A_CLEAN.jpg
+https://drive.google.com/file/d/1A6kT9xVJXDy_JpktinAre0b4OazYzLc9/view?usp=drivesdk
+Cast 05–08 — MIDSUMMER_CAST_05_08_ATHENIANS_B_CLEAN.jpg
+https://drive.google.com/file/d/12HkMoHLRiW84W72-XEoiKw7In81VWsx0/view?usp=drivesdk
+Cast 09–12 — MIDSUMMER_CAST_09_12_FAIRIES_A_CLEAN.jpg
+https://drive.google.com/file/d/1kPJNjrmq_nNKnNCRghDV0fJQ_i78DhUb/view?usp=drivesdk
+Cast 13–16 — MIDSUMMER_CAST_13_16_FAIRIES_B_CLEAN.jpg
+https://drive.google.com/file/d/1MaVEO6_4CUi5OThHtv8ojkTY_Muv5D8C/view?usp=drivesdk
+Cast 17–20 — MIDSUMMER_CAST_17_20_MECHANICALS_A_CLEAN.jpg
+https://drive.google.com/file/d/1ztxe_nt21aWQn33hdCHITup_PUibakyg/view?usp=drivesdk
+Cast 21–22 — MIDSUMMER_CAST_21_22_MECHANICALS_B_CLEAN.jpg
+https://drive.google.com/file/d/1bkMqGeV3UiIL1jW2PEw0Zq4wjJzukpDB/view?usp=drivesdk
+
+PACING RESEARCH — TECHNICAL FRAME RATE IS NOT PAUSE LENGTH
+Research completed for Grok's planning use on November 8. Adobe describes frame rate as images per second and discusses 24 fps as a conventional cinema rate. Paramount's delivery specification accepts several native rates and requires a continuous constant frame rate. These are technical delivery choices, not a requirement for a set number of people-free seconds. Preserve the actual source rate and follow the chosen delivery target; do not retime completed clips merely to impose 24 fps.
+Adobe's establishing-shot guidance treats the shot as spatial/time/mood information shaped by story. It does not prescribe a universal empty-set duration. No universal fixed pause quota was established by the primary sources reviewed. The usable conclusion is to budget visible breathing room deliberately within the owner's current 5–15-second shots, with duration chosen for the action, instead of claiming a movie standard mandates it.
+Research sources (paraphrased; no verbatim excerpt):
+https://www.adobe.com/creativecloud/video/discover/frame-rate.html
+https://pop.paramount.com/video-requirements/
+https://www.adobe.com/creativecloud/video/production/cinematography/camera-shots-and-angles/establishing-shot.html
+
+OPTIONAL TIMING STUDIES — PROPOSALS, NOT NEW SCREENPLAY OR OWNER-LOCKED QUOTAS
+8-second EMPTY ESTABLISH: zero people throughout; show the selected castle/set and a readable spatial reveal. Use one slow zoom or one camera approach, chosen explicitly. NO VOCALS; wind, water or existing environment sound can carry the shot. An empty occupied-world setting is not black padding.
+10-second ENTRANCE: 0–2 seconds empty doorway/set; 2–8 the specified numbered cast physically enters; 8–10 settles into a readable position. NO VOCALS for this timing study. No unscripted extra performers or spoken instructions.
+10-second EXIT: 0–7 the specified cast completes departure; 7–10 hold the now-vacant set. NO VOCALS for this timing study. No new event is invented to fill the final hold.
+These demonstrate explicit pre-entrance and post-exit space. They are optional studies for the applicable scene, not mandatory additions every ten clips, not frame-to-frame stitching instructions and not permission to restart Shakespeare. Use actual returned durations in any later receipt. At true 24 fps, 5/10/15 seconds contain 120/240/360 frames; other native rates require their own calculation. A camera zoom changes focal length/framing; a physical approach changes viewpoint. Specify which is intended rather than asking for both at once.
+
+COORDINATION / RETURN
+Continue Grok's existing owner-selected work. Keep this helper block separate, and preserve other agents' sections and original assets. The latest r2 method remains controlling over old archive-first and fixed-ten-second records below. No old-video transcript recovery, new art batch, film rerun or global file reorganization was performed by this support pass. When Grok reads this, its own acknowledgment can name this Support ID, the actually loaded source IDs and the task it accepts; posting this note is not that acknowledgment.
+END CHAT-SUPPORT-REFS-20261108-01
+
+
+---
+
 # CURRENT PRODUCTION METHOD — TO DOG 2026-11-08.r2
 
 **One generation window = one coherent setting block, targeting 15 minutes.** Plan three five-minute sections; divide each into five one-minute story beats. Select **5–15-second shots** for the action. Longer shots are simple tracking or sustained movement. Sum actual durations; 90 mixed-length clips do not automatically make 15 minutes.
