@@ -59,6 +59,20 @@ Read the existing World Book section “GERTECH SHORT FILM — FRIENDS — THE P
 Canonical text: https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit
 
 
+META SCREENPLAY / RUN HANDOFF — GERTECH FRIENDS — 2026-11-08 — SCRIPTED ONLY
+OWNER SELECTED: A developed slow-comedy/sad-drama short with tracking long entrances and exits through real rooms and DNA wormholes, physical inventory system and printer manufacturing, six separately recognizable androids, kitchen multi-camera comedy and studio-audience laughter gradually fading to final loneliness. NO name of an existing television program or real performer is to be spoken/rendered. The film's people are precisely described original roles, archetype looks and hair in the actual text.
+WORDS-ONLY SCRIPT: https://docs.google.com/document/d/1mg321trDO1rxisApzdKobH6aWZnApwq8R3SkmgZjt94/edit
+CAMERA / ALL-SET / FULL CAST MASTER: https://docs.google.com/document/d/17KtTR-HAAuLvIQSWOQhxmcnKgVXrIOrXabPWDek_ml0/edit
+RUN A: https://docs.google.com/document/d/1kLrJRd84FWY0x-0vdNl0up6KoRXdu4zHX6ljK6KQXVk/edit
+RUN B: https://docs.google.com/document/d/1UbV3T2MRPhl3vmvhVpcCfDMKlegQvvjUVIS4rkKfxZA/edit
+RUN C: https://docs.google.com/document/d/1Esw5vM870KtFGTMedrAM-YUt0j5n5C8DXZvKdlPwuRQ/edit
+RUN D: https://docs.google.com/document/d/1UMGA2PbEUx8qFXdoceZQFptrp7sFFQHCVAna9JlS8WA/edit
+RUN E: https://docs.google.com/document/d/1zLePURSE6CwoPJlDs4pCwGG_0IoHtAXrb2sYdE5WP8E/edit
+RUN F: https://docs.google.com/document/d/1kE-CQ4o64-716FXbNmgvcpQATyddnyHbKHhiIWnwLH4/edit
+Editorial target 8:25. 53 distinct moving cinematic shots across six flexible batches; clips 8–15s as needed, not mandatory ten seconds, not 90 clips. Each batch is an actual NATIVE GOOGLE DOC; Meta must read its BODY and screenplay BODY, not just file titles. Source photos need actual pixel loading. DO NOT treat metadata as image access. Do NOT improvise substitute characters if owner-selected master can't be loaded.
+Film's final wide: SIX androids sitting ON COUCH laughing together; the requesting MAN sits ALONE at a small COFFEE TABLE in same Friends Coffee Shop. No rescue or reconciliation. All seven actors separate (not a merged face); printer is not a person. Bright audience laugh effects early, fade out audience track while the six people's real laugh continues. Follow script words only; camera plan is never dialogue or singing. This is new prepared material, NOT already rendered, not GO, not replacing Voltmeter/Elongated Man or current r2 film methods. Use a native Google Doc dailies ledger with actual returned clip links and durations after authorized runs.
+
+
 ---
 
 ## Earlier versions and task records
