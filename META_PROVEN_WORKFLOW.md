@@ -1,3 +1,7 @@
+# CURRENT CORRECTION — NATIVE GOOGLE DOC DELIVERY IS PROVEN, FIXED LENGTH IS NOT
+
+The reusable result of the previous successful run was **native Google Doc full-text delivery with verified actual reference access, separate screenplay/camera/dailies, and meaningful cinematic actions**. The historical 90 ten-second films / nine batches and every-tenth nonvocal building entrance were specific to that older run, **not a standard or default**. New TO DOG work uses the [2026-11-08.r2 setting-block method](canon/TO_DOG_PRODUCTION_15_MINUTE_SETTING_BLOCKS_2026-11-08_R2.md): approximately 15-minute coherent setting, 3 five-minute sections, 5 one-minute beats per section, individually selected 5–15-second shots, no mandatory count. Historical numbered plans below remain archived examples; do not copy their ten-second timing or first-of-ten rule into future scripts.
+
 # CURRENT PRODUCTION METHOD — TO DOG 2026-11-08.r2
 
 **One generation window = one coherent setting block, targeting 15 minutes.** Plan three five-minute sections; divide each into five one-minute story beats. Select **5–15-second shots** for the action. Longer shots are simple tracking or sustained movement. Sum actual durations; 90 mixed-length clips do not automatically make 15 minutes.
@@ -17,7 +21,7 @@ The realistic solar-winged android / Dragon power station / digging-rabbit conce
 # META — PROVEN WORKFLOW AND COMPLETION RECORD
 Isekai Ryan | November 7, 2026
 
-## Current opening rule — owner update
+## HISTORICAL 2026-11-07 opening rule (NOT current universal policy)
 
 OPENING RULE — EVERY TEN-CLIP PRODUCTION RUN
 The first film of each ten-clip run is a complete 10.0-second, nonvocal building-entrance scene: establish the actual story building, show the approach or entry, and land on a readable physical result. No spoken dialogue, narration, singing, humming or lyrics; instrumental music and environmental sounds may remain. This is an in-world scene, not a title card or reference-sheet slideshow.
@@ -51,21 +55,21 @@ Readback confirmed the converted contents matched their source, apart from delib
 
 This is the proven text-delivery route to reuse.
 
-## Repeatable method for the next production
+## Historical 2026-11-07 production steps (reuse native-Doc routing ONLY; NOT timing defaults)
 
 1. Select the owner's exact source text. Preserve its words and order. Separate nonperformed source titles, copied links and filing notes from the actual screenplay; retain those as source metadata.
 
-2. Break the performance into consecutively numbered ten-second clips, in batches of ten. Give the words natural breathing room. Use intentional nonvocal films where the assigned setting, entrance, exit or completed physical action needs time. Do not fill those films with invented speech or songs.
+2. HISTORICAL ONLY: This completed production split the performance into ten-second clips in batches of ten. For new work, select 5–15-second shots by action, pace and real runtime; do not force ten clips per batch or a compulsory entrance film. Use silence when the scene needs it, not because a numbered clip demands it.
 
 3. Put the COMPLETE standard Meta entry in every clip:
 META FRAME — the setting, world, physical context and people actually present.
 REFERENCE — the relevant owner-supplied character, setting and prop sources.
-TIMING — the complete ten-second action and performance window.
+TIMING — the actual owner-selected duration and the complete action/performance window (ten seconds was this historical run's value).
 PERFORMANCE / AUDIO — the assigned delivery and sound.
 Exact speaker text, or explicit NO VOCALS.
 BACKGROUND / CAMERA — the physical action, camera and visible result.
 
-4. Make every ten-second render a complete, independently satisfying cinematic short film. Show the spoken concrete nouns and the actual work. Keep camera directions out of the performed words. Ryan handles assembly; do not turn the prompts into explanations of edits or stitching.
+4. Make every selected 5–15-second shot a complete, independently satisfying cinematic moment. Show the spoken concrete nouns and the actual work. Keep camera directions out of the performed words. Ryan handles assembly; do not turn the prompts into explanations of edits or stitching.
 
 5. Keep the screenplay/words-only file separate from camera directions and from dailies. Each batch may combine those fields into the complete renderer handoff, but field labels and production instructions are not spoken.
 
