@@ -1,3 +1,12 @@
+# CURRENT OWNER EXECUTION GO — MEDIA RESET + ONE FILM RUN — 2026-11-09
+
+**GROKBOTS: EXECUTE ALL FILE/FOLDER MOVES, DELETE VERIFIED REDUNDANT COPIES AND EMPTY LEGACY FOLDERS, AND CLEAN STALE ARCHIVE/PRODUCTION ORDERS FROM EVERY ACTIVE MD IN THIS PROJECT HUB.** This is an explicit owner GO; no new GO required. Sphere reviews continuity and lists failures; do not leave routine authorized work to Ryan. Do not delete unverified distinct originals or interrupt active media references. For exact scope, five-folder tree, safe deletion criteria, verified Drive/GitHub backups and OWNER ACTION REQUIRED format see [the controlling media-reset order](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md).
+
+**ONE ACTIVE FILM:** The ONLY current Meta production run is Nov 9 TO WORLD Agua Arrival **V2 001–030 → GERTECH MORGUE 031–085**, Day 01. Use only the [native Meta Day 01 router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) and the verbatim six-paragraph [MORGUE master](https://docs.google.com/document/d/1ct6cYtGRunszqKTqPCvf-rO5MrRbsMv07IKgr4W7GuA/edit). All earlier film queues and contradictory archive-first instructions below are NOT CURRENT and must be removed from active routing. No wait for completed renders or closed QC issues before Clip 001.
+
+**Backup:** Drive and GitHub back up eligible bytes, text and verified inventories where safe; PUBLIC repositories are not acceptable storage for private media. Unsupported backup/media moves go on the exact-item OWNER ACTION REQUIRED list. GitHub history preserves prior MD text; do not build another nested archive maze.
+
+---
 # TOP PRIORITY OWNER OVERRIDE — GERTECH MORGUE / DAY 01 — 2026-11-09
 
 **Controlling native Google ORDERS:** https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit
