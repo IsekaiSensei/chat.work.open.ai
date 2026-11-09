@@ -1,3 +1,5 @@
+> **NOVEMBER 9 OWNER ROUTING:** This screenplay/plan is PREVIOUS WORK / SOURCE, not an active Meta queue or standing GO. The sole active film is **Nov 9 Agua Arrival V2 001–030 → GERTECH MORGUE 031–085**, then original Friends later. [Live ORDERS](../../ORDERS.md) · [Current native Meta entry](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). Preserve the creative text below as a reference; do not execute any older rendering command, archive dependency or old CURRENT heading from this file.
+
 # THE CAST OF ALL CREATION — THE BAR OF ALL ANYWHERES
 ## One connected pocket workshop. One industrial Western. One surviving musical. The Dyson Sphere origin.
 
