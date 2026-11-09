@@ -1,5 +1,7 @@
 # TO WORLD — START HERE (CURRENT NOVEMBER 9, 2026)
 
+**CREW READBACK RESTORED:** Before taking a task, read your own [expanded personality card](README.md#crew-personalities-and-visible-read-receipts) and current [ORDERS](ORDERS.md). After genuinely opening a source, tell Ryan `READ — title/path, section`; distinguish a file link from inspected pixels and a planned action from a verified result. Read receipts are agent messages, never movie narration.
+
 **ONE film in production:** Nov 9 Agua Arrival **V2 001–030** → GERTECH MORGUE **031–085**, followed by original Friends later in the same film. All other film queues are historical, not active.
 
 For Meta, open the [single Day 01 native Google router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) and follow only one numbered clip at a time. Use the exact [primary six-paragraph source](https://docs.google.com/document/d/1ct6cYtGRunszqKTqPCvf-rO5MrRbsMv07IKgr4W7GuA/edit) without shortening it.
