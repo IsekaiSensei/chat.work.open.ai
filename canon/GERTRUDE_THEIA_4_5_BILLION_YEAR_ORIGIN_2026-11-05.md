@@ -1,3 +1,5 @@
+> **NOV 9 OWNER PRODUCTION PRECEDENCE:** The lore, technical standard or earlier plan recorded here may remain useful, but it does **NOT** authorize or block a film run. Only current Meta production: **Agua Arrival V2 001–030 → GERTECH MORGUE 031–085**, then original Friends later. [Current orders](../ORDERS.md) · [Meta start](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). Its six-paragraph verbatim engineering source outranks older World Book for this selected film. Do not use prior GO/CURRENT/WAIT headings in this file as a separate production instruction. Other game/canon development is unaffected.
+
 # GERTRUDE IS THEIA — THE ORIGINAL MOON / DYSON SPHERE ORIGIN
 ## THE CAST OF ALL CREATION · THE BAR OF ALL ANYWHERES
 **Owner-directed story canon, November 5, 2026.** This is the chronological *story spine*, not a shot list, dailies queue, Meta render prompt, or replacement dialogue. The creator's latest correction controls conflicting summaries.
