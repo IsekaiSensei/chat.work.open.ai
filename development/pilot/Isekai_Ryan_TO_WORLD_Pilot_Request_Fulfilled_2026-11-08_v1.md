@@ -1,3 +1,12 @@
+# Scripted opening update
+
+SCRIPTED OPENING NOW AVAILABLE — NOVEMBER 8, 2026
+The pilot's first 1:40 is now a complete written opening batch with eight individually timed shots, screenplay and camera entries:
+https://docs.google.com/document/d/18n3dfKopt2h1-rIE-rnRfJ4b8Fud4YhlcYhWaz_YsXY/edit?usp=drivesdk
+Use that batch for the opening rather than attempting to render treatment paragraphs or standalone Friends Batch A. Its shot timing replaces this treatment's rough commute minute budget. The full pilot and remainder of the fifteen-minute opening window are still in development. The pilot requester is Ryan throughout.
+END OPENING UPDATE
+
+
 # TO WORLD
 ## Pilot: “REQUEST FULFILLED”
 ### Isekai Ryan — Pilot treatment and scene development draft — November 8, 2026
