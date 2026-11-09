@@ -1,8 +1,4 @@
-# CURRENT OWNER EXCEPTION — GROKBOTS CLEANUP TASK — 2026-11-09
-
-The explicit Nov 9 owner directive [MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md) AUTHORIZES Grokbots to execute the five-folder Drive reorganization, necessary verified deletes, Markdown cleanup, and Drive↔GitHub safe backups. The historical blanket Grok contractor exclusion below **does not apply to this named owner-authorized cleanup**. It remains in force for unrelated production and autonomous assignments. **One active film only:** Nov 9 Agua V2 clips 001–030 followed by GERTECH MORGUE 031–085. No old film queues.
-
----
+> **PERSONALITY / ROUTING RECORD ONLY.** Active owner authority is in [ORDERS](ORDERS.md); this character card never starts a new queue.
 
 # Orders — personality matrix
 
