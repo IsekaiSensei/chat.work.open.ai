@@ -1,6 +1,23 @@
 # OWNER GO — TO WORLD RESET: FOLDER MOVES, VERIFIED DELETIONS, MARKDOWN CLEANUP AND DUAL BACKUP
 2026-11-09 | Authorizing owner: Isekai Ryan | STATUS: EXECUTE NOW
 
+## VERIFIED DESTINATIONS AND 403 WORKAROUND — OWNER GO (2026-11-09)
+The Grokbots report they CREATED the target folders, but all media moves, removal of old folders and duplicate deletions are **NOT DONE** because Drive API requests returned 403 for items they did not create. **Do not report this as a completed migration or tell Ryan to drag each folder manually.**
+
+The owner explicitly authorizes the Grokbots' browser/computer workflow **signed into Ryan's Google Drive account** to perform the moves and necessary recoverable deletes, using the finished file-ID destination map. This permission is to use an already authorized signed-in session, not to request passwords, bypass Google permissions, or silently expand sharing. Verify individual changes via Google Drive IDs and current parent folders. If browser access itself requires Ryan to open/authorize the Work cloud browser or otherwise act in the UI, state that ONE precise setup step in the OWNER ACTION REQUIRED exception list. Work and Sphere should not duplicate the Grokbots' move operations.
+
+Confirmed existing folder IDs under TO WORLD root 1848layOO9qRV3Mt7w6kSuIV5zX3Lu_IV:
+- 01 — JPEG IN USE: 1xcits6ClzUURM6Rbag7nxqwc_-uXEp-p ; Characters: 1kCZ4kGF2CQS66SVyyk5DZyhur_GVbkq6 ; Settings: 1jOnAV73kSWAwmLM89l4RMEcOPw1BdbE- ; Equipment: 1XtdcJOCzj12S9ig0OcCM8WYb0RvoPmCM ; Concept Sheets: 1QvY4AtqLYPK_GcyZiD2fxGSmwBm18Tvl.
+- 02 — MP4 IN USE: 1spA8vtDBevdsACP3gz3dIibWiLD8vK6r ; Current Production: 19YbHBwOGUTJnHoXQDT0RwUU-IRzweIiO ; Approved Clips: 1VZdELnPl2hG9YBDWJtVihHk0PlKncF0v ; Review: 1XedThO5YzGG3UR89Q-Z0v0iTQqLNi62j.
+- 03 — MP3 IN USE: 14Sgg-634zh_pkW2mqcoketWlbPR0DddZ ; Dialogue: 1FCzfbTpfWlMSm136IbxvxvtYR4DdrbvU ; Music: 1WkaKfDXHgfgbfSgimqAFegQgFcGvjULC ; Sound Effects: 1QwhwJvlPJfVz6SuJLpDv8v1yhMXpLDWD.
+- 04 — ARCHIVE: 1EMFpA_CZkVmP6UXeyodvmhPi07CLNlBL ; JPEG: 1x5LyPPZVMi0tWb-lrb9HizP9bz9LF_dN ; MP4: 1Jxj4W07I-8UjTbuUI2Ulb8wqBAcI8H2k ; MP3: 14vW81dAZMLJFNdZYy2oAOJZT-AlBdLEq.
+- 05 — PRODUCTION DOCUMENTS: 1SA22dmqzcfOtbhG7Cge7gxIZLzcFSkn- ; Current Orders: 1OaVB01-aXR4Dp8BwSlFGqINDaJXodRKt ; Screenplays: 1BI0FMobx9ZcXNTkw1kEpWdfOzBsOGIJl ; Shot Lists: 1WoU_y_rM5qX2bfjveXsf0og6_JhcbEZL.
+- TARGET WORLD BOOK is not yet under 05; the existing 01 — WORLD BOOK folder is 1Y90is8puJwapxaidgqa1CI-uckfd03sP. It returned HTTP 403 when the Grokbots tried to move it through their connector. Put this folder under 05 with the signed-in browser if the owner's permissions permit it. Do not create a second duplicate World Book.
+
+**User-action report must be evidence-based:** Move/rename/delete/restore failures not solvable by authorized tools/browser, privately held phone-only originals required for current use, explicit user consent in a Google auth prompt, or choosing a private backup destination if truly necessary. There is NO new requirement for Ryan to approve individually verified exact-byte duplicate deletions or perform routine file moves.
+
+**GitHub cleanup assignment remains ACTIVE:** one V2 film run only. Simplify primary active .md entrypoints, neutralize legacy current orders in secondary .md, but never delete creative canon/source just to remove an old order. Commit each verified change and report remaining files that could not be edited. GitHub is public; don't publish sensitive media inventory or Ryan's private file list there.
+
 ## ONE ACTIVE FILM PRODUCTION — HARD LOCK
 TO WORLD / GERTECH MORGUE DAY 01 is the ONLY ACTIVE FILM PRODUCTION, using the Nov 9 visual-first V2 arrival clips 001–030 and GERTECH MORGUE engineering demonstration clips 031–085; original Friends material follows LATER. Meta starts at Clip 001 and uses only today's native Google router https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit . The six original engineering paragraphs are immutable, verbatim primary canon: https://docs.google.com/document/d/1ct6cYtGRunszqKTqPCvf-rO5MrRbsMv07IKgr4W7GuA/edit . Never compress speech to fit a runtime. Do not treat any historical Shakespeare, Voltmeter, Friends-only, Guy in the Pocket, Minecraft, To Dog, Moon Bar, Midsummer or other queue as active or authorized for restart. Other game mechanics/canon may continue as separate non-film work, but never as a competing Meta film run. No requirement to close audit issues, prove render completion, or wait for another bot acknowledgment before the first render. Media cleanup must not interrupt an active renderer reference.
 
