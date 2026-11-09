@@ -11,6 +11,11 @@ VISUAL INPUT: use the actual owner-selected uploaded JPEG masters for Ryan, the 
 
 CLIP 007 INCIDENT: Ryan supplied Meta's report that it ran the retired Voltmeter clip and omitted the nine uploaded masters, using a profile image and invented visual details. This records the reported mismatch, not independent video inspection. It is not a new render receipt or an instruction to redo that clip.
 
+PARODY CAST — PRODUCTION EXPLANATION, NOT DIALOGUE
+VERA, RAE, WREN, MARCO, ELLIS and KIT are the names of our TO WORLD / GERTECH android parody characters. The recognizable counterparts are Vera–Monica, Rae–Rachel, Wren–Phoebe, Marco–Joey, Ellis–Ross and Kit–Chandler. These are the parody ensemble, separate from Ryan's seven-agent crew.
+The scene parodies the sitcom's promise of ready-made belonging: the printer creates a close café friendship group, yet leaves the person who asked for friends outside that group. Keep our screenplay's dialogue, android identities and original lonely ending. This is an unaffiliated parody; no official franchise connection or participation by the original performers is claimed.
+The names explain our creative intent. Renaming characters or labeling a work “parody” does not itself establish copyright clearance; U.S. fair use depends on the actual work and is evaluated case by case. Reference: https://www.copyright.gov/fair-use/
+
 END CURRENT ASSIGNMENT / ROUTING CORRECTION — earlier source records follow.
 
 # META — ART DIRECTION IS PREPRODUCTION, NOT A RENDER-BLOCKING PROMPT — CORRECTION 2026-11-08
