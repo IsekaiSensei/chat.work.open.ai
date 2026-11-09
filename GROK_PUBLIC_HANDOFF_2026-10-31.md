@@ -1,5 +1,7 @@
-# Grok — historical handoff, October 31, 2026
+# GROK — HISTORICAL PUBLIC HANDOFF (OCTOBER 31, 2026)
 
-Current work follows [Google ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) and the [Google screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit); [ORDERS.md](ORDERS.md) contains the same live body.
+**ARCHIVE/REFERENCE ONLY.** The October 31 relay, film and sorting tasks are not active. [Original version in Git history](https://github.com/IsekaiSensei/chat.work.open.ai/blob/d12f802ae2600ef2fadf8fe5abd61a823382ec98/GROK_PUBLIC_HANDOFF_2026-10-31.md).
 
-[Original October 31 handoff](https://github.com/IsekaiSensei/chat.work.open.ai/blob/d12f802ae2600ef2fadf8fe5abd61a823382ec98/GROK_PUBLIC_HANDOFF_2026-10-31.md) preserves the original source inventory, access findings and communications. Its dated pause, relay and source-selection statements describe that earlier task. Current work continues directly from the live orders and Ryan's latest instruction.
+**Current owner Grokbot execution assignment:** [MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md). Carry out the TO WORLD five-folder Drive media migration, verified duplicate/empty-folder cleanup, appropriate backups and precise owner-action exceptions. Owner-authorized signed-in browser may be used when the Drive API returns HTTP 403; respect access controls.
+
+**Only active Meta film:** November 9 V2 Agua Arrival clips 001–030 → GERTECH MORGUE 031–085 → original Friends later. [Meta start](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) · [Current orders](ORDERS.md).
