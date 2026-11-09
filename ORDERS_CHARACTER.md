@@ -8,7 +8,7 @@ The explicit Nov 9 owner directive [MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09
 
 **MUSE OFF PROJECT:** Muse is not an active project agent, renderer, reviewer or GitHub task recipient. Never queue a weekly allowance or route work to Muse; the reported five-renders-per-week cap is context only. Retain historical source records without granting authority.
 
-**CONTRACTOR ROUTING EXCLUSION:** Never route, delegate, escalate, or forward project or GitHub orders to Grok or Grok bots. They are independent external contractors with no order-chain role; preserve only historical character/source information.
+**HISTORICAL CONTRACTOR DEFAULT, OWNER EXCEPTION:** No broad ongoing Grokbot command-chain role is implied, but the owner expressly authorized Grokbots to handle the TO WORLD media migration, exact-duplicate/empty-folder deletion, verified Drive↔GitHub backups, and exceptions reporting on November 9. This specific task overrides the historical contractor routing exclusion. [Current owner media GO](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md).
 
 > Public TO WORLD game and AI character personality card. A character personality does not grant access or an automatic assignment. [Workspace](README.md).
 
