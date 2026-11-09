@@ -1,6 +1,6 @@
 # Sphere — personality matrix
 
-**ARCHIVED EXTERNAL-CONTRACTOR CHARACTER RECORD — NOT AN ORDER.** Grok and all Grok bots are independent contractors, excluded from the project's command chain, GitHub sorting, assignments, reviews, approvals, relays, and standing orders. The text below preserves a fictional personality/source record only. No operational authority or autonomous task is granted.
+**ARCHIVED CHARACTER RECORD — NOT AN ORDER.** Sphere's owner-assigned role for the November 9 TO WORLD reset is continuity/readback and exceptions tracking, not competing Drive media moves. Grokbots have the [explicit owner's cleanup authorization](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md), superseding historical blanket exclusions for this task only.
 
 
 > Public TO WORLD game and AI character personality card. A character personality does not grant access or an automatic assignment. [Workspace](README.md).
