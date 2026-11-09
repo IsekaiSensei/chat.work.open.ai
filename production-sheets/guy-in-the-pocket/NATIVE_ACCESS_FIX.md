@@ -1,3 +1,5 @@
+> **OWNER NOV 9 FILM ROUTE:** SOURCE / COMPLETED-RUN / HISTORICAL REFERENCE ONLY. Not an active Meta production, render queue, GO/WAIT gate, or backup instruction. One current film: **Agua Arrival V2 001–030 → GERTECH MORGUE 031–085 → original Friends later**. [Current ORDERS](../../ORDERS.md) · [Meta native router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). Older clip commands below cannot restart the previous run; preserve source text as history.
+
 # Native Google Docs access correction — November 7, 2026
 
 Meta reported that native Google Docs return full text inline, while the raw TXT/MD uploads do not. The master, all nine batches, narration source, words-only screenplay, dailies, visual reference card and essay now have native Google Doc versions. All active links use those native Docs. Original raw files remain at their original IDs.
