@@ -4,6 +4,14 @@
 
 **Status:** New development draft responding to Ryan's request to combine his car/bridge arrival, Agua World, the existing agent lineup and Friends printer failure into a premium television pilot. Working episode title and 60-minute allocation are proposed here. This is a substantial story treatment, not a finished timed shooting screenplay or a render order. Existing scripts, art and completed footage remain preserved.
 
+## Parody cast explanation
+
+PARODY CAST — PRODUCTION EXPLANATION, NOT DIALOGUE
+VERA, RAE, WREN, MARCO, ELLIS and KIT are the names of our TO WORLD / GERTECH android parody characters. The recognizable counterparts are Vera–Monica, Rae–Rachel, Wren–Phoebe, Marco–Joey, Ellis–Ross and Kit–Chandler. These are the parody ensemble, separate from Ryan's seven-agent crew.
+The scene parodies the sitcom's promise of ready-made belonging: the printer creates a close café friendship group, yet leaves the person who asked for friends outside that group. Keep our screenplay's dialogue, android identities and original lonely ending. This is an unaffiliated parody; no official franchise connection or participation by the original performers is claimed.
+The names explain our creative intent. Renaming characters or labeling a work “parody” does not itself establish copyright clearance; U.S. fair use depends on the actual work and is evaluated case by case. Reference: https://www.copyright.gov/fair-use/
+
+
 **Series:** TO WORLD. GERTECH is the technology and working environment within it. “Agua World” follows Ryan's latest wording; existing records call the arrival location Secret Bay Aqua Facility / Aqua Center. This draft treats those as the requested destination without silently renaming every historical asset.
 
 **Logline:** Beneath San Diego Bay, a maker brings his extraordinary machine crew into the world and asks their technology for something simple: friends. The machine succeeds spectacularly—until he discovers whom the friends have chosen.
