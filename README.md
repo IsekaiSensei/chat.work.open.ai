@@ -1,3 +1,21 @@
+# ACTIVE TO WORLD PRODUCTION — GERTECH MORGUE — 2026-11-09
+
+**Controlling native Google ORDERS:** https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit
+
+**TODAY'S ONLY META START ROUTER:** https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit — Use its linked **small native batch**, then select **one numbered clip at a time**, in order. Do **not** paste the full master or this Markdown control note into Meta's generation prompt.
+
+**Primary canon / immutable source:** https://docs.google.com/document/d/1ct6cYtGRunszqKTqPCvf-rO5MrRbsMv07IKgr4W7GuA/edit — The owner's complete six-paragraph GERTECH MORGUE engineering explanation is **primary World Book canon**, word-for-word. Prior World Book material is **REFERENCE ONLY** and cannot alter or compress it. **Exact phrase / continuity map:** https://docs.google.com/document/d/1nUV9AVV1rXu0X3teKFQFDYfoFYJ5NbI5VbHLS4pEgA8/edit. **Canonical Drive folder:** https://drive.google.com/drive/folders/1DZOP1laNhUT7UYMvcwtxQ24vujqwGmXL.
+
+**Day 01 sequence:** 001–030 existing Agua Arrival visual-first V2 (5:00 planned, unchanged) → 031–085 MORGUE engineering demonstration at the DARPA lab (10:00 planned, 34 verbatim dialogue and 21 silent shots) → original FRIENDS fabrication **later**. The 85 planned shots total **15:00 exactly on paper**, with variable 5–15s MORGUE clips; the full original story has **no target runtime** and must not be condensed to fit a daily total.
+
+**Generation rules:** Camera/visual physical process first, sound second, a small **exactly verbatim** spoken phrase last. Spoken nouns visible as real handled items or instrument/microscope specimen. Same approved Ryan photographic nine-view and actual car photo as loaded image data; no generic actor or car substitutions. Carry real prior-video last-frame continuity into the next shot. Preserve the story's real biomineral inspirations versus **fictional** engineered GERTECH capability. No video/duration, asset-input, sound, or owner QC claims absent actual receipts. Next shot 001 **if no completed shot is independently verified**.
+
+**This is a routing update only:** No automatic renders, old-film restarts, archive moves, legacy World Book deletion, or replacement of the six paragraphs. Existing Nov 9 V2 and older material follows below as preserved provenance.
+
+Earlier review links and background below remain historical. Today's 85-shot planned sequence and the six-paragraph source outrank the old V2-only route.
+
+---
+
 # ACTIVE META PILOT ENTRY — 2026-11-09
 
 The owner-selected TO WORLD / GERTECH Agua Arrival **V2** now controls the first five minutes. Read [current native Google Orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit), then [Meta V2 Batch 01](https://docs.google.com/document/d/1p7Pg7K_Sq-KGIWmAMtsIaPx-kKbHnXVe7cMRAHYbeyE/edit), [Batch 02](https://docs.google.com/document/d/10RPy2TKmtvsuECQ6KluqSB9o8yIJSH-scXOYR5Snedk/edit), [Batch 03](https://docs.google.com/document/d/1AOmyrvmaPv2eb1NAThMLciH242voTvUSTwaaoGdUeWk/edit). See [dated Chat/Grok QC audit](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/AUDIT_CHAT_GROK_META_V2_2026-11-09.md) and [Grok review handoff](https://github.com/IsekaiSensei/chat.work.open.ai/issues/9). These are thirty **written, not verified-rendered** clips. The Nov 8 eight-shot opening is historical. Existing content below is preserved.
