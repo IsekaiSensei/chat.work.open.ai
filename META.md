@@ -1,5 +1,7 @@
 # META — ONLY CURRENT PRODUCTION ROUTE — NOVEMBER 9, 2026
 
+**VISUALIZE THE PHYSICS. MAKE THE MOTION PICTURE.** Art-direct the owner's premise as objects, materials, transformation, physical movement, sound and camera. No reality debates, scientific footnotes, or feasibility annotations in rendered directions. One complete shot, a visible beginning→action→result; the supplied speech remains exact. [Current owner Orders](ORDERS.md).
+
 **SELECTED FILM:** TO WORLD / GERTECH MORGUE, November 9 V2. Start **Clip 001** in the Agua arrival (001–030), then the technical GERTECH MORGUE demonstrations (031–085), then Friends fabrication later. No other previous work is in Meta's active queue.
 
 **START HERE, not from this file or an old screenshot:** https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit
