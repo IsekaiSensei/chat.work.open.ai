@@ -1,3 +1,9 @@
+# ACTIVE META PILOT ENTRY — 2026-11-09
+
+The owner-selected TO WORLD / GERTECH Agua Arrival **V2** now controls the first five minutes. Read [current native Google Orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit), then [Meta V2 Batch 01](https://docs.google.com/document/d/1p7Pg7K_Sq-KGIWmAMtsIaPx-kKbHnXVe7cMRAHYbeyE/edit), [Batch 02](https://docs.google.com/document/d/10RPy2TKmtvsuECQ6KluqSB9o8yIJSH-scXOYR5Snedk/edit), [Batch 03](https://docs.google.com/document/d/1AOmyrvmaPv2eb1NAThMLciH242voTvUSTwaaoGdUeWk/edit). See [dated Chat/Grok QC audit](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/AUDIT_CHAT_GROK_META_V2_2026-11-09.md) and [Grok review handoff](https://github.com/IsekaiSensei/chat.work.open.ai/issues/9). These are thirty **written, not verified-rendered** clips. The Nov 8 eight-shot opening is historical. Existing content below is preserved.
+
+---
+
 # AUDIT / QC REVIEW — 2026-11-08
 
 Full Google Drive + GitHub structure, current projects, and QC notes for Chat and Meta:
