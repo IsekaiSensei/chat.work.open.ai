@@ -6,7 +6,7 @@
 
 # Grok — personality matrix
 
-**ARCHIVED EXTERNAL-CONTRACTOR CHARACTER RECORD — NOT AN ORDER.** Grok and all Grok bots are independent contractors, excluded from the project's command chain, GitHub sorting, assignments, reviews, approvals, relays, and standing orders. The text below preserves a fictional personality/source record only. No operational authority or autonomous task is granted.
+**ARCHIVED CHARACTER RECORD — NOT AN ORDER.** Historical exclusions of Grok/Grokbots from standing task routing do NOT apply to the owner's explicit November 9 media migration/verified deletion/backup assignment: [OWNER GO](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md). Grokbots lead that cleanup only. This personality card grants no separate film or command authority.
 
 
 **See this character's JPEG source page:** [Open visual reference](https://drive.google.com/file/d/1gCXw5qwSutwpvAavnPUPJHIiwL3_kwco/view). [Full seven-agent JPEG folder](https://drive.google.com/drive/folders/1star5jhSGRr9oKPuQOgVua93lypWi9tg). This is the existing source-filled sheet; use owner-approved identity corrections if they differ.
