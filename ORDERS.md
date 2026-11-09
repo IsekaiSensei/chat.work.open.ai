@@ -1,3 +1,10 @@
+# META MUST READ ART DIRECTION BEFORE ANY GENERATION — 2026-11-08
+
+**FIRST READ — NATIVE GOOGLE DOC BODY (NOT NAME OR PREVIEW):** [META — AI Art Direction and Iterative Refinement (All Projects)](https://docs.google.com/document/d/140KSCUQe53-cREZMdBXtGWULXI9_KnOwjz58sWF_Ix8/edit). **SECOND READ:** [META — VISUAL REFERENCE CARD — TO WORLD](https://docs.google.com/document/d/1OzzJ0H9La-ClPxxkkSnkbhp6oJ7a7Cn0BbxHLXlKg7I/edit). **THIRD:** Current [native Google ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit), appropriate approved image masters (visually load *pixels*, not only filenames/URLs), chosen WORDS-ONLY screenplay, and separate camera plan.
+Meta must enforce the existing art-direction contract **SOURCE + INTENT → KEEP → CHANGE → PROHIBIT → OUTPUT/TEST** and **SOURCE MODEL → FUNCTION → PROPORTIONS → JOINTS → SILHOUETTE → DETAILS → LIGHT**. Respect actual source identity, distinct subjects, mechanical assembly and physical action; do not substitute attractive generic robots, new faces, palettes, cave backdrops, disconnected holograms, or a concept sheet when a film is assigned. Color choices are variable, not identity locks.
+**Readback prerequisite:** ART DIRECTION BODY READ YES/NO; VISUAL CARD BODY READ YES/NO; ORIGINAL MASTER FILE ID; MASTER PIXELS LOADED YES/NO; KEEP / CHANGE / PROHIBIT; TARGET SHOT & QC. Filename-only access = `FILE FOUND — BODY NOT READ`; uninspected reference = `MASTER FOUND — PIXELS NOT LOADED`. **HOLD, do not invent a substitute.** No spoken camera directions, fake render receipts or rerenders authorized by reading these rules.
+The art-direction method is applicable to all work; its historical fixed-10-second timing example is superseded by latest 5–15-second action-selected shots and owner-specified full-size manufacturing sequences. For GERTECH, source parts actually move through the physical printer/factory cell stage by stage; do not collapse entire robot or full ore-to-spawn build into one vat or 10 seconds.
+
 # OWNER UPDATE — CLEAN RUNS / VISITING GAME AVATARS — 2026-11-08
 
 OWNER UPDATE — CLEAN RUNS / VISITING GAME AVATARS — 2026-11-08
