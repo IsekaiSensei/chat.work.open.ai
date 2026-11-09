@@ -1,3 +1,13 @@
+# CURRENT FIRST BATCH — PILOT-RF-OPEN — RYAN TO AGUA — NOVEMBER 8, 2026
+OPEN THIS NATIVE DOCUMENT FOR THE COMPLETE OPENING SCREENPLAY AND EIGHT CAMERA ENTRIES:
+https://docs.google.com/document/d/18n3dfKopt2h1-rIE-rnRfJ4b8Fud4YhlcYhWaz_YsXY/edit?usp=drivesdk
+Written opening: PILOT-RF-OPEN-001 through 008, 100 seconds / 1:40 planned. Start with Ryan already driving his black Saturn Astra XE north on I-5, round the bridge approach, descend on the separate road slab, drive through the under-bay tube and arrive at Agua World. The complete fifteen-minute setting window and full pilot are still being developed; this opening batch itself is now scripted.
+Use the chosen Ryan nine-view for Ryan. A reference supplies the subject's identity; its workshop background or other pictured characters need not be inserted in unrelated driving shots. The later Friends characters and vat room are not in this opening batch and their separate masters are not prerequisites for it.
+For this PILOT, the Friends requesting role is RYAN. The old standalone phrase “NOT automatically Ryan or owner likeness” is superseded by the pilot's explicit casting; it is not a prohibition on Ryan. Do not ask Ryan to select another man or choose the project again.
+The first-batch document distinguishes selected image inputs, written vehicle specification and new fictional environment design. It does not claim the seven reported JPEGs contain car photos or a vat room, nor that unseen image pixels were inspected. Use already attached car originals when available. No silent profile-photo substitution.
+Do not execute standalone Friends Batch A or retired Voltmeter Batch 01 as the pilot opening.
+END CURRENT FIRST-BATCH ROUTE
+
 # CURRENT SELECTED STORY — TO WORLD PILOT / AGUA ARRIVAL + FRIENDS — NOVEMBER 8, 2026
 Ryan's current request: himself driving his black Saturn Astra XE north toward San Diego, rounding the Coronado Bridge approach, descending on the concealed concrete road slab into the underwater tube and Agua World / Secret Bay Aqua; then manufacturing the existing agent lineup and the Friends printer-failure story, preserving its kitchen comedy and lonely café ending.
 PILOT TREATMENT — READABLE NATIVE BODY: https://docs.google.com/document/d/1H6cLtwBy9IDvBHFS68z80I1_9inXvzSfnvE-j-eX1NY/edit
