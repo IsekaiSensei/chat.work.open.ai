@@ -1,3 +1,19 @@
+# META CURRENT RENDER SOURCE — NOVEMBER 9, 2026 — V2
+
+**Owner-selected Meta assignment:** TO WORLD / GERTECH Pilot, Ryan's actual black Saturn Astra XE through the hidden Coronado approach into Agua World and Ryan's working lab. The **current** 2026-11-09 visual-first V2 is 30 separately scripted 10s films (5:00 planned), not the prior eight-shot 1:40 opening, not standalone FRIENDS Batch A, not Voltmeter. **Scripted ≠ rendered; no V2 video QC receipt is claimed.**
+
+**Authoritative native Google Orders:** https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit
+
+**Complete native Meta V2 batch bodies:** [001–010](https://docs.google.com/document/d/1p7Pg7K_Sq-KGIWmAMtsIaPx-kKbHnXVe7cMRAHYbeyE/edit) · [011–020](https://docs.google.com/document/d/10RPy2TKmtvsuECQ6KluqSB9o8yIJSH-scXOYR5Snedk/edit) · [021–030](https://docs.google.com/document/d/1AOmyrvmaPv2eb1NAThMLciH242voTvUSTwaaoGdUeWk/edit)
+
+**Cross-agent QC / Grok review request:** https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/AUDIT_CHAT_GROK_META_V2_2026-11-09.md
+
+Use the **individual full visual-first clip entry** from its native Google Doc and actually loaded owner-approved image pixels. A source URL is not image-input proof. The five minutes include arrival, parking, pedestrian access and a bench demonstration; they do **not** finish seven-agent creation or the FRIENDS plot. No old production restarts, file moves or extra renders are authorized by this routing note.
+
+**Meta workflow:** Select ONE numbered V2 clip; attach actual approved Ryan nine-view and actual car photo to relevant render inputs; prioritize visible place/material/scale and physical contact; camera then timed action then sound; speak ONLY clip-authorized dialogue (clip 029's quiet “Good.”); no singing, generated titles, inventory narration, generic stranger or extra characters. Mark missing pixels for that specific shot rather than inventing replacements. Record measured delivered duration/ID and owner QC separately. Full technical critique lives in the dated audit; do not paste the audit into a video prompt.
+
+---
+
 # CURRENT FIRST BATCH — PILOT-RF-OPEN — RYAN TO AGUA — NOVEMBER 8, 2026
 OPEN THIS NATIVE DOCUMENT FOR THE COMPLETE OPENING SCREENPLAY AND EIGHT CAMERA ENTRIES:
 https://docs.google.com/document/d/18n3dfKopt2h1-rIE-rnRfJ4b8Fud4YhlcYhWaz_YsXY/edit?usp=drivesdk
