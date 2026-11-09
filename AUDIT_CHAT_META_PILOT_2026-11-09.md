@@ -1,3 +1,5 @@
+> **FILM PRODUCTION ROUTING (OWNER NOV 9, 2026):** This file is evidence, reference, prior creative work or a historical plan; **NOT a current Meta render queue, approval gate, archive-first requirement or separate owner GO**. The only active film is Nov 9 **Agua Arrival V2 001–030 → GERTECH MORGUE 031–085** with Friends later. Follow [current ORDERS](ORDERS.md) and [one native Meta start router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). The [owner-approved Grokbots media reset](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md) is independent of rendering. Preserve this file's original material and source meaning; a historical "CURRENT" or "GO" below does not restart production.
+
 # TO WORLD — CHAT / META PRODUCTION STRUCTURE AUDIT
 **Date:** 2026-11-09
 **Scope:** Independent read-only comparison of GitHub live-document headers and native Google Docs. This packet is a critique and coordination receipt, **not a new render authorization, canon change, merge, or direct Grok-session message**.
