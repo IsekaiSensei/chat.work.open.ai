@@ -1,3 +1,9 @@
+# CURRENT WORK ROUTING — NOVEMBER 9, 2026
+
+The pilot's current Meta source is the **native Google Orders 2026-11-09 V2 override** and its three complete native V2 batches. Do not execute the older script link below or archived Voltmeter/FRIENDS shots as pilot material. Read [Google Orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit), [V2 batch 001–010](https://docs.google.com/document/d/1p7Pg7K_Sq-KGIWmAMtsIaPx-kKbHnXVe7cMRAHYbeyE/edit), [011–020](https://docs.google.com/document/d/10RPy2TKmtvsuECQ6KluqSB9o8yIJSH-scXOYR5Snedk/edit), [021–030](https://docs.google.com/document/d/1AOmyrvmaPv2eb1NAThMLciH242voTvUSTwaaoGdUeWk/edit), and [the Chat/Grok audit](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/AUDIT_CHAT_GROK_META_V2_2026-11-09.md). Scripted clips are not render receipts. Keep the separate World Bible and completed production records unchanged.
+
+---
+
 # WORLD BIBLE SYNC — 2026-11-08
 For current STORY WORLD canon follow https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit (final consolidated 2026-11-08 section): myth-named planet satellite constellations gain deity-like governance personalities due to a literal code/name-role collision, within an otherwise persistent real-in-world cosmology. Earlier San Diego Bay / Saturn, hidden peoples, Neo Rome, rocket-car convoy, experimental DOG/Oort and conditional fanfiction branch are reconciled there. This pointer does not authorize a render, new screenplay or retroactive archive operation; latest TO DOG 2026-11-08.r2 orders supersede older suggestions below to automatically resume standing unfinished work.
 
