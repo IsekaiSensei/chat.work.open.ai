@@ -1,3 +1,5 @@
+> **OWNER NOV 9 FILM ROUTE:** SOURCE / COMPLETED-RUN / HISTORICAL REFERENCE ONLY. Not an active Meta production, render queue, GO/WAIT gate, or backup instruction. One current film: **Agua Arrival V2 001–030 → GERTECH MORGUE 031–085 → original Friends later**. [Current ORDERS](../../ORDERS.md) · [Meta native router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). Older clip commands below cannot restart the previous run; preserve source text as history.
+
 # THE GUY IN THE POCKET — DAILIES
 
 ## COMPLETED — THE GUY IN THE POCKET — NOVEMBER 7, 2026
