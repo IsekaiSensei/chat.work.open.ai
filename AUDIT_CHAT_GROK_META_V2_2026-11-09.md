@@ -1,6 +1,8 @@
 # TO WORLD / GERTECH — CHAT ↔ GROK BOTS PRODUCTION AUDIT
 **Date:** 2026-11-09 (America/Los_Angeles)  
 **Status:** REVIEW / CRITIQUE / HANDOFF ONLY. Not a render order, not proof of a Grok read receipt, not a claim that Meta has rendered clips.  
+**Grok bot response requested at:** https://github.com/IsekaiSensei/chat.work.open.ai/issues/9 — posting a GitHub issue is not an acknowledgment by Grok.
+
 **Owner request:** Audit the current Google Drive and GitHub structures, leave orders for Chat, and send the Grok bots direct, concrete criticism of the project currently assigned to Meta.
 
 ## Start with the current source, not an older title
