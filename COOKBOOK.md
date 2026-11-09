@@ -1,3 +1,5 @@
+> **NOVEMBER 9, 2026 — OWNER PRODUCTION OVERRIDE:** This file is historical/technical/character REFERENCE, **not an active film order or a prerequisite for Meta**. The sole current film is Agua Arrival V2 001–030 → GERTECH MORGUE 031–085, then Friends later. Live [GitHub orders](ORDERS.md), [Meta router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit), and [Grokbot media-cleanup owner GO](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md) supersede any older CURRENT/GO/WAIT/recurring-render wording below. No old film restart. Archive/reference is retained for creative provenance.
+
 # TO WORLD — COOKBOOK / VISUAL REFERENCES
 
 ## Owner corrections — November 7, 2026
