@@ -1,5 +1,7 @@
-# GROUND ZERO — HISTORICAL HANDOFF INDEX
+# GROUND ZERO — HISTORICAL SOURCE INDEX (NOT A CURRENT ORDER)
 
-Current work follows [Google ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) and the [Google screenplay](https://docs.google.com/document/d/12QzK2VKN0EM-QjSxmH08BtLMeIBcxpu8a0Q4Odzu2po/edit). [GitHub orders](ORDERS.md) contain the same instructions. Resume Ryan's existing authorized assignment directly.
+**Sole current Meta film:** Agua Arrival V2 clips 001–030 → GERTECH MORGUE 031–085; Friends continues later. [Current native Meta start](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) · [Primary verbatim MORGUE master](https://docs.google.com/document/d/1ct6cYtGRunszqKTqPCvf-rO5MrRbsMv07IKgr4W7GuA/edit) · [Current ORDERS](ORDERS.md).
 
-[Original Ground Zero handoff](https://github.com/IsekaiSensei/chat.work.open.ai/blob/d12f802ae2600ef2fadf8fe5abd61a823382ec98/GROUND_ZERO.md) preserves the earlier production, source links and cutover record. Existing footage and in-flight renders keep their recorded identities and progress.
+The older Ground Zero / Plug Me In screenplay and archived handoff are valuable **source material only**, not film execution or approval requirements. Original text remains recoverable in Git history; no previous run restarts from this index.
+
+The [owner media-reset order](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md) separately authorizes Grokbots' Drive file moves, verified recoverable deletions and Google Drive↔GitHub backup audit.
