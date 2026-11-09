@@ -1,3 +1,5 @@
+> **NOV 9 OWNER PRODUCTION PRECEDENCE:** The lore, technical standard or earlier plan recorded here may remain useful, but it does **NOT** authorize or block a film run. Only current Meta production: **Agua Arrival V2 001–030 → GERTECH MORGUE 031–085**, then original Friends later. [Current orders](../ORDERS.md) · [Meta start](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). Its six-paragraph verbatim engineering source outranks older World Book for this selected film. Do not use prior GO/CURRENT/WAIT headings in this file as a separate production instruction. Other game/canon development is unaffected.
+
 # TO WORLD / GERTECH — DIALOGUE & PLOT REPETITION AUDIT
 **Scope:** sampled available connected Drive/GitHub source texts on 2026-11-06; prospective writing assistance, NOT a pass/fail gate and NOT proof of what the 40 rendered soundtracks actually contain. Ryan alone evaluates delivered video/audio.
 
