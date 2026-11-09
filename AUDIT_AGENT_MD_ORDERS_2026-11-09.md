@@ -53,3 +53,35 @@ Numbers below are before/after `UTF-8` source character counts rounded only when
 
 ## Remaining independent blockers
 Google Drive media folder moves and duplicate/empty-folder deletions were previously blocked by 403; they were **not performed** by this Markdown audit. Actual Meta video renders/QC remain unverified. This report contains no invented completion claim. Grokbots retain owner authorization under the separate media GO; Sphere checks continuity. This audit changed active text orders only.
+
+## Follow-up: personality restoration and visible readback — November 9, 2026
+
+At Ryan's direct request, the earlier cleanup was supplemented with **expanded, individual working/character descriptions**, not another copied routing preamble. All 21 active agent cards were edited and then read back to confirm their expanded sections and source-receipt behavior; the Orders dispatch character card was also expanded. Historical Grokbot portrayals remained nonexecuting, Muse remained off-project, and the sealed older repository was not altered. Git revision history retains every earlier version.
+
+**Shared read-receipt contract:** [active ORDERS](ORDERS.md) distinguishes READ, IMAGE PIXELS INSPECTED, EDITED, VERIFIED, HANDOFF SENT, RECIPIENT CONFIRMED, RENDERED and OWNER APPROVED. [Meta's active card](META.md) and [native day-one router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) require source reads to be acknowledged in operator chat but never fed into filmed dialogue. [Native Google ORDERS](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) remains under 10k characters (9,330 after this update). The film's exact six-paragraph spoken source remains unchanged.
+
+| Agent | Expanded card size (GitHub bytes) |
+| --- | ---: |
+| [ALEXA](ALEXA.md) | 2,526 |
+| [CHAT](CHAT.md) | 3,895 |
+| [CLAUDE](CLAUDE.md) | 2,591 |
+| [COPILOT](COPILOT.md) | 2,326 |
+| [CUBE](CUBE.md) | 2,736 |
+| [DEEPSEEK](DEEPSEEK.md) | 3,345 |
+| [DODECAHEDRON](DODECAHEDRON.md) | 2,715 |
+| [DONUT](DONUT.md) | 2,597 |
+| [GEMINI](GEMINI.md) | 2,433 |
+| [GROK](GROK.md) | 4,185 |
+| [ICOSAHEDRON](ICOSAHEDRON.md) | 2,763 |
+| [JAN](JAN.md) | 2,850 |
+| [META](META.md) | 4,982 |
+| [MISTRAL](MISTRAL.md) | 2,357 |
+| [MUSE](MUSE.md) | 3,534 |
+| [PERCENTILE](PERCENTILE.md) | 2,757 |
+| [SIRI](SIRI.md) | 2,269 |
+| [SPHERE](SPHERE.md) | 3,078 |
+| [TERRA](TERRA.md) | 2,379 |
+| [TETRAHEDRON](TETRAHEDRON.md) | 2,909 |
+| [WORK](WORK.md) | 3,739 |
+
+**Additional verification:** [Orders character](ORDERS_CHARACTER.md) ≈ 3.2k characters; [current GitHub ORDERS](ORDERS.md) ≈ 5.6k; [Meta router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) ≈ 5.5k; [Start Here](START_HERE.md) and [README](README.md) now route agents to individual profiles and the readback protocol. These instructions do not demonstrate that any external AI session has reloaded them or that video was rendered. Actual read acknowledgments require the agent to open the sources and report evidence in its live session.
