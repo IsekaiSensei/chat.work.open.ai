@@ -1,3 +1,18 @@
+# CURRENT SELECTED STORY — TO WORLD PILOT / AGUA ARRIVAL + FRIENDS — NOVEMBER 8, 2026
+Ryan's current request: himself driving his black Saturn Astra XE north toward San Diego, rounding the Coronado Bridge approach, descending on the concealed concrete road slab into the underwater tube and Agua World / Secret Bay Aqua; then manufacturing the existing agent lineup and the Friends printer-failure story, preserving its kitchen comedy and lonely café ending.
+PILOT TREATMENT — READABLE NATIVE BODY: https://docs.google.com/document/d/1H6cLtwBy9IDvBHFS68z80I1_9inXvzSfnvE-j-eX1NY/edit
+The treatment contains story beats and an opening sample. The full pilot screenplay and its shot list are still in development. Do not treat a treatment beat as a completed render prompt or fill missing pilot scenes with a different screenplay.
+
+VOLTMETER IS A RETAINED LATER CHAPTER. Its old Batch 01 / Clip 007 is not this pilot's printer scene. Generic directions such as “follow orders” or “continue the run” do not reactivate the retired Voltmeter batch. A later explicit owner selection of that story controls if given. Old ACTIVE / START / NEXT labels below are historical, not competing current assignments.
+
+R2 IS A TIMING / PLANNING METHOD: approximately fifteen-minute setting windows and individually chosen 5–15-second shots. It supplies no replacement location, character, wardrobe or appearance. Do not propose moving old Volt into a supposed “r2 setting.”
+
+VISUAL INPUT: use the actual owner-selected uploaded JPEG masters for Ryan, the relevant character and the workshop in the renderer's image inputs. A profile photo is not an automatic substitute for the selected nine-view. Already attached usable masters should be used directly; no repeated approval or mandatory external readback. Preserve the selected face, hair, body, materials and clothing; do not fill those identity choices from generic model invention. If a required master is absent from that render input, identify only the affected shot's missing image once. Keep internal routing and QC instructions out of the generation prompt.
+
+CLIP 007 INCIDENT: Ryan supplied Meta's report that it ran the retired Voltmeter clip and omitted the nine uploaded masters, using a profile image and invented visual details. This records the reported mismatch, not independent video inspection. It is not a new render receipt or an instruction to redo that clip.
+
+END CURRENT ASSIGNMENT / ROUTING CORRECTION — earlier source records follow.
+
 # META — ART DIRECTION IS PREPRODUCTION, NOT A RENDER-BLOCKING PROMPT — CORRECTION 2026-11-08
 
 **Art direction reference (native Google Doc body):** https://docs.google.com/document/d/140KSCUQe53-cREZMdBXtGWULXI9_KnOwjz58sWF_Ix8/edit  
