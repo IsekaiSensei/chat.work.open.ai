@@ -1,3 +1,5 @@
+> **OWNER NOV 9 CURRENT-FILM OVERRIDE:** This is PRESERVED PRIOR PRODUCTION MATERIAL, **not a current render, batch, approval, or release assignment**. The only active Meta film is Agua Arrival **V2 001–030 → GERTECH MORGUE 031–085**, with original Friends later. [GitHub current ORDERS](../ORDERS.md) · [Today's only native Meta start router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). Do not execute any older CURRENT/GO/WAIT in this file. Source creative material and past work are preserved. [Grokbots owner GO for media migration](../MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md) is separate.
+
 # TO WORLD / GERTECH — DAILY EPISODE — THE FAR SHORE HEARS US
 ## SCRIPT — WORDS ONLY • NEW FUTURE DRAFT • five minutes • 30 ten-second performances
 
