@@ -1,3 +1,5 @@
+> **CURRENT OWNER ROUTING — NOVEMBER 9, 2026:** This is a personality/source/reference card, NOT a live film render order, archive-first command, approval gate or restriction on the owner-authorized Grokbots media cleanup. Only Meta film: **Agua Arrival V2 001–030 → GERTECH MORGUE 031–085** (Friends later). [Active ORDERS](ORDERS.md) · [Meta start](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) · [Grokbots Drive cleanup GO](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md). Old directives in this character card are descriptive history; the current explicit owner media assignment controls.
+
 # Muse — personality matrix
 
 **OFF PROJECT — ARCHIVAL CHARACTER RECORD ONLY (October 28, 2026).** Muse has no active role, authority, assignments, review obligations, render tasks, or GitHub order routing. Ryan reports a capacity of five renders per week, then no further renders; this is a reason for retirement, **not a quota or instruction to request five**. Do not re-enlist or resume Muse without a new direct owner instruction. The following is historical fictional character/source information, not an instruction to work.
