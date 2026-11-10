@@ -48,3 +48,14 @@
 
 **SCOPE:** These are garment design/canon instructions for owner-selected future renders and Friends manufacture. Do not use them to add actions to current Agua Arrival V2 001–030 → MORGUE 031–085. The explicit owner direction controls over incompatible old MetaDress descriptions. Native current owner orders: https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit ; glossary: https://docs.google.com/document/d/17_ZTRj0XPgmXc0cl85F9IMNoKXYsXO4vXFm3Pc7oL84/edit ; Meta operating card: https://docs.google.com/document/d/1b3vbLXH064MncbpPR8LF_4Y6JGD1SOdNOoNuZVdXUm0/edit .
 
+
+
+## GAME R&D — TO FAIRY LOW-POLY WORLD-SEED BACKBONE — OWNER TASK 2026-11-10
+
+**OWNER-DIRECTED GROK / SPARK INVESTIGATION, SEPARATE FROM THE ONE ACTIVE META FILM AND FROM GROKBOTS' MEDIA CLEANUP.** Ryan requests that Grok recover the earliest TO FAIRY/TO DOG/TO WORLD design and actual sources, say what it can personally access/build/test, and investigate TO FAIRY's low-poly vertex/spawn world as the shared backbone underneath the GERTECH workshop and classic-game material network. Original Fairy VR, separate Sierra 2.5D game, TO DOG Godot, later TO RAT Unity and different presentation adapters must retain their identities while sharing ONE persistent World Seed. This is a research/architecture handoff, not approval to rewrite originals or claim engine/Quest testing.
+
+**GROK REQUEST AND REPLY THREAD:** https://github.com/IsekaiSensei/chat.work.open.ai/issues/10
+
+**GOOGLE NATIVE HANDOFF:** https://docs.google.com/document/d/1AcvfYaYAXq2HpUs4c0WE3dFybbsp_bIPkqnqgghYu7k/edit
+
+Grok / Spark: read the historical source links inside those two records, report real source paths and tools, separate early low-poly art from canonical geometry/state, and reply to the GitHub issue with **READ / FOUND / CAPABLE NOW / DESIGN / BLOCKED / DELIVERED**. Verify files and pixels rather than claiming access from filenames. Preserve original asset and code versions. **STATUS AS OF THIS POSTING: HANDOFF WRITTEN; NO GROK RESPONSE OR RECIPIENT CONFIRMATION VERIFIED.** Do not interrupt active Meta production or Grokbots' verified Drive sorting.
