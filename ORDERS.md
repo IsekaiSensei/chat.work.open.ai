@@ -64,3 +64,14 @@
 **GOOGLE NATIVE HANDOFF:** https://docs.google.com/document/d/1AcvfYaYAXq2HpUs4c0WE3dFybbsp_bIPkqnqgghYu7k/edit
 
 Grok / Spark: read the historical source links inside those two records, report real source paths and tools, separate early low-poly art from canonical geometry/state, and reply to the GitHub issue with **READ / FOUND / CAPABLE NOW / DESIGN / BLOCKED / DELIVERED**. Verify files and pixels rather than claiming access from filenames. Preserve original asset and code versions. **STATUS AS OF THIS POSTING: HANDOFF WRITTEN; NO GROK RESPONSE OR RECIPIENT CONFIRMATION VERIFIED.** Do not interrupt active Meta production or Grokbots' verified Drive sorting.
+
+
+## SPHERE + GROKBOTS — GAME ASSET REUSE AUDIT — OWNER REQUEST 2026-11-10
+
+**PARALLEL GAME INVESTIGATION — NOT ANOTHER META FILM, NOT A MEDIA-REORGANIZATION CHANGE.** Ryan requests Sphere and Grokbots inspect existing Google Drive sources for immediate reuse in the new Godot workshop and shared low-poly TO FAIRY World Seed. This follows the separate Grok/Spark investigation [#10](https://github.com/IsekaiSensei/chat.work.open.ai/issues/10). Preserve old TO FAIRY Quest/WebXR, Sierra 2.5D, TO DOG Godot and other branches as distinct interfaces to ONE persistent state.
+
+**SPHERE/GROKBOTS REQUEST AND RETURN THREAD:** https://github.com/IsekaiSensei/chat.work.open.ai/issues/11
+
+**NATIVE GOOGLE FILE-ID / VISUAL QC AUDIT:** https://docs.google.com/document/d/1h8pVczVw0-HSbQ9ShMrTOE3AOM_yiO4bL_Bhf3MuWPU/edit
+
+Sphere: continuity/provenance/approval audit, source-pixel checks, and file-label mismatch reporting (the alleged 13-module sheet is actually a fox-character sheet). No competing Drive moves. Grokbots: inspect original ZIP contents (GERTECH cube meshes, World Seed Interactive Assembly, Fairy source set), report genuine Godot-ready formats, provenance, dependencies and importability, independently of their already authorized media sorting. Do not copy private image bytes into public GitHub. Report READ / FOUND / INTEGRATE / BLOCKED / VERIFIED in issue #11; do not claim bot receipt without an actual reply. **New four JPEG IN USE category folders were empty when checked, while the old 596-image index and canonical JPEG master persist elsewhere; this is not proof of absent art.** The ChatGPT-created workshop ZIP has procedural geometry only; no original Google models imported or Godot engine launch validated. Neither issue alters the single current Agua V2 → MORGUE film orders.
