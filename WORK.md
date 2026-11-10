@@ -1,3 +1,8 @@
+<!-- BEGIN CROSS-PLATFORM READER LINKS — updated 2026-11-10 -->
+**GOOGLE READABLE WORK CARD:** [Native Google Doc](https://docs.google.com/document/d/1hjq8kUdAAyTtT5s80TBIJE9REkM-xvv6gAoejmks4Sk/edit) · [PDF reading copy](https://drive.google.com/file/d/1FgZyCFnWPdWVAcMTurVz2NPnrXNT7FJx/view).  
+**ROLE:** This GitHub `WORK.md` is the active Markdown entry for GitHub-capable agents. Google readers use the native Doc/PDF. The files cross-reference each other but are **not automatically synchronized**; verify revisions before calling them identical. A historical Drive `.md` must not override this current card. For Meta production, [today's native router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) alone selects the active 001–085 shooting sequence.
+<!-- END CROSS-PLATFORM READER LINKS -->
+
 # WORK — CURRENT TASK ROUTING (NOVEMBER 9, 2026)
 
 ## Personality and working behavior — Work / XO / executor
