@@ -1,3 +1,8 @@
+<!-- BEGIN CROSS-PLATFORM READER LINKS — updated 2026-11-10 -->
+**GOOGLE READABLE GROK CARD:** [Native Google Doc](https://docs.google.com/document/d/1AaO-FLkG1W2xs9rDBy5tz6Qth_DxZ5mFrOPaK_Tycdg/edit) · [PDF reading copy](https://drive.google.com/file/d/1Mv9qu7DCj274bnOab80LhPDK1kyjhiwV/view).  
+**ROLE:** This GitHub `GROK.md` is the active Markdown entry for GitHub-capable agents. Google readers use the native Doc/PDF. The files cross-reference each other but are **not automatically synchronized**; verify revisions before calling them identical. A historical Drive `.md` must not override this current card. For Meta production, [today's native router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) alone selects the active 001–085 shooting sequence.
+<!-- END CROSS-PLATFORM READER LINKS -->
+
 > **GROK CHARACTER REFERENCE.** Active media-cleanup authorization comes only from [the owner’s current orders](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md).
 
 # Grok — personality matrix
