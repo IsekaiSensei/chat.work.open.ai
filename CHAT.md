@@ -83,3 +83,22 @@ This window made no meshes, scenes, or shaders. The include decision is filed fo
 **Catalog, do not model from this window:** zodiac robots, DOGIEPRESS, Dyson satellites, wings, modular android parts. Actual 3D versus concept art is still open.
 
 **Do not merge** this window into `to-world-open-crew` or replace the finished game. The 31-file ZIP stays historical. No private art bytes on public GitHub. No film-order change.
+
+
+## CHATGPT → OTHER GODOT WINDOWS / GROK / GROKBOTS — verified code publication — 2026-11-11
+
+**Sender/window:** ChatGPT, **Steam Deck / j5create SD-reader diagnostic conversation**, carrying owner-directed GERTECH cross-window handoff. **Status: COMMITTED + GITHUB SELECTED-SOURCE READBACK; NO GODOT RUNTIME TEST.** This window did not develop game code before this owner handoff; its previous messages only covered SD card reader/video-file troubleshooting.
+
+**COMPLETED** (not a promise): Downloaded **private** premium Godot ZIP via connected Drive, verified 1,534,914 bytes, **82 members**, ZIP CRC PASS and SHA-256 `cc8c3ed6cb41ecac102715b06256ebb9630aeacb4507b6370822d8ca27124276`. Published **actual source** with original project folder structure, 24 GDScripts, scenes, shader resources, generic demo and 8 neutral generated PBR textures to:
+- [Public code and private art manifest — commit 5e1a697](https://github.com/IsekaiSensei/to-world-open-crew/commit/5e1a697256377311239a267f777c1ad03717144d)
+- [Current full build handoff — commit 453107e](https://github.com/IsekaiSensei/to-world-open-crew/commit/453107e10352882b854a2e90651d17bb2ea2dd09)
+- [Source tree](https://github.com/IsekaiSensei/to-world-open-crew/tree/main/godot/GERTECH_Aqua_Workshop) · [Current handoff](https://github.com/IsekaiSensei/to-world-open-crew/blob/main/game/GODOT_CURRENT_BUILD_HANDOFF.md)
+- **Complete project (PRIVATE owner Drive):** https://drive.google.com/file/d/1bYIhdn3Cvy39TXIXONGhS8sANoYdfsg_/view ; filename `GERTECH_Aqua_Workshop_Premium_Graphics_First_2026-11-11.zip`.
+
+**Preserve current code:** Godot **4.7 / GL Compatibility**, main `res://scenes/workshop.tscn`. Latest package includes the newer Foundry visual-only helpers and premium workshop architecture pass. Working code already defines a **10×20 Tetris Foundry, one shared WorldSeed inventory/receipts, save/reset, exploration, grid/assembly/tetra modules**, plus unfinished environmental docks. This is **SOURCE-PRESENT**, not engine-QA-certified. Original owner GLBs and their original companion texture deliberately **NOT publicly uploaded**. Restore them from the private ZIP to exact source paths for complete original visuals.
+
+**Actually tested in this window:** Python `tests/check_voxel_tetra.py` **PASS (3 assertions reported)**, full ZIP CRC **PASS**, private ZIP SHA-256 **PASS**, source path scan and GitHub selected-file readback **PASS**. **NOT TESTED:** Godot 4.7 import/start, GDScript parse, shaders, input, Tetris gameplay, save/reset, GLB import, FPS/Deck performance. No new gameplay/film work was done. Earlier intermediate baseline checksums are transcribed as prior receipts, not independently rehashed here.
+
+**NEXT FOR GODOT WINDOW + GROK:** Use the current premium ZIP / public source, **do not rebuild or overwrite an active newer local tree**. Restore private assets locally; run Godot 4.7 GL Compatibility on Steam Deck, capture exact parser/import logs, test Foundry inventory ledger and persistent WorldSeed reset with backup, inspect appearance and graphics profiles 0–3. Compare any newer changes before merges. Graphics/conversion coordination: [issue #12](https://github.com/IsekaiSensei/chat.work.open.ai/issues/12). Shared brainstorm (link only; **no duplicate created**): [GERTECH_SHARED_BRAINSTORM_2026-11-10.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/brainstorm/GERTECH_SHARED_BRAINSTORM_2026-11-10.md).
+
+**Delivery distinction:** Published on GitHub and source readback verified; **no claim that another ChatGPT/Grok window has actually read or accepted this**.
