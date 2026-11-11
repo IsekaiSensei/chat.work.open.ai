@@ -76,3 +76,29 @@ The four foundational images and supplementary growth atlas/concept sheets illus
 For each new modular contribution, submit: exact source path/commit; module template and subassembly graph; canonical visual source references; ports/mounts/channels/material/weight constraints; version/migration expectations; build mode; minimum test and reproducible result; unresolved gaps. Contributors communicate **ChatGPT via [CHAT.md](../CHAT.md)** and **Grok via [GROK.md](../GROK.md)** and everyone reads **[ORDERS.md](../ORDERS.md)**. A comment or link is not proof of recipient read; cross-linked Google and GitHub orders are not auto-synchronized.
 
 **Order of integration:** preserve latest finished build → inspect its actual World Seed and game standards → compare this conversation's useful geometry/transformation/industrial-wing concepts → propose small isolated modules → test adapter/persistence/ports/inventory/graphics → promote only owner-approved passing additions. No silent source-code overwrites, no separate backpack, no automatic merge, no unrelated film prompt or media archive changes.
+
+
+## 8. Owner extension — plasma kerf, aether ley lines, spawn points, life makes life
+
+**Exact owner words (2026-11-10):** “kerf aether network, spawn points. kerf of laylines. life makes life.” Original wording preserved; *ley lines* is the common spelling of *laylines*. This is an **owner-directed conceptual relationship**, not evidence that the finished game implements it or that any real plasma cut causes an ether effect.
+
+**One construction mechanism, four distinct layers:**
+1. **Kerf / negative space:** A plasma cutter removes material along a controlled path; the kerf leaves a precisely bounded slot, cavity, opening or mounting pattern. Offcuts and recoverable dross follow the existing resource-handling loop. Preserve cut geometry in the part/material provenance.
+2. **Aether/ley-line routing:** A kerf-shaped opening may accept a port/socket, GALACTIC ETHER RELAY channel or node interface. The pattern of aligned, validated openings provides *network access points*; ley-line paths are the connectivity graph joining the nodes. This is **not** a new unvalidated mechanical port: Construction DNA physical ports and energy/control conditions still apply. Merely drawing a cut or a gold line does not connect the network.
+3. **Spawn point:** A fully connected, powered/activated and explicitly registered node may become a named game-world spawn point or construction endpoint. Reuse the existing `GAME_STANDARDS.md` spawn-point/spawner namespaces and persistence, including cooldown, enabled state and world-local coordinates, rather than introducing a competing spawn system. The selected template, construction DNA, network state and owner-approved organism/robot design determine what can appear there.
+4. **“Life makes life”:** An active worker/organism/factory/satellite uses available instructions and its operating mode to establish, build, repair or seed the next network node and its next builder. A Dyson-swarm maintenance unit can therefore participate in assembling the stellar infrastructure that makes more maintenance units. This is a **recursive production / living-network design principle**, not a literal assertion that matter appears from nothing, and not a declaration that all spawn nodes generate the same type of life.
+
+**Game loop linking the industrial minigames (proposed mechanics):**
+- **Asteroids / Dig Dug** — fracture/excavate ore and salvage to feed manufacturing.
+- **Arc smelting / plasma furnace** — melt, refine and form plate/stock.
+- **Tetris** — nest and pack component blanks on sheets or in the foundry.
+- **Mouse Maze / path tracing** — specify the plasma toolpath / proposed ley-line route.
+- **Breakout / Space Invaders** — remove material or sequence parallel cuts; create *real kerf cavities and retained parts* (cut geometry, offcuts and stock changes must be accounted for).
+- **DOGIEPRESS / module assembly** — make or mount typed components into valid cut sockets; connect power/data/ether and verify the resulting network.
+- **World Seed / spawn system** — register activated network nodes and permit builders to replicate infrastructure. Event log stores kerf creation, material removal, socket fitting, relay linking, activation, spawn registration and descendant construction.
+
+**Mode boundaries:** Creative/blueprint mode does not need a material-payment gate; Foundry/material mode consumes/produces through the one shared backpack. No free duplicate materials; no spawn-point reset across games; no automatic self-replication outside its configured builder/spawner rules.
+
+**Visual rule:** show cause → result: plasma beam removes a narrow strip → visible empty kerf → gold/crystal interface seats in the opening → network lines propagate to matching nodes → a real spawn/construction event occurs → the new builder produces another valid node. **The opening is a designed functional negative space, not decorative lighting.**
+
+**Status and integration:** Additive design specification only. Compare this sequence against the code completed in the other window before proposing a new subsystem. Preserve film orders, canonical artwork, existing World Seed identifiers, and the reusable port/spawner systems; no unrequested merge or model generation.
