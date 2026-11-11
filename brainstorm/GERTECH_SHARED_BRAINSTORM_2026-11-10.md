@@ -362,3 +362,17 @@ Native Google Doc: https://docs.google.com/document/d/13BCKvXQuwUM9EX6aNuU0sNKFJ
 **Core integration boundary:** Real current Godot WorldSeed v1.0 has no `glass_tube` or dedicated five-crystal keys and no portal-pair unlock flag. **CHATGPT owns the necessary versioned schema, atomic stock debit/credit, warp connection validation, anti-duplication save semantics and integration**; Grok/Grokbots can request a separate glassworking or shop-front add-on assignment. No direct modifications/stubs to `workshop/inventory.gd`, `worldseed/*`, `scripts/workshop.gd`, `theme_foundry/*` or user saves. Neither a new shop nor a wormhole game has been implemented or tested in Godot by this note. 
 
 **Related cross-window dispatcher:** https://github.com/IsekaiSensei/chat.work.open.ai/issues/15 ; **crystal sorting design:** https://github.com/IsekaiSensei/chat.work.open.ai/issues/14 ; current real game https://github.com/IsekaiSensei/to-world-open-crew/tree/main/godot/GERTECH_Aqua_Workshop . **No film/Meta direction changes.**
+
+### 2026-11-11 — OWNER: RATS OF NIMB + FULL LAB EQUIPMENT = SPAWN POINT
+
+**OWNER EXACT WORDS:** "and what happens when you give the rats of NIMB a full set of lab equiment? SPAWN POINT!"
+
+**STATUS: OWNER-APPROVED GAME PROGRESSION RULE; TECHNICAL REQUIREMENTS / CODE NOT YET IMPLEMENTED.** Preserve **Rats of NIMB** exactly as the owner wrote it; do not auto-rename characters, introduce unrelated lore, or assume the phrase is a typo.
+
+**World-building chain:** Build two *stable, genuinely connected* DNA-helix wormholes → trade route/shop becomes accessible → mice and rats arrive and exchange **crystals FOR player-made blown-glass tubes** → the player equips the **Rats of NIMB** with a **complete set of laboratory equipment** → the lab qualifies as an **active SPAWN POINT**. This is infrastructure progression through an inventory-funded job, not a free unlock merely for talking to a trader. An incomplete lab does **not** activate a spawn point.
+
+**Future GAME integration contract:** ChatGPT core must verify stable wormhole/network connection; specify a lab-equipment checklist/recipe with owner approval; debit/deliver each real item exactly once from the one shared inventory; store equipment-installation progress in the persistent WorldSeed; and atomically set a valid spawn-point state only after the full set is assembled. Which units/entities the point can spawn, energy needs, cooldowns, ownership, arrival schedule and placement are still **UNDECIDED**; do not invent or auto-spawn animals/resources from the marker. This follows existing spawn gate / paid-node principles in the shared brainstorm.
+
+**Bot boundary:** Isolated minigame/tools and visual outpost concepts are welcome only under ChatGPT tasking. Existing Godot workshop, Tetris Foundry, inventory/WorldSeed, save/reset, film and personal media are unchanged. No claim of Godot implementation, engine run, NPC AI or bot acknowledgment.
+
+**Coordination:** [central minigame dispatch #15](https://github.com/IsekaiSensei/chat.work.open.ai/issues/15), [single core Godot handoff](https://github.com/IsekaiSensei/to-world-open-crew/blob/main/game/GODOT_CURRENT_BUILD_HANDOFF.md).
