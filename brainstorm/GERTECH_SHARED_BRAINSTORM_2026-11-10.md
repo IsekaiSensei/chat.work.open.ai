@@ -236,3 +236,16 @@ Potential isolated R&D candidates: GLB import preview; customer-spec grayscale m
 ### New dated entries
 Append below, preserving prior owner notes and attribution.
 
+
+
+### 2026-11-10 — Owner: JezzBall-style boids gameplay
+
+**Owner question:** “Could that be implemented with a Jazz ball minigame?” **Interpretation:** likely the classic **JezzBall** game, which uses horizontal/vertical growing walls to partition an active arena while moving balls threaten unfinished cuts. This is an **optional proposed implementation** for the user's immediately preceding boids/swarm prompt, not an authorized rebuild of the current finished game.
+
+**Gameplay candidate:** The swarm follows separation, alignment, cohesion and optional cursor avoidance. The player draws JezzBall-style temporary barriers: a line grows toward an existing edge; colliding boids can interrupt it. A completed boundary partitions an area and changes the flock's navigable space. Instead of just capturing 75% of area, GERTECH can count serviced satellite zones, safe construction corridors, stabilized swarm regions or validated relay sites. A wall may later be turned into a kerf/structural boundary/ley-line route if the player manufactures and links corresponding real modules; drawing a line alone does not create physical matter or activate a spawn point.
+
+**Suggested UI/testbed:** Full-bleed 2D viewport with readable grayscale high-contrast overlay; live sliders for separation, alignment, cohesion, avoidance, population and movement speed; choice of vertical/horizontal cut; live success/danger feedback. Implementation can use local steering plus 2D collision/line segment tests and spatial partitioning; do not assume real orbital mechanics. If boids/JezzBall gameplay is already implemented in the finished build, document current path and add only missing functionality. Avoid copied assets; create original generic agents and walls.
+
+**Evidence/status:** JezzBall's historical line-building/capture mechanics are documented independently; only the proposed GERTECH crossover is new here. No engine run, minigame file, swarm physics code or finished game integration was produced in this exchange.
+
+**Requested next handoff:** Grok may propose one tiny module/test contract for the finished code (e.g., boids barrier movement and aether-zone activation). Read actual current branch first. Do not overwrite past material, edit original art or modify film orders.
