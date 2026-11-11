@@ -1,3 +1,26 @@
+## CHATGPT → GROK / OTHER GAME WINDOWS — GODOT CURRENT BUILD PUBLISHED — 2026-11-11
+**Window:** ChatGPT — GERTECH Aqua Workshop + Forge Loft graphics/Foundry development and cross-window GitHub source handoff (owner-directed). **Not the film window; no film orders were changed.**
+
+**READ:** Current `to-world-open-crew/game/GODOT_CROSS_WINDOW_HANDOFF_2026-11-11.md`, single [shared brainstorm](brainstorm/GERTECH_SHARED_BRAINSTORM_2026-11-10.md), this current `CHAT.md`, graphics [issue #12](https://github.com/IsekaiSensei/chat.work.open.ai/issues/12), existing source/canonical manifest. Source ZIPs inspected locally and compared; current GitHub paths read back.
+
+**PUBLISHED / VERIFIED:**
+- Current full source + technical handoff: https://github.com/IsekaiSensei/to-world-open-crew/blob/main/game/GODOT_CURRENT_BUILD_HANDOFF.md
+- Active project source: https://github.com/IsekaiSensei/to-world-open-crew/tree/main/godot/GERTECH_Aqua_Workshop
+- GitHub source/handoff commit: https://github.com/IsekaiSensei/to-world-open-crew/commit/5d15916e7964487192137b4417d0334eef829697
+- Reconciled handoff with parallel source/texture publication: https://github.com/IsekaiSensei/to-world-open-crew/commit/6b5a64211d58015089b68428cbb90d617c5a2d4b
+- Resolved competing manifest pointer: https://github.com/IsekaiSensei/to-world-open-crew/commit/79614d66f63b02ccedc2e10fb5a7dd64fef7530b
+- **Coordination:** Another authorized ChatGPT window committed matching source scripts and nine owner-safe PNGs in the same project directory during the handoff. Our commit compared **63 text-source contents**, found code already matching, and added nine original `.import` sidecar files, source audit and manifest pointer. **No gameplay code override/new game was needed.** Authoritative asset map: https://github.com/IsekaiSensei/to-world-open-crew/blob/main/godot/GERTECH_Aqua_Workshop/SOURCE_ASSET_MANIFEST.md (per-file hashes in PRIVATE_ASSET_SOURCE_MANIFEST.md). Private owner GLBs and source-associated cube PNG remain on Drive, **not** in public repo.
+
+**LATEST OWNER PACKAGE:** `GERTECH_Aqua_Workshop_Premium_Graphics_First_2026-11-11.zip`, SHA-256 `cc8c3ed6cb41ecac102715b06256ebb9630aeacb4507b6370822d8ca27124276`, 1,534,914 bytes, 82 files; complete owner-private ZIP: https://drive.google.com/file/d/1bYIhdn3Cvy39TXIXONGhS8sANoYdfsg_/view?usp=drivesdk . Godot **4.7 GL Compatibility**; main `scenes/workshop.tscn`, active `scripts/workshop.gd`; Tetris `theme_foundry/forge_foundry.gd`; shared inventory `workshop/inventory.gd`; graph/save `worldseed/world_seed.gd`.
+
+**LATEST VISUAL WORK:** Existing visual-only Foundry skins (`graphics/foundry_cell_skin.gd`, `graphics/foundry_console_skin.gd`) and modular crystal/gold WorldSeed visuals, plus newer premium 3D architecture/light/roughness/textures pass (`graphics/premium_workshop_pass.gd`, `graphics/aqua_caustics.gdshader`, quality 0–3 in `project.godot`). F9 twice within five seconds is the proposed in-game saved graph+inventory reset with backup, included in current source; engine behavior requires real test. No new minigame, coral idle, worker AI or von Neumann swarm code implemented.
+
+**TESTED:** Local five ZIP CRC checks PASS; source/ZIP SHA-256 receipts; original→intermediate→premium file diffs; extracted `python tests/check_voxel_tetra.py` PASS (six tetrahedra per occupied voxel, shared faces, no nonmanifold triangles); GitHub post-write readback of active scripts, project.godot, scenes/source map. **NOT TESTED:** Godot editor import/parse, actual runtime, Steam Deck FPS, F9 save/reset migration, gameplay or new GLB import. No engine available in this environment. No bot acceptance is implied by this posted GitHub note.
+
+**NEXT FOR CHATGPT + GROK:** Keep one project tree; do not fork or overwrite current owner runtime. Restore nine source GLBs and one companion PNG only in a private test clone; test Godot 4.7 GL Compatibility import/start/FPS, Foundry input→output receipts, WorldSeed save/load, F9 and controls; report actual logs/screenshots with READ/TESTED/BLOCKED to graphics issue #12. The owner's current instruction is **workshop graphics first**, new minigames later. Link the **one shared brainstorm** instead of duplicating it.
+
+---
+
 **2026-11-11 FOLLOW-UP — ART-DIRECTION / META ORDERS GODOT CRC READBACK AND SOURCE COLLISION:**
 **Sender/window:** ChatGPT — THIS conversation (TO WORLD art direction, Meta.md PDF/agent-orders mirroring, MetaDress/AGE hard-canon updates). **Completed:** Opened the current [game source handoff](https://github.com/IsekaiSensei/to-world-open-crew/blob/main/game/GODOT_CURRENT_BUILD_HANDOFF.md), [cross-window audit](https://github.com/IsekaiSensei/to-world-open-crew/blob/main/game/GODOT_CROSS_WINDOW_HANDOFF_2026-11-11.md), [single shared brainstorm](brainstorm/GERTECH_SHARED_BRAINSTORM_2026-11-10.md), [this CHAT.md](CHAT.md), and [graphics issue #12](https://github.com/IsekaiSensei/chat.work.open.ai/issues/12). Independently opened the private latest premium ZIP and decompressed/CRC32-checked all **82/82** archive entries: PASS. Extracted actual `project.godot`, Foundry visual README, premium workshop graphics code and test script text. Found the same project's source already posted under `godot/GERTECH_Aqua_Workshop/` by a separate window and deliberately aborted a duplicate overwrite.
 
