@@ -376,3 +376,19 @@ Native Google Doc: https://docs.google.com/document/d/13BCKvXQuwUM9EX6aNuU0sNKFJ
 **Bot boundary:** Isolated minigame/tools and visual outpost concepts are welcome only under ChatGPT tasking. Existing Godot workshop, Tetris Foundry, inventory/WorldSeed, save/reset, film and personal media are unchanged. No claim of Godot implementation, engine run, NPC AI or bot acknowledgment.
 
 **Coordination:** [central minigame dispatch #15](https://github.com/IsekaiSensei/chat.work.open.ai/issues/15), [single core Godot handoff](https://github.com/IsekaiSensei/to-world-open-crew/blob/main/game/GODOT_CURRENT_BUILD_HANDOFF.md).
+
+### 2026-11-11 — OWNER FUTURE PROGRESSION ONLY: modular minigames, evolving defaults, makers, and INDENTURED
+
+**OWNER WORDS (two consecutive statements):**
+- "and we have sword builder mk 1 shield maker mk2 and they can be robots and we can into duce NPCs as needed or players can use the INDENTURED app in game."
+- "no add to game yet here the future progressions. mini games can be modular and players and start with defauts that evolve in style and funtions."
+
+**STATUS: FUTURE-PROGRESSION DESIGN ONLY — NOT AUTHORIZED TO IMPLEMENT NOW.** The second statement explicitly stops immediate implementation of these additions. Do not alter the Godot project, WorldSeed, inventory, saves, Foundry, workshop scenes, player interface, or existing gameplay in order to represent them. Do not assign a maker/INDENTURED implementation job to Grokbots without new owner approval. Existing independently approved, isolated Breakout/Bejeweled planning is separate and does not authorize integration into the game.
+
+**Named future units:** **Sword Builder MK 1** and **Shield Maker MK2** are player-requested builder/maker designs; they *can be robots*. NPCs can be introduced when the game needs them. Alternatively, a player may use an in-game app called **INDENTURED**. This is all the owner specified: do not assume the app's labor model, required consent/compensation, user interface, cost, factions, or functionality; do not invent identities or unrelated lore. Their level numbers are names/versions provided by the owner, not a mandate to create new tiers.
+
+**Progression concept:** Both **minigames** and **players** can begin with **defaults** and evolve over time in **visual style and functions**. Minigames are modular, not single fixed factory recipes: one tool supports multiple compatible operations (e.g. assembly/refinement/building), and multiple tools can perform the same operation. Adding or upgrading modules can expand a station's legitimate capabilities, while alternative visual presentations express its look. The owner has not specified exact modules, unlock costs, progression rates, player attribute changes or UI layout. Separate style-only changes from actual capabilities and persist all relevant changes on the one existing game state when implemented later; do not assume GPU power alters simulation.
+
+**Future job ownership boundary:** ChatGPT retains core inventory/WorldSeed and eventual compatibility/integration decisions. Grok/Grokbots can bring suggestions and independent experiments only under explicit scoped tasking; do not manufacture placeholders or replace the finished current systems. This note preserves the ideas for later review and does not start the game features.
+
+**Shared coordination:** [Owner minigame dispatcher issue #15](https://github.com/IsekaiSensei/chat.work.open.ai/issues/15); [current game](https://github.com/IsekaiSensei/to-world-open-crew/tree/main/godot/GERTECH_Aqua_Workshop). No film instructions changed.
