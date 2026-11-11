@@ -392,3 +392,14 @@ Native Google Doc: https://docs.google.com/document/d/13BCKvXQuwUM9EX6aNuU0sNKFJ
 **Future job ownership boundary:** ChatGPT retains core inventory/WorldSeed and eventual compatibility/integration decisions. Grok/Grokbots can bring suggestions and independent experiments only under explicit scoped tasking; do not manufacture placeholders or replace the finished current systems. This note preserves the ideas for later review and does not start the game features.
 
 **Shared coordination:** [Owner minigame dispatcher issue #15](https://github.com/IsekaiSensei/chat.work.open.ai/issues/15); [current game](https://github.com/IsekaiSensei/to-world-open-crew/tree/main/godot/GERTECH_Aqua_Workshop). No film instructions changed.
+
+
+### 2026-11-11 — OWNER DIG DOG NAME CORRECTION + MAN IN THE POCKET STATUS AUDIT
+
+**OWNER FIX:** **Dig Dog** is the actual in-game mining station name; **Dig Dug** is only the borrowed gameplay idea for discussion. The previous assistant's claim that the dock should remain "Dig Dug" was wrong; the owner corrected it. The actual Godot dock label and its Foundry intake sign have now been corrected to `DIG DOG` without changing gameplay, and project README now uses Dig Dog.
+
+**STATUS:** [Complete current 82-file ZIP in private Drive](https://drive.google.com/file/d/1oESoWFwdAPD_9NT0c-66YyTGZXPJGv3c/view?usp=drivesdk), SHA-256 `771b63f2314586319a0fb6af5edb78e20babc49863856309a7011603439b05ff`; compared to previous 82-file full restored build, only the `scripts/workshop.gd` two UI labels and two occurrences in `README.md` changed. ZIP CRC and voxel/tetra static suite pass; Godot 4.7 runtime, save/load/reset and actual play remain untested in this window. [Live source-verified #4 progression chart + #5 implemented-vs-planned audit](https://github.com/IsekaiSensei/to-world-open-crew/blob/main/game/GERTECH_MAN_IN_THE_POCKET_PROGRESSION_AND_BUILD_AUDIT_2026-11-11.md).
+
+**Seven docks:** Mouse Maze, Dig Dog, Breakout, Frogger, Asteroids, Space Invaders, Tetris Foundry. The first six are physical/exhibit placeholders; only Tetris has gameplay source. Bejeweled, Bubble and Balloon are not existing game docks. Wormholes, Time Ice ledger, shop, Rats of NIMB spawn-point, robot makers and audio are future progressions, NOT code. **Owner-required sound design** includes intermittent Tesla-coil cracks and sparks, a rhythmic whirring air compressor with pressure hiss, spatial ambience and minigame-specific layered music; no sound assets, players or event system are installed in this build. Do not mistake previous assistant embellishments for owner-confirmed story canon.
+
+**No engine code/station task or film order was altered by this documentation entry.**
