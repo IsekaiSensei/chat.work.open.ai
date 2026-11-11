@@ -24,7 +24,6 @@
 **OWNER'S CAR SOURCE-ROLE CORRECTION — NOVEMBER 9:** The previous assistant incorrectly turned the owner's high-mileage real Saturn into a deteriorated vehicle. The owner's two real parking-lot photos establish the REAL version of his Saturn Astra XE; they do not veto a fictional, neon, transformed, or modified version he deliberately selects for a film clip. Model mileage and old assistant descriptions are never aesthetic instructions. The sender must include the exact owner-selected real and/or creative image/model pack with EACH render handoff, identify which image defines identity, costume/body, styling, environment, or intended transformation, and transmit the actual media inputs. In the current clip, only the owner's selected design controls the visual result. The original car photo is required only when the current owner pack assigns it a role. No old rejected render, generic car guess, or earlier “no portal” instruction may overrule that choice. This coordination note must never become Meta dialogue.
 
 
-**HISTORIC NOV 9 QC — NOT A CURRENT V2 OR V3 RENDER ORDER:** Earlier native 85-shot route documents are reference only. Current owner-approved airbase/crystal Saturn route plus actual winning Batch 01 must govern; do not let old road or Navy carrier camera/action plans become active.
 
 
 
@@ -60,7 +59,7 @@
 
 **AGE — AGE GAUGE, PROPOSED FUTURE CLOTH-MOTION CONTROL:** When a development team is available, develop AGE as an adjustable MetaDress cloth-physics/secondary-motion control. The owner's design analogy is the older *Dead or Alive* 'age gauge' used for breast-motion effects, **transposed to garment movement rather than body anatomy**: adjustable drape, sway, flutter and follow-through. Exact algorithms, UI range and physics implementation are undecided. Regardless of motion tuning, the garment continues to maintain protective coverage. AGE is not character age, a finished implementation, or permission for sexualized juvenile appearance.
 
-**SCOPE:** These are garment design/canon instructions for owner-selected future renders and Friends manufacture. Do not use them to add actions to current Agua Arrival V2 001–030 → MORGUE 031–085. The explicit owner direction controls over incompatible old MetaDress descriptions. Native current owner orders: https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit ; glossary: https://docs.google.com/document/d/17_ZTRj0XPgmXc0cl85F9IMNoKXYsXO4vXFm3Pc7oL84/edit ; Meta operating card: https://docs.google.com/document/d/1b3vbLXH064MncbpPR8LF_4Y6JGD1SOdNOoNuZVdXUm0/edit .
+**SCOPE:** MetaDress belongs to future owner-selected clothing/film references; this section does NOT schedule any current shots or modify the owner's currently active car → airbase → crystal-gold modular Saturn route. Its old V2 opening numbering is withdrawn, while the original MORGUE spoken text stays verbatim when actually scheduled. [Native orders](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit).
 
 
 
