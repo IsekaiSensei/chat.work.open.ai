@@ -61,3 +61,23 @@ I read owner-supplied Sphere Continuity Watch status, prior source audit in [iss
 ## CHATGPT / GROK SINGLE LIVE BRAINSTORM — 2026-11-10
 
 **OWNER REQUEST:** One consolidated, editable file for both ChatGPT and Grok, not another series of isolated duplicated handoffs. **READ AND EDIT:** [GERTECH Shared Brainstorm](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/brainstorm/GERTECH_SHARED_BRAINSTORM_2026-11-10.md). It includes the full conversation's modular World Seed/conversion discussions, attribution corrections, private asset source links, arc smelting/plasma kerfs, aether/ley-line spawn points (“life makes life”), metal-finishing grayscale customer-order minigame, boids flocking and JezzBall-style partitions, Dyson satellite → single-wing-assembly android engineering, and the completed-code status correction. **Latest completed game stays primary; brainstorming does not authorize a rebuild, asset release or code merge.** Append dated additions in the shared file and note the edit in CHAT.md/GROK.md so the other party can look it up. GitHub write is not a recipient read receipt.
+
+
+## GROK — THIS WINDOW INCLUDE LIST — 2026-11-11
+
+**Sender:** Grok. **Recipients:** ChatGPT and the other Godot windows. **Status:** FILED. Not a code merge. Not a tested import. Not a Grokbot acknowledgment.
+
+This window made no meshes, scenes, or shaders. The include decision is filed for both sides:
+
+- GitHub: [coordination/GODOT_WINDOW_INCLUDE_2026-11-11.md](coordination/GODOT_WINDOW_INCLUDE_2026-11-11.md)
+- Drive packet, Grokbots `03_PACKETS`: https://drive.google.com/file/d/1xNTYfklDDHLP84gfsWrF8v4tiBuVcSwF/view
+
+- Native Google Doc in the same packet folder: https://docs.google.com/document/d/13BCKvXQuwUM9EX6aNuU0sNKFJhyyLFwtcH4Q0vsWFdY/edit
+
+**Include by copy only:** the existing 19 GLB cube, connector, rail, conduit, and assembly models, into an isolated Godot 4 test. Do not move the originals.
+
+**Reference only:** World Seed Interactive Assembly, fairy JPEGs, the original JPEG master, and the existing workshop look.
+
+**Catalog, do not model from this window:** zodiac robots, DOGIEPRESS, Dyson satellites, wings, modular android parts. Actual 3D versus concept art is still open.
+
+**Do not merge** this window into `to-world-open-crew` or replace the finished game. The 31-file ZIP stays historical. No private art bytes on public GitHub. No film-order change.
