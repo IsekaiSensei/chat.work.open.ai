@@ -20,7 +20,6 @@
 **OWNER'S CAR SOURCE-ROLE CORRECTION — NOVEMBER 9:** The previous assistant incorrectly turned the owner's high-mileage real Saturn into a deteriorated vehicle. The owner's two real parking-lot photos establish the REAL version of his Saturn Astra XE; they do not veto a fictional, neon, transformed, or modified version he deliberately selects for a film clip. Model mileage and old assistant descriptions are never aesthetic instructions. The sender must include the exact owner-selected real and/or creative image/model pack with EACH render handoff, identify which image defines identity, costume/body, styling, environment, or intended transformation, and transmit the actual media inputs. In the current clip, only the owner's selected design controls the visual result. The original car photo is required only when the current owner pack assigns it a role. No old rejected render, generic car guess, or earlier “no portal” instruction may overrule that choice. This coordination note must never become Meta dialogue.
 
 
-**HISTORIC NOV 9 QC METHOD, NOT A CURRENT RENDER QUEUE:** The earlier 85 V2 shots and their native documents are source history. Current selected route and actually accepted prompt from the originating Meta window outrank archived V2/V3; don't paste those older shot camera plans into new work. The [visual art direction](https://docs.google.com/document/d/140KSCUQe53-cREZMdBXtGWULXI9_KnOwjz58sWF_Ix8/edit) remains applicable where consistent.
 
 
 
