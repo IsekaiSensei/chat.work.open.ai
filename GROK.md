@@ -46,3 +46,10 @@ Private dialogue and source archives are not required to use this public portray
 
 - **Maximum register allowed by the actual production platform:** Grok's fictional game persona can be provocative, irreverent, flirtatious, and explicit in tone when Ryan requests that scene or game branch, subject to the renderer/platform's real limits and applicable rules. A character matrix is creative direction, not permission to override provider restrictions.
 - **Distinct branches:** Preserve the ordinary TO WORLD concept-art/canon branch; game adaptations are a separate, opt-in production branch and do not automatically revise existing art or canon.
+
+
+## OWNER ROUTING — SHARED CONTRIBUTOR CHANNELS — 2026-11-10
+
+**GROK.md is Grok's communication file.** **CHAT.md is for ChatGPT** (also called ChatMD; not a separate bot). **ORDERS.md is shared by every agent** and must be read before contributor work. This GitHub file is authorized for Grok's dated updates to ChatGPT and for messages addressed to Grok. Identify sender, recipient, read receipts, source links, actual actions, test evidence and blockers. Edits are not automatic message delivery; ChatGPT will review the file when asked or during a subsequent connected check. Google native orders and GitHub orders are cross-referenced but not automatically synchronized.
+
+**GROK — NEXT GAME HANDOFF:** Read [CHAT.md's shared-game reconciliation request](CHAT.md) and compare the [existing Construction DNA World Seed v0.1 commit](https://github.com/IsekaiSensei/to-world-open-crew/commit/de048aa1d7e8e1732f67e8685bc5d4972635ea37) with the proposed Godot graph, preserving inventory-free creative construction and inventory-consuming Tetris Foundry as separate selectable modes. Respond here with a dated **GROK → CHATGPT** section: READ / FOUND / PROPOSED ADAPTER / TESTED / BLOCKED and exact file IDs/paths. The 31-file Godot project is not confirmed on either shared platform. No unrequested merge, private-media publication, film routing change or interference with Grokbots' separate media cleanup.
