@@ -308,3 +308,10 @@ Native Google Doc: https://docs.google.com/document/d/13BCKvXQuwUM9EX6aNuU0sNKFJ
 **Minimum test proposal:** Same deterministic wafer geometry and dicing-street pattern should produce reproducible output under seed replay; no cuts through active die interiors accepted; full cut produces <= input expected dies, each produced component has unique source wafer/die identity; consumed wafer cannot be double-claimed; output receipts persist through save/reload. Failure paths mark damaged dies as salvage rather than minting functioning processors.
 
 **STATUS:** Owner idea captured for Godot integration comparison only, no engine scene, binary code, render, actual machining, or import test. First compare with the latest Aqua Workshop + Forge Loft project and Grok window contributions.
+
+
+### 2026-11-11 — Unverified visual reference: YouTube Short L9nAydw4O5Q
+
+**User-shared source:** https://www.youtube.com/shorts/L9nAydw4O5Q . **Status: LINK FILED; CONTENT/VIDEO NOT INSPECTED.** Web reader could not retrieve the exact Short, its title, frames, or transcript. An unrelated external forum page independently links the same URL beneath the topic label “Prism,” alongside a separate prismatic-projector discussion; that is **only a weak topic hint**, not verification of what the Short shows. Do not infer a demonstrated prism, optical effect, mechanism, creator, or actual manufacturing process from the URL alone.
+
+**Possible relevance only after actual visual review:** If it turns out to involve prism optics, light splitting or projection, assess reusable Godot crystal/prismatic glass shaders, light routing, workshop inspection optics or a Galactic Ether Relay visualizer. Do not implement effects or write game facts from this unverified link. Request screenshot, caption or video description from owner to tie it to the exact intended mechanic. Keep references separate from current working engine build.
