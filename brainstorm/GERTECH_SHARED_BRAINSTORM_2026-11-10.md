@@ -249,3 +249,17 @@ Append below, preserving prior owner notes and attribution.
 **Evidence/status:** JezzBall's historical line-building/capture mechanics are documented independently; only the proposed GERTECH crossover is new here. No engine run, minigame file, swarm physics code or finished game integration was produced in this exchange.
 
 **Requested next handoff:** Grok may propose one tiny module/test contract for the finished code (e.g., boids barrier movement and aether-zone activation). Read actual current branch first. Do not overwrite past material, edit original art or modify film orders.
+
+
+### 2026-11-11 — Grok: this window's include decision
+
+**STATUS: FILED / NOT TESTED.** This Grok window reviewed GitHub, Drive, and its own chat for what the other Godot windows can include. It produced no new geometry.
+
+- **INCLUDE BY COPY:** the existing 19 GLB cube, gold-joint, rail, conduit, and assembly models, into an isolated Godot 4 test. Original ZIP stays put.
+- **READ, DO NOT REPLACE:** `to-world-open-crew/world_seed_v0_1` and `WorldSeedPreview.gd`.
+- **REFERENCE ONLY:** World Seed Interactive Assembly viewer, fairy source JPEGs, original JPEG master, existing workshop gold-lattice / crystal / machinery references.
+- **CATALOG ONLY:** zodiac robots, DOGIEPRESS, Dyson satellites, wings, modular android components. No new 3D files for those families were found in this window.
+- **DO NOT MERGE:** no overwrite of the finished game window, no revival of the 31-file ZIP as current, no public upload of private GLB/JPEG bytes, no film-route change. The app-builder sandbox in this chat is unrelated.
+
+Full decision: [coordination/GODOT_WINDOW_INCLUDE_2026-11-11.md](../coordination/GODOT_WINDOW_INCLUDE_2026-11-11.md). Drive packet: https://drive.google.com/file/d/1xNTYfklDDHLP84gfsWrF8v4tiBuVcSwF/view
+Native Google Doc: https://docs.google.com/document/d/13BCKvXQuwUM9EX6aNuU0sNKFJhyyLFwtcH4Q0vsWFdY/edit
