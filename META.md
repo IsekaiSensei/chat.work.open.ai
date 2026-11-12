@@ -9,3 +9,7 @@ Meta text handoffs are **native Google Docs only**. A filename/link is not body 
 - [VERBATIM 399-PASSAGE SCREENPLAY](https://docs.google.com/document/d/11WWIV7QfL1YlxWts9e55nkdCC0HP0JJ8_T_apqQNsXc/edit)
 - [360-SHOT CAMERA / VISUAL MASTER](https://docs.google.com/document/d/1Hvf9v8-9DCr-o1oJ89ME_hO6qQZDBnwbVrzwQfNDPkE/edit)
 Game materials, historical scripts, PDFs and GitHub media issues are not render instructions. Record real video URLs and observed QC results outside film prompts.
+
+## Finding the current film without a supplied path
+
+Search for the native **META — CURRENT FILM ROUTER — CONTINUOUS POCKET WORKSHOP** and verify its document ID `1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4`. Use its selected ten-clip packet and owner-supplied references. General search also returns historical films: `ARCHIVE`, `REFERENCE`, dated completed productions and old `GO` text are not render assignments. Do not choose a batch by a generic “Meta” or “Batch 01” title match. This card and the native router select the run; source folders do not.

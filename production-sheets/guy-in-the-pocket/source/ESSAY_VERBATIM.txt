@@ -1,47 +1,5 @@
-Every video game inventory has a side the player sees and a side they never get to see. The player opens a menu, selects an item, combines materials, changes equipment, or asks for a repair. A square flashes. Something changes. The game carries on.
+# Reference source — not a render assignment
 
-My world takes place on the other side of that square.
+The complete original text is preserved unchanged in [the source archive](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ARCHIVE/retired-film-discovery-2026-11-12/production-sheets/guy-in-the-pocket/source/ESSAY_VERBATIM.txt).
 
-I am the guy in the pocket. The pocket dimension is where the inventory is kept, where the work happens, and where the people handling those requests actually live and operate. What looks instantaneous from the player’s side has an inside: a receiving point, an object, a worker, a task, and a return journey. The player sees the result. We get to see what happened in between.
-
-That is what I mean when I say we are the inventory space behind every video game. A fantasy adventurer may know it as a bag of holding. Another world may present it as a backpack, a cargo grid, an equipment slot, or a technological interface. Those are different ways to reach the same underlying system. The outside belongs to the player’s world. The work on the other side belongs to ours.
-
-A small opening can lead into a much larger place. The visible bag does not have to contain the physical volume of everything it can retrieve. It provides access to stored things and to the people responsible for them. Individual inventory slots can also connect to specialized storage pockets. The shared workshop and those storage destinations are related parts of the network; they do not all have to be one identical room.
-
-The Galactic Ether Relay, or GERTECH, connects them. It carries requests and materials between the worlds using the service and the places supplying it. A bag, a hand, an inventory square, or an equipment slot can be an access point. The pocket dimension is the place reached through that access. The quantum table is where the received object can be examined or worked on.
-
-The DNA wormhole opens the pocket dimension itself. When we look through that opening, the workshop, its inhabitants, and its action are inside the dimension it has opened. Smaller double-helix openings beside an item or receiving point are local transfers within that same network.
-
-The most familiar explanation for a transaction is an old bank drive-through. You put something into a capsule, seal it, and send it to the teller. The teller receives it, handles the request, and sends the capsule back. The teller does not have to climb into your car to do the work. In our world, the wormhole takes the place of the long pneumatic tube. The service happens at the other end.
-
-My quantum table is that other end. It is already there, in the pocket dimension, ready to receive a request from somewhere else. The arrival of a new customer does not create a new workshop. When a local transfer closes, the table and the people around it continue to exist.
-
-Consider a damaged tool. On the player’s side, someone selects repair. On our side, that same damaged tool arrives at the quantum table. We can see what is broken. Somebody handles it, fixes the fault, and checks the result. The same tool goes back through the appropriate opening, and the player’s inventory reflects its restored condition.
-
-The essential action is simple: in, fix, out.
-
-A repair request stays a repair request. It does not require the entire tool to be manufactured again. Other requests can involve fabrication or combining materials, but those are different jobs. If a gem and a shaft are sent for assembly, those actual materials arrive at the worker’s desk. The finished item returns after the work is done.
-
-This gives ordinary game actions a place, a workforce, and a story. Equipment comes from somebody’s work. Materials arrive from somewhere. Damaged objects pass through someone’s hands. The assistants who handle adventurers’ clothing are also the people behind the equipment change the player usually sees as a brief flash. I am the chief craftsman among them: receiving the coins, drops, ore, and requests, then helping send the results back.
-
-Some scenes reveal that world as a vast, weightless ether, with workers and transfer openings around the quantum table. Its drifting movement can resemble swimming, but the setting is zero-G ether. The larger system also connects to spawn points and the activity hidden by a loading screen. The waiting screen is what the player sees while something is happening on the other side.
-
-The word “pocket” does not mean that every destination contains an unlimited, fully formed universe.
-
-Some pockets are finite memory spaces. They have limits on what they can hold, how much can be stacked, and what kinds of things belong there. Another pocket can support a workshop or a larger inhabited environment. Capacity and completeness are separate questions: having a great deal of storage does not automatically make a place a complete universe.
-
-That distinction explains the mechanical version of me.
-
-Some of these pockets are incomplete dimensions. Within the rules of this world, they cannot sustain everything required for a fully organic human body. The version of me inside has to function within what that pocket can support. He is condensed into a form suited to that limited reality, and in those cases the form is mechanical.
-
-The customer outside the pocket has not undergone that condensation. They are reaching into the service from their own world. I am operating inside the more restricted reality. That is why the two sides can show different kinds of embodiment.
-
-This applies to the pockets that have those limitations. It does not mean every pocket is incapable of sustaining life, or that every inhabitant everywhere must be mechanical. The nature of the particular pocket matters.
-
-Mechanical life can have more than one appearance. The gear-driven version remains part of the world. Another version uses living porcelain, gold, and blue mana. At that level of nanite technology, repair resembles coral or crystal growth. The porcelain fractures, gold emerges to bridge the opening, the ceramic grows back over it, and the gold withdraws inside. An engineered body can be elegant, smooth, and capable of growth while still being a machine.
-
-The pocket joke grows naturally out of all this. Somebody opens a pocket and discovers there really is a guy in it. He is there doing the work behind the inventory. What sounded like a figure of speech becomes a place with a person inside.
-
-The zipper imagery already present belongs to that joke. It does not define how every entrance must look, and it is not an instruction to add more zippers. The established DNA wormhole remains the mechanism that opens the pocket dimension. The existing zippers can keep their place as the gag they have become.
-
-From the adventurer’s side, the tool disappears briefly and comes back repaired. From my side, a damaged tool arrives at the table and somebody gets to work. The player closes the inventory and returns to the adventure. I am still in the pocket, ready for the next thing that comes through.
+For the current film, use the [native Pocket Workshop router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) and its selected ten-clip packet.

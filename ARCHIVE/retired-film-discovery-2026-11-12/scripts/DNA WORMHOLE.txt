@@ -1,0 +1,43 @@
+DNA WORMHOLE — ONE WINDOW, ONE PAGE, ONE CLIP
+Creator: Isekai Ryan
+SOURCE: Attach the exact owner-selected clean JPEG and, when available, the exact last accepted frame. These are the identity and continuity references. Never substitute a face, body, costume or room from a generic model.
+
+THIS IS AN INSTRUCTION SHEET. IT IS NOT PART OF THE CONCEPT ART.
+The final image/video has NO printed words, letters, numbers, captions, labels, UI text, logo, subtitles, watermarks or explanatory overlays. All written instructions stay on the storyboard card outside the rendered scene. Literal shapes and materials make the scene intelligible without writing.
+
+GEOMETRY
+One DNA-shaped luminous opening made of paired spiral strands in a gold/crystal lattice, a continuous circular boundary, visible depth to the linked destination, and flowing material through it. It opens, transfers, and closes. It is NOT a garment fastening or physical opening mechanism. Preserve the established Galactic Ether Relay / mana network. The clockwork adventurer backpack is the local inventory gateway and the entire receiving/holding/working/sending machinery is visible INSIDE its pocket dimension.
+
+ONE-WINDOW ASSEMBLY — NINE PARTS, IN ORDER
+1 — READ: Start from the EXACT selected base JPEG. Preserve the subject's face, proportions, materials and recognizable environment.
+2 — SET: Establish the last verified scene frame, camera direction, work surface and existing inventory state. No reset.
+3 — TRIGGER: Reuse only the ACTUAL already-recorded spoken inventory action, if one exists; otherwise this part stays unassigned. No added dialogue.
+4 — OPEN: The adventurer opens the ordinary backpack. A luminous paired DNA helix forms a single aperture at the bag's opening. Camera passes inside the same bag; no unrelated stage cut.
+5 — REVEAL: Inside is the entire clockwork inventory. Rotating gears, storage racks, conveyor routes, indexed square lattice and workbenches are functional machinery, not decorative icons.
+6 — RECEIVE: Two real components arrive from their recorded inventory squares onto one bench. Show identity and quantity held constant.
+7 — WORK: The responsible worker physically assembles the requested component. No instant transformation without actual steps.
+8 — RETURN: Finished object follows a permitted route to the correct inventory square. Counters update once after delivery confirmation; the linked opening closes.
+9 — MATCH: End in the same character and camera direction with the inventory state updated. Final frame must be usable as the next clip's start.
+
+ONE SHOT EXAMPLE / SEVEN SECONDS
+0:00–0:01 Existing adventurer's inventory action and ordinary backpack; source model and camera locked.
+0:01–0:02 The glowing double-strand aperture opens INSIDE the mouth of the backpack; camera moves through.
+0:02–0:04 Revealed functional clockwork warehouse, square shelves, parts routed to an actual bench.
+0:04–0:06 Worker receives two parts, completes a real assembly, verifies their identity and sends the result back.
+0:06–0:07 The same item returns to its square; camera exits toward the original bag/character. One uninterrupted match-out.
+For the full hidden labor, preserve these same physical steps across additional continuous clips rather than pretending the seven-second version verifies a full thirty seconds of work.
+
+SEVEN-ANGLE CHARACTER IDENTITY CYCLE — USE WHEN ATTACHED SOURCE HAS THE FACIAL MODEL
+One visually dominant, beautiful source character in the foreground; mechanical mesh or lattice behind, subordinate to the face. Show the SAME recognizable face across seven progressive orientation reference positions covering a 180-degree arc: -90, -60, -30, 0, +30, +60, +90 degrees. These numbers belong on this storyboard/instruction sheet, never as words rendered on the face or in the background. Keep hair, eyes, jewelry, crystal and anatomy identical; turn the head only. The mesh is an orientation reference, not writing or a wireframe texture on skin. When animating, turn smoothly and return to the neutral view without a new person appearing.
+
+VIDEO FORMATS / ASSEMBLY
+A single numbered storyboard JPEG accompanies each clean source JPEG. Fix individual clips as cards, arrange cards into PAGES, test ordered PAGES as one SCROLL, promote the verified continuous SCROLL into a BOOK. A ten-blink animated GIF, short, or slideshow is a distribution format AFTER verified continuity, not a substitute for matching end/start frames. Original source pictures and videos stay unchanged.
+
+FILM PHYSICS
+The world can operate with cartoon, animation and anime elastic physics inside the pocket dimension; stage changes and stylized motion must preserve the character identity, material geometry and the story's physical transactions. Generic classic cartoon timing and squash-and-stretch are allowed; don't introduce a different copyrighted character or style override without a selected reference.
+
+NO ADDED SCRIPT
+Only actions and lines actually present in selected source material. The single shared Dyson performance, ten existing fairy echoes and thirteen existing android Shakespeare fragments are separately sourced footage for later Shotcut compositing; they are NOT generated by this one-window shot. Preserve the owner's existing soundtrack unchanged.
+
+BUILD STATUS
+This is a render-ready source sheet, not a claim that media was generated, reviewed, tested, or posted. The original historical scenes and their source files remain intact. No new character names or implied off-screen activity.

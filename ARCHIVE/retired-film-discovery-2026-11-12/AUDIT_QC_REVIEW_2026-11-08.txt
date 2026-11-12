@@ -1,0 +1,127 @@
+FULL GOOGLE DRIVE AND GITHUB AUDIT / QC REVIEW / STRUCTURE / CURRENT PROJECTS
+Date: 2026-11-08
+Author: Grok (via connected tools)
+Purpose: Readable by Chat (OpenAI) and Meta. Connects to ORDERS.md and README.md in chat.work.open.ai.
+Status: CURRENT SNAPSHOT — verify live sources for changes.
+
+==================================================
+1. GITHUB STRUCTURE (Authenticated User: IsekaiSensei)
+==================================================
+
+Public repos (admin access confirmed):
+- chat.work.open.ai (PRIMARY HUB — last push ~2026-11-08 18:30 UTC)
+  Default branch: main
+  Key files:
+    ORDERS.md          — Live production orders, current method r2, Meta QC gate, canon links
+    README.md          — Production method summary, links to ORDERS, World Book, completed runs
+    META.md            — Meta-specific instructions, QC, screenplay handoffs
+    CHAT.md            — Chat personality / recovery instructions
+    MEMORY.md, COOKBOOK.md, GROK.md, GROUND_ZERO.md, etc.
+    ARCHIVE/production/ — Pre- snapshots (PRE_GUY_IN_THE_POCKET_2026-11-07, PRE_NATIVE_DOC_ACCESS_FIX, etc.)
+    Many agent .md files (ALEXA.md, CLAUDE.md, GEMINI.md, GROK.md, etc.)
+    EXPORT/, PARABLES/, production-sheets/
+
+- to-world-open-crew
+  GAME_STANDARDS.md, UNIVERSAL_GAME_SCHEMA.json, world_seed_v0_1/ (Python + Godot), garden/drops/
+  README: Active goal = standardize shared game mechanics (bullets, potions, backpack, spawn, save/load). Old scripts retired from branch.
+
+- vanilla-sky-proposal
+  Minimal README only.
+
+Private:
+- to-dog-shared-room
+  README: CLOSED — HISTORICAL ENTRY ONLY. Retired Oct 26, 2026 rewrite. Do not use without direct new instruction.
+  Contains agents/ folder with per-agent .md files.
+
+Other notes: Open issues exist on some repos. Public/private segregation observed (TO DOG private elements vs public TO WORLD).
+
+==================================================
+2. GOOGLE DRIVE STRUCTURE
+==================================================
+
+Root folders (partial list, max_results limited):
+- AGENTS — CHARACTERS
+- CODE
+- GROUND ZERO — PLUG ME IN — 2026-11-04
+- JPEG, PNG, PDF, TEXT, VIDEO, Meta MP4s
+- PERSONAL, PICTURE — UNFILTERED, PROJECT FILES — PRIVATE
+- TO WORLD
+- Yoga 10 WINS - Stitched Review - 2026-11-01
+Many loose media files (MP4, JPG) also present in root — consider filing into type folders.
+
+PROJECT FILES — PRIVATE structure:
+- 02 — PICTURE ATLAS
+- 03 — CINEMA & VR
+- 04 — INCOMING PAGES
+- 05 — CREW & HANDOFFS
+- 90 — ARCHIVE
+- 99 — NOTES & REFERENCE / 99 — PDF HANDOFFS — ORIGINALS
+- Additional: Grok Project Continuity Hub, TO DOG folders, Meta Full Archive Intake, etc.
+
+TO WORLD folder (type-based organization):
+- 01 — WORLD BOOK
+- AUDIO, CSV, DOCX, GIF, GOOGLE DOCS, GOOGLE SHEETS, GOOGLE SLIDES
+- HTML, JPEG, JSON, MARKDOWN, OTHER FILES, PDF, PNG, PPTX
+- STELLAR CUDDLERS — ORIGINAL ART, STL, TEXT, VIDEO, WEBP, ZIP
+
+Key Native Google Docs (MIME application/vnd.google-apps.document — REQUIRED for Meta text readability):
+- ORDERS — CURRENT: https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit
+- World Book - Opening Lore and Filing Notes: https://docs.google.com/document/d/1wiIjBtDvhunHwL7XHHaK-IFejjtd4SeIq-0z6vG7ofE/edit
+- GROK BOTS — NEW HANDSHAKE / CURRENT ORDERS / META FORMAT / AUDIT TASKS — 2026-11-08
+- Various production masters, batches, screenplays, dailies (Voltmeter, Elongated Man, GERTECH Friends, etc.)
+- META — VISUAL REFERENCE CARD — TO WORLD
+
+Owner: Sensei 619 (Drive).
+
+==================================================
+3. CURRENT PROJECTS / PRODUCTION STATUS
+==================================================
+
+PRIMARY ACTIVE METHOD (TO DOG 2026-11-08.r2):
+- One generation window = one coherent setting block targeting ~15 minutes.
+- Plan three 5-minute sections; five 1-minute story beats each.
+- Select 5–15-second shots for action; longer for tracking. SUM ACTUAL DURATIONS.
+- Shared film/game asset: build forest as one real 3D level.
+- STOP existing-video transcript-recovery task.
+- Older fixed 10-second / 90-clip packaging is historical only.
+
+Canon / Story:
+- World Book is canonical native Doc (updated 2026-11-08 with Rosebud sleders / Roseburge Bridge, Naming Fault satellite constellation, GERTECH Friends sad short, San Diego Bay / Elongated Man chronology, etc.).
+- Elongated Man / San Diego Bay opening comes first in universe chronology (ordinary I-5 drive into hidden concrete floor → underwater tube → Secret Bay Aqua). Prior runs completed by owner report; do not auto-restart.
+- Voltmeter later in chronology; 90-clip plans historical.
+- GERTECH Friends short: scripted only (words-only script + camera master + RUN A–F native Docs). Editorial target ~8:25, flexible 5–15s shots. Final shot: six androids laughing on couch, man alone at coffee table.
+- Solar-winged android / Dragon power station / digging-rabbit continues as visual direction.
+- Game standards active in to-world-open-crew (shared mechanics).
+
+Completed (by owner report — do not restart on orders check):
+- The Guy in the Pocket
+- Shakespeare
+- Spawn World / Elongated Man animate restart
+- Plug Me In / related
+
+QC / Meta Gates (current):
+- Text for Meta MUST be native Google Docs (body text, not .md/.txt uploads).
+- Images: actual pixel loading of approved masters required; filename/link is not sufficient.
+- Social profile photos (Instagram/Facebook) noted as possible alternate visual sources if pixels actually load.
+- Visual QC: SOURCE → IDENTITY → CHANGE → OUTPUT → PROOF. Colors are variables. Do not fuse subjects. No baked text in pure concept art.
+- Dailies: native Google Docs with ONLY verified events (real clip URL/ID, duration, loaded reference ID, owner verdict). Planned ≠ rendered.
+- Precedence: Latest owner direction → native ORDERS — CURRENT + GitHub ORDERS.md → selected screenplay → approved image masters → art direction → archives.
+
+==================================================
+4. CONNECTIONS / HOW TO FIND
+==================================================
+
+This file is intended for both Chat and Meta.
+- GitHub location: https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/AUDIT_QC_REVIEW_2026-11-08.txt
+- Linked from ORDERS.md and README.md.
+- Native Google Docs remain the authoritative live sources for Meta text reads.
+- Drive mirrors and archives exist; prefer native Docs and latest GitHub ORDERS.md / README.md.
+
+Recommendations / QC Notes:
+1. Continue enforcing native Google Doc format for any text Meta must read.
+2. File loose root media into appropriate type folders (JPEG, VIDEO, etc.) to reduce clutter.
+3. Keep public/private segregation (to-dog-shared-room remains closed).
+4. On any new production, confirm actual image pixels loaded and record real dailies.
+5. World Book and ORDERS — CURRENT are the single sources of truth for canon and live method; GitHub files should stay synchronized.
+
+End of audit snapshot. Verify live documents for any changes after 2026-11-08.

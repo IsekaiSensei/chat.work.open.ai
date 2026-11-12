@@ -1,0 +1,30 @@
+SINGING MUSIC BOX — RADIO SHACK RADIO + 555
+DIALOGUE + TIMING ONLY — ORIGINAL SPOKEN WORDS UNCHANGED
+Creator: Isekai Ryan
+
+THIS FILE IS NOT AN IMAGE/VIDEO COMPOSITION PROMPT. The original user-supplied images in the Meta window define ALL appearance, materials, location, posture and camera. Do not pass this entire document to the renderer. Send ONLY the selected quoted dialogue as dialogue/audio, with the clip duration separately set in render controls. Clip numbers and batch markers are script metadata and must not appear in the image. Do not synthesize new visual directions or extra lyrics.
+
+BATCH 01 — SCRIPT METADATA ONLY
+001 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Set the DC voltage. Set the current limit. Check the positive and ground rails.”
+002 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Seat the 555. Pin one to ground. Pin eight to positive. Hold reset high on pin four.”
+003 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Connect pins two and six. Keep that junction accessible.”
+004 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Connect the first resistor between positive and pin seven. Check the value.”
+005 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Connect the second resistor between pin seven and the timing node.”
+006 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Connect the timing capacitor from pins two and six to ground. Check the polarity.”
+007 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Put the supply bypass capacitor close to the timer. Connect pin five to ground through a small capacitor.”
+008 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Connect pin three to the LED through its current-limiting resistor. Complete the return to ground.”
+009 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Apply power. The capacitor charges and discharges. The output switches high and low.”
+010 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Disconnect power. Change the timing resistor. Power up again. Watch the blinking rate change.”
+BATCH 02 — SCRIPT METADATA ONLY
+011 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Switch off the receiver supply. Seat the ferrite antenna coil. Inspect the winding leads.”
+012 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Connect the variable tuning capacitor across the antenna coil. Check the rotor clearance.”
+013 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Fit the local oscillator coil. Connect the transistor mixer. Check the bias resistors.”
+014 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Seat the IF transformers. Connect the IF amplifier stages and their bypass capacitors.”
+015 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Orient the detector diode. Fit the envelope filter resistor and capacitor.”
+016 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Check the recorded music module. Fit the radio/music selector. Wire the audio input jack.”
+017 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Fit the volume potentiometer. Connect the coupling capacitor and audio buffer.”
+018 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Connect the audio power amplifier. Check output coupling, speaker load and polarity.”
+019 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Install the switched headphone jack. Wire the buffered audio output. Check every return.”
+020 | 10–12s target (preserve complete spoken line) | TECHNICIAN SPEAKS: “Power the receiver. Tune a station. Switch to the stored song. Check audio in and audio out.”
+
+End of dialogue/timing. No camera, frame, stage, texture, character, background, physical-action, or match-out instructions are contained in this script. Visual/assembly references stay in the already existing concept page and owner-selected graphics.

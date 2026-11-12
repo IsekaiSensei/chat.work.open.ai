@@ -1,5 +1,3 @@
-> **NOV 9 OWNER PRODUCTION PRECEDENCE:** The lore, technical standard or earlier plan recorded here may remain useful, but it does **NOT** authorize or block a film run. Only current Meta production: **Agua Arrival V2 001–030 → GERTECH MORGUE 031–085**, then original Friends later. [Current orders](../ORDERS.md) · [Meta start](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). Its six-paragraph verbatim engineering source outranks older World Book for this selected film. Do not use prior GO/CURRENT/WAIT headings in this file as a separate production instruction. Other game/canon development is unaffected.
-
 # TO DOG — WORLD VERSION 2026-11-08.r1
 Owner: Isekai Ryan | Date: November 8, 2026 (America/Los_Angeles)
 Status: OWNER-SELECTED CONCEPT, QC-CORRECTED CANON
