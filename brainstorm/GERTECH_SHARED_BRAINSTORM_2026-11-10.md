@@ -416,3 +416,16 @@ Native Google Doc: https://docs.google.com/document/d/13BCKvXQuwUM9EX6aNuU0sNKFJ
 **One item family can have multiple material/technology incarnations** while remaining portable across the different games. Minigame tools can overlap in operations (refine/build/assemble) and use the shared authoritative inventory; no bot-owned separate material pools. Current Tetris outputs are packed blocks, blanks, frames and scrap — **not yet crafted daggers, spears, pikes, staffs or bronze items**.
 
 **Longer project-side design note** (source/limitations, example family matrix, schema compatibility, future supply line, no-code rule): https://github.com/IsekaiSensei/to-world-open-crew/blob/main/design/GERTECH_UNIVERSAL_ITEM_FAMILIES_STONE_BRONZE_FANTASY_2026-11-11.md . **DO NOT IMPLEMENT YET** in the live Godot project; the owner's prior future-progression restriction stays active. No film/Meta changes.
+
+
+### 2026-11-11 — OWNER: PLAYERS BACKPACKS + FANTASY/MILITARY-STYLE TRADE + RATS/MICE RESET CLEANUP
+
+**Owner exact words:** "thats one thing the player need to build so their would can have Players. and we'll call them Players Backpacks. and have fantasy and call of duty types being made and traded with the rats and mice the battle filed cleaner and clearing team who goes out when you hit reset"
+
+**STATUS: OWNER FUTURE PROGRESSION / NOT IMPLEMENTED.** One world must be made ready for Players by manufacturing owner-named **Players Backpacks**. This physically buildable equipment concept is distinct from—but should interoperate with—the existing **single portable universal backpack ledger**. Do not spawn a second inventory or impose artificial gameplay item/slot limits on the portable backpack.
+
+**Two craft/trade vocabularies:** Fantasy-type equipment and "Call of Duty types" (modern military/FPS-inspired equipment category) can be made and exchanged with the mice and rats. The phrase does not authorize copying any protected franchise designs; specific items, features and recipes remain undefined. Preserve the previously owner-required Stone Age/Bronze Age basics (dagger/pike/spear/staff), and let advanced fantasy gear grow through the physical metal supply network.
+
+**Battlefield Reset:** The same rats and mice also form a **battlefield cleaner/clearing team** that goes out when the player hits **Reset**. This could become a visible collection/clear/recovery process; its exact trigger, disposal/recovery accounting and object ownership are still unspecified. Do NOT accidentally attach it to the existing Godot F9 WorldSeed-starter-stock reset, wipe the persistent universal backpack, modify other game progress, or mint salvage without explicit future owner approval. GAME_STANDARDS.md distinguishes saved universal items and game transitions; the workshop has a separate local reset pathway. There is NO implemented rat/mouse AI, craftable Players Backpacks feature, modern gear set, or battlefield cleanup in the current 82-file Godot project.
+
+**Full project-side note (single equipment document, not another competing catalog):** https://github.com/IsekaiSensei/to-world-open-crew/blob/main/design/GERTECH_UNIVERSAL_ITEM_FAMILIES_STONE_BRONZE_FANTASY_2026-11-11.md . Preserve current core unchanged, no new implementation jobs from this note, no film/Meta changes.
