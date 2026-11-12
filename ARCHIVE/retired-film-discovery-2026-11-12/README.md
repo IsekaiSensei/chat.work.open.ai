@@ -55,3 +55,12 @@ These are complete, unchanged source files moved out of active production paths 
 - [scripts/MIDSUMMER_DYSON/SCENE_ORDER.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ARCHIVE/retired-film-discovery-2026-11-12/scripts/MIDSUMMER_DYSON/SCENE_ORDER.md)
 - [scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ARCHIVE/retired-film-discovery-2026-11-12/scripts/SINGING_MUSIC_BOX_RADIO_SHACK_555_CINEMA.txt)
 - [production-sheets/DAILIES.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ARCHIVE/retired-film-discovery-2026-11-12/production-sheets/DAILIES.md)
+
+- [COOKBOOK.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ARCHIVE/retired-film-discovery-2026-11-12/COOKBOOK.md)
+- [MEMORY.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ARCHIVE/retired-film-discovery-2026-11-12/MEMORY.md)
+- [development/pilot/Isekai_Ryan_TO_WORLD_Pilot_Opening_Batch_001_2026-11-08.txt](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ARCHIVE/retired-film-discovery-2026-11-12/development/pilot/Isekai_Ryan_TO_WORLD_Pilot_Opening_Batch_001_2026-11-08.txt)
+- [development/pilot/Isekai_Ryan_TO_WORLD_Pilot_Request_Fulfilled_2026-11-08_v1.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ARCHIVE/retired-film-discovery-2026-11-12/development/pilot/Isekai_Ryan_TO_WORLD_Pilot_Request_Fulfilled_2026-11-08_v1.md)
+- [ground-zero/ANDROID_ASSEMBLY_NIGHT_QC_2026-11-04.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ARCHIVE/retired-film-discovery-2026-11-12/ground-zero/ANDROID_ASSEMBLY_NIGHT_QC_2026-11-04.md)
+- [ground-zero/CONTINUITY_LEDGER.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ARCHIVE/retired-film-discovery-2026-11-12/ground-zero/CONTINUITY_LEDGER.md)
+- [showrunner/DIALOGUE_REPETITION_AUDIT_2026-11-06.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ARCHIVE/retired-film-discovery-2026-11-12/showrunner/DIALOGUE_REPETITION_AUDIT_2026-11-06.md)
+- [showrunner/SHOWRUNNER_5MIN_EPISODE_STRUCTURE.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ARCHIVE/retired-film-discovery-2026-11-12/showrunner/SHOWRUNNER_5MIN_EPISODE_STRUCTURE.md)

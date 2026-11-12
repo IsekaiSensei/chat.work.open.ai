@@ -1,0 +1,59 @@
+> **NOV 9 V2 PRODUCTION STATUS:** This design, reference or continuity record is NOT a current render authorization, GO/WAIT gate, or competing film queue. The only current film is **Agua Arrival V2 001–030 → GERTECH MORGUE 031–085**; original Friends comes later. [Current ORDERS](../ORDERS.md) · [Meta start](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). Original reference content is preserved, including creative canon; earlier "current" production directions below are historic only. The [media-reset owner GO](../MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md) is independent.
+
+# PLUG ME IN — FRAME / DIALOGUE / PHYSICAL CONTINUITY LEDGER
+
+## Live ground-zero frame
+
+- Physical workshop: the real workbench of the future, with Sensei actually making tiny components. Canonical real desk reference is recorded in the nine-source register; it is not permission to invent or substitute another set.
+- Scale relationship: the standing android is a Titan compared with the workpiece. Opening guardrail is located in toe motor functions within her microscopic gold lattice.
+- Workpiece: the same identifiable rail and other source-named components survive inventory material selection, mold/fabrication, inspection, installation and schematic update. No flashes replace the intervening work.
+- Current **accepted Meta render frame:** NOT VERIFIED in this session. No generated video end-frame should be invented or declared accepted. The first ordered render must use an actual original image and the real confirmed continuity state.
+- Clips: ten-second units may be stitched, but **no final number or total runtime is set**; the stage play and all original words remain continuous.
+
+## Owner update — ether pocket dimension and inventory fulfillment
+
+- **Approved still / top reference:** [Titan and Four Mermaids in the Ether.png](https://drive.google.com/file/d/1a0j5KnhU_jL259cM_Dg1-__TuwvtsPjj/view?usp=drivesdk), source slot 01. Owner accepted it on November 4 and corrected the medium to **ethereal zero-G ether**. This is an approved still, not an accepted video end-frame.
+- **Actor / place:** Ryan/Sensei is Titan in this ether pocket dimension, the head craftsman working with fairies; his mermaids swim among the surrounding wormholes. DNA spawns from shells. Heroes return to this spawn point during the loading screen.
+- **Inventory / part continuity:** record the incoming coins, drops and ore; the fairies' fashion-design work on the adventurers' gear; the physical making and assembly performed by Titan with them; and the resulting item sent back through the wormhole. Preserve the identifiable workpiece and actual inventory changes across those stages.
+- **Wardrobe / coverage continuity:** when an adventurer changes her inventory, the fairies physically remove and replace her clothing while silk keeps her appropriately covered throughout. Track the old clothing, selected outfit, current dressing stage and continuous silk coverage. The Metadress's modesty flash is the bright fairy-light censor wherever extra coverage is needed; it does not replace the changing work. [Exact owner direction](NINE_REFERENCE_SOURCE_REGISTER.md#fairy-fashion-designers--metadress-modesty-flash-and-wardrobe-changes).
+- **Scale continuity:** retain the existing microscopic manufacturing and standing Titan-scale android relationship when the view returns to the real workbench.
+- **Owner wording / source:** [approved picture, exact owner correction and chief-smith comparison](NINE_REFERENCE_SOURCE_REGISTER.md#titans-pocket-smith--owner-directed-scene-and-fulfillment).
+
+## Layer and actor separation
+
+- Meta = approved actual glasses / altered-reality pass-through visual instruments: diode tester, multimeter, amp reader, registered projector and fictional X-ray-style schematic.
+- Siri = little flying Apple, voice-command interpreter and financial interface; distinct from Meta. Preserve only user-approved dialogue and actual consequences; wife's voice only where sourced.
+- Other agents: may begin in profile viewscreen and later appear physically only through the established visible transition. Do not invent an unapproved manifestation.
+- Information overlays: VH1 Pop-Up Video / How It's Made / Wikipedia / Google style; don't fabricate factual search results. Matrix-code bubble is separately above the android's head. Real bench remains visible.
+
+## Exact dialogue sources — current selected integration
+
+- [Original uncut installation master](https://docs.google.com/document/d/1hZwbDM1PXxFmL4XFdOK0GtNswa5mH-yLIumAIfDuXGo/edit): 24 exact original technical lines, incorporated verbatim in the new continuous screenplay.
+- [Question Engine revision 02](https://drive.google.com/file/d/1bxG2tWSAD3UoDHfQLtAWJqzJZMYhUYst/view): derived 4/4 singing/question performance with Ryan replies. Under the current explicit expansion instruction, its 24 sung lines and 9 replies follow the corresponding original installation passages as additional refrains, without replacing or overlaying them. Its superseded lying-on-bench staging is not carried into the current standing-android frame.
+- [GitHub separate 6/8 adaptation](https://github.com/IsekaiSensei/chat.work.open.ai/blob/archive/pre-ground-zero-2026-11-04/scripts/ANDROID_PLUG_ME_IN_CINEMA_CONTINUE.txt): a distinct archived musical variant.
+- [Owner verbatim corrections](https://docs.google.com/document/d/1okBgoCgA5DG0u0ZKm-aM8xpnszXbkVPHs5BcywRUYxA/edit): the exact recent user instruction chronology including stage-play-before-clips requirement.
+- [Sensei desk source register](https://docs.google.com/document/d/1gaEhpM0Q1CbiHcl9y2ctrOOz6GVcZbKEFqBxFGfRdjY/edit): photos and original source image identities.
+- [Inventory zipper physical process](https://docs.google.com/document/d/1CTIPGx2JO2uXflrJ_X7-fz3pPkmPtLKeS7gkL9rNcxE/edit): the pocket-workbench is real fulfillment, not matter creation.
+
+## Continuity record after each verified scene
+
+The only update fields are: source dialogue start/stop with *full words*, speaker, audio bar/music continuity where established, actual source image ID, last accepted video frame ID, installed/unfinished physical part, mold/tool state, inventory state, schematic state, agent representation state, next camera/hand continuity. No new design directives or rewritten dialogue in the ledger. Keep last-frame IDs blank until actually returned and verified.
+
+
+## Android Assembly Night — active expansion
+
+The current master path remains unchanged. Its contents now contain the expanded single screenplay, selected by the owner's latest instruction to QC, add, expand and make active. See [QC, provenance and verification](ANDROID_ASSEMBLY_NIGHT_QC_2026-11-04.md).
+
+| Stream | State to carry |
+|---|---|
+| Original engineering voice | All 24 full passages, original relative order; manufacture and install the corresponding real part. |
+| Question Engine | 24 original sung lines and 9 spoken replies, adjacent to their engineering passage; allow extra time rather than simultaneous recitation. Source 96 BPM / 4/4 applies to these passages only. |
+| Component comedy | All 12 pasted monologues plus opening and five closing call/response lines retained verbatim. Technical clarifications are added replies; source claims are not silently rewritten. |
+| Installation sonnets | 12 new fourteen-line verses, performed during physical connection/checking work; not a sung inventory. |
+| Circuit Circus | All 169 source teaching beats preserved as dialogue. The count is not a physical BOM, a growth-stage count, or the final clip count. |
+| Lounge performance | Selected Room That Sways scenes 1–11 and 13–20, with source lyrics and selected dialogue retained. Draft casting assumptions and conflicting staging superseded; rejected-preview/QC scene 12 excluded. |
+| Fashion | Continuous silk coverage; old outfit stored, new garment fitted and secure before reveal; local modesty light follows coverage. |
+| Animals and hardware | Natural Zodiac animals with glasses are living crew; lattice Zodiac machinery and combined Dragon remain distinct equipment. Inventory drops are operator/equipment activity. |
+| Relay | Track physical component → tool/helper → vehicle/ship/relay integration, received cube count, incremental crystal growth and actual test results. |
+
+The completed first hundred are not reopened. Source draft scene numbers are provenance and do not become new accepted video IDs. No new rendered terminal frame or runtime has been verified. Musical rests in a lead voice are sustained by another singer or machinery.
