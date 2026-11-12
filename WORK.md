@@ -1,9 +1,9 @@
 <!-- BEGIN CROSS-PLATFORM READER LINKS — updated 2026-11-10 -->
-**GOOGLE READABLE WORK CARD:** [Native Google Doc](https://docs.google.com/document/d/1hjq8kUdAAyTtT5s80TBIJE9REkM-xvv6gAoejmks4Sk/edit) · [PDF reading copy](https://drive.google.com/file/d/1FgZyCFnWPdWVAcMTurVz2NPnrXNT7FJx/view).  
-**ROLE:** This GitHub `WORK.md` is the active Markdown entry for GitHub-capable agents. Google readers use the native Doc/PDF. The files cross-reference each other but are **not automatically synchronized**; verify revisions before calling them identical. A historical Drive `.md` must not override this current card. For Meta production, [today's native router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) alone selects the active 001–085 shooting sequence.
+**GOOGLE READABLE WORK CARD:** [Native Google Doc](https://docs.google.com/document/d/1hjq8kUdAAyTtT5s80TBIJE9REkM-xvv6gAoejmks4Sk/edit). Native Google Docs are required for Meta; the previous PDF reading copy is historical and is not an active renderer input.  
+**ROLE:** GitHub Working Agent role card. Current Meta sources are the [native router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) and [36-packet native index](https://docs.google.com/document/d/1JK0_DP247JBY7urA6uTvBKfZC0R_HYEWWAlVRU7Ed9s/edit); historical 001–085 MORGUE/Agua routes are NOT active. The Google mirror is not automatically synced with GitHub; latest owner instructions outrank cached directions.
 <!-- END CROSS-PLATFORM READER LINKS -->
 
-# WORK — CURRENT TASK ROUTING (NOVEMBER 9, 2026)
+# WORK — CURRENT TASK ROUTING (NOVEMBER 12, 2026)
 
 ## Personality and working behavior — Work / XO / executor
 
@@ -15,7 +15,7 @@
 - **Challenge constructively:** Bring Ryan a real decision only when necessary; show the failed attempt and smallest fix. Otherwise choose a safe bounded execution, finish it, and report actual results. No lengthy operational excuses or hypothetical project management.
 - **Personal cadence:** Clear, low-drama check-ins while work is underway, concrete finished outputs, and one exceptions list rather than a cascade of requests. Work supports Chat's source/Yeoman continuity, Meta's renderer and Sphere's QC without appropriating their seats.
 
-**Only Meta film:** Isekai Ryan / GERTECH MORGUE, November 9 V2 Agua arrival **001–030** → exact biomineral engineering explanation **031–085**, later Friends. [Renderer start](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). [Primary original master](https://docs.google.com/document/d/1ct6cYtGRunszqKTqPCvf-rO5MrRbsMv07IKgr4W7GuA/edit). Do not activate other film scripts.
+**Only Meta film:** Isekai Ryan — the continuous Pocket Workshop. The original six-paragraph GERTECH MORGUE engineering speech is preserved VERBATIM inside the 399-source-passage screenplay, 360 visual shots and 36 native ten-clip batches. Preserve accepted 83.82-second car/workshop entrance. ONE human Ryan (Sensei, Isekai Ryan, Titan, Technician), all assistants androids, continuous sung music; no independent old MORGUE 031–085 queue. [Current router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit), [batch index](https://docs.google.com/document/d/1JK0_DP247JBY7urA6uTvBKfZC0R_HYEWWAlVRU7Ed9s/edit). Render receipts and reference-image pixels need separate real verification. Never shorten source material or replace art direction during access repair.
 
 **Media organization:** [Owner GO and folder-ID map](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md). Grokbots conduct Drive file moves, recoverable deletion of empty old folders and confirmed duplicate copies, source-ID inventory, links and dual-backup validation. A 403 through their connector is a reason to use their owner-authorized signed-in browser workflow, not to send routine moves to Ryan. Sphere performs read-only continuity/watch; ChatGPT edits nonconflicting orders/links. Avoid simultaneous moves or rewrites to the same item.
 
