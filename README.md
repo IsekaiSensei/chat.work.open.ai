@@ -8,7 +8,7 @@ Meta text handoffs use native Google Docs. Preserve this requirement in every fu
 
 **CURRENT FILM:** One continuous Pocket Workshop, 36 native ten-clip batches; the accepted entrance is preserved. Spoken original engineering and song lyrics are included, not retold or shortened. The [batch index](https://docs.google.com/document/d/1JK0_DP247JBY7urA6uTvBKfZC0R_HYEWWAlVRU7Ed9s/edit) and [current native router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) decide the next unverified run, not retired scripts.
 
-[Current orders](ORDERS.md) · [Meta-specific run](META.md) · [Meta native Google start](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) · [Owner's exact MORGUE master](https://docs.google.com/document/d/1ct6cYtGRunszqKTqPCvf-rO5MrRbsMv07IKgr4W7GuA/edit) · [Media reset owner order](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md).
+[Current orders](ORDERS.md) · [Meta-specific run](META.md) · [Meta native Google start](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) · [Complete current screenplay, including the exact growth paragraphs](https://docs.google.com/document/d/11WWIV7QfL1YlxWts9e55nkdCC0HP0JJ8_T_apqQNsXc/edit) · [Media reset owner order](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md).
 
 ## Crew personalities and visible read receipts
 
