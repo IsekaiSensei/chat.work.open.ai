@@ -1,3 +1,7 @@
+## Meta document format and access
+
+Meta text handoffs use native Google Docs. Preserve this requirement in every future handoff edit and mirror refresh. Verify reading with a passage from the document body. A filename or file listing confirms discovery only. Deliver the complete directions for ten clips together in each run. During access repairs, preserve the approved screenplay, shot directions, dialogue, sequence and run structure.
+
 # TO WORLD / GERTECH — CURRENT ORDERS
 **Compact active router, November 11, 2026.** Read only sections relevant to your task. Prior wording remains recoverable in Git history; old drafts, unverified handoffs and abandoned routes do not become active orders.
 
