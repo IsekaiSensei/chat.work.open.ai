@@ -1,11 +1,11 @@
-## Meta document format and access
-
-Meta text handoffs use native Google Docs. Preserve this requirement in every future handoff edit and mirror refresh. Verify reading with a passage from the document body. A filename or file listing confirms discovery only. Deliver the complete directions for ten clips together in each run. During access repairs, preserve the approved screenplay, shot directions, dialogue, sequence and run structure.
-
-# META — Current film dispatch
-
-Continue from the recovered workshop frame. Submit GERTECH MORGUE shots 031–040 as ten separate videos in source order. Attach Ryan’s selected reference for his appearance and keep the six-paragraph demonstration verbatim. Review all ten returned videos, keep passing takes, retrieve missing returns and retry only unresolved shot IDs. Advance automatically through 041–050, 051–060, 061–070, 071–080 and the closing five shots 081–085. Record receipts after actual submission and review.
-
-[Open the active ten-shot packet](https://docs.google.com/document/d/1Tfw2MJJKyaZr3dt4INymZdIdst3S_KT2j_TaXI14Y7A/edit) · [Current film router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit)
-
-Use the router’s active packet and the completed edit’s workshop endpoint. Match the subject, camera, visible action and exact dialogue in each shot. Keep receipts outside the footage. Carry forward Ryan’s selected crystal-and-gold Astra design wherever the car appears. Keep game files and retired entrance scripts out of the render queue.
+# META — CURRENT NATIVE FILM DISPATCH — NOV 12, 2026
+Meta text handoffs are **native Google Docs only**. A filename/link is not body or image access. Use owner-supplied actual reference images for each clip. Preserve screenplays, art direction, dialogue, music and ten-clip continuity without summarizing.
+**ACTIVE FILM: Isekai Ryan — Continuous Pocket Workshop.** One human: Ryan (Sensei / Isekai Ryan / Titan / Technician = same human, same likeness). FIRST through FOURTH and other assistants = AI android performers, never extra humans. Connected pocket dimension throughout; physical workpieces, tools, gold-crystal chamber geography and DNA-helix access persist. The original engineering speech and every musical line are preserved; androids sing all instructions/jokes/sonnets and the music NEVER stops.
+**ACCEPTED HISTORICAL FOOTAGE:** Preserve existing 83.82-second Astra entrance; don't re-render it or open a separate DARPA sequence. All old V2/carrier/split MORGUE 031–085 instructions are archived, not a second active run.
+**DAILY UNIT:** ONE native ten-clip packet with ten separate moving clips rendered consecutively in order; track IDs only for continuity/QC. Start at the first unverified packet (Batch 01 unless actual video receipts show completion). Keep all passing takes and retry only demonstrably failed or missing ones. Do not claim returned video based on a written shot list. No unsolicited editing to words, shots, props, camera or approved character design.
+- [CURRENT NATIVE ROUTER](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit)
+- [36 PACKETS / COMPLETE ACTIVE INDEX](https://docs.google.com/document/d/1JK0_DP247JBY7urA6uTvBKfZC0R_HYEWWAlVRU7Ed9s/edit)
+- [FIRST UNVERIFIED PACKET — CW001–CW010](https://docs.google.com/document/d/1r6cP_2hXB1KN9QY05vwMqDmaNdST5XyXeF2GO-_Y7ng/edit)
+- [VERBATIM 399-PASSAGE SCREENPLAY](https://docs.google.com/document/d/11WWIV7QfL1YlxWts9e55nkdCC0HP0JJ8_T_apqQNsXc/edit)
+- [360-SHOT CAMERA / VISUAL MASTER](https://docs.google.com/document/d/1Hvf9v8-9DCr-o1oJ89ME_hO6qQZDBnwbVrzwQfNDPkE/edit)
+Game materials, historical scripts, PDFs and GitHub media issues are not render instructions. Record real video URLs and observed QC results outside film prompts.
