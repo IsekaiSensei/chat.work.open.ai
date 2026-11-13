@@ -1,4 +1,4 @@
-> **FILM PRODUCTION ROUTING (OWNER NOV 9, 2026):** This file is evidence, reference, prior creative work or a historical plan; **NOT a current Meta render queue, approval gate, archive-first requirement or separate owner GO**. The only active film is Nov 9 **Agua Arrival V2 001–030 → GERTECH MORGUE 031–085** with Friends later. Follow [current ORDERS](../ORDERS.md) and [one native Meta start router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). The [owner-approved Grokbots media reset](../MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md) is independent of rendering. Preserve this file's original material and source meaning; a historical "CURRENT" or "GO" below does not restart production.
+> **REFERENCE ONLY.** This page preserves source material and does not dispatch a render. The selected current run is [Batch 01 — CW001–CW010, ten clips / 102 seconds](https://docs.google.com/document/d/1r6cP_2hXB1KN9QY05vwMqDmaNdST5XyXeF2GO-_Y7ng/edit); [execution instruction](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit).
 
 # TO WORLD — PARABLES
 

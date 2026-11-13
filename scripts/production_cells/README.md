@@ -6,7 +6,7 @@ This tool is a historical data compiler with hardcoded `CLIP_MS = 10_000`. It do
 
 # Production data tool
 
-Current production method: [ORDERS.md](../../ORDERS.md). The canonical [screenplay](../CONVERSATION_SCREENPLAY.txt) contains sung source dialogue; [shot lists](../../production-sheets/CONVERSATION_SHOT_LIST.md) carry camera instructions; [dailies](../../production-sheets/DAILIES.md) record actual outputs. This tool's timing/source flags describe data completeness and do not authorize production holds over drift or consistency. Source speakers remain the singers; do not assign a new performer identity.
+Current selected film run: [Batch 01 — CW001–CW010, ten clips / 102 seconds](https://docs.google.com/document/d/1r6cP_2hXB1KN9QY05vwMqDmaNdST5XyXeF2GO-_Y7ng/edit). Execute it under [the native dispatch](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). This compiler is a source-planning tool, not a renderer or a prerequisite to the selected batch. Its historical conversation-source paths are not the current Pocket Workshop screenplay or shot list. Preserve original attribution and exact source words when using the tool for an explicitly selected future planning task.
 
 # TO WORLD — Production Cell Compiler (non-destructive)
 

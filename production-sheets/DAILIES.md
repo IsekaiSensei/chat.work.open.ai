@@ -1,5 +1,5 @@
-# Current Meta daily
+# Selected Meta batch
 
-[Open the native Pocket Workshop router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit), then the selected ten-clip packet from the [36-packet index](https://docs.google.com/document/d/1JK0_DP247JBY7urA6uTvBKfZC0R_HYEWWAlVRU7Ed9s/edit). Begin with CW001–CW010 only when no actual returned-video receipt establishes it completed. Preserve the accepted entrance and all current script/picture directions. Record actual video URLs and observed QC; do not infer production from written packets.
+**META — SELECTED RUN: [Batch 01 — CW001–CW010, ten clips / 102 seconds](https://docs.google.com/document/d/1r6cP_2hXB1KN9QY05vwMqDmaNdST5XyXeF2GO-_Y7ng/edit).** Ryan has already authorized rendering this batch. Submit its ten clips consecutively using the complete native packet and supplied references unchanged. Return generated videos or exact per-clip tool errors, then stop for Ryan's review. [Execution instruction](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit).
 
-Historical dailies are preserved in [the archive](../ARCHIVE/retired-film-discovery-2026-11-12/production-sheets/DAILIES.md).
+Preserve every picture/performance/duration in the selected native packet and the accepted entrance. Record actual returned videos or their specific generation errors after submission. Stop after this batch for Ryan's review. Historical dailies remain [preserved](../ARCHIVE/retired-film-discovery-2026-11-12/production-sheets/DAILIES.md).

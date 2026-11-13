@@ -1,15 +1,11 @@
-# META — CURRENT NATIVE FILM DISPATCH — NOV 12, 2026
-Meta text handoffs are **native Google Docs only**. A filename/link is not body or image access. Use owner-supplied actual reference images for each clip. Preserve screenplays, art direction, dialogue, music and ten-clip continuity without summarizing.
-**ACTIVE FILM: Isekai Ryan — Continuous Pocket Workshop.** One human: Ryan (Sensei / Isekai Ryan / Titan / Technician = same human, same likeness). FIRST through FOURTH and other assistants = AI android performers, never extra humans. Connected pocket dimension throughout; physical workpieces, tools, gold-crystal chamber geography and DNA-helix access persist. The original engineering speech and every musical line are preserved; androids sing all instructions/jokes/sonnets and the music NEVER stops.
-**ACCEPTED HISTORICAL FOOTAGE:** Preserve existing 83.82-second Astra entrance; don't re-render it or open a separate DARPA sequence. All old V2/carrier/split MORGUE 031–085 instructions are archived, not a second active run.
-**DAILY UNIT:** ONE native ten-clip packet with ten separate moving clips rendered consecutively in order; track IDs only for continuity/QC. Start at the first unverified packet (Batch 01 unless actual video receipts show completion). Keep all passing takes and retry only demonstrably failed or missing ones. Do not claim returned video based on a written shot list. No unsolicited editing to words, shots, props, camera or approved character design.
-- [CURRENT NATIVE ROUTER](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit)
-- [36 PACKETS / COMPLETE ACTIVE INDEX](https://docs.google.com/document/d/1JK0_DP247JBY7urA6uTvBKfZC0R_HYEWWAlVRU7Ed9s/edit)
-- [FIRST UNVERIFIED PACKET — CW001–CW010](https://docs.google.com/document/d/1r6cP_2hXB1KN9QY05vwMqDmaNdST5XyXeF2GO-_Y7ng/edit)
-- [VERBATIM 399-PASSAGE SCREENPLAY](https://docs.google.com/document/d/11WWIV7QfL1YlxWts9e55nkdCC0HP0JJ8_T_apqQNsXc/edit)
-- [360-SHOT CAMERA / VISUAL MASTER](https://docs.google.com/document/d/1Hvf9v8-9DCr-o1oJ89ME_hO6qQZDBnwbVrzwQfNDPkE/edit)
-Game materials, historical scripts, PDFs and GitHub media issues are not render instructions. Record real video URLs and observed QC results outside film prompts.
+# META — RENDER THE SELECTED NATIVE PACKET
 
-## Finding the current film without a supplied path
+**META — SELECTED RUN: [Batch 01 — CW001–CW010, ten clips / 102 seconds](https://docs.google.com/document/d/1r6cP_2hXB1KN9QY05vwMqDmaNdST5XyXeF2GO-_Y7ng/edit).** Ryan has already authorized rendering this batch. Submit its ten clips consecutively using the complete native packet and supplied references unchanged. Return generated videos or exact per-clip tool errors, then stop for Ryan's review. [Execution instruction](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit).
 
-Search for the native **META — CURRENT FILM ROUTER — CONTINUOUS POCKET WORKSHOP** and verify its document ID `1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4`. Use its selected ten-clip packet and owner-supplied references. General search also returns historical films: `ARCHIVE`, `REFERENCE`, dated completed productions and old `GO` text are not render assignments. Do not choose a batch by a generic “Meta” or “Batch 01” title match. This card and the native router select the run; source folders do not.
+Native Google Docs are the required text format. Keep the packet's picture directions, exact performance words, clip durations and owner-selected reference inputs unchanged. Preserve the accepted 83.82-second entrance, one human Ryan, AI android assistants, the continuous pocket workshop and continuous singing/music.
+
+Start CW001–CW010 directly. A readback, staged packet, receipt search, archive audit, test still or another GO does not precede submission. If the renderer accepts one request at a time, submit the same packet's ten clips consecutively.
+
+After each result, retain the actual clip URL or specific generation error. A missing particular input is a specific exception to report. If the session has no video-generation tool, state that limitation immediately; do not claim staging or document creation executes the render.
+
+The [36-packet index](https://docs.google.com/document/d/1JK0_DP247JBY7urA6uTvBKfZC0R_HYEWWAlVRU7Ed9s/edit) and source masters are reference navigation. They do not choose another batch. Old source files and agent character cards do not change this selected run. Routing/access/permission edits never authorize screenplay or shot changes.
