@@ -1,0 +1,6554 @@
+{
+  "schema": "pocket-workshop-native-ten-render-plan-v1",
+  "status": "WRITTEN_AND_READ_BACK_NOT_RENDERED",
+  "owner": "Isekai Ryan",
+  "basis": {
+    "source": "Owner-supplied renderer capability report in this conversation",
+    "date": "2026-11-12",
+    "scope": "that receiving session",
+    "independently_renderer_tested_here": false
+  },
+  "native_output_seconds": 10,
+  "native_audio_video_together": true,
+  "supported_inputs_reported": {
+    "text_prompt": true,
+    "optional_reference_photo_of_Ryan": true
+  },
+  "noncapabilities_reported": [
+    "other native output lengths",
+    "direct editing of an existing video",
+    "automatic ingestion of Drive JPEGs or Doc-embedded images",
+    "guaranteed verbatim dialogue",
+    "guaranteed exact visuals",
+    "guaranteed cross-clip continuity",
+    "guaranteed cue timing or lip sync"
+  ],
+  "planning": {
+    "source_word_budget_per_render": 20,
+    "word_budget_is_tool_guarantee": false,
+    "entries": 498,
+    "source_cw_entries": 360,
+    "source_passages": 399,
+    "split_source_entries": 138,
+    "packets": 50,
+    "last_packet_entries": 8,
+    "planned_seconds": 4980,
+    "original_source_planned_seconds": 3802,
+    "requires_trim_or_stitch": false
+  },
+  "routing": {
+    "native_router": "https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit",
+    "packet_index": "https://docs.google.com/document/d/1JK0_DP247JBY7urA6uTvBKfZC0R_HYEWWAlVRU7Ed9s/edit",
+    "current_render_master": "https://docs.google.com/document/d/1cTcamoGeQo89hvAHJlP3bjFSVNErKmLAmjpxZZkncgI/edit?usp=drivesdk",
+    "source_screenplay": "https://docs.google.com/document/d/11WWIV7QfL1YlxWts9e55nkdCC0HP0JJ8_T_apqQNsXc/edit",
+    "first_packet": "https://docs.google.com/document/d/1r6cP_2hXB1KN9QY05vwMqDmaNdST5XyXeF2GO-_Y7ng",
+    "first_entry": "R001",
+    "last_entry": "R498",
+    "standing_go": true,
+    "per_clip_go_required": false,
+    "per_packet_go_required": false
+  },
+  "packets": [
+    {
+      "batch": 1,
+      "first": "R001",
+      "last": "R010",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1r6cP_2hXB1KN9QY05vwMqDmaNdST5XyXeF2GO-_Y7ng",
+      "native_document_url": "https://docs.google.com/document/d/1r6cP_2hXB1KN9QY05vwMqDmaNdST5XyXeF2GO-_Y7ng"
+    },
+    {
+      "batch": 2,
+      "first": "R011",
+      "last": "R020",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1QWaTfKneMRGRoiWHc9Cvc87l4cscwmkBKRhxErSvq2A",
+      "native_document_url": "https://docs.google.com/document/d/1QWaTfKneMRGRoiWHc9Cvc87l4cscwmkBKRhxErSvq2A"
+    },
+    {
+      "batch": 3,
+      "first": "R021",
+      "last": "R030",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1QpiMyOzylbZj7XzS21jRuAk-ZuvorIoZt8iezzpOu4Q",
+      "native_document_url": "https://docs.google.com/document/d/1QpiMyOzylbZj7XzS21jRuAk-ZuvorIoZt8iezzpOu4Q"
+    },
+    {
+      "batch": 4,
+      "first": "R031",
+      "last": "R040",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1uM67OAjtxcOG2YgMPiXq2a8oCuw2PBLpNd6odhSsq80",
+      "native_document_url": "https://docs.google.com/document/d/1uM67OAjtxcOG2YgMPiXq2a8oCuw2PBLpNd6odhSsq80"
+    },
+    {
+      "batch": 5,
+      "first": "R041",
+      "last": "R050",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1sHYTUHbM-vASGgtrTaxbIllpZ78pojk04ONHyfmOvrs",
+      "native_document_url": "https://docs.google.com/document/d/1sHYTUHbM-vASGgtrTaxbIllpZ78pojk04ONHyfmOvrs"
+    },
+    {
+      "batch": 6,
+      "first": "R051",
+      "last": "R060",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1vtw6ua9JNtBupxHvk06kk3jKEOmaXc_wYiuvzKzlc2I",
+      "native_document_url": "https://docs.google.com/document/d/1vtw6ua9JNtBupxHvk06kk3jKEOmaXc_wYiuvzKzlc2I"
+    },
+    {
+      "batch": 7,
+      "first": "R061",
+      "last": "R070",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1_LQQ1Zd4hLK4KW7AEiJBdFkUupIh5QqPhkox1sHS-IM",
+      "native_document_url": "https://docs.google.com/document/d/1_LQQ1Zd4hLK4KW7AEiJBdFkUupIh5QqPhkox1sHS-IM"
+    },
+    {
+      "batch": 8,
+      "first": "R071",
+      "last": "R080",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1VEUJoYJ6ZAUC8o42Y9yo3bieJIDgDj9rz5Y6Do2x6QM",
+      "native_document_url": "https://docs.google.com/document/d/1VEUJoYJ6ZAUC8o42Y9yo3bieJIDgDj9rz5Y6Do2x6QM"
+    },
+    {
+      "batch": 9,
+      "first": "R081",
+      "last": "R090",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "118kVvCXWad9Aaj5pTVTSOEE3v43qR1yWsrsOu2iSzhU",
+      "native_document_url": "https://docs.google.com/document/d/118kVvCXWad9Aaj5pTVTSOEE3v43qR1yWsrsOu2iSzhU"
+    },
+    {
+      "batch": 10,
+      "first": "R091",
+      "last": "R100",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "17jGfq-M7VMrmRvgB0FHDMcdb849OTo_uHB7HvbKAftc",
+      "native_document_url": "https://docs.google.com/document/d/17jGfq-M7VMrmRvgB0FHDMcdb849OTo_uHB7HvbKAftc"
+    },
+    {
+      "batch": 11,
+      "first": "R101",
+      "last": "R110",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1ep5jgV4lrDeGnNdS2SCTl7t5v7slPVDGG9bHv_Rc5U8",
+      "native_document_url": "https://docs.google.com/document/d/1ep5jgV4lrDeGnNdS2SCTl7t5v7slPVDGG9bHv_Rc5U8"
+    },
+    {
+      "batch": 12,
+      "first": "R111",
+      "last": "R120",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1y8lVKX81Cxdz7_DGZoRYTpl02a26w2zYuK1cJvw2-vg",
+      "native_document_url": "https://docs.google.com/document/d/1y8lVKX81Cxdz7_DGZoRYTpl02a26w2zYuK1cJvw2-vg"
+    },
+    {
+      "batch": 13,
+      "first": "R121",
+      "last": "R130",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "15kf4wG41Wu-UkK65g2cJq5mb4iMauMkFpVoUMo8DFDE",
+      "native_document_url": "https://docs.google.com/document/d/15kf4wG41Wu-UkK65g2cJq5mb4iMauMkFpVoUMo8DFDE"
+    },
+    {
+      "batch": 14,
+      "first": "R131",
+      "last": "R140",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1YymjctbSCYo5gi7AVAwOCNyPt_e-SWBpbNAUft_a2T8",
+      "native_document_url": "https://docs.google.com/document/d/1YymjctbSCYo5gi7AVAwOCNyPt_e-SWBpbNAUft_a2T8"
+    },
+    {
+      "batch": 15,
+      "first": "R141",
+      "last": "R150",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1erAxQXDVHM8X5sNKAWIPFJWUQoN38kBeNSpdsIG0aFw",
+      "native_document_url": "https://docs.google.com/document/d/1erAxQXDVHM8X5sNKAWIPFJWUQoN38kBeNSpdsIG0aFw"
+    },
+    {
+      "batch": 16,
+      "first": "R151",
+      "last": "R160",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1otPToYQU-uGGHl_2FOIMKEIVvh34QnoYnKR4Z-SnInY",
+      "native_document_url": "https://docs.google.com/document/d/1otPToYQU-uGGHl_2FOIMKEIVvh34QnoYnKR4Z-SnInY"
+    },
+    {
+      "batch": 17,
+      "first": "R161",
+      "last": "R170",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1Dq6VVCoQDGxgiBugGfyXwHSoYxbNYB56ACMIoq79N9k",
+      "native_document_url": "https://docs.google.com/document/d/1Dq6VVCoQDGxgiBugGfyXwHSoYxbNYB56ACMIoq79N9k"
+    },
+    {
+      "batch": 18,
+      "first": "R171",
+      "last": "R180",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1N3J2OLVFX_xYK7eXIodZhokbUlSkqZfMsRVK4TIyrZY",
+      "native_document_url": "https://docs.google.com/document/d/1N3J2OLVFX_xYK7eXIodZhokbUlSkqZfMsRVK4TIyrZY"
+    },
+    {
+      "batch": 19,
+      "first": "R181",
+      "last": "R190",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1H72FcozICPJNIk1L8AVbmxAVcclibMDNONMqRIFEbE0",
+      "native_document_url": "https://docs.google.com/document/d/1H72FcozICPJNIk1L8AVbmxAVcclibMDNONMqRIFEbE0"
+    },
+    {
+      "batch": 20,
+      "first": "R191",
+      "last": "R200",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1LoUh9u-xu_OB5MX7cbiT_m0RmQOfME_jed0TcolSDog",
+      "native_document_url": "https://docs.google.com/document/d/1LoUh9u-xu_OB5MX7cbiT_m0RmQOfME_jed0TcolSDog"
+    },
+    {
+      "batch": 21,
+      "first": "R201",
+      "last": "R210",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1NBrJa0n0MjILOW_dvm9w4i0YbT1mF_LnSfbcOIpflk0",
+      "native_document_url": "https://docs.google.com/document/d/1NBrJa0n0MjILOW_dvm9w4i0YbT1mF_LnSfbcOIpflk0"
+    },
+    {
+      "batch": 22,
+      "first": "R211",
+      "last": "R220",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1M3xT29H4BYNbdFIS3F0xuENgWG6wZmodvAw8slpcdsc",
+      "native_document_url": "https://docs.google.com/document/d/1M3xT29H4BYNbdFIS3F0xuENgWG6wZmodvAw8slpcdsc"
+    },
+    {
+      "batch": 23,
+      "first": "R221",
+      "last": "R230",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1pf5r0O0D_090trHTmcM_2vE9vXppr__Btq7ITq_Sm4E",
+      "native_document_url": "https://docs.google.com/document/d/1pf5r0O0D_090trHTmcM_2vE9vXppr__Btq7ITq_Sm4E"
+    },
+    {
+      "batch": 24,
+      "first": "R231",
+      "last": "R240",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1BShHwmhbTEEIRKG5bFnyhGvFmk0vAitdHVXa9h-MZwY",
+      "native_document_url": "https://docs.google.com/document/d/1BShHwmhbTEEIRKG5bFnyhGvFmk0vAitdHVXa9h-MZwY"
+    },
+    {
+      "batch": 25,
+      "first": "R241",
+      "last": "R250",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1G_hUQrDj0HAYEU_jNRIi4bR_uwsxaE65AribHMukL2g",
+      "native_document_url": "https://docs.google.com/document/d/1G_hUQrDj0HAYEU_jNRIi4bR_uwsxaE65AribHMukL2g"
+    },
+    {
+      "batch": 26,
+      "first": "R251",
+      "last": "R260",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "10s3jDI9g1mlmEwy3QsTdk5T-RefLjbOlgZ84x0B8NSk",
+      "native_document_url": "https://docs.google.com/document/d/10s3jDI9g1mlmEwy3QsTdk5T-RefLjbOlgZ84x0B8NSk"
+    },
+    {
+      "batch": 27,
+      "first": "R261",
+      "last": "R270",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1X4-g5dpaXk4QcPy-YRkU5kYi7_Svv59Q1AKKsEbeDD0",
+      "native_document_url": "https://docs.google.com/document/d/1X4-g5dpaXk4QcPy-YRkU5kYi7_Svv59Q1AKKsEbeDD0"
+    },
+    {
+      "batch": 28,
+      "first": "R271",
+      "last": "R280",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "19kguPWZFBuPm6-wF7acpkGN-qzNYOndpxcWQiVuIhVc",
+      "native_document_url": "https://docs.google.com/document/d/19kguPWZFBuPm6-wF7acpkGN-qzNYOndpxcWQiVuIhVc"
+    },
+    {
+      "batch": 29,
+      "first": "R281",
+      "last": "R290",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1Pf0lQMMgch06XWMRCbUYMvjsQZMcAsxxDD1qE3OTSaA",
+      "native_document_url": "https://docs.google.com/document/d/1Pf0lQMMgch06XWMRCbUYMvjsQZMcAsxxDD1qE3OTSaA"
+    },
+    {
+      "batch": 30,
+      "first": "R291",
+      "last": "R300",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1Vkd5pQ20KBsrnOpTorxz3SFsFh30q2XQYNKkLJMQoDM",
+      "native_document_url": "https://docs.google.com/document/d/1Vkd5pQ20KBsrnOpTorxz3SFsFh30q2XQYNKkLJMQoDM"
+    },
+    {
+      "batch": 31,
+      "first": "R301",
+      "last": "R310",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1G6mZTAoQk8z5C_ButKvPNy9PqjjyCmod0TIzEDVFmIE",
+      "native_document_url": "https://docs.google.com/document/d/1G6mZTAoQk8z5C_ButKvPNy9PqjjyCmod0TIzEDVFmIE"
+    },
+    {
+      "batch": 32,
+      "first": "R311",
+      "last": "R320",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "15doPgRDKXuu3GPBVJ_6OAyzscO5dNg0BLpiaojpSafk",
+      "native_document_url": "https://docs.google.com/document/d/15doPgRDKXuu3GPBVJ_6OAyzscO5dNg0BLpiaojpSafk"
+    },
+    {
+      "batch": 33,
+      "first": "R321",
+      "last": "R330",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1D-Jax800WqHIwAnYGKD1mM9S69SWsddfm-QhWmOtw7Y",
+      "native_document_url": "https://docs.google.com/document/d/1D-Jax800WqHIwAnYGKD1mM9S69SWsddfm-QhWmOtw7Y"
+    },
+    {
+      "batch": 34,
+      "first": "R331",
+      "last": "R340",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1FB6gKwzMRxzgo-PZDhgvWBVROYH1Qtovias_TPASWrc",
+      "native_document_url": "https://docs.google.com/document/d/1FB6gKwzMRxzgo-PZDhgvWBVROYH1Qtovias_TPASWrc"
+    },
+    {
+      "batch": 35,
+      "first": "R341",
+      "last": "R350",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1zgtmcpLhikt5lk8Uo3y2jt3ihOuJZqS72xZJCVuQry4",
+      "native_document_url": "https://docs.google.com/document/d/1zgtmcpLhikt5lk8Uo3y2jt3ihOuJZqS72xZJCVuQry4"
+    },
+    {
+      "batch": 36,
+      "first": "R351",
+      "last": "R360",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "135V36FgZF_i2Z3BxL-V--gSe2lR4uv3CHAb161fBw3I",
+      "native_document_url": "https://docs.google.com/document/d/135V36FgZF_i2Z3BxL-V--gSe2lR4uv3CHAb161fBw3I"
+    },
+    {
+      "batch": 37,
+      "first": "R361",
+      "last": "R370",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1wsTDOxlunAhkNa0CwyuzP_Bv42mbpCei9x_ehFjF9Tk",
+      "native_document_url": "https://docs.google.com/document/d/1wsTDOxlunAhkNa0CwyuzP_Bv42mbpCei9x_ehFjF9Tk/edit?usp=drivesdk"
+    },
+    {
+      "batch": 38,
+      "first": "R371",
+      "last": "R380",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1gTUY-pOQEN0eZf235MOjVhSYx91AqTIQ7iuoXsl6G1E",
+      "native_document_url": "https://docs.google.com/document/d/1gTUY-pOQEN0eZf235MOjVhSYx91AqTIQ7iuoXsl6G1E/edit?usp=drivesdk"
+    },
+    {
+      "batch": 39,
+      "first": "R381",
+      "last": "R390",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1cD1UNWtIidV6oNBVUKyAJBSyChMkbtGLuY-e77fuvhE",
+      "native_document_url": "https://docs.google.com/document/d/1cD1UNWtIidV6oNBVUKyAJBSyChMkbtGLuY-e77fuvhE/edit?usp=drivesdk"
+    },
+    {
+      "batch": 40,
+      "first": "R391",
+      "last": "R400",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1LTkjhZHtEAnauWinBkQO5R7gmmjcYesYsceC0QihRHI",
+      "native_document_url": "https://docs.google.com/document/d/1LTkjhZHtEAnauWinBkQO5R7gmmjcYesYsceC0QihRHI/edit?usp=drivesdk"
+    },
+    {
+      "batch": 41,
+      "first": "R401",
+      "last": "R410",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1TxPx1NKji_70jKjo1l7QNX4gYVTV9KHp8gjECv_y8q4",
+      "native_document_url": "https://docs.google.com/document/d/1TxPx1NKji_70jKjo1l7QNX4gYVTV9KHp8gjECv_y8q4/edit?usp=drivesdk"
+    },
+    {
+      "batch": 42,
+      "first": "R411",
+      "last": "R420",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1LJAqMzLJcno6kl_gxureBRa6BiJhD5mmK_BU2OqX6SM",
+      "native_document_url": "https://docs.google.com/document/d/1LJAqMzLJcno6kl_gxureBRa6BiJhD5mmK_BU2OqX6SM/edit?usp=drivesdk"
+    },
+    {
+      "batch": 43,
+      "first": "R421",
+      "last": "R430",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1I8iyqfJvSkIfohOE_2K3IJ07t2m-2hVpz9PF5cHJcDY",
+      "native_document_url": "https://docs.google.com/document/d/1I8iyqfJvSkIfohOE_2K3IJ07t2m-2hVpz9PF5cHJcDY/edit?usp=drivesdk"
+    },
+    {
+      "batch": 44,
+      "first": "R431",
+      "last": "R440",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "10MGYVjJdDWWO8FS6FQHmD1uH1bzHpHF5CZVHTTE8b3A",
+      "native_document_url": "https://docs.google.com/document/d/10MGYVjJdDWWO8FS6FQHmD1uH1bzHpHF5CZVHTTE8b3A/edit?usp=drivesdk"
+    },
+    {
+      "batch": 45,
+      "first": "R441",
+      "last": "R450",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "12JZ0BsEQpauGdA8wZ_6qzcZl_QfHF_aTeKYc_IggKEg",
+      "native_document_url": "https://docs.google.com/document/d/12JZ0BsEQpauGdA8wZ_6qzcZl_QfHF_aTeKYc_IggKEg/edit?usp=drivesdk"
+    },
+    {
+      "batch": 46,
+      "first": "R451",
+      "last": "R460",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1TiTxUm8PS5gR2CTPAHk4T_TFkEEvZAd65ojgEMTeODo",
+      "native_document_url": "https://docs.google.com/document/d/1TiTxUm8PS5gR2CTPAHk4T_TFkEEvZAd65ojgEMTeODo/edit?usp=drivesdk"
+    },
+    {
+      "batch": 47,
+      "first": "R461",
+      "last": "R470",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1aQu4z6DXYAwyq3cNrkv75FXysJJ0VsFVhOEXs684WGE",
+      "native_document_url": "https://docs.google.com/document/d/1aQu4z6DXYAwyq3cNrkv75FXysJJ0VsFVhOEXs684WGE/edit?usp=drivesdk"
+    },
+    {
+      "batch": 48,
+      "first": "R471",
+      "last": "R480",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "1esoKlgbD1ncPk85UZrLfM4HvVCBeE52Sz9lbMwS7Y40",
+      "native_document_url": "https://docs.google.com/document/d/1esoKlgbD1ncPk85UZrLfM4HvVCBeE52Sz9lbMwS7Y40/edit?usp=drivesdk"
+    },
+    {
+      "batch": 49,
+      "first": "R481",
+      "last": "R490",
+      "clips": 10,
+      "planned_seconds": 100,
+      "native_document_id": "17MjUb49uOxAJ3jpFkvPT6_n2yohZcxKGo6asvGHIj5c",
+      "native_document_url": "https://docs.google.com/document/d/17MjUb49uOxAJ3jpFkvPT6_n2yohZcxKGo6asvGHIj5c/edit?usp=drivesdk"
+    },
+    {
+      "batch": 50,
+      "first": "R491",
+      "last": "R498",
+      "clips": 8,
+      "planned_seconds": 80,
+      "native_document_id": "1o3pR9w28CD2bxLr1zWEfIyj8b5Nw_Th5VGDGWwyGNsM",
+      "native_document_url": "https://docs.google.com/document/d/1o3pR9w28CD2bxLr1zWEfIyj8b5Nw_Th5VGDGWwyGNsM/edit?usp=drivesdk"
+    }
+  ],
+  "entries": [
+    {
+      "id": "R001",
+      "seconds": 10,
+      "packet": 1,
+      "source_cw": "CW001",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [],
+      "source_word_count": 0
+    },
+    {
+      "id": "R002",
+      "seconds": 10,
+      "packet": 1,
+      "source_cw": "CW002",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [],
+      "source_word_count": 0
+    },
+    {
+      "id": "R003",
+      "seconds": 10,
+      "packet": 1,
+      "source_cw": "CW003",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [],
+      "source_word_count": 0
+    },
+    {
+      "id": "R004",
+      "seconds": 10,
+      "packet": 1,
+      "source_cw": "CW004",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P001"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R005",
+      "seconds": 10,
+      "packet": 1,
+      "source_cw": "CW004",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P001"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R006",
+      "seconds": 10,
+      "packet": 1,
+      "source_cw": "CW005",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P001"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R007",
+      "seconds": 10,
+      "packet": 1,
+      "source_cw": "CW006",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P002"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R008",
+      "seconds": 10,
+      "packet": 1,
+      "source_cw": "CW007",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P003"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R009",
+      "seconds": 10,
+      "packet": 1,
+      "source_cw": "CW007",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P003"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R010",
+      "seconds": 10,
+      "packet": 1,
+      "source_cw": "CW008",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P003"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R011",
+      "seconds": 10,
+      "packet": 2,
+      "source_cw": "CW008",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P003"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R012",
+      "seconds": 10,
+      "packet": 2,
+      "source_cw": "CW009",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P004"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R013",
+      "seconds": 10,
+      "packet": 2,
+      "source_cw": "CW009",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P004"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R014",
+      "seconds": 10,
+      "packet": 2,
+      "source_cw": "CW010",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P004"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R015",
+      "seconds": 10,
+      "packet": 2,
+      "source_cw": "CW011",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P004"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R016",
+      "seconds": 10,
+      "packet": 2,
+      "source_cw": "CW011",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P004"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R017",
+      "seconds": 10,
+      "packet": 2,
+      "source_cw": "CW012",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P004"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R018",
+      "seconds": 10,
+      "packet": 2,
+      "source_cw": "CW012",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P004"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R019",
+      "seconds": 10,
+      "packet": 2,
+      "source_cw": "CW013",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P004"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R020",
+      "seconds": 10,
+      "packet": 2,
+      "source_cw": "CW014",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P004"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R021",
+      "seconds": 10,
+      "packet": 3,
+      "source_cw": "CW015",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P004"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R022",
+      "seconds": 10,
+      "packet": 3,
+      "source_cw": "CW015",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P004"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R023",
+      "seconds": 10,
+      "packet": 3,
+      "source_cw": "CW016",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P005"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R024",
+      "seconds": 10,
+      "packet": 3,
+      "source_cw": "CW017",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P005"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R025",
+      "seconds": 10,
+      "packet": 3,
+      "source_cw": "CW018",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P005"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R026",
+      "seconds": 10,
+      "packet": 3,
+      "source_cw": "CW018",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P005"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R027",
+      "seconds": 10,
+      "packet": 3,
+      "source_cw": "CW019",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P005"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R028",
+      "seconds": 10,
+      "packet": 3,
+      "source_cw": "CW020",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P005"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R029",
+      "seconds": 10,
+      "packet": 3,
+      "source_cw": "CW021",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P005"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R030",
+      "seconds": 10,
+      "packet": 3,
+      "source_cw": "CW021",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P005"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R031",
+      "seconds": 10,
+      "packet": 4,
+      "source_cw": "CW022",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P005"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R032",
+      "seconds": 10,
+      "packet": 4,
+      "source_cw": "CW023",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P006"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R033",
+      "seconds": 10,
+      "packet": 4,
+      "source_cw": "CW023",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P006"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R034",
+      "seconds": 10,
+      "packet": 4,
+      "source_cw": "CW024",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P006"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R035",
+      "seconds": 10,
+      "packet": 4,
+      "source_cw": "CW025",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P006"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R036",
+      "seconds": 10,
+      "packet": 4,
+      "source_cw": "CW025",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P006"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R037",
+      "seconds": 10,
+      "packet": 4,
+      "source_cw": "CW026",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P006"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R038",
+      "seconds": 10,
+      "packet": 4,
+      "source_cw": "CW026",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P006"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R039",
+      "seconds": 10,
+      "packet": 4,
+      "source_cw": "CW027",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P006"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R040",
+      "seconds": 10,
+      "packet": 4,
+      "source_cw": "CW028",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P006"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R041",
+      "seconds": 10,
+      "packet": 5,
+      "source_cw": "CW028",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P006"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R042",
+      "seconds": 10,
+      "packet": 5,
+      "source_cw": "CW029",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P006"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R043",
+      "seconds": 10,
+      "packet": 5,
+      "source_cw": "CW030",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P006"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R044",
+      "seconds": 10,
+      "packet": 5,
+      "source_cw": "CW031",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P007"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R045",
+      "seconds": 10,
+      "packet": 5,
+      "source_cw": "CW031",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P007"
+      ],
+      "source_word_count": 8
+    },
+    {
+      "id": "R046",
+      "seconds": 10,
+      "packet": 5,
+      "source_cw": "CW032",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P007"
+      ],
+      "source_word_count": 8
+    },
+    {
+      "id": "R047",
+      "seconds": 10,
+      "packet": 5,
+      "source_cw": "CW032",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P007"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R048",
+      "seconds": 10,
+      "packet": 5,
+      "source_cw": "CW033",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P007"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R049",
+      "seconds": 10,
+      "packet": 5,
+      "source_cw": "CW033",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P007"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R050",
+      "seconds": 10,
+      "packet": 5,
+      "source_cw": "CW034",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P007"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R051",
+      "seconds": 10,
+      "packet": 6,
+      "source_cw": "CW035",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P007"
+      ],
+      "source_word_count": 8
+    },
+    {
+      "id": "R052",
+      "seconds": 10,
+      "packet": 6,
+      "source_cw": "CW035",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P007"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R053",
+      "seconds": 10,
+      "packet": 6,
+      "source_cw": "CW036",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P007"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R054",
+      "seconds": 10,
+      "packet": 6,
+      "source_cw": "CW037",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P008"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R055",
+      "seconds": 10,
+      "packet": 6,
+      "source_cw": "CW037",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P008"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R056",
+      "seconds": 10,
+      "packet": 6,
+      "source_cw": "CW038",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P008"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R057",
+      "seconds": 10,
+      "packet": 6,
+      "source_cw": "CW038",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P008"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R058",
+      "seconds": 10,
+      "packet": 6,
+      "source_cw": "CW039",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P008"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R059",
+      "seconds": 10,
+      "packet": 6,
+      "source_cw": "CW040",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P008"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R060",
+      "seconds": 10,
+      "packet": 6,
+      "source_cw": "CW041",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P009"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R061",
+      "seconds": 10,
+      "packet": 7,
+      "source_cw": "CW042",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P010",
+        "P011"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R062",
+      "seconds": 10,
+      "packet": 7,
+      "source_cw": "CW043",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P012",
+        "P013"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R063",
+      "seconds": 10,
+      "packet": 7,
+      "source_cw": "CW043",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P014",
+        "P015"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R064",
+      "seconds": 10,
+      "packet": 7,
+      "source_cw": "CW044",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P016"
+      ],
+      "source_word_count": 8
+    },
+    {
+      "id": "R065",
+      "seconds": 10,
+      "packet": 7,
+      "source_cw": "CW044",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P017"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R066",
+      "seconds": 10,
+      "packet": 7,
+      "source_cw": "CW045",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P018"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R067",
+      "seconds": 10,
+      "packet": 7,
+      "source_cw": "CW045",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P019"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R068",
+      "seconds": 10,
+      "packet": 7,
+      "source_cw": "CW046",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P020",
+        "P021"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R069",
+      "seconds": 10,
+      "packet": 7,
+      "source_cw": "CW047",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P022"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R070",
+      "seconds": 10,
+      "packet": 7,
+      "source_cw": "CW047",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P023"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R071",
+      "seconds": 10,
+      "packet": 8,
+      "source_cw": "CW048",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P024"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R072",
+      "seconds": 10,
+      "packet": 8,
+      "source_cw": "CW049",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P025"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R073",
+      "seconds": 10,
+      "packet": 8,
+      "source_cw": "CW050",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P026"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R074",
+      "seconds": 10,
+      "packet": 8,
+      "source_cw": "CW051",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P027"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R075",
+      "seconds": 10,
+      "packet": 8,
+      "source_cw": "CW052",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P027"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R076",
+      "seconds": 10,
+      "packet": 8,
+      "source_cw": "CW052",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P028"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R077",
+      "seconds": 10,
+      "packet": 8,
+      "source_cw": "CW053",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P029"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R078",
+      "seconds": 10,
+      "packet": 8,
+      "source_cw": "CW054",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P029"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R079",
+      "seconds": 10,
+      "packet": 8,
+      "source_cw": "CW055",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P029"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R080",
+      "seconds": 10,
+      "packet": 8,
+      "source_cw": "CW056",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P029"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R081",
+      "seconds": 10,
+      "packet": 9,
+      "source_cw": "CW057",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P029"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R082",
+      "seconds": 10,
+      "packet": 9,
+      "source_cw": "CW058",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P029"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R083",
+      "seconds": 10,
+      "packet": 9,
+      "source_cw": "CW059",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P029"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R084",
+      "seconds": 10,
+      "packet": 9,
+      "source_cw": "CW060",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P030",
+        "P031"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R085",
+      "seconds": 10,
+      "packet": 9,
+      "source_cw": "CW061",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P032"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R086",
+      "seconds": 10,
+      "packet": 9,
+      "source_cw": "CW061",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P033"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R087",
+      "seconds": 10,
+      "packet": 9,
+      "source_cw": "CW062",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P034"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R088",
+      "seconds": 10,
+      "packet": 9,
+      "source_cw": "CW062",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P035"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R089",
+      "seconds": 10,
+      "packet": 9,
+      "source_cw": "CW063",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P036"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R090",
+      "seconds": 10,
+      "packet": 9,
+      "source_cw": "CW063",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P037"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R091",
+      "seconds": 10,
+      "packet": 10,
+      "source_cw": "CW064",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P038",
+        "P039"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R092",
+      "seconds": 10,
+      "packet": 10,
+      "source_cw": "CW065",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P040"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R093",
+      "seconds": 10,
+      "packet": 10,
+      "source_cw": "CW065",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P041"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R094",
+      "seconds": 10,
+      "packet": 10,
+      "source_cw": "CW066",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P042"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R095",
+      "seconds": 10,
+      "packet": 10,
+      "source_cw": "CW067",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P043"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R096",
+      "seconds": 10,
+      "packet": 10,
+      "source_cw": "CW068",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P044"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R097",
+      "seconds": 10,
+      "packet": 10,
+      "source_cw": "CW069",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P045",
+        "P046"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R098",
+      "seconds": 10,
+      "packet": 10,
+      "source_cw": "CW069",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P047"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R099",
+      "seconds": 10,
+      "packet": 10,
+      "source_cw": "CW070",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P048"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R100",
+      "seconds": 10,
+      "packet": 10,
+      "source_cw": "CW070",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P049"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R101",
+      "seconds": 10,
+      "packet": 11,
+      "source_cw": "CW071",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P050",
+        "P051"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R102",
+      "seconds": 10,
+      "packet": 11,
+      "source_cw": "CW072",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P052"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R103",
+      "seconds": 10,
+      "packet": 11,
+      "source_cw": "CW072",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P053"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R104",
+      "seconds": 10,
+      "packet": 11,
+      "source_cw": "CW073",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P054"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R105",
+      "seconds": 10,
+      "packet": 11,
+      "source_cw": "CW073",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P055"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R106",
+      "seconds": 10,
+      "packet": 11,
+      "source_cw": "CW074",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P056"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R107",
+      "seconds": 10,
+      "packet": 11,
+      "source_cw": "CW074",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P057"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R108",
+      "seconds": 10,
+      "packet": 11,
+      "source_cw": "CW075",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P058"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R109",
+      "seconds": 10,
+      "packet": 11,
+      "source_cw": "CW076",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P059"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R110",
+      "seconds": 10,
+      "packet": 11,
+      "source_cw": "CW077",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P060"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R111",
+      "seconds": 10,
+      "packet": 12,
+      "source_cw": "CW077",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P060"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R112",
+      "seconds": 10,
+      "packet": 12,
+      "source_cw": "CW078",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P060"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R113",
+      "seconds": 10,
+      "packet": 12,
+      "source_cw": "CW078",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P061"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R114",
+      "seconds": 10,
+      "packet": 12,
+      "source_cw": "CW079",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P062"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R115",
+      "seconds": 10,
+      "packet": 12,
+      "source_cw": "CW080",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P062"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R116",
+      "seconds": 10,
+      "packet": 12,
+      "source_cw": "CW081",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P062"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R117",
+      "seconds": 10,
+      "packet": 12,
+      "source_cw": "CW082",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P062"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R118",
+      "seconds": 10,
+      "packet": 12,
+      "source_cw": "CW083",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P062"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R119",
+      "seconds": 10,
+      "packet": 12,
+      "source_cw": "CW084",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P062"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R120",
+      "seconds": 10,
+      "packet": 12,
+      "source_cw": "CW085",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P062"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R121",
+      "seconds": 10,
+      "packet": 13,
+      "source_cw": "CW086",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P063",
+        "P064"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R122",
+      "seconds": 10,
+      "packet": 13,
+      "source_cw": "CW086",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P065"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R123",
+      "seconds": 10,
+      "packet": 13,
+      "source_cw": "CW087",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P066"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R124",
+      "seconds": 10,
+      "packet": 13,
+      "source_cw": "CW087",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P067",
+        "P068"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R125",
+      "seconds": 10,
+      "packet": 13,
+      "source_cw": "CW088",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P069",
+        "P070"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R126",
+      "seconds": 10,
+      "packet": 13,
+      "source_cw": "CW089",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P071"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R127",
+      "seconds": 10,
+      "packet": 13,
+      "source_cw": "CW090",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P072"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R128",
+      "seconds": 10,
+      "packet": 13,
+      "source_cw": "CW090",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P073"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R129",
+      "seconds": 10,
+      "packet": 13,
+      "source_cw": "CW091",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P074"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R130",
+      "seconds": 10,
+      "packet": 13,
+      "source_cw": "CW091",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P075"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R131",
+      "seconds": 10,
+      "packet": 14,
+      "source_cw": "CW092",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P076"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R132",
+      "seconds": 10,
+      "packet": 14,
+      "source_cw": "CW093",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P077"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R133",
+      "seconds": 10,
+      "packet": 14,
+      "source_cw": "CW094",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P078",
+        "P079"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R134",
+      "seconds": 10,
+      "packet": 14,
+      "source_cw": "CW095",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P080"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R135",
+      "seconds": 10,
+      "packet": 14,
+      "source_cw": "CW096",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P081"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R136",
+      "seconds": 10,
+      "packet": 14,
+      "source_cw": "CW097",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P082"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R137",
+      "seconds": 10,
+      "packet": 14,
+      "source_cw": "CW097",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P082"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R138",
+      "seconds": 10,
+      "packet": 14,
+      "source_cw": "CW098",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P083"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R139",
+      "seconds": 10,
+      "packet": 14,
+      "source_cw": "CW099",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P084"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R140",
+      "seconds": 10,
+      "packet": 14,
+      "source_cw": "CW100",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P084"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R141",
+      "seconds": 10,
+      "packet": 15,
+      "source_cw": "CW101",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P084"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R142",
+      "seconds": 10,
+      "packet": 15,
+      "source_cw": "CW102",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P084"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R143",
+      "seconds": 10,
+      "packet": 15,
+      "source_cw": "CW103",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P084"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R144",
+      "seconds": 10,
+      "packet": 15,
+      "source_cw": "CW104",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P084"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R145",
+      "seconds": 10,
+      "packet": 15,
+      "source_cw": "CW105",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P084"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R146",
+      "seconds": 10,
+      "packet": 15,
+      "source_cw": "CW106",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P085"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R147",
+      "seconds": 10,
+      "packet": 15,
+      "source_cw": "CW106",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P086",
+        "P087"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R148",
+      "seconds": 10,
+      "packet": 15,
+      "source_cw": "CW107",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P088"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R149",
+      "seconds": 10,
+      "packet": 15,
+      "source_cw": "CW107",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P089"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R150",
+      "seconds": 10,
+      "packet": 15,
+      "source_cw": "CW108",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P090"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R151",
+      "seconds": 10,
+      "packet": 16,
+      "source_cw": "CW108",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P091"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R152",
+      "seconds": 10,
+      "packet": 16,
+      "source_cw": "CW109",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P092"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R153",
+      "seconds": 10,
+      "packet": 16,
+      "source_cw": "CW109",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P093"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R154",
+      "seconds": 10,
+      "packet": 16,
+      "source_cw": "CW110",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P094"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R155",
+      "seconds": 10,
+      "packet": 16,
+      "source_cw": "CW110",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P095"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R156",
+      "seconds": 10,
+      "packet": 16,
+      "source_cw": "CW111",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P096"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R157",
+      "seconds": 10,
+      "packet": 16,
+      "source_cw": "CW111",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P097"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R158",
+      "seconds": 10,
+      "packet": 16,
+      "source_cw": "CW112",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P098"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R159",
+      "seconds": 10,
+      "packet": 16,
+      "source_cw": "CW113",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P099"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R160",
+      "seconds": 10,
+      "packet": 16,
+      "source_cw": "CW114",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P100"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R161",
+      "seconds": 10,
+      "packet": 17,
+      "source_cw": "CW115",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P101",
+        "P102"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R162",
+      "seconds": 10,
+      "packet": 17,
+      "source_cw": "CW115",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P103"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R163",
+      "seconds": 10,
+      "packet": 17,
+      "source_cw": "CW116",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P104",
+        "P105"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R164",
+      "seconds": 10,
+      "packet": 17,
+      "source_cw": "CW117",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P106",
+        "P107"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R165",
+      "seconds": 10,
+      "packet": 17,
+      "source_cw": "CW118",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P108"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R166",
+      "seconds": 10,
+      "packet": 17,
+      "source_cw": "CW118",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P109"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R167",
+      "seconds": 10,
+      "packet": 17,
+      "source_cw": "CW119",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P110"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R168",
+      "seconds": 10,
+      "packet": 17,
+      "source_cw": "CW119",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P111",
+        "P112"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R169",
+      "seconds": 10,
+      "packet": 17,
+      "source_cw": "CW120",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P113"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R170",
+      "seconds": 10,
+      "packet": 17,
+      "source_cw": "CW121",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P114"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R171",
+      "seconds": 10,
+      "packet": 18,
+      "source_cw": "CW122",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P115"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R172",
+      "seconds": 10,
+      "packet": 18,
+      "source_cw": "CW123",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P116"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R173",
+      "seconds": 10,
+      "packet": 18,
+      "source_cw": "CW123",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P116"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R174",
+      "seconds": 10,
+      "packet": 18,
+      "source_cw": "CW124",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P116"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R175",
+      "seconds": 10,
+      "packet": 18,
+      "source_cw": "CW124",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P117"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R176",
+      "seconds": 10,
+      "packet": 18,
+      "source_cw": "CW125",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P118"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R177",
+      "seconds": 10,
+      "packet": 18,
+      "source_cw": "CW126",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P118"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R178",
+      "seconds": 10,
+      "packet": 18,
+      "source_cw": "CW127",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P118"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R179",
+      "seconds": 10,
+      "packet": 18,
+      "source_cw": "CW128",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P118"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R180",
+      "seconds": 10,
+      "packet": 18,
+      "source_cw": "CW129",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P118"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R181",
+      "seconds": 10,
+      "packet": 19,
+      "source_cw": "CW130",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P118"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R182",
+      "seconds": 10,
+      "packet": 19,
+      "source_cw": "CW131",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P118"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R183",
+      "seconds": 10,
+      "packet": 19,
+      "source_cw": "CW132",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P119"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R184",
+      "seconds": 10,
+      "packet": 19,
+      "source_cw": "CW133",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P120"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R185",
+      "seconds": 10,
+      "packet": 19,
+      "source_cw": "CW134",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P121"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R186",
+      "seconds": 10,
+      "packet": 19,
+      "source_cw": "CW134",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P122"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R187",
+      "seconds": 10,
+      "packet": 19,
+      "source_cw": "CW135",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P123"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R188",
+      "seconds": 10,
+      "packet": 19,
+      "source_cw": "CW135",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P124"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R189",
+      "seconds": 10,
+      "packet": 19,
+      "source_cw": "CW136",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P125"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R190",
+      "seconds": 10,
+      "packet": 19,
+      "source_cw": "CW136",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P126"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R191",
+      "seconds": 10,
+      "packet": 20,
+      "source_cw": "CW137",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P127"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R192",
+      "seconds": 10,
+      "packet": 20,
+      "source_cw": "CW137",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P128"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R193",
+      "seconds": 10,
+      "packet": 20,
+      "source_cw": "CW138",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P129"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R194",
+      "seconds": 10,
+      "packet": 20,
+      "source_cw": "CW138",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P130"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R195",
+      "seconds": 10,
+      "packet": 20,
+      "source_cw": "CW139",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P131"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R196",
+      "seconds": 10,
+      "packet": 20,
+      "source_cw": "CW139",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P132"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R197",
+      "seconds": 10,
+      "packet": 20,
+      "source_cw": "CW140",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P133"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R198",
+      "seconds": 10,
+      "packet": 20,
+      "source_cw": "CW141",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P134"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R199",
+      "seconds": 10,
+      "packet": 20,
+      "source_cw": "CW142",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P135"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R200",
+      "seconds": 10,
+      "packet": 20,
+      "source_cw": "CW143",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P136"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R201",
+      "seconds": 10,
+      "packet": 21,
+      "source_cw": "CW143",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P136"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R202",
+      "seconds": 10,
+      "packet": 21,
+      "source_cw": "CW144",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P136"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R203",
+      "seconds": 10,
+      "packet": 21,
+      "source_cw": "CW144",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P137"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R204",
+      "seconds": 10,
+      "packet": 21,
+      "source_cw": "CW145",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P138"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R205",
+      "seconds": 10,
+      "packet": 21,
+      "source_cw": "CW146",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P138"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R206",
+      "seconds": 10,
+      "packet": 21,
+      "source_cw": "CW147",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P138"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R207",
+      "seconds": 10,
+      "packet": 21,
+      "source_cw": "CW148",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P138"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R208",
+      "seconds": 10,
+      "packet": 21,
+      "source_cw": "CW149",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P138"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R209",
+      "seconds": 10,
+      "packet": 21,
+      "source_cw": "CW150",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P138"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R210",
+      "seconds": 10,
+      "packet": 21,
+      "source_cw": "CW151",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P138"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R211",
+      "seconds": 10,
+      "packet": 22,
+      "source_cw": "CW152",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P139"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R212",
+      "seconds": 10,
+      "packet": 22,
+      "source_cw": "CW153",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P140",
+        "P141"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R213",
+      "seconds": 10,
+      "packet": 22,
+      "source_cw": "CW154",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P142",
+        "P143"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R214",
+      "seconds": 10,
+      "packet": 22,
+      "source_cw": "CW155",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P144"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R215",
+      "seconds": 10,
+      "packet": 22,
+      "source_cw": "CW155",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P145"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R216",
+      "seconds": 10,
+      "packet": 22,
+      "source_cw": "CW156",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P146"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R217",
+      "seconds": 10,
+      "packet": 22,
+      "source_cw": "CW156",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P147"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R218",
+      "seconds": 10,
+      "packet": 22,
+      "source_cw": "CW157",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P148"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R219",
+      "seconds": 10,
+      "packet": 22,
+      "source_cw": "CW157",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P149"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R220",
+      "seconds": 10,
+      "packet": 22,
+      "source_cw": "CW158",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P150"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R221",
+      "seconds": 10,
+      "packet": 23,
+      "source_cw": "CW158",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P151"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R222",
+      "seconds": 10,
+      "packet": 23,
+      "source_cw": "CW159",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P152",
+        "P153"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R223",
+      "seconds": 10,
+      "packet": 23,
+      "source_cw": "CW160",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P154"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R224",
+      "seconds": 10,
+      "packet": 23,
+      "source_cw": "CW161",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P155"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R225",
+      "seconds": 10,
+      "packet": 23,
+      "source_cw": "CW162",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P156",
+        "P157"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R226",
+      "seconds": 10,
+      "packet": 23,
+      "source_cw": "CW163",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P158"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R227",
+      "seconds": 10,
+      "packet": 23,
+      "source_cw": "CW163",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P158"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R228",
+      "seconds": 10,
+      "packet": 23,
+      "source_cw": "CW164",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P158"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R229",
+      "seconds": 10,
+      "packet": 23,
+      "source_cw": "CW164",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P159"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R230",
+      "seconds": 10,
+      "packet": 23,
+      "source_cw": "CW165",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P160"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R231",
+      "seconds": 10,
+      "packet": 24,
+      "source_cw": "CW166",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P160"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R232",
+      "seconds": 10,
+      "packet": 24,
+      "source_cw": "CW167",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P160"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R233",
+      "seconds": 10,
+      "packet": 24,
+      "source_cw": "CW168",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P160"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R234",
+      "seconds": 10,
+      "packet": 24,
+      "source_cw": "CW169",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P160"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R235",
+      "seconds": 10,
+      "packet": 24,
+      "source_cw": "CW170",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P160"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R236",
+      "seconds": 10,
+      "packet": 24,
+      "source_cw": "CW171",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P160"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R237",
+      "seconds": 10,
+      "packet": 24,
+      "source_cw": "CW172",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P161"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R238",
+      "seconds": 10,
+      "packet": 24,
+      "source_cw": "CW172",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P162"
+      ],
+      "source_word_count": 7
+    },
+    {
+      "id": "R239",
+      "seconds": 10,
+      "packet": 24,
+      "source_cw": "CW173",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P163",
+        "P164"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R240",
+      "seconds": 10,
+      "packet": 24,
+      "source_cw": "CW174",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P165"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R241",
+      "seconds": 10,
+      "packet": 25,
+      "source_cw": "CW174",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P166"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R242",
+      "seconds": 10,
+      "packet": 25,
+      "source_cw": "CW175",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P167",
+        "P168"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R243",
+      "seconds": 10,
+      "packet": 25,
+      "source_cw": "CW176",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P169"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R244",
+      "seconds": 10,
+      "packet": 25,
+      "source_cw": "CW176",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P170"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R245",
+      "seconds": 10,
+      "packet": 25,
+      "source_cw": "CW177",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P171"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R246",
+      "seconds": 10,
+      "packet": 25,
+      "source_cw": "CW177",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P172"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R247",
+      "seconds": 10,
+      "packet": 25,
+      "source_cw": "CW178",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P173"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R248",
+      "seconds": 10,
+      "packet": 25,
+      "source_cw": "CW178",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P174"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R249",
+      "seconds": 10,
+      "packet": 25,
+      "source_cw": "CW179",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P175"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R250",
+      "seconds": 10,
+      "packet": 25,
+      "source_cw": "CW180",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P176"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R251",
+      "seconds": 10,
+      "packet": 26,
+      "source_cw": "CW181",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P177"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R252",
+      "seconds": 10,
+      "packet": 26,
+      "source_cw": "CW182",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P178"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R253",
+      "seconds": 10,
+      "packet": 26,
+      "source_cw": "CW183",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P179"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R254",
+      "seconds": 10,
+      "packet": 26,
+      "source_cw": "CW183",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P179"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R255",
+      "seconds": 10,
+      "packet": 26,
+      "source_cw": "CW184",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P179"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R256",
+      "seconds": 10,
+      "packet": 26,
+      "source_cw": "CW184",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P180"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R257",
+      "seconds": 10,
+      "packet": 26,
+      "source_cw": "CW185",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P181"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R258",
+      "seconds": 10,
+      "packet": 26,
+      "source_cw": "CW186",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P181"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R259",
+      "seconds": 10,
+      "packet": 26,
+      "source_cw": "CW187",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P181"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R260",
+      "seconds": 10,
+      "packet": 26,
+      "source_cw": "CW188",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P181"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R261",
+      "seconds": 10,
+      "packet": 27,
+      "source_cw": "CW189",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P181"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R262",
+      "seconds": 10,
+      "packet": 27,
+      "source_cw": "CW190",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P181"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R263",
+      "seconds": 10,
+      "packet": 27,
+      "source_cw": "CW191",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P181"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R264",
+      "seconds": 10,
+      "packet": 27,
+      "source_cw": "CW192",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P182"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R265",
+      "seconds": 10,
+      "packet": 27,
+      "source_cw": "CW192",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P183",
+        "P184"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R266",
+      "seconds": 10,
+      "packet": 27,
+      "source_cw": "CW193",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P185"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R267",
+      "seconds": 10,
+      "packet": 27,
+      "source_cw": "CW193",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P186"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R268",
+      "seconds": 10,
+      "packet": 27,
+      "source_cw": "CW194",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P187"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R269",
+      "seconds": 10,
+      "packet": 27,
+      "source_cw": "CW194",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P188"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R270",
+      "seconds": 10,
+      "packet": 27,
+      "source_cw": "CW195",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P189"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R271",
+      "seconds": 10,
+      "packet": 28,
+      "source_cw": "CW195",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P190"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R272",
+      "seconds": 10,
+      "packet": 28,
+      "source_cw": "CW196",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P191"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R273",
+      "seconds": 10,
+      "packet": 28,
+      "source_cw": "CW196",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P192"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R274",
+      "seconds": 10,
+      "packet": 28,
+      "source_cw": "CW197",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P193"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R275",
+      "seconds": 10,
+      "packet": 28,
+      "source_cw": "CW197",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P194"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R276",
+      "seconds": 10,
+      "packet": 28,
+      "source_cw": "CW198",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P195"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R277",
+      "seconds": 10,
+      "packet": 28,
+      "source_cw": "CW199",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P196"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R278",
+      "seconds": 10,
+      "packet": 28,
+      "source_cw": "CW200",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P197"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R279",
+      "seconds": 10,
+      "packet": 28,
+      "source_cw": "CW200",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P198"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R280",
+      "seconds": 10,
+      "packet": 28,
+      "source_cw": "CW201",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P199",
+        "P200"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R281",
+      "seconds": 10,
+      "packet": 29,
+      "source_cw": "CW202",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P201"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R282",
+      "seconds": 10,
+      "packet": 29,
+      "source_cw": "CW202",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P202"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R283",
+      "seconds": 10,
+      "packet": 29,
+      "source_cw": "CW203",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P203",
+        "P204"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R284",
+      "seconds": 10,
+      "packet": 29,
+      "source_cw": "CW204",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P205",
+        "P206"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R285",
+      "seconds": 10,
+      "packet": 29,
+      "source_cw": "CW205",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P207"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R286",
+      "seconds": 10,
+      "packet": 29,
+      "source_cw": "CW205",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P208",
+        "P209"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R287",
+      "seconds": 10,
+      "packet": 29,
+      "source_cw": "CW206",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P210"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R288",
+      "seconds": 10,
+      "packet": 29,
+      "source_cw": "CW207",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P211"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R289",
+      "seconds": 10,
+      "packet": 29,
+      "source_cw": "CW208",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P212"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R290",
+      "seconds": 10,
+      "packet": 29,
+      "source_cw": "CW208",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P212"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R291",
+      "seconds": 10,
+      "packet": 30,
+      "source_cw": "CW209",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P212",
+        "P213"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R292",
+      "seconds": 10,
+      "packet": 30,
+      "source_cw": "CW210",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P214"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R293",
+      "seconds": 10,
+      "packet": 30,
+      "source_cw": "CW211",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P214"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R294",
+      "seconds": 10,
+      "packet": 30,
+      "source_cw": "CW212",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P214"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R295",
+      "seconds": 10,
+      "packet": 30,
+      "source_cw": "CW213",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P214"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R296",
+      "seconds": 10,
+      "packet": 30,
+      "source_cw": "CW214",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P214"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R297",
+      "seconds": 10,
+      "packet": 30,
+      "source_cw": "CW215",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P214"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R298",
+      "seconds": 10,
+      "packet": 30,
+      "source_cw": "CW216",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P214"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R299",
+      "seconds": 10,
+      "packet": 30,
+      "source_cw": "CW217",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P215"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R300",
+      "seconds": 10,
+      "packet": 30,
+      "source_cw": "CW218",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P216"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R301",
+      "seconds": 10,
+      "packet": 31,
+      "source_cw": "CW219",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P217"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R302",
+      "seconds": 10,
+      "packet": 31,
+      "source_cw": "CW220",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P218"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R303",
+      "seconds": 10,
+      "packet": 31,
+      "source_cw": "CW221",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P219"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R304",
+      "seconds": 10,
+      "packet": 31,
+      "source_cw": "CW221",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P220"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R305",
+      "seconds": 10,
+      "packet": 31,
+      "source_cw": "CW222",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P221"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R306",
+      "seconds": 10,
+      "packet": 31,
+      "source_cw": "CW222",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P222"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R307",
+      "seconds": 10,
+      "packet": 31,
+      "source_cw": "CW223",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P223"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R308",
+      "seconds": 10,
+      "packet": 31,
+      "source_cw": "CW223",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P224"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R309",
+      "seconds": 10,
+      "packet": 31,
+      "source_cw": "CW224",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P225",
+        "P226"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R310",
+      "seconds": 10,
+      "packet": 31,
+      "source_cw": "CW225",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P227"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R311",
+      "seconds": 10,
+      "packet": 32,
+      "source_cw": "CW226",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P228"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R312",
+      "seconds": 10,
+      "packet": 32,
+      "source_cw": "CW227",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P229"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R313",
+      "seconds": 10,
+      "packet": 32,
+      "source_cw": "CW228",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P230"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R314",
+      "seconds": 10,
+      "packet": 32,
+      "source_cw": "CW229",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P231",
+        "P232"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R315",
+      "seconds": 10,
+      "packet": 32,
+      "source_cw": "CW230",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P233"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R316",
+      "seconds": 10,
+      "packet": 32,
+      "source_cw": "CW231",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P233"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R317",
+      "seconds": 10,
+      "packet": 32,
+      "source_cw": "CW231",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P233"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R318",
+      "seconds": 10,
+      "packet": 32,
+      "source_cw": "CW232",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P234"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R319",
+      "seconds": 10,
+      "packet": 32,
+      "source_cw": "CW233",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P235"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R320",
+      "seconds": 10,
+      "packet": 32,
+      "source_cw": "CW234",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P235"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R321",
+      "seconds": 10,
+      "packet": 33,
+      "source_cw": "CW235",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P235"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R322",
+      "seconds": 10,
+      "packet": 33,
+      "source_cw": "CW236",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P235"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R323",
+      "seconds": 10,
+      "packet": 33,
+      "source_cw": "CW237",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P235"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R324",
+      "seconds": 10,
+      "packet": 33,
+      "source_cw": "CW238",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P235"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R325",
+      "seconds": 10,
+      "packet": 33,
+      "source_cw": "CW239",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P235"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R326",
+      "seconds": 10,
+      "packet": 33,
+      "source_cw": "CW240",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P236"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R327",
+      "seconds": 10,
+      "packet": 33,
+      "source_cw": "CW241",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P237"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R328",
+      "seconds": 10,
+      "packet": 33,
+      "source_cw": "CW242",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P238"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R329",
+      "seconds": 10,
+      "packet": 33,
+      "source_cw": "CW243",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P239"
+      ],
+      "source_word_count": 6
+    },
+    {
+      "id": "R330",
+      "seconds": 10,
+      "packet": 33,
+      "source_cw": "CW243",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P239",
+        "P240"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R331",
+      "seconds": 10,
+      "packet": 34,
+      "source_cw": "CW244",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P241"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R332",
+      "seconds": 10,
+      "packet": 34,
+      "source_cw": "CW244",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P241"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R333",
+      "seconds": 10,
+      "packet": 34,
+      "source_cw": "CW245",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P241"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R334",
+      "seconds": 10,
+      "packet": 34,
+      "source_cw": "CW245",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P241"
+      ],
+      "source_word_count": 7
+    },
+    {
+      "id": "R335",
+      "seconds": 10,
+      "packet": 34,
+      "source_cw": "CW246",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P242"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R336",
+      "seconds": 10,
+      "packet": 34,
+      "source_cw": "CW247",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P243"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R337",
+      "seconds": 10,
+      "packet": 34,
+      "source_cw": "CW248",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P243"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R338",
+      "seconds": 10,
+      "packet": 34,
+      "source_cw": "CW249",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P243"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R339",
+      "seconds": 10,
+      "packet": 34,
+      "source_cw": "CW250",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P243"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R340",
+      "seconds": 10,
+      "packet": 34,
+      "source_cw": "CW251",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P243"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R341",
+      "seconds": 10,
+      "packet": 35,
+      "source_cw": "CW252",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P243"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R342",
+      "seconds": 10,
+      "packet": 35,
+      "source_cw": "CW253",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P243"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R343",
+      "seconds": 10,
+      "packet": 35,
+      "source_cw": "CW254",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P244"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R344",
+      "seconds": 10,
+      "packet": 35,
+      "source_cw": "CW255",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P245"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R345",
+      "seconds": 10,
+      "packet": 35,
+      "source_cw": "CW255",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P246"
+      ],
+      "source_word_count": 6
+    },
+    {
+      "id": "R346",
+      "seconds": 10,
+      "packet": 35,
+      "source_cw": "CW256",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P247"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R347",
+      "seconds": 10,
+      "packet": 35,
+      "source_cw": "CW257",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P248"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R348",
+      "seconds": 10,
+      "packet": 35,
+      "source_cw": "CW257",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P249"
+      ],
+      "source_word_count": 6
+    },
+    {
+      "id": "R349",
+      "seconds": 10,
+      "packet": 35,
+      "source_cw": "CW258",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P250"
+      ],
+      "source_word_count": 7
+    },
+    {
+      "id": "R350",
+      "seconds": 10,
+      "packet": 35,
+      "source_cw": "CW258",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P250"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R351",
+      "seconds": 10,
+      "packet": 36,
+      "source_cw": "CW259",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P250"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R352",
+      "seconds": 10,
+      "packet": 36,
+      "source_cw": "CW259",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P250"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R353",
+      "seconds": 10,
+      "packet": 36,
+      "source_cw": "CW260",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P250"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R354",
+      "seconds": 10,
+      "packet": 36,
+      "source_cw": "CW260",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P251"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R355",
+      "seconds": 10,
+      "packet": 36,
+      "source_cw": "CW261",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P252"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R356",
+      "seconds": 10,
+      "packet": 36,
+      "source_cw": "CW262",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P252"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R357",
+      "seconds": 10,
+      "packet": 36,
+      "source_cw": "CW263",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P252"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R358",
+      "seconds": 10,
+      "packet": 36,
+      "source_cw": "CW264",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P252"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R359",
+      "seconds": 10,
+      "packet": 36,
+      "source_cw": "CW265",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P252"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R360",
+      "seconds": 10,
+      "packet": 36,
+      "source_cw": "CW266",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P252"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R361",
+      "seconds": 10,
+      "packet": 37,
+      "source_cw": "CW267",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P252"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R362",
+      "seconds": 10,
+      "packet": 37,
+      "source_cw": "CW268",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P253"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R363",
+      "seconds": 10,
+      "packet": 37,
+      "source_cw": "CW269",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P254"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R364",
+      "seconds": 10,
+      "packet": 37,
+      "source_cw": "CW270",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P255"
+      ],
+      "source_word_count": 6
+    },
+    {
+      "id": "R365",
+      "seconds": 10,
+      "packet": 37,
+      "source_cw": "CW270",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P256"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R366",
+      "seconds": 10,
+      "packet": 37,
+      "source_cw": "CW271",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P257"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R367",
+      "seconds": 10,
+      "packet": 37,
+      "source_cw": "CW271",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P258"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R368",
+      "seconds": 10,
+      "packet": 37,
+      "source_cw": "CW272",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P259",
+        "P260"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R369",
+      "seconds": 10,
+      "packet": 37,
+      "source_cw": "CW273",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P261"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R370",
+      "seconds": 10,
+      "packet": 37,
+      "source_cw": "CW273",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P262"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R371",
+      "seconds": 10,
+      "packet": 38,
+      "source_cw": "CW274",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P263",
+        "P264"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R372",
+      "seconds": 10,
+      "packet": 38,
+      "source_cw": "CW275",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P265"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R373",
+      "seconds": 10,
+      "packet": 38,
+      "source_cw": "CW275",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P266",
+        "P267"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R374",
+      "seconds": 10,
+      "packet": 38,
+      "source_cw": "CW276",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P268"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R375",
+      "seconds": 10,
+      "packet": 38,
+      "source_cw": "CW277",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P269"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R376",
+      "seconds": 10,
+      "packet": 38,
+      "source_cw": "CW278",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P270"
+      ],
+      "source_word_count": 7
+    },
+    {
+      "id": "R377",
+      "seconds": 10,
+      "packet": 38,
+      "source_cw": "CW278",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P270",
+        "P271"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R378",
+      "seconds": 10,
+      "packet": 38,
+      "source_cw": "CW279",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P272"
+      ],
+      "source_word_count": 6
+    },
+    {
+      "id": "R379",
+      "seconds": 10,
+      "packet": 38,
+      "source_cw": "CW279",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P272"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R380",
+      "seconds": 10,
+      "packet": 38,
+      "source_cw": "CW280",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P272"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R381",
+      "seconds": 10,
+      "packet": 39,
+      "source_cw": "CW280",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P272"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R382",
+      "seconds": 10,
+      "packet": 39,
+      "source_cw": "CW281",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P273"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R383",
+      "seconds": 10,
+      "packet": 39,
+      "source_cw": "CW282",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P274"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R384",
+      "seconds": 10,
+      "packet": 39,
+      "source_cw": "CW283",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P274"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R385",
+      "seconds": 10,
+      "packet": 39,
+      "source_cw": "CW284",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P274"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R386",
+      "seconds": 10,
+      "packet": 39,
+      "source_cw": "CW285",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P274"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R387",
+      "seconds": 10,
+      "packet": 39,
+      "source_cw": "CW286",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P274"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R388",
+      "seconds": 10,
+      "packet": 39,
+      "source_cw": "CW287",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P274"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R389",
+      "seconds": 10,
+      "packet": 39,
+      "source_cw": "CW288",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P274"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R390",
+      "seconds": 10,
+      "packet": 39,
+      "source_cw": "CW289",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P275"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R391",
+      "seconds": 10,
+      "packet": 40,
+      "source_cw": "CW289",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P275"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R392",
+      "seconds": 10,
+      "packet": 40,
+      "source_cw": "CW290",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P275",
+        "P276"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R393",
+      "seconds": 10,
+      "packet": 40,
+      "source_cw": "CW290",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P277",
+        "P278"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R394",
+      "seconds": 10,
+      "packet": 40,
+      "source_cw": "CW291",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P279"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R395",
+      "seconds": 10,
+      "packet": 40,
+      "source_cw": "CW292",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P280"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R396",
+      "seconds": 10,
+      "packet": 40,
+      "source_cw": "CW292",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P280"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R397",
+      "seconds": 10,
+      "packet": 40,
+      "source_cw": "CW293",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P281",
+        "P282",
+        "P283"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R398",
+      "seconds": 10,
+      "packet": 40,
+      "source_cw": "CW294",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P284",
+        "P285"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R399",
+      "seconds": 10,
+      "packet": 40,
+      "source_cw": "CW295",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P286"
+      ],
+      "source_word_count": 10
+    },
+    {
+      "id": "R400",
+      "seconds": 10,
+      "packet": 40,
+      "source_cw": "CW295",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P287"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R401",
+      "seconds": 10,
+      "packet": 41,
+      "source_cw": "CW296",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P288"
+      ],
+      "source_word_count": 6
+    },
+    {
+      "id": "R402",
+      "seconds": 10,
+      "packet": 41,
+      "source_cw": "CW296",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P289"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R403",
+      "seconds": 10,
+      "packet": 41,
+      "source_cw": "CW297",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P290"
+      ],
+      "source_word_count": 7
+    },
+    {
+      "id": "R404",
+      "seconds": 10,
+      "packet": 41,
+      "source_cw": "CW298",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P291"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R405",
+      "seconds": 10,
+      "packet": 41,
+      "source_cw": "CW298",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P291"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R406",
+      "seconds": 10,
+      "packet": 41,
+      "source_cw": "CW299",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P292"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R407",
+      "seconds": 10,
+      "packet": 41,
+      "source_cw": "CW299",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P293",
+        "P294",
+        "P295"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R408",
+      "seconds": 10,
+      "packet": 41,
+      "source_cw": "CW300",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P296"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R409",
+      "seconds": 10,
+      "packet": 41,
+      "source_cw": "CW301",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P296"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R410",
+      "seconds": 10,
+      "packet": 41,
+      "source_cw": "CW302",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P297"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R411",
+      "seconds": 10,
+      "packet": 42,
+      "source_cw": "CW302",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P297"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R412",
+      "seconds": 10,
+      "packet": 42,
+      "source_cw": "CW303",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P298",
+        "P299"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R413",
+      "seconds": 10,
+      "packet": 42,
+      "source_cw": "CW303",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P300",
+        "P301"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R414",
+      "seconds": 10,
+      "packet": 42,
+      "source_cw": "CW304",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P302"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R415",
+      "seconds": 10,
+      "packet": 42,
+      "source_cw": "CW305",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P302"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R416",
+      "seconds": 10,
+      "packet": 42,
+      "source_cw": "CW306",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P303",
+        "P304"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R417",
+      "seconds": 10,
+      "packet": 42,
+      "source_cw": "CW306",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P305",
+        "P306",
+        "P307"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R418",
+      "seconds": 10,
+      "packet": 42,
+      "source_cw": "CW307",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P308"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R419",
+      "seconds": 10,
+      "packet": 42,
+      "source_cw": "CW307",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P308"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R420",
+      "seconds": 10,
+      "packet": 42,
+      "source_cw": "CW308",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P309"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R421",
+      "seconds": 10,
+      "packet": 43,
+      "source_cw": "CW308",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P309"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R422",
+      "seconds": 10,
+      "packet": 43,
+      "source_cw": "CW309",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P310"
+      ],
+      "source_word_count": 6
+    },
+    {
+      "id": "R423",
+      "seconds": 10,
+      "packet": 43,
+      "source_cw": "CW310",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P311",
+        "P312"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R424",
+      "seconds": 10,
+      "packet": 43,
+      "source_cw": "CW310",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P313",
+        "P314"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R425",
+      "seconds": 10,
+      "packet": 43,
+      "source_cw": "CW311",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P315",
+        "P316"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R426",
+      "seconds": 10,
+      "packet": 43,
+      "source_cw": "CW312",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P317",
+        "P318"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R427",
+      "seconds": 10,
+      "packet": 43,
+      "source_cw": "CW313",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P319",
+        "P320"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R428",
+      "seconds": 10,
+      "packet": 43,
+      "source_cw": "CW314",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P321",
+        "P322",
+        "P323"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R429",
+      "seconds": 10,
+      "packet": 43,
+      "source_cw": "CW315",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P324"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R430",
+      "seconds": 10,
+      "packet": 43,
+      "source_cw": "CW315",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P324"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R431",
+      "seconds": 10,
+      "packet": 44,
+      "source_cw": "CW316",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P325"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R432",
+      "seconds": 10,
+      "packet": 44,
+      "source_cw": "CW316",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P326"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R433",
+      "seconds": 10,
+      "packet": 44,
+      "source_cw": "CW317",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P327",
+        "P328"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R434",
+      "seconds": 10,
+      "packet": 44,
+      "source_cw": "CW318",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P329",
+        "P330",
+        "P331",
+        "P332"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R435",
+      "seconds": 10,
+      "packet": 44,
+      "source_cw": "CW319",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P333",
+        "P334"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R436",
+      "seconds": 10,
+      "packet": 44,
+      "source_cw": "CW319",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P335"
+      ],
+      "source_word_count": 7
+    },
+    {
+      "id": "R437",
+      "seconds": 10,
+      "packet": 44,
+      "source_cw": "CW320",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P336"
+      ],
+      "source_word_count": 4
+    },
+    {
+      "id": "R438",
+      "seconds": 10,
+      "packet": 44,
+      "source_cw": "CW321",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P337"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R439",
+      "seconds": 10,
+      "packet": 44,
+      "source_cw": "CW321",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P337"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R440",
+      "seconds": 10,
+      "packet": 44,
+      "source_cw": "CW322",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P338"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R441",
+      "seconds": 10,
+      "packet": 45,
+      "source_cw": "CW322",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P339"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R442",
+      "seconds": 10,
+      "packet": 45,
+      "source_cw": "CW323",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P340"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R443",
+      "seconds": 10,
+      "packet": 45,
+      "source_cw": "CW323",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P341"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R444",
+      "seconds": 10,
+      "packet": 45,
+      "source_cw": "CW324",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P342",
+        "P343"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R445",
+      "seconds": 10,
+      "packet": 45,
+      "source_cw": "CW325",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P344",
+        "P345"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R446",
+      "seconds": 10,
+      "packet": 45,
+      "source_cw": "CW325",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P346"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R447",
+      "seconds": 10,
+      "packet": 45,
+      "source_cw": "CW326",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P346"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R448",
+      "seconds": 10,
+      "packet": 45,
+      "source_cw": "CW327",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P347",
+        "P348"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R449",
+      "seconds": 10,
+      "packet": 45,
+      "source_cw": "CW327",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P349",
+        "P350"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R450",
+      "seconds": 10,
+      "packet": 45,
+      "source_cw": "CW328",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P351",
+        "P352"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R451",
+      "seconds": 10,
+      "packet": 46,
+      "source_cw": "CW328",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P353",
+        "P354",
+        "P355"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R452",
+      "seconds": 10,
+      "packet": 46,
+      "source_cw": "CW329",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P356"
+      ],
+      "source_word_count": 1
+    },
+    {
+      "id": "R453",
+      "seconds": 10,
+      "packet": 46,
+      "source_cw": "CW330",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P357"
+      ],
+      "source_word_count": 2
+    },
+    {
+      "id": "R454",
+      "seconds": 10,
+      "packet": 46,
+      "source_cw": "CW331",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P358",
+        "P359"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R455",
+      "seconds": 10,
+      "packet": 46,
+      "source_cw": "CW331",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P360"
+      ],
+      "source_word_count": 8
+    },
+    {
+      "id": "R456",
+      "seconds": 10,
+      "packet": 46,
+      "source_cw": "CW332",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P361"
+      ],
+      "source_word_count": 7
+    },
+    {
+      "id": "R457",
+      "seconds": 10,
+      "packet": 46,
+      "source_cw": "CW333",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P362"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R458",
+      "seconds": 10,
+      "packet": 46,
+      "source_cw": "CW333",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P362"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R459",
+      "seconds": 10,
+      "packet": 46,
+      "source_cw": "CW334",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P363"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R460",
+      "seconds": 10,
+      "packet": 46,
+      "source_cw": "CW334",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P363"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R461",
+      "seconds": 10,
+      "packet": 47,
+      "source_cw": "CW335",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P364"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R462",
+      "seconds": 10,
+      "packet": 47,
+      "source_cw": "CW336",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P365"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R463",
+      "seconds": 10,
+      "packet": 47,
+      "source_cw": "CW336",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P365"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R464",
+      "seconds": 10,
+      "packet": 47,
+      "source_cw": "CW337",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P366"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R465",
+      "seconds": 10,
+      "packet": 47,
+      "source_cw": "CW337",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P366"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R466",
+      "seconds": 10,
+      "packet": 47,
+      "source_cw": "CW338",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P366"
+      ],
+      "source_word_count": 6
+    },
+    {
+      "id": "R467",
+      "seconds": 10,
+      "packet": 47,
+      "source_cw": "CW339",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P367"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R468",
+      "seconds": 10,
+      "packet": 47,
+      "source_cw": "CW339",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P368",
+        "P369"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R469",
+      "seconds": 10,
+      "packet": 47,
+      "source_cw": "CW340",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P370"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R470",
+      "seconds": 10,
+      "packet": 47,
+      "source_cw": "CW341",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P371"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R471",
+      "seconds": 10,
+      "packet": 48,
+      "source_cw": "CW341",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P371",
+        "P372"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R472",
+      "seconds": 10,
+      "packet": 48,
+      "source_cw": "CW342",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P373",
+        "P374",
+        "P375"
+      ],
+      "source_word_count": 14
+    },
+    {
+      "id": "R473",
+      "seconds": 10,
+      "packet": 48,
+      "source_cw": "CW343",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P376",
+        "P377",
+        "P378",
+        "P379"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R474",
+      "seconds": 10,
+      "packet": 48,
+      "source_cw": "CW344",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P380"
+      ],
+      "source_word_count": 5
+    },
+    {
+      "id": "R475",
+      "seconds": 10,
+      "packet": 48,
+      "source_cw": "CW345",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P381"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R476",
+      "seconds": 10,
+      "packet": 48,
+      "source_cw": "CW345",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P382"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R477",
+      "seconds": 10,
+      "packet": 48,
+      "source_cw": "CW346",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P383"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R478",
+      "seconds": 10,
+      "packet": 48,
+      "source_cw": "CW347",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P384"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R479",
+      "seconds": 10,
+      "packet": 48,
+      "source_cw": "CW348",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P385"
+      ],
+      "source_word_count": 20
+    },
+    {
+      "id": "R480",
+      "seconds": 10,
+      "packet": 48,
+      "source_cw": "CW349",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P385"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R481",
+      "seconds": 10,
+      "packet": 49,
+      "source_cw": "CW349",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P385"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R482",
+      "seconds": 10,
+      "packet": 49,
+      "source_cw": "CW350",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P385"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R483",
+      "seconds": 10,
+      "packet": 49,
+      "source_cw": "CW350",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P385"
+      ],
+      "source_word_count": 18
+    },
+    {
+      "id": "R484",
+      "seconds": 10,
+      "packet": 49,
+      "source_cw": "CW351",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P386"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R485",
+      "seconds": 10,
+      "packet": 49,
+      "source_cw": "CW351",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P386"
+      ],
+      "source_word_count": 12
+    },
+    {
+      "id": "R486",
+      "seconds": 10,
+      "packet": 49,
+      "source_cw": "CW352",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P386"
+      ],
+      "source_word_count": 9
+    },
+    {
+      "id": "R487",
+      "seconds": 10,
+      "packet": 49,
+      "source_cw": "CW352",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P386"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R488",
+      "seconds": 10,
+      "packet": 49,
+      "source_cw": "CW353",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P386"
+      ],
+      "source_word_count": 8
+    },
+    {
+      "id": "R489",
+      "seconds": 10,
+      "packet": 49,
+      "source_cw": "CW353",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P387"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R490",
+      "seconds": 10,
+      "packet": 49,
+      "source_cw": "CW354",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P387"
+      ],
+      "source_word_count": 15
+    },
+    {
+      "id": "R491",
+      "seconds": 10,
+      "packet": 50,
+      "source_cw": "CW355",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P388",
+        "P389"
+      ],
+      "source_word_count": 16
+    },
+    {
+      "id": "R492",
+      "seconds": 10,
+      "packet": 50,
+      "source_cw": "CW356",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P390",
+        "P391"
+      ],
+      "source_word_count": 19
+    },
+    {
+      "id": "R493",
+      "seconds": 10,
+      "packet": 50,
+      "source_cw": "CW357",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P392"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R494",
+      "seconds": 10,
+      "packet": 50,
+      "source_cw": "CW357",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P393",
+        "P394"
+      ],
+      "source_word_count": 11
+    },
+    {
+      "id": "R495",
+      "seconds": 10,
+      "packet": 50,
+      "source_cw": "CW358",
+      "source_part": 1,
+      "source_parts": 2,
+      "source_passages": [
+        "P395"
+      ],
+      "source_word_count": 17
+    },
+    {
+      "id": "R496",
+      "seconds": 10,
+      "packet": 50,
+      "source_cw": "CW358",
+      "source_part": 2,
+      "source_parts": 2,
+      "source_passages": [
+        "P396"
+      ],
+      "source_word_count": 8
+    },
+    {
+      "id": "R497",
+      "seconds": 10,
+      "packet": 50,
+      "source_cw": "CW359",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P397"
+      ],
+      "source_word_count": 13
+    },
+    {
+      "id": "R498",
+      "seconds": 10,
+      "packet": 50,
+      "source_cw": "CW360",
+      "source_part": 1,
+      "source_parts": 1,
+      "source_passages": [
+        "P398",
+        "P399"
+      ],
+      "source_word_count": 15
+    }
+  ]
+}

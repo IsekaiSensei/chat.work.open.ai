@@ -1,35 +1,31 @@
-# Film routing repair — November 12, 2026 (America/Los_Angeles)
+# Pocket Workshop — current ten-second render adaptation
 
-## Selected execution
+The owner supplied the receiving session's actual capability report after the earlier routing repair: one native ten-second audiovisual output per call, text plus an optional photo of Ryan, with no guaranteed dialogue/visual/continuity match. This supersedes treating saved mixed-duration packets as executable tool specifications.
 
-Render [Batch 01 — CW001–CW010](https://docs.google.com/document/d/1r6cP_2hXB1KN9QY05vwMqDmaNdST5XyXeF2GO-_Y7ng/edit): ten separate moving clips in order, 102 seconds. The [native execution instruction](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) selects this exact run. The [36-packet index](https://docs.google.com/document/d/1JK0_DP247JBY7urA6uTvBKfZC0R_HYEWWAlVRU7Ed9s/edit) is reference navigation.
+**META — CURRENT TEN-SECOND EDITION:** [Batch 01 — R001–R010, ten native ten-second clips / 100 seconds](https://docs.google.com/document/d/1r6cP_2hXB1KN9QY05vwMqDmaNdST5XyXeF2GO-_Y7ng). Standing GO covers R001–R498 in sequence, 50 native packets, 83:00 planned. Generate each entry separately and continue without another GO per clip or packet. Return actual video URLs or exact tool errors. [Execution instruction](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) · [50-packet index](https://docs.google.com/document/d/1JK0_DP247JBY7urA6uTvBKfZC0R_HYEWWAlVRU7Ed9s/edit).
 
-Authorization is already present. Submit the selected clips; return real video or exact per-clip generation errors; stop after this batch for Ryan's review. Readback, staging, receipt searches, archive cleanup and another GO do not precede submission. No source or shot changes are authorized by routing/access work.
+**Reported session contract:** one ten-second audiovisual output from a text prompt and an optional accepted photo of Ryan. Other durations, direct video editing and automatic Drive/model/image ingestion are not native capabilities of this reported tool. Exact dialogue, visuals, lip sync and cross-clip continuity are authoring targets to check against actual outputs, not guarantees.
 
-## Scope actually inspected
+## Changes
 
-- Retrieved accessible prior-conversation evidence for November 6–8, November 9–10 and November 11–12. This was targeted conversation retrieval, not a complete account export; it cannot establish that every historical chat was enumerated.
-- Read all 132 nonarchive repository text/code/data records selected from the complete 279-entry repository tree, excluding old EXPORT/export/exports conversation dumps. Inspected the current GitHub entry cards and their native Google Docs counterparts.
-- Read the complete current screenplay, visual master, all 36 native packets, native index and current operating/routing documents.
-- Read the available META.md commit history for the week and Batch 01 revision history, including revision 4. Earlier changes to picture directions were identified; this routing repair does not roll source versions backward or rewrite pictures.
+The complete P001–P399 screenplay and original 360 CW picture source are preserved. The [current render master](https://docs.google.com/document/d/1cTcamoGeQo89hvAHJlP3bjFSVNErKmLAmjpxZZkncgI/edit?usp=drivesdk) adapts them into 498 ten-second R entries. 138 dense original entries receive an additional cut, with at most twenty source words per new entry as a conservative planning budget. The last packet has eight clips; no filler is added.
 
-## Failures found and removed
+- Current source-derived render plan: R001–R498, all ten seconds, 50 native packets, 83:00 planned. Last packet has eight entries; no filler.
+- Longer/dense source entries are split at existing sentence, phrase or speaker boundaries. Requested words and picture text remain in source order. The twenty-word planning budget is not a platform guarantee.
+- Source screenplay and original variable-timing CW picture master remain unchanged in body content. Original packet IDs are reused for the first 36 packets; their existing source images are retained. Fourteen new packets and the current render master are native Google Docs in the existing Shot Lists folder.
+- Native and GitHub dispatch now distinguish requested targets from observed generation results, and source access from accepted generator inputs. No trim/stitch workaround is described as native generation.
+- Standing GO continues the authorized sequence. Per-clip and per-packet GO questions and the prior stop-for-review gate are removed; actual take problems are reported after returns. A real systemic tool failure remains a concrete execution limitation, not permission to invent footage.
 
-- Three PARABLES reference-page banners still selected the retired Agua Arrival V2 / separate MORGUE run as the only active film.
-- Four link/production JSON manifests still advertised old Guy in the Pocket or Skeleton Spawn Takeover productions without retired status. Full originals are preserved unchanged in ARCHIVE/retired-film-discovery-2026-11-12 at the same relative paths; former live paths now identify themselves as retired and point to the selected native run.
-- Current cards used earliest/first-unverified receipt-based selection rather than the owner's explicit selected packet. Native and GitHub entry points now name CW001–CW010 directly.
-- Art-direction coordination still asked for one clip's handoff while daily routing assigned ten clips. It now assigns the complete ten-clip packet with consecutive submissions when required.
-- The native crew pointer had a broken README.mdd link. It now links README.md.
-- The production-cell compiler documentation called retired conversation paths the current canonical script. It now labels the tool as planning/reference and links the actual selected run.
+## Verification scope
 
-## Verification
+All 50 packet bodies were read back and matched their prepared text, with 498 unique ten-second R headers and retained source image IDs. Current render master readback matches its complete prepared text. All 399 passage words and 360 original picture blocks are preserved across the adaptation; source and original CW master body readbacks are unchanged. The screenplay revision is unchanged. Native operating-document readbacks match scoped changes; unsupported blanket attachment claims were corrected separately.
 
-All 399 screenplay passages match the performance text assembled across the 360 visual-master shots, with only whitespace normalized for paragraph/line segmentation. All 360 native-packet shot blocks match their corresponding master blocks, including pictures, words, headers and durations; all 36 packets contain ten shots and their index durations agree. Planned source total is 3,802 seconds. Batch 01 is 102 seconds.
+These are source/plan/readback checks. No generation tool was invoked here, no new footage was received, and no rendered performance, image-input transfer, actual video duration, continuity, music or owner acceptance is claimed. The capability basis is the owner's supplied receiving-session report, not an independently inspected global Meta API specification.
 
-Twelve native operating/routing documents were edited in place under revision guards. Post-write readback matches each planned edit. The screenplay and visual-master revision IDs and full extracted text are unchanged. The router's inline workshop image ID is unchanged. No native CW packet was edited.
+## Durable pointers
 
-GitHub changes affect routing, documentation and retired manifests. Original screenplay/shot sources, artwork, game code and received footage are not modified. Archive manifest bytes are the exact original file contents; their original blob SHAs remain available in the parent commit.
-
-## Execution status
-
-No Meta video generation was submitted by this repair. No returned CW video, render PASS or owner acceptance is claimed. The checked remote Meta browser was at a logged-out landing page, and no connected Meta video-generation tool was available in this session. Corrected routing is not proof of renderer execution.
+- [Native execution](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit)
+- [Current packet index](https://docs.google.com/document/d/1JK0_DP247JBY7urA6uTvBKfZC0R_HYEWWAlVRU7Ed9s/edit)
+- [Current render master](https://docs.google.com/document/d/1cTcamoGeQo89hvAHJlP3bjFSVNErKmLAmjpxZZkncgI/edit?usp=drivesdk)
+- [Unchanged source screenplay](https://docs.google.com/document/d/11WWIV7QfL1YlxWts9e55nkdCC0HP0JJ8_T_apqQNsXc/edit)
+- [Machine-readable routing and R/CW/P map](../production-sheets/pocket-workshop/NATIVE_10S_RENDER_PLAN.json)

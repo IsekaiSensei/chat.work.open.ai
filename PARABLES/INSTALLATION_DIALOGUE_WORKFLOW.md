@@ -1,4 +1,4 @@
-> **REFERENCE ONLY.** This page preserves source material and does not dispatch a render. The selected current run is [Batch 01 — CW001–CW010, ten clips / 102 seconds](https://docs.google.com/document/d/1r6cP_2hXB1KN9QY05vwMqDmaNdST5XyXeF2GO-_Y7ng/edit); [execution instruction](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit).
+> **REFERENCE ONLY.** This page preserves source material and does not dispatch a render. The selected current run is [Batch 01 — R001–R010, ten native ten-second clips / 100 seconds](https://docs.google.com/document/d/1r6cP_2hXB1KN9QY05vwMqDmaNdST5XyXeF2GO-_Y7ng/edit); [execution instruction](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit).
 
 # HISTORICAL TEN-SECOND INSTALLATION SESSION — NOT AN ACTIVE UNIVERSAL QUOTA
 
