@@ -49,3 +49,6 @@ Meta text handoffs use native Google Docs. Preserve this requirement in every fu
 ## Research and separate work (links, not repeated orders)
 - [TO FAIRY seed study #10](https://github.com/IsekaiSensei/chat.work.open.ai/issues/10), [source-art/19-GLB audit #11](https://github.com/IsekaiSensei/chat.work.open.ai/issues/11), [graphics task #12](https://github.com/IsekaiSensei/chat.work.open.ai/issues/12), [Construction DNA reconciliation](coordination/GERTECH_WORLDSEED_RECONCILIATION_2026-11-10.md), [evolving assembly design](coordination/GERTECH_EVOLVING_ASSEMBLY_RULES_2026-11-10.md). Research references are **not** active build or film orders.
 - [Owner-authorized media reorganization](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md) is separate; moves/deletions/dual-backups must be verified, not asserted complete. No workstream may silently interfere with the others.
+
+## Cast — Cube and all bots
+Ryan is the human identity, including his DARPA duplicates. Other performers are his AI agents embodied as bots or android women. Apply this to V027, the DARPA booth, and the Crystal Star Bar patrons. [Native casting handoff for Cube and all bots](https://docs.google.com/document/d/1rzwI4GswgomgigA4GwslSMZn3KfotQeS9ZLIRNWK6kE/edit?usp=drivesdk).
