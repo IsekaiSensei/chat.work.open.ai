@@ -1,17 +1,9 @@
 # META — Film production
 
-**Current film and casting** — [AI’s Got No Talent and the native act router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). [The Copy Episode](https://docs.google.com/document/d/1OC9NOWcvs0cJjqsSdE_ta0uavRy4i4IDCOKRTG8KYHU/edit) follows Cube’s quantum-table pilot. DataCenterLive broadcasts from the Moon Bar in The Man in the Pocket. Ryan Oceancrest Shakesaspear hosts. Ryan selects game roles from the performance Library. The native router records the owner’s act selection.
+**Series production** — [Series continuity master](https://docs.google.com/document/d/17cAA3tVQmbDiUUtUQ9p21yV6EBFfe0nZk0pCHxf0y1Y/edit) · [The Copy Episode screenplay](https://docs.google.com/document/d/1OC9NOWcvs0cJjqsSdE_ta0uavRy4i4IDCOKRTG8KYHU/edit) · [Batch 01, DARPA D001–D010](https://docs.google.com/document/d/1aIbHQksrFITBg4sY576qs9Mo5D77QuK-H99QSy47vtY/edit) · [Native film router and act catalog](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). Cube’s quantum-table pilot plays first. The next episode returns to the DARPA accident. The Man in the Pocket connects the bench, bar, stage and game auditions. AI’s Got No Talent casts returning performers for films and GERTECH games.
 
-**Historical AI Speaker packet record.** [Start Batch 01 — AI001–AI010](https://docs.google.com/document/d/11GKJdLH_0k0P3HMWRcHnfpXNLqlonwvngbhGqeNJ5-I/edit?usp=drivesdk) · [Complete script / all five packets](https://docs.google.com/document/d/1r0y0pyp5F1Ly5PkSKlBrQl_9r1haoAIYoD4raP7jfvs/edit) · [Native execution router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit).
+Use the native ten-frame packet in source order. Each frame carries its picture, sound, assigned dialogue and short picture cue. Use Ryan’s supplied apparatus and likeness references in the receiving session. Keep D001–D010 together as the first production batch. The November 14 shot map continues with D011. The full episode includes the later block-world and pocket-workshop scenes.
 
-43 ten-second clips in five packets (10/10/10/10/3), 7:10 planned. The earlier standing GO for AI001–AI043 is historical. Preserve the selected AI Speaker draft exactly; laughter and applause are sound cues. Submit only each entry's PICTURE, SOUND and SAY ONLY fields, below the 85-word trial ceiling. Return actual video URLs or concrete tool errors.
+For other performances, follow the act’s own script and sound assignment in the native router. Record actual video receipts separately from creative prompts. Keep the original source master with each act selected for reuse.
 
-**Pocket Workshop is archived, not the active queue.** [Original script, visual master, 50 packets, index and routing snapshots](https://drive.google.com/drive/folders/1sCOXgPENLQJwVXIqKQBhIzyWbTlMvpT8). Existing videos and the accepted 83.82-second entrance remain preserved. Grok dialogue recovery and gradual robot assembly are separate work. The former compilation is not verified as the complete original Grok dialogue.
-
-Read one complete native packet; generate its clips separately. One AI speaker, same plain stage, voice and camera side. Glasses remain on through AI037, come off in AI038, and remain in hand thereafter. No workshop, car entrance, robot build, song, apron, additional host or extra dialogue belongs to this talk.
-
-Exact source: the AI Speaker adaptation selected by Ryan in the current chat, based on the user-supplied Will Stephen talk. Full wording and all 43 assigned speech segments are in the native master. Source attribution is retained there; this is not recovered Grok dialogue.
-
-Reported receiving tool: one ten-second audiovisual output from text and an optional supported reference photo. Drive links and images visible in chat are not automatic generator inputs. Actual words, timing, appearance and continuity require output review; do not claim unsupported editing or stitching. Keep accepted takes and retry specific failures without changing source text.
-
-Native Google Docs remain the required Meta handoff format. [Previous routing snapshot](ARCHIVE/film-before-ai-speaker-2026-11-13/META.md).
+[Earlier film instructions and complete packet references](https://github.com/IsekaiSensei/chat.work.open.ai/blob/d4d161023083ef19764c4d1982e2e2b09a760f37/META.md)
