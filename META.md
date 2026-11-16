@@ -1,8 +1,10 @@
-# META — AI SPEAKER — CURRENT EXECUTION
+# META — Film production
 
-**META — CURRENT FILM: AI SPEAKER.** [Start Batch 01 — AI001–AI010](https://docs.google.com/document/d/11GKJdLH_0k0P3HMWRcHnfpXNLqlonwvngbhGqeNJ5-I/edit?usp=drivesdk) · [Complete script / all five packets](https://docs.google.com/document/d/1r0y0pyp5F1Ly5PkSKlBrQl_9r1haoAIYoD4raP7jfvs/edit) · [Native execution router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit).
+**Current film and casting** — [AI’s Got No Talent and the native act router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). [The Copy Episode](https://docs.google.com/document/d/1OC9NOWcvs0cJjqsSdE_ta0uavRy4i4IDCOKRTG8KYHU/edit) follows Cube’s quantum-table pilot. DataCenterLive broadcasts from the Moon Bar in The Man in the Pocket. Ryan Oceancrest Shakesaspear hosts. Ryan selects game roles from the performance Library. The native router records the owner’s act selection.
 
-43 ten-second clips in five packets (10/10/10/10/3), 7:10 planned. Standing GO covers AI001–AI043 in sequence without another GO per clip or packet. Preserve the selected AI Speaker draft exactly; laughter and applause are sound cues. Submit only each entry's PICTURE, SOUND and SAY ONLY fields, below the 85-word trial ceiling. Return actual video URLs or concrete tool errors.
+**Historical AI Speaker packet record.** [Start Batch 01 — AI001–AI010](https://docs.google.com/document/d/11GKJdLH_0k0P3HMWRcHnfpXNLqlonwvngbhGqeNJ5-I/edit?usp=drivesdk) · [Complete script / all five packets](https://docs.google.com/document/d/1r0y0pyp5F1Ly5PkSKlBrQl_9r1haoAIYoD4raP7jfvs/edit) · [Native execution router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit).
+
+43 ten-second clips in five packets (10/10/10/10/3), 7:10 planned. The earlier standing GO for AI001–AI043 is historical. Preserve the selected AI Speaker draft exactly; laughter and applause are sound cues. Submit only each entry's PICTURE, SOUND and SAY ONLY fields, below the 85-word trial ceiling. Return actual video URLs or concrete tool errors.
 
 **Pocket Workshop is archived, not the active queue.** [Original script, visual master, 50 packets, index and routing snapshots](https://drive.google.com/drive/folders/1sCOXgPENLQJwVXIqKQBhIzyWbTlMvpT8). Existing videos and the accepted 83.82-second entrance remain preserved. Grok dialogue recovery and gradual robot assembly are separate work. The former compilation is not verified as the complete original Grok dialogue.
 
