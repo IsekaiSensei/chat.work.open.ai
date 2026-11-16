@@ -15,23 +15,9 @@ Meta text handoffs use native Google Docs. Preserve this requirement in every fu
 
 ## Meta / film
 
-**Current film and casting** — [AI’s Got No Talent and the native act router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). [The Copy Episode](https://docs.google.com/document/d/1OC9NOWcvs0cJjqsSdE_ta0uavRy4i4IDCOKRTG8KYHU/edit) follows Cube’s quantum-table pilot. DataCenterLive broadcasts from the Moon Bar in The Man in the Pocket. Ryan Oceancrest Shakesaspear hosts. Ryan selects game roles from the performance Library. The native router records the owner’s act selection.
+**Series production** — [Series continuity master](https://docs.google.com/document/d/17cAA3tVQmbDiUUtUQ9p21yV6EBFfe0nZk0pCHxf0y1Y/edit) · [The Copy Episode screenplay](https://docs.google.com/document/d/1OC9NOWcvs0cJjqsSdE_ta0uavRy4i4IDCOKRTG8KYHU/edit) · [Batch 01, DARPA D001–D010](https://docs.google.com/document/d/1aIbHQksrFITBg4sY576qs9Mo5D77QuK-H99QSy47vtY/edit) · [Native film router and act catalog](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). Cube’s quantum-table pilot plays first. The next episode returns to the DARPA accident. The Man in the Pocket connects the bench, bar, stage and game auditions. AI’s Got No Talent casts returning performers for films and GERTECH games.
 
-### Historical routing records
-
-> **OWNER OVERRIDE — 2026-11-13 — NO META VIDEO RENDERS PENDING** (mirrored from Drive [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) and the [native film router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit), both updated Nov 13 6:41 PM PST). Every earlier Meta scene, script, shot list, batch packet and rendering attempt is historical. The owner states every prior attempt has finished or failed; no prior item remains in the active queue. All earlier standing GO or START BATCH instructions below are SUPERSEDED and must NOT trigger generation. Archive completed/failed attempts and keep their original media and text unmodified. The TED Talk was a COMPLETE WIN by owner confirmation; preserve the original. A possible future visual-only rerun would place the same talk in a bar while Ryan installs the bar's android waitress, but THIS IS NOT AN ORDER TO RENDER. Await a fresh explicit owner order for any new run. Historical collection: https://drive.google.com/drive/folders/1f6JLbv06L-44FuSHttXRNlgjR2OrYBdX · Docs index: https://docs.google.com/document/d/1WNzWd2sH0NODyXjs0_rFmMEomtCZ_-qOLOFjhE_tj5Q/edit
->
-> **— HISTORICAL ROUTING BELOW — NOT LIVE RENDER AUTHORITY —**
-
-**META — CURRENT FILM: AI SPEAKER.** [Start Batch 01 — AI001–AI010](https://docs.google.com/document/d/11GKJdLH_0k0P3HMWRcHnfpXNLqlonwvngbhGqeNJ5-I/edit?usp=drivesdk) · [Complete script / all five packets](https://docs.google.com/document/d/1r0y0pyp5F1Ly5PkSKlBrQl_9r1haoAIYoD4raP7jfvs/edit) · [Native execution router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit).
-
-43 ten-second clips in five packets (10/10/10/10/3), 7:10 planned. Standing GO covers AI001–AI043 in sequence without another GO per clip or packet. Preserve the selected AI Speaker draft exactly; laughter and applause are sound cues. Submit only each entry's PICTURE, SOUND and SAY ONLY fields, below the 85-word trial ceiling. Return actual video URLs or concrete tool errors.
-
-**Pocket Workshop is archived, not the active queue.** [Original script, visual master, 50 packets, index and routing snapshots](https://drive.google.com/drive/folders/1sCOXgPENLQJwVXIqKQBhIzyWbTlMvpT8). Existing videos and the accepted 83.82-second entrance remain preserved. Grok dialogue recovery and gradual robot assembly are separate work. The former compilation is not verified as the complete original Grok dialogue.
-
-- Native Google Docs are the active handoff format. The native film router alone selects the next film; game work cannot alter that choice.
-- Source words are isolated under SAY ONLY, with sound directions before the quote. Use the same AI performer and stage throughout; no new story or extra dialogue. Word-for-word performance and continuity are targets to check from actual returned video.
-- [Google ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) was updated for this selection. These files are not automatically synchronized.
+[Earlier film instructions and complete packet references](https://github.com/IsekaiSensei/chat.work.open.ai/blob/4950c7fecbdc6588f93e93d9a919ad23fc14c8cf/ORDERS.md)
 
 ## Core game — one Seed, many views
 - **TO FAIRY / TO DOG / TO RAT / Pocketworld / GERTECH** are multiple interfaces/phases of **ONE persistent WorldSeed**, not multiple competing inventories or foundations. TO DOG and TO RAT cover pre/post battlefield phases (do not guess which); Pocketworld is the **during** phase that makes/maintains backpacks.
