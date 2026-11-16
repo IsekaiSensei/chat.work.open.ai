@@ -10,7 +10,7 @@
 
 **OTHER ACTS:** Existing [AI'S GOT NO TALENT act catalog](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) retains previously selected performances including DCL-11–20. **DCL-11 is not an automatic next routing step** after reading this file; do not confuse those ten-second show shots with the DARPA D001–D010 episode packet. Follow the owner's latest chosen production.
 
-**IMPORTANT CONTINUITY CORRECTION:** Shakesaspear is the established Shakespeare-minded Ryan double with a physical entrance. Do not invent a separate unrelated host or an unrequested “Ryan Ocean Quest” identity. Earlier documents may still have conflicting host phrasing; preserve original sources while flagging the discrepancy for correction in the current production documents. Do not promote old narration as new canon.
+**CAST / HOST CONTINUITY:** Shakesaspear is the established Shakespeare-minded Ryan double, built and installed by Ryan before walking into rehearsal and the show. Preserve his actual sourced identity, entrance and any established stage-presenter role. Do not invent a separate unrelated human or silently rename him; where older scripts differ about the host name or job, check the owner's latest direction and source dialogue before making a change. Retain existing scenes and acts.
 
 **STATUS / TOOL TRUTH:** Source content, reference media, completed MP4s, proposed casting links and game code have distinct verification states. Do not declare renders completed without outputs. Use each selected native Google Doc's PICTURE and SOUND; preserve source dialogue and visual references. Ten clips per owner-selected batch where specified. Do not restart any archived queue or turn QC paperwork into a prompt.
 
