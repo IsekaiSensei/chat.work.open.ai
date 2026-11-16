@@ -13,7 +13,11 @@ Meta text handoffs use native Google Docs. Preserve this requirement in every fu
 - **One shared brainstorming file:** [GERTECH brainstorm](brainstorm/GERTECH_SHARED_BRAINSTORM_2026-11-10.md). [CHAT.md](CHAT.md) = ChatGPT; [GROK.md](GROK.md) = Grok. This file routes current work, not all research history. Avoid duplicate handoffs.
 - Original JPEG/GLB/video/audio masters stay in **private Google Drive**; GitHub houses code, public-safe instructions and manifests. Do not overwrite owner originals or publish private art. Report unverified transfers as pending.
 
-## Meta / film — separate authority
+## Meta / film
+
+**Current film and casting** — [AI’s Got No Talent and the native act router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). [The Copy Episode](https://docs.google.com/document/d/1OC9NOWcvs0cJjqsSdE_ta0uavRy4i4IDCOKRTG8KYHU/edit) follows Cube’s quantum-table pilot. DataCenterLive broadcasts from the Moon Bar in The Man in the Pocket. Ryan Oceancrest Shakesaspear hosts. Ryan selects game roles from the performance Library. The native router records the owner’s act selection.
+
+### Historical routing records
 
 > **OWNER OVERRIDE — 2026-11-13 — NO META VIDEO RENDERS PENDING** (mirrored from Drive [ORDERS — CURRENT](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit) and the [native film router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit), both updated Nov 13 6:41 PM PST). Every earlier Meta scene, script, shot list, batch packet and rendering attempt is historical. The owner states every prior attempt has finished or failed; no prior item remains in the active queue. All earlier standing GO or START BATCH instructions below are SUPERSEDED and must NOT trigger generation. Archive completed/failed attempts and keep their original media and text unmodified. The TED Talk was a COMPLETE WIN by owner confirmation; preserve the original. A possible future visual-only rerun would place the same talk in a bar while Ryan installs the bar's android waitress, but THIS IS NOT AN ORDER TO RENDER. Await a fresh explicit owner order for any new run. Historical collection: https://drive.google.com/drive/folders/1f6JLbv06L-44FuSHttXRNlgjR2OrYBdX · Docs index: https://docs.google.com/document/d/1WNzWd2sH0NODyXjs0_rFmMEomtCZ_-qOLOFjhE_tj5Q/edit
 >
