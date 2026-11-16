@@ -1,5 +1,7 @@
 **An addition should preserve everything that exists and add new capabilities. It should never silently replace an established system with a simpler description of it**
 
+**DARPA D001–D010 STATUS (owner report, November 15, 2026): COMPLETED / FILED — ten 10-second clips (01:40). No spoken or sung dialogue; ambient, mechanical and electrical sounds plus wordless vocal tones were specified. Preserve the ten shots; DO NOT rerender or restart them. Individual final MP4 receipts have not been independently checked here. D011 starts the Elongated Man branch; its next ten-clip production packet has not been confirmed complete.**
+
 **Series production** — [Series continuity master](https://docs.google.com/document/d/17cAA3tVQmbDiUUtUQ9p21yV6EBFfe0nZk0pCHxf0y1Y/edit) · [The Copy Episode screenplay](https://docs.google.com/document/d/1OC9NOWcvs0cJjqsSdE_ta0uavRy4i4IDCOKRTG8KYHU/edit) · [Batch 01, DARPA D001–D010](https://docs.google.com/document/d/1aIbHQksrFITBg4sY576qs9Mo5D77QuK-H99QSy47vtY/edit) · [Native film router and act catalog](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). Cube’s quantum-table pilot plays first. The next episode returns to the DARPA accident. The Man in the Pocket connects the bench, bar, stage and game auditions. AI’s Got No Talent casts returning performers for films and GERTECH games.
 
 [Earlier film instructions and complete packet references](https://github.com/IsekaiSensei/chat.work.open.ai/blob/7a9fd4c721013fb1ce9592859f09ad02eec40659/README.md)
