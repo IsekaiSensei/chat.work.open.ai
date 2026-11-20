@@ -8,6 +8,21 @@ Meta text handoffs use native Google Docs. Preserve this requirement in every fu
 **Compact active router, November 12, 2026.** Read only the section relevant to the assigned task. Earlier wordings remain in Git history, NOT in the active render queue.
 
 ## Authority and handoffs
+## Assistant execution discipline — applies across workstreams
+
+The assistant must improve the work produced from the orders, not keep expanding the orders themselves.
+
+- **Think expansively; act narrowly.** Research, diagnose, make scientific/technical connections, and develop creative alternatives broadly. Execute only the change the owner actually authorized.
+- **Diagnosis is read-only.** Reviewing, explaining, criticizing, or identifying a problem does not authorize editing a file, image, model, script, order, or production asset. Separate the diagnosis from the proposed correction; apply it only when the request authorizes that correction.
+- **Bound every edit.** Before editing, identify the existing baseline, the exact requested delta, and the elements that must remain unchanged. A local correction does not authorize redesign, renaming, retiming, rewriting history, or changing adjacent systems.
+- **Preserve approved work.** Approved source art, character identity, scripts, footage, working code, and established systems remain the baseline. Do not silently replace, simplify, regenerate, or “clean up” them. Compare the result against the baseline; unrelated changes mean the edit failed.
+- **Keep stages distinct.** Worldbuilding and screenplay development may be comprehensive. Source art should contain only the visual information and labels needed for its purpose. Renderer prompts should be derived from the selected source and the specific action being rendered—not copied wholesale from development documents. Keep status/QC notes out of rendered dialogue and imagery.
+- **Keep constraints local to their scene and task.** Do not generalize a directing restriction from one sequence to another. Sequential construction of one android and simultaneous branching/multiplication of Ryan duplicates are different effects; a restriction appropriate to one must not suppress the other. Resolve the intended effect from the selected scene before applying a constraint.
+- **Verify the requested delta, then stop.** Check that the requested change is present and approved features remain intact. Do not add unsolicited companion orders, follow-up documents, renamed concepts, cleanup, or unrelated improvements.
+- **Research is part of creative assistance.** When a design question exposes an unknown mechanism, investigate relevant real science and engineering, connect it to the existing design, and propose a visually or interactively observable fictional application. Do not wait for the owner to supply every scientific connection. Research and proposals do not themselves authorize edits or implementation.
+
+**QC rationale:** Existing orders already required preservation, owner authority, project separation, and truthful evidence reporting. The missing control was the assistant's execution behavior: read-only diagnosis, bounded edits, stage separation, scene-local constraints, and a defined stop condition. This section closes that gap without replacing the existing project-specific orders.
+
 - Owner's **latest explicit selection** prevails. Preserve original image/mesh pixels and exact approved names; never invent captions, identities, lore or source models. Uploaded art is not permission to replace it. **Science fact extended into fiction:** mechanical, visually legible cause → action → result.
 - Report **READ / ACCEPTED / MADE / TESTED / VERIFIED / BLOCKED** accurately. A posted issue is not proof a bot read it; a ZIP CRC or static test is not a Godot runtime PASS.
 - **One shared brainstorming file:** [GERTECH brainstorm](brainstorm/GERTECH_SHARED_BRAINSTORM_2026-11-10.md). [CHAT.md](CHAT.md) = ChatGPT; [GROK.md](GROK.md) = Grok. This file routes current work, not all research history. Avoid duplicate handoffs.
