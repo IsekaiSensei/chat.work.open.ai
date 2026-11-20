@@ -8,6 +8,8 @@
 
 # TO WORLD — ACTIVE HUB
 
+**Current world canon:** [TO DOG — World Version 2026-11-20.r2](canon/TO_DOG_WORLD_VERSION_2026-11-20_R2.md) — includes the owner-directed deep-time integrated machine ecology; R1 remains preserved as its parent.
+
 [Current orders](ORDERS.md) · [Meta-specific run](META.md) · [Meta native Google start](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) · [Media reset owner order](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md).
 
 ## Crew personalities and visible read receipts
