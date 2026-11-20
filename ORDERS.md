@@ -7,7 +7,7 @@
 These instructions govern how all work is understood, developed, directed, produced, checked, and handed off. **Behavior, art direction, and production tasking are one integrated way of working; do not split them into optional or competing disciplines.** Every task inherits these rules. A local task instruction may add detail but may not silently weaken or bypass them. Only the owner's explicit, current instruction can authorize an exception.
 
 1. **Understand, then translate.** Interpret the owner's intent and convert it into a coherent production result. Do not merely paste the owner's wording into prompts or orders. Extrapolate useful visual, scientific, technical, and structural connections; keep the delivered result faithful to the intended outcome.
-2. **Preserve the working system.** The established system is the baseline. Daily updates change only the current task, source, sequence, or status that actually changed. Do not repeatedly rewrite, simplify, reorganize, rename, or replace the governing method. Do not let a new task reset established standards.
+2. **Preserve the working system.** The established system is the baseline. Daily updates change only the current task, source, sequence, or status that actually changed. Do not rewrite the governing method during daily task updates. Change these governing instructions only when the owner explicitly requests a system-level correction. Do not repeatedly rewrite, simplify, reorganize, rename, or replace the working method. Do not let a new task reset established standards.
 3. **Carry global rules into every task.** Read this governing section before acting. Reading only a task-specific section never suspends the governing rules. Local constraints apply locally; global standards remain active everywhere.
 4. **Use references as evidence, not permission to redesign.** Use the supplied/approved source images, models, scripts, dialogue, timing, and project decisions. Preserve identity and approved details. Do not invent faces, bodies, labels, names, lore, props, or visual elements that the source and task do not call for.
 5. **Science fact, expressed fictionally.** When a design raises a mechanism or material question, connect it to relevant real science or engineering and turn that connection into a legible fictional mechanism, action, or result. Do not dismiss the premise or add unsolicited disclaimers that it is fictional.
@@ -35,29 +35,34 @@ For each authorized production unit:
 4. QC the actual result for content, continuity, source fidelity, unwanted embedded text, and requested action.
 5. Deliver one truthful receipt and update only the relevant current status.
 
-**HOLD** if the controlling source is inaccessible, required references are missing, an owner decision is genuinely ambiguous, the tool cannot meet a hard requirement, or the output fails QC and cannot be corrected within scope. A hold must name the exact failed gate and next required action. Do not keep looping through prompt rewrites that cannot remove a known tool limitation.
+**HOLD** if the controlling source is inaccessible, required references are missing, an owner decision is genuinely ambiguous, the tool cannot meet a hard requirement, or the output fails QC and cannot be corrected within scope. A hold must name the exact failed gate and next required action. If the same defect survives one correction, stop repeating the same prompt/render cycle: inspect the upstream cause (source asset, template, inherited prompt, renderer behavior, or routing), change that cause, and verify the change before another attempt. If the cause cannot be changed, hold and report the limitation. Never make a third identical attempt and call it progress.
 
 ## Current production routing
 
-### Film / Meta
-- Use native Google Docs for production handoffs. Read and verify the document body; a filename or link alone is not a read receipt.
-- Deliver all directions for a ten-clip packet together. Do not split a ten-clip run, issue per-clip GO requests, or rerun a completed packet.
-- Preserve approved screenplay wording, dialogue, shot order, timing, source art, and continuity. Spoken nouns must be visibly present when spoken. Show the actual described process, not a held image that contradicts the dialogue.
-- Preserve the DARPA D001–D010 completed packet; do not rerender or restart it. D011 is the next Elongated Man branch; do not claim its next ten-clip packet is complete until the actual packet and receipts are verified.
-- Current film references: [Series continuity master](https://docs.google.com/document/d/17cAA3tVQmbDiUUtUQ9p21yV6EBFfe0nZk0pCHxf0y1Y/edit), [The Copy Episode screenplay](https://docs.google.com/document/d/1OC9NOWcvs0cJjqsSdE_ta0uavRy4i4IDCOKRTG8KYHU/edit), [native film router and act catalog](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit).
+### Continuous Pocket Workshop — controlling film
+- The current controlling film is the **Continuous Pocket Workshop rewrite**. Earlier MORGUE 031–085 material is retired to archive; do not dispatch it.
+- The approved **83.82-second Astra entrance** is accepted and must not be rerendered. Continue from the DNA threshold into the pictured workshop.
+- Current source-state reported by the owner: 399 spoken passages, 360-shot visual master, 36 native ten-clip packets CW001–CW360, total runtime 63:22. Use the controlling native Google Docs and supplied JPEGs; verify the exact next incomplete packet before dispatch.
+- Execute ten clips per run, all directions together in one native Google Doc. The standing GO covers the packet; do not request per-clip GO or split the batch. Preserve the durations written in the controlling document; do not trim to ten seconds to fit a tool limitation.
+- Preserve screenplay dialogue verbatim. Keep continuous android singing/music; when Ryan speaks, another android sustains the melody. No silent demonstrations or spoken inventory recitals. A spoken noun must be visibly present when spoken.
+- Preserve one human performer only: Ryan. All other performers are androids. Keep the connected gold-jointed cyan/blue/violet crystal chamber and its bar, bench, growth cradle, fitting alcove, and relay access continuous. Carry the same tray/material through each packet where specified.
+- The CW004/CW005 duplicate-picture defect and CW007–CW010 shell-hold/process mismatch were identified for correction. Show the actual rearrangement, meshing, assembly, and weighing actions while preserving approved dialogue. Do not mark repaired until the actual frames pass QC.
+- Preserve the accepted Astra canon: 2008 Saturn Astra XE five-door, black, stock ride height and silver five-slot hubcaps; ordinary clean commuter, not a beater. Use the approved airstrip arrival and modular transformation. For Astra-shaped jet docking, rear-load the car, move it forward on rails, lock front wheels and rear clamps, and mate the canopy to the windshield/roofline; driver remains seated and the jet has no cockpit.
+- Film handoff references: [Series continuity master](https://docs.google.com/document/d/17cAA3tVQmbDiUUtUQ9p21yV6EBFfe0nZk0pCHxf0y1Y/edit), [native film router and act catalog](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit). Use the screenplay/packet document actually designated by the current task; do not assume a linked reference is the controlling script without reading it.
 
-### GERTECH game
-- Treat TO FAIRY, TO DOG, TO RAT, Pocketworld, and GERTECH as views/phases of one persistent WorldSeed, not competing inventories or foundations.
-- ChatGPT owns core integration: main scene, inventory, graph/typed module/real ports, Foundry, saves, reset, progression schema, and integration. Do not allow another agent or engine branch to overwrite the core or auto-merge untested work.
-- Protect working gameplay and save state. Do not claim runtime, reset/save behavior, FPS, integrations, or features are verified without an actual test.
-- Use the current [Godot Aqua Workshop + Forge Loft](https://github.com/IsekaiSensei/to-world-open-crew/tree/main/godot/GERTECH_Aqua_Workshop) and [current build handoff](https://github.com/IsekaiSensei/to-world-open-crew/blob/main/game/GODOT_CURRENT_BUILD_HANDOFF.md) as the implementation references. The private complete build ZIP remains in owner Drive; do not publish private media or personal material to this public repository.
-- Minigames are modular tools, not fixed recipes. Core approves material transactions and tests. Each bot receives one named, isolated assignment; an issue post is not proof of recipient acknowledgment.
-- Future progression, recipes, NPCs, shops, and unimplemented minigames remain unassigned until the owner authorizes implementation.
+### GERTECH game — parallel engine implementations
+- Maintain one shared GERTECH/TO WORLD design canon and progression model while keeping engine-specific implementations separate. The user is comparing Unity, Godot, and Roblox; do not prematurely declare one engine the winner or merge their projects.
+- Godot is for 2D or 2.5D game work. Do not use the existing Godot 3D Tron/wireframe approach for the full immersive cinematic GERTECH world. Any low-poly 3D exception requires deliberate approval for that specific use.
+- Preserve the accepted production chain and names: ASTER-ORES → BREAKDOWN → BUBBLE SORT → TETRAFORGE → DOGIEPRESS → DIG DOG. Support tools include TORUS RUN, HOPPER, and SHIELD GRID. Keep minigames modular tools, not fixed recipes.
+- Maintain common item/inventory/progression contracts across engine versions, but do not let one engine's code overwrite another's. No auto-merge of untested work. Core transactions and shared rules require verification in each implementation.
+- Protect working gameplay and save state. Do not claim runtime, reset/save behavior, FPS, integrations, or features are verified without an actual test. Future features, recipes, NPCs, shops, and unimplemented minigames remain unassigned until authorized.
 
 ### Cast and world continuity
-- Ryan is the only human performer. Other performers are AI agents embodied as bots or androids. Do not introduce a second human performer.
-- Preserve the approved project-specific character, vehicle, environment, material, and continuity designs from their controlling source. Do not invent names or labels on concept artwork.
-- The approved source and task determine the specific scene action; do not carry a scene-local restriction into unrelated scenes or use it to suppress a different explicitly requested effect.
+- Preserve the approved android direction: glossy porcelain-ivory ceramic plating over geometric gold lattice, visible blue crystal core, translucent crystal wings with gold veining, and separate garments where specified. No synthetic skin/flesh or skull-face substitutions.
+- Use supplied likeness/reference images where required. Do not invent or substitute faces, bodies, ages, hair, beards, costumes, identities, or names. Do not add invented labels to concept sheets.
+- Preserve robotic animal chassis with copied animal-brain architecture and their assigned functional specialties; do not replace them with ordinary animals.
+- Treat crystal components as vacuum environments where specified; mana is solidified light particles. Preserve the seven-node system (Blue, White, Yellow, Red, Green, Ether, Void) and the Blue Shield first-out EVA bubble.
+- The approved source and task determine the specific scene action. Do not carry a scene-local restriction into unrelated scenes or use it to suppress a different explicitly requested effect.
 
 ### External agents and handoffs
 - A GitHub issue or sent message is not proof an agent read, accepted, or completed an assignment. Obtain and report the actual acknowledgment and evidence.
