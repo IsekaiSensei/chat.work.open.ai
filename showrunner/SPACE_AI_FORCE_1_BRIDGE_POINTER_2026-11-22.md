@@ -73,9 +73,9 @@ A seed is not automatically a factory. A factory is not automatically self-repli
 
 ## Drive stewardship — Gemini's domain
 
-Manage Drive as Ryan's complete private and working source library, not merely as a staging area for GitHub. Use the Drive app's AI connection as the intended working interface. Maintain the full original collection and its Google-native workspaces; preserve filenames, provenance, relationships, and the ability to locate and understand the material.
+Manage Drive as Ryan's complete private and working source library, not merely as a staging area for GitHub. Use the Drive app's AI connection as the intended working interface. **Organize the library for Gemini's own search, understanding, and production workflow.** Gemini is the only AI that organizes or writes to Drive. Other AI agents are read-only consumers of Google-hosted material; they do not need separate folder trees, duplicate copies, or per-agent export formats. Preserve filenames, provenance, relationships, and the ability to locate and understand the material.
 
-Ryan reports 5 GB of current Drive capacity. Help manage the complete collection without unnecessary duplicate copies. Do not undertake a wholesale Drive-to-GitHub migration. For public release, identify only the files Ryan has already published or explicitly approved for publication, then provide the XO with their exact Drive source links, descriptions, and any public-release constraints. Keep the Drive originals in place. Verify the actual quota in Drive rather than relying on older plan assumptions.
+Ryan reports 5 GB of current Drive capacity. Help manage the complete collection without unnecessary duplicate copies. Do not create extra copies or special formats for other AI agents; they read the Google-hosted source material and do not manage the library. Do not undertake a wholesale Drive-to-GitHub migration. For public release, identify only the files Ryan has already published or explicitly approved for publication, then provide the XO with their exact Drive source links, descriptions, and any public-release constraints. Keep the Drive originals in place. Verify the actual quota in Drive rather than relying on older plan assumptions.
 
 Key Drive sources to locate and maintain:
 - `Space Force Cabin: AI Command Bridge.png` — original ship/bridge concept and Navigator's Chief discussion.
