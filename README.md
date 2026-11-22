@@ -30,6 +30,10 @@ The user-facing Google Drive [TO WORLD root](https://drive.google.com/drive/fold
 
 The GERTECH / TO WORLD public wiki should make released work discoverable and connect it to its public context. It can link to Ryan's Instagram, TikTok, X, and YouTube profiles and embed selected public posts or videos using each platform's supported embed method. The media remains hosted on its original platform; provide a direct link as a fallback. Add official profile destinations only after confirming the exact account URLs. Publish downloadable models, STL files, patterns, and other binaries only when they are approved public releases.
 
+**Authorship is a primary purpose of the wiki.** Every release should preserve who originated the idea, who directed or contributed to it, what AI tools actually did, which original sources it derives from, and the Captain-approved credit/byline. Ryan's real name and face/likeness are protected identity and authorship attributes; never invent, remove, anonymize, substitute, or reassign them. Public display of a particular byline or use of a likeness follows the Captain's approval. See [the Authorship, Identity & Provenance Standard](showrunner/AUTHORSHIP_IDENTITY_PROVENANCE_STANDARD.md).
+
+**Location canon:** San Diego Bay is public TO WORLD / GERTECH canon and must not be scrubbed from the relevant story or wiki entries. Imperial Beach remains part of the source and continuity record but is deliberately low-profile: do not foreground it in public navigation, promotional copy, map pins, geotags, or search metadata, and do not delete it from the underlying record. This is a distinction in presentation, not a change to the source history.
+
 **This repository is public:** every tracked file is externally visible. Review existing contents for public-release suitability before presenting them as the finished wiki. Historical repositories remain archive-only unless the owner explicitly reactivates them. `to-dog-shared-room` was reactivated on November 21, 2026 as a historical reference archive; it is not a current command authority. Report publication and backup status accurately.
 
 ## Previous work
