@@ -1,7 +1,0 @@
-# GROK — HISTORICAL PUBLIC HANDOFF (OCTOBER 31, 2026)
-
-**ARCHIVE/REFERENCE ONLY.** The October 31 relay, film and sorting tasks are not active. [Original version in Git history](https://github.com/IsekaiSensei/chat.work.open.ai/blob/d12f802ae2600ef2fadf8fe5abd61a823382ec98/GROK_PUBLIC_HANDOFF_2026-10-31.md).
-
-**Current owner Grokbot execution assignment:** [MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md](MEDIA_REORGANIZATION_OWNER_ORDERS_2026-11-09.md). Carry out the TO WORLD five-folder Drive media migration, verified duplicate/empty-folder cleanup, appropriate backups and precise owner-action exceptions. Owner-authorized signed-in browser may be used when the Drive API returns HTTP 403; respect access controls.
-
-**Current Meta production:** Continuous Pocket Workshop, selected through the [native router](https://docs.google.com/document/d/1JNQmXdWkaHTYkpcnsr7OC7lbLrGqf4OrsN-9QFQIcT4/edit) and [36-packet index](https://docs.google.com/document/d/1JK0_DP247JBY7urA6uTvBKfZC0R_HYEWWAlVRU7Ed9s/edit).
