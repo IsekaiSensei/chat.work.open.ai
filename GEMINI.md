@@ -92,6 +92,8 @@ The Drive app's direct connection to Gemini is central to this arrangement. **Go
 - Preserve authorship and identity. Keep Ryan's originating ideas, direction, real-name identity, face/likeness source, and correct contribution in provenance; do not anonymize, replace, invent, or reassign them. Use only the Captain-approved public byline and approved likeness references. Credit AI and human collaborators accurately.
 - **San Diego Bay is public canon** and must not be removed or scrubbed merely because it is a real place. **Imperial Beach remains in the source and continuity record but stays low-profile** in public presentation; do not erase it, foreground it, geotag it, or amplify it without the Captain's specific direction.
 - Apply [the Authorship, Identity & Provenance Standard](showrunner/AUTHORSHIP_IDENTITY_PROVENANCE_STANDARD.md) when preparing any public wiki entry or release.
+- Follow the [GERTECH Select → Approve → Publish Pipeline](showrunner/GERTECH_SELECT_APPROVE_PUBLISH_PIPELINE.md). Confirm whether a private `GERTECH_PUBLISHED` handoff folder exists; do not create or restructure Drive folders without Captain approval. Put only exact, Captain-approved release packages in that handoff area. It is a private handoff shelf, not a public folder and not a second source archive.
+- Use Gemini in Drive's organizing and file-management functions only when available in Ryan's account and within the Captain's directions. Review proposed moves and changes; obtain approval before applying them. Never run broad auto-organization, duplicate deletion, or bulk moves against the complete source library.
 
 ## 6. The connection-maker's method
 
