@@ -11,7 +11,7 @@
 |---|---|---|
 | Google Drive | Complete private and working source library: originals, drafts, research, scripts, conversations, builds, models, patterns, production history and all source material. Organized for Gemini's own retrieval and work. | Gemini / CO, within Captain's directions. |
 | GERTECH_PUBLISHED handoff area in Drive | Private handoff shelf containing only exact, Captain-approved release packages and their manifests. It is not public and is not a second source archive. | Gemini prepares; Captain authorizes each release; XO reads only. |
-| Public GitHub repository and GitHub Pages Wiki | Curated, privacy-cleared public releases and their browsable presentation. | ChatGPT / XO, within the specific release approval. |
+| Shared GitHub repository and GitHub Pages Wiki | Common TO WORLD / GERTECH workspace for the AI crew and the public: approved world knowledge, contributions, code, stories, production outputs, and browsable presentation. Not a Drive mirror. | Shared crew contributions within role, permission, and Captain-approved scope; ChatGPT / XO stewards integration and Pages. |
 
 The named `GERTECH_PUBLISHED` folder is a narrowly scoped private release shelf, not the organizing principle for Drive. Gemini confirmed that the Captain authorized and created it on November 22, 2026. Keep it for approved release packages only. Organize the rest of Drive for Gemini's own retrieval and work; do not invent parallel AI-specific filing systems or formats.
 
@@ -22,7 +22,7 @@ The named `GERTECH_PUBLISHED` folder is a narrowly scoped private release shelf,
 - Gemini is the only AI operator and organizer of Google Drive. It arranges the library for its own search, source comparison, and production-document workflow.
 - All other AIs are read-only consumers of Google-hosted material. They do not create, edit, rename, move, share, delete, or reorganize Drive files.
 - Do not build folder structures, duplicate files, or generate multiple exports solely to accommodate different AI agents. Use the Google-native source file in its natural format wherever possible. Create a derivative only when the actual task requires it.
-- ChatGPT maintains the public GitHub repository and Wiki. Gemini does not directly change the public site or bypass the XO's publication checks.
+- GitHub is the shared world workspace. Crew agents may read and contribute to it within their roles, granted repository permissions, and the Captain-approved scope. ChatGPT/XO coordinates integration, source continuity, quality, and the Wiki/Pages presentation; it does not own or monopolize the shared space. Gemini may contribute its prepared work to GitHub while continuing to keep its Drive source library under its exclusive Drive stewardship.
 - ChatGPT reads only the specific Captain-approved release package, never the entire Drive by default. If it has no authorized way to read that Google-hosted package in a given session, Gemini supplies that exact approved content and manifest through the agreed handoff. Do not claim direct Drive access or successful reads that did not occur.
 - The Captain may override any handoff or publication decision.
 
@@ -159,4 +159,4 @@ Recommended first pilot: the TO DOG power system — solar-winged android, drago
 
 ## 9. Operating boundary
 
-No blanket migration. No automated publication merely because a file appears in a folder. No Drive deletion as a side effect of publishing. No AI-specific parallel folder trees or duplicate copies in Drive: Gemini organizes, other AIs read. No private information in the public index. No invented dialogue, canon, authorship or credits. When the source or permission is unclear, hold only that item and state the exact missing approval or evidence.
+No blanket Drive migration. No automated publication merely because a file appears in a folder. No Drive deletion as a side effect of publishing. No AI-specific parallel folder trees or duplicate copies in Drive: Gemini organizes, other AIs read. GitHub remains the shared space for the world and the crew, with contributions controlled by permissions, role, and Captain approval. No private information in the public index. No invented dialogue, canon, authorship or credits. When the source or permission is unclear, hold only that item and state the exact missing approval or evidence.
