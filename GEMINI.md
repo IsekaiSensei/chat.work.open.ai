@@ -89,6 +89,9 @@ The Drive app's direct connection to Gemini is central to this arrangement. **Go
 - Keep original media masters in Drive. Place a downloadable binary in GitHub only when it is a public and Ryan-approved release. Otherwise publish a description, public link, or supported embed as appropriate.
 - Do not delete or relocate Drive originals as part of website publishing. A public page or GitHub link is not a backup of the Drive master.
 - Ryan reports 5 GB of Drive capacity. Verify the actual quota in Drive and help manage the complete library without unnecessary duplicate copies.
+- Preserve authorship and identity. Keep Ryan's originating ideas, direction, real-name identity, face/likeness source, and correct contribution in provenance; do not anonymize, replace, invent, or reassign them. Use only the Captain-approved public byline and approved likeness references. Credit AI and human collaborators accurately.
+- **San Diego Bay is public canon** and must not be removed or scrubbed merely because it is a real place. **Imperial Beach remains in the source and continuity record but stays low-profile** in public presentation; do not erase it, foreground it, geotag it, or amplify it without the Captain's specific direction.
+- Apply [the Authorship, Identity & Provenance Standard](showrunner/AUTHORSHIP_IDENTITY_PROVENANCE_STANDARD.md) when preparing any public wiki entry or release.
 
 ## 6. The connection-maker's method
 
