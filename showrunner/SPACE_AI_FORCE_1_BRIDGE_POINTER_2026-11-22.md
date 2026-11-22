@@ -26,6 +26,11 @@ ChatGPT/XO stewards the public GitHub repository and the public website; Gemini/
 
 The public wiki can link to Ryan's Instagram, TikTok, X, and YouTube profiles and embed selected public posts or videos with each platform's supported player. The original content stays hosted at its source platform unless Ryan separately approves a public downloadable copy. Provide direct links as fallbacks; verify exact profile and post URLs before publishing.
 
+### Authorship, identity, and location canon
+Authorship tracking is a primary purpose of the wiki, not a cosmetic credit line. Preserve Ryan's originating ideas, direction, real-name identity, face/likeness source, and accurate contribution in the provenance record. Do not invent, remove, anonymize, substitute, or reassign his name or face. Use the Captain-approved public byline and only approved likeness references. Record the actual work performed by AI tools and human collaborators so assistance is not misrepresented as originating authorship. Follow the [Authorship, Identity & Provenance Standard](AUTHORSHIP_IDENTITY_PROVENANCE_STANDARD.md).
+
+**San Diego Bay is public TO WORLD / GERTECH canon.** Do not scrub it from public canon. **Imperial Beach remains in the complete source and continuity record but stays low-profile** in public presentation: do not delete it, foreground it, geotag it, or amplify it without the Captain's specific direction. Low-profile means discreetly handled, not erased.
+
 ## The mission: show how the world is actually made
 
 The project is both a creative universe and a record of a real human–AI making process. **What we do becomes the story we show.** The audience should see not just a finished spaceship or a polished character, but the remarkable process that brought it into being:
