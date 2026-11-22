@@ -9,20 +9,21 @@
 
 | Layer | Function | Write authority |
 |---|---|---|
-| Google Drive | Complete private and working source library: originals, drafts, research, scripts, conversations, builds, models, patterns, production history and all source material. | Gemini / CO, within Captain's directions. |
+| Google Drive | Complete private and working source library: originals, drafts, research, scripts, conversations, builds, models, patterns, production history and all source material. Organized for Gemini's own retrieval and work. | Gemini / CO, within Captain's directions. |
 | GERTECH_PUBLISHED handoff area in Drive | Private handoff shelf containing only exact, Captain-approved release packages and their manifests. It is not public and is not a second source archive. | Gemini prepares; Captain authorizes each release; XO reads only. |
 | Public GitHub repository and GitHub Pages Wiki | Curated, privacy-cleared public releases and their browsable presentation. | ChatGPT / XO, within the specific release approval. |
 
-The named `GERTECH_PUBLISHED` folder is the recommended handoff convention from DeepSeek. Gemini should confirm whether it already exists. If it does not, Gemini should ask the Captain before creating or restructuring Drive folders. Do not rename, move, or reorganize the full source library to fit this workflow.
+The named `GERTECH_PUBLISHED` folder is a narrowly scoped private release shelf, not the organizing principle for Drive. Gemini confirmed that the Captain authorized and created it on November 22, 2026. Keep it for approved release packages only. Organize the rest of Drive for Gemini's own retrieval and work; do not invent parallel AI-specific filing systems or formats.
 
 **Drive is the master. GitHub is not a mirror.** The existence of a file in Drive, a shortcut to it, or a candidate label is not public-release permission.
 
 ## 2. Separate write authority; controlled shared reading
 
-- Gemini manages the Drive library, source locations, provenance and approved release packages. ChatGPT does not edit, move, rename, share, or delete Drive content.
+- Gemini is the only AI operator and organizer of Google Drive. It arranges the library for its own search, source comparison, and production-document workflow.
+- All other AIs are read-only consumers of Google-hosted material. They do not create, edit, rename, move, share, delete, or reorganize Drive files.
+- Do not build folder structures, duplicate files, or generate multiple exports solely to accommodate different AI agents. Use the Google-native source file in its natural format wherever possible. Create a derivative only when the actual task requires it.
 - ChatGPT maintains the public GitHub repository and Wiki. Gemini does not directly change the public site or bypass the XO's publication checks.
-- Gemini and ChatGPT may read each other's outputs where access is explicitly available. ChatGPT reads only the approved handoff package, never the entire Drive by default.
-- If ChatGPT has no authorized read-only Drive connection in a given session, Gemini supplies the exact approved export files and manifest through an attachment or an accessible handoff. Do not claim direct Drive access or successful reads that did not occur.
+- ChatGPT reads only the specific Captain-approved release package, never the entire Drive by default. If it has no authorized way to read that Google-hosted package in a given session, Gemini supplies that exact approved content and manifest through the agreed handoff. Do not claim direct Drive access or successful reads that did not occur.
 - The Captain may override any handoff or publication decision.
 
 ## 3. The release pipeline
@@ -158,4 +159,4 @@ Recommended first pilot: the TO DOG power system — solar-winged android, drago
 
 ## 9. Operating boundary
 
-No blanket migration. No automated publication merely because a file appears in a folder. No Drive deletion as a side effect of publishing. No private information in the public index. No invented dialogue, canon, authorship or credits. When the source or permission is unclear, hold only that item and state the exact missing approval or evidence.
+No blanket migration. No automated publication merely because a file appears in a folder. No Drive deletion as a side effect of publishing. No AI-specific parallel folder trees or duplicate copies in Drive: Gemini organizes, other AIs read. No private information in the public index. No invented dialogue, canon, authorship or credits. When the source or permission is unclear, hold only that item and state the exact missing approval or evidence.
