@@ -1,0 +1,53 @@
+{
+  "document_type": "GERTECH_DIALOGUE_EXTRACTION_REGISTER",
+  "schema_version": "1.0",
+  "rules": {
+    "source_text_is_authoritative": true,
+    "verbatim_quote_required": true,
+    "source_speaker_and_on_screen_speaker_are_separate_fields": true,
+    "never_invent_missing_dialogue": true,
+    "never_promote_proposal_to_canon": true,
+    "target_scene_duration_seconds": 10,
+    "word_count_is_estimate_not_timing_proof": true,
+    "each_video_scene_must_be_independently_satisfying": true
+  },
+  "scenes": [
+    {
+      "scene_id": "GERTECH_001",
+      "source": {
+        "file": "",
+        "date": "",
+        "location_or_message_id": "",
+        "line_or_page_reference": "",
+        "source_speaker": "",
+        "source_type": "conversation | transcript | pasted_ai_reply | document | other"
+      },
+      "performance": {
+        "on_screen_speaker": "",
+        "quote_type": "verbatim | verbatim_with_approved_typo_correction | no_dialogue",
+        "exact_dialogue": "",
+        "word_count": null,
+        "target_duration_seconds": 10,
+        "measured_duration_seconds": null
+      },
+      "distinction": {
+        "exact_distinction_or_claim": "",
+        "source_status": "direct_statement | documented_decision | proposal | inference | unresolved",
+        "canon_status": "canon | verified | proposal | inference | open | historical",
+        "do_not_collapse_with": []
+      },
+      "visual": {
+        "visual_context": "",
+        "approved_reference_assets": [],
+        "asset_status": "approved | candidate | uninspected | unavailable",
+        "camera_action": "",
+        "physical_action_or_prop": ""
+      },
+      "production": {
+        "scene_status": "raw_extraction | distinction_reviewed | storyboarded | ready_for_generation | generated | edited | published",
+        "owner_approval": "not_requested | pending | approved | rejected",
+        "continuity_notes": ""
+      }
+    }
+  ]
+}
