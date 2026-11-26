@@ -83,7 +83,7 @@ There are 25 supplied conversation-upload filenames across both groups. A separa
 
 ## D. Preserve unresolved and conflicting records
 
-- **SPAWNER / SPAWER:** Owner clarification on 26 November: SPAWER was a transcription slip for **SPAWNER**. **Spawn Point = a place of manifestations.** Do not preserve SPAWER as a separate term or use the assistant-proposed PAW / WER / SPA breakdown; that speculation is rejected. The existing function-change rule remains: unrepaired spawn point spawns monsters; repair the same infrastructure and it becomes a Player Spawner.
+- **SPAWER:** transcription error only, do not use. **SPAWNER** is the recorded spelling. **Spawn Point** = a place of manifestations. SPAWER is not a separate concept or wordplay term; the assistant-proposed PAW / WER / SPA breakdown is rejected. The existing function-change rule remains: an unrepaired spawn point manifests monsters; repair the same infrastructure and it becomes a Player Spawner.
 - **Man in the Pocket / Quantum Table:** preserve magical inventory access and science-side hand-scaling as distinct functions.
 - **Four lenses / governance layers:** Fantasy, Science, Manufacturing, Virtual are lenses on one mesh. Orbital, Gate, Workshop, WorldSeed are governance layers. Do not merge these classifications.
 - **Five States of Gold:** categories from the Tier 3 dossier graphic. Structural is a construction/material result category, not a thermodynamic state.
