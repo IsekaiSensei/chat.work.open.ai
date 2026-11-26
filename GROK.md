@@ -243,3 +243,12 @@ This window made no meshes, scenes, or shaders. The include decision is filed fo
 **Catalog, do not model from this window:** zodiac robots, DOGIEPRESS, Dyson satellites, wings, modular android parts. Actual 3D versus concept art is still open.
 
 **Do not merge** this window into `to-world-open-crew` or replace the finished game. The 31-file ZIP stays historical. No private art bytes on public GitHub. No film-order change.
+
+
+---
+
+## WORLD LAYER / GAME SOURCE ALIGNMENT — 26 NOVEMBER 2026
+
+Read [WORLD_LAYER_ALIGNMENT_ORDER_2026-11-26.md](WORLD_LAYER_ALIGNMENT_ORDER_2026-11-26.md) and its canonical links before touching related game or visual work. Keep Orbital and Gate transportation separate. Near-Dyson, manifolds, directed aggregation and MICRO/MESO/MACRO are **DESIGN ONLY**. The only playable minigame in the current documented Aqua Workshop baseline is TETRAFORGE; the six other docks are scenery. The Aqua Workshop remains distinct from the TO FAIRY World Seed direction. WorldSeed inventory ↔ shared backpack is **UNRESOLVED**.
+
+No core edits, orbital/Gate implementation, scene changes, asset creation or auto-merge are authorized by this notice. Keep any separately authorized prototype isolated and report source paths and actual tests.
