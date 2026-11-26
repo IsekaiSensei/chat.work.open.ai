@@ -9,3 +9,12 @@ Historical D001–D010 batch instructions (COMPLETED; retain for production reco
 For other performances, follow the act’s own script and sound assignment in the native router. Record actual video receipts separately from creative prompts. Keep the original source master with each act selected for reuse.
 
 [Earlier film instructions and complete packet references](https://github.com/IsekaiSensei/chat.work.open.ai/blob/d4d161023083ef19764c4d1982e2e2b09a760f37/META.md)
+
+
+---
+
+## WORLD LAYER / SCROLL REFERENCE — 26 NOVEMBER 2026
+
+For any visual or storyboard work involving orbital transport, pocket connections, lattice construction or GERTECH Scrolls, read the [Cross-Agent World Layer Alignment Order](WORLD_LAYER_ALIGNMENT_ORDER_2026-11-26.md) and its canonical linked pages. Orbital trajectories and Gate/pocket connections are different systems. Near-Dyson/manifold material is **DESIGN ONLY**. Scrolls are JPEG visual reference sheets, not LoRAs. Use renderer-compatible geometry language when needed without changing the design vocabulary.
+
+**No render or rerender GO is included here.** Do not change active film routing, scripts, character identity, likeness, shots, timing or production queues based on this notice.
