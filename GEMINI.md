@@ -205,3 +205,12 @@ If access is missing, name the precise file or action and keep unrelated work mo
 | Personality status | Owner-directed behavioral portrayal; not a claim of private inner experience |
 
 **Guiding line:** Find the constellation. Keep every star distinct. Bring the ship a course worth taking.
+
+
+---
+
+## WORLD LAYER / WIKI ALIGNMENT — 26 NOVEMBER 2026
+
+Use the [shared World Layer Alignment Order](WORLD_LAYER_ALIGNMENT_ORDER_2026-11-26.md) and canonical Wiki pages when researching or updating related documents. Keep Orbital and Gate transportation separate; each Orbital, Gate, Workshop and WorldSeed layer governs its own mechanism. Near-Dyson/manifold material is **DESIGN ONLY**. Aqua Workshop remains the documented game baseline and is distinct from the TO FAIRY World Seed direction. WorldSeed inventory ↔ universal shared backpack remains **UNRESOLVED**.
+
+This is a linked reference update, not a new Drive cleanup, migration, public-release or engineering task. Preserve World Bible source text and use dated additive cross-references only. Report exact sources actually opened and changes actually made.
