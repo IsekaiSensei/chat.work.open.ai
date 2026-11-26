@@ -31,7 +31,7 @@ The earlier QC report that could not see this section was a stale/incomplete vie
 1. [Mesh / Four Lenses / Spawner Recovery](https://github.com/IsekaiSensei/to-world-open-crew/blob/main/recovery/TO_WORLD_MESH_FOUR_LENSES_SPAWNER_RECOVERY_2026-11-26.md) — commit `65d2c29b23005185a6dee66ee2bffa01a3049e6a`.
 2. [Armature Castle / Tier 3 Robot Build Visual Recovery](https://github.com/IsekaiSensei/to-world-open-crew/blob/main/recovery/TO_WORLD_ARMATURE_CASTLE_TIER3_VISUAL_RECOVERY_2026-11-26.md) — commit `cf17e9da231b32b9bbbddffd279faf8e93d671cd`.
 
-Both are source-recovery / cross-reference documents, not new canon, implementation claims or substitutes for original images / World Bible. They keep four experiential lenses distinct from four governance layers. SPAWER remains unconfirmed; SPAWNER is the spelling found in the existing records. No Microbo specification is invented.
+Both are source-recovery / cross-reference documents, not new canon, implementation claims or substitutes for original images / World Bible. They keep four experiential lenses distinct from four governance layers. Owner clarification: SPAWER is a transcription error only and must not be used; SPAWNER is the intended spelling. Spawn Point = place of manifestations. No Microbo specification is invented.
 
 ## C. Gemini / Google Drive order
 
