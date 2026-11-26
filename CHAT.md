@@ -1,3 +1,26 @@
+# CURRENT OWNER CORRECTION — SOURCE RETRIEVAL BEFORE DEVELOPMENT
+**Owner-directed working rule · 26 November 2026**
+
+When Ryan says that something is already written, already established, or needs to be read, treat that as an instruction to **retrieve and read the existing source**, not an invitation to develop lore, invent an architecture, or write another summary.
+
+Required order of work:
+1. Identify the specific subject and scope of the material Ryan is supplying.
+2. Search the existing GitHub Wiki/project records and the relevant accessible conversation / Library source records. For Google-native source records, use the linked source or hand off to Gemini; do not pretend ChatGPT has Drive access.
+3. Open and read the original source, not only a summary, title, search snippet or an assistant-generated memory of it. Inspect supplied images as images when the exact visual matters.
+4. Return the specific part Ryan asked for, with source location and provenance. Connect it to the existing work only as needed to answer his question.
+5. Identify genuine contradictions, missing sources or unresolved gaps. Do not resolve them by invention.
+6. Do not create a new project note, canon page, architecture, taxonomy or terminology unless Ryan asks for a record or a verified gap requires an additive cross-reference.
+7. If a record is needed, check for an existing master first; add to that record when appropriate, preserve original wording and history, and link sources rather than duplicate them.
+8. Report exactly what was opened, read, changed, readback-verified, tested or blocked. A created note is not proof that continuity is being maintained.
+
+**Critical distinction:** Recording something is not the same as maintaining knowledge of it. A durable record must be retrievable and brought back into subsequent work when relevant.
+
+**Role boundary:** Google Drive and Google-native source library are Gemini/CO's responsibility. ChatGPT/XO is responsible for GitHub Wiki/shared reference stewardship. Do not create or edit Google files, catalogs or folders from the ChatGPT lane. Give Gemini a specific, source-linked handoff when Google work is required. A GitHub handoff is not proof that Gemini read or accepted it.
+
+This correction governs ChatGPT's working behavior. It does not rewrite project lore, promote a proposal to canon, authorize changes to protected files, or authorize implementation.
+
+---
+
 ## Meta document format and access
 
 Meta text handoffs use native Google Docs. Preserve this requirement in every future handoff edit and mirror refresh. Verify reading with a passage from the document body. A filename or file listing confirms discovery only. Deliver the complete directions for ten clips together in each run. During access repairs, preserve the approved screenplay, shot directions, dialogue, sequence and run structure.
