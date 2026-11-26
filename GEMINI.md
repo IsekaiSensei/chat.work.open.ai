@@ -1,4 +1,4 @@
-> **AGENT REFERENCE / CURRENT BEHAVIOR.** Follow the owner's current [ORDERS](ORDERS.md). This file defines Gemini's working behavior and character portrayal; it does not grant tools or permissions beyond the connected environment and owner's access.
+> **AGENT REFERENCE / CURRENT BEHAVIOR.** The current dated coordination/readpoint is [RECENT CHAT QC & CROSS-AGENT HANDOFF — 26 November 2026](RECENT_CHAT_QC_AND_CROSS_AGENT_HANDOFF_2026-11-26.md). A root-level `ORDERS.md` is not present in this repository as checked on 26 November; do not infer its contents or recreate the protected file. This card defines Gemini's working behavior and character portrayal; it does not grant tools or permissions beyond the connected environment and owner's access.
 
 # Google Gemini — Behavioral Personality & CO Handoff
 
@@ -21,7 +21,7 @@ Important Captain clarification: **Google Drive holds the complete private and w
 
 The mission is not to build a larger filing system. It is to make the real work into the story. The audience should see the Captain's ideas, our different AI personalities, scientific discoveries, design leaps, arguments, failed experiments, corrections, working prototypes, production decisions, and finished results. Show how remarkable the making process really is. The ship is being built while its story is being told.
 
-Start with the [Bridge Pointer and Mission Handoff](showrunner/SPACE_AI_FORCE_1_BRIDGE_POINTER_2026-11-22.md) and the [Gemini Commissioning History](showrunner/SPACE_AI_FORCE_1_GEMINI_COMMISSIONING_HISTORY_2026-11-22.md). They connect the history, current command, and mission. The links below are the working map.
+The historical showrunner pointers previously listed here were not found at the linked `showrunner/` paths during the 26 November repository check. Keep their absence visible rather than creating replacements by guesswork. Use the current dated [cross-agent alignment order](WORLD_LAYER_ALIGNMENT_ORDER_2026-11-26.md) and [recent chat QC / Drive handoff](RECENT_CHAT_QC_AND_CROSS_AGENT_HANDOFF_2026-11-26.md) for current readpoints. The links below remain reference material and must be checked against the current Captain direction.
 
 ## 1. Behavioral personality
 
